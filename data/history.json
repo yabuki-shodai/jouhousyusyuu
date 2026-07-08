@@ -1,0 +1,1294 @@
+{
+  "seen": {
+    "00a16da52b6cba7a3de97c16d171517bf27b790bbb03d842ee652cd12252e47e": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "Cloudflare Workers + better-auth で全リクエストが無応答になる - hanging promise の罠",
+      "url": "https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise"
+    },
+    "0295370ba7f35169771a30afedab5ccbb896c9d16039b94fb48e668a99cc82bd": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "「保守業務って地味…」と思っていた新人の自分へ",
+      "url": "https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "02db03949ada543085e04b0db0cab74e033d1656b6b639942637b36221f89679": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "SQSメッセージ処理の高速化によるクレジットカード決済の待ち時間改善（PCリプレイス編）",
+      "url": "https://techblog.zozo.com/entry/order-sqs-optimization"
+    },
+    "07bb807dc8e91c1c1ef9911173fa59a18f12496c8c842b8931b99c1ee7452775": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "Google I/O 2026 現地参加レポート",
+      "url": "https://blog.cybozu.io/entry/google-io-2026-report"
+    },
+    "082f67d3da222e4167286ee45c570f16e975917fc278ce8487b12f35cea10d91": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "ウエルシアのお得情報まとめ【7月8日最新版】 もれなく最大20％還元／抽選で5万ポイントが当たるチャンスも(ITmedia Mobile)",
+      "url": "https://news.yahoo.co.jp/articles/085fceff58c1c2b275857e70b9ef677fc9ec0433?source=rss"
+    },
+    "096401bbe14f563b953a4a5e183e5f66693966efa48ab8d68f7c413cb5b36f08": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
+      "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "0a45a8d3f14dfdcf4e1614b98f82b74cc4b2576611381817a66265217a2916f7": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "Gradle Composite Build を用いたビルドロジックの共通化について",
+      "url": "https://techlife.cookpad.com/entry/2024/11/20/130000"
+    },
+    "0a70b8d74f372b6637e1bd41d28eb2978d0d30ef7415f4d493f4e3ef4c1d8e20": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
+      "url": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "0b4f8b7cf2c3c860c19ec0b3db68f8dc718840a71154e836308192ca5f94e3e7": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
+      "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories"
+    },
+    "0c5fe7d982c023459c32fc2e55562c50f62a96e14864aa1fe3d870a1a77054ba": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "自動テストの肥大化とどう向き合うか",
+      "url": "https://zenn.dev/frontendflat/articles/automated-test-size-tradeoff"
+    },
+    "0e006a05c2c963e6e3b26b1a75115d4451c3094323640a4ba24d5bc7b61e52b1": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "「何回テストやったらOKなの？」を考えてみる",
+      "url": "https://blog.ingage.jp/entry/2026/06/15/093732"
+    },
+    "0ff68037f05eb6551563875da25b0b46d7de050161a8d8c5de673156bfaaf5e3": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "管理者向けの API キーしか出さない SaaS を、Workato で「ユーザー権限」に変えて MCP から安全に呼ぶ",
+      "url": "https://tech.coincheck.blog/entry/2026/06/11/110707"
+    },
+    "1574dafa17a88a25d4a1c823160b9a99e0a27f23a2eec5ef6f8902f269bd4f62": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "Codex を使って障害対応の机上演習をやってみよう",
+      "url": "https://tech.coincheck.blog/entry/codex-ttx"
+    },
+    "1649540d19d8822a6821a93db634fc7fb527d1dd7e17562be4e1e6a40a3cc29a": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "【AWS】Bedrock AgentCore Web Search を試してみた！",
+      "url": "https://qiita.com/PDC-Kurashinak/items/9bc404e35625ade6e198?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "178d156963fc7d70e41471e526b44f99dcb0e8240aa0ddf6f658d4a77d12a249": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "Code w/ Claude Tokyo: Extended に参加してきました",
+      "url": "https://blog.ingage.jp/entry/2026/07/01/194927"
+    },
+    "17b84a5b34c2ba63a220df28c764034bf7dffa691a1a6e89aa1ac2c0fbb72c93": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "『なぜそうするのか？』を説明できるようになりたい話",
+      "url": "https://zenn.dev/zozotech/articles/ba1516ff7e958a"
+    },
+    "184769f21900b5bd90a3b039d6c283422853ea8a27042e87a222728416d28ce3": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "ラスベガスで見えた、AI エージェントの新しい可能性：WoW Las Vegas 2025 参加レポート",
+      "url": "https://tech.coincheck.blog/entry/2025/09/02/155905"
+    },
+    "189388189e748998dc9c49b935c17c73a3fc1bf127a160d38ae9e06d0590a8cb": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "JavaScriptのメソッドチェインが遅い理由",
+      "url": "https://zenn.dev/dameyodamedame/articles/0bd949354baf6e"
+    },
+    "1b881678410108de741f7865136a1aa50a88c4fb95576fadc1c26a42644e06a5": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+      "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d"
+    },
+    "1bd6537c4a163bac9fed35b8c8a8e94c8ba674184c43763f7d6dfd0041b15541": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "中国が「千帆」衛星を2日連続で打ち上げ 改良型ロケット「長征8号甲」の初飛行にも成功(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/c958cc7e7551744b96e3684408d0bcace8c5839e?source=rss"
+    },
+    "1c5b3c5ecc5b961475ff6222496dae81dff2a2923e81968e5cecc253e8242480": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "New Relic MCPの回答精度を向上させるプロファイルのご紹介",
+      "url": "https://qiita.com/seamoooooo/items/e458d2a7969e8c92d9ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "1fbec4832f67b0dd13502c7994bfb1f7ff5081165bd818f23f49e5d9ed842a31": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません",
+      "url": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "216df316f03b2e940948ec6a9b4c9625e72c717e76990cd7fb68328cae6e1f6d": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "Graph MemoryでAgentic Searchをさらに強化する",
+      "url": "https://blog.ingage.jp/entry/2026/04/26/223731"
+    },
+    "230268587a4fe86683293e34a39353a772b7e7cf6ee49fd667ddd63248a383cf": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた",
+      "url": "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli"
+    },
+    "23a160764f8ecc1e6ab8f3940bfc5946c69e7e37dcd920387ebe15232c2f72a8": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2025年9月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_monthly_202509"
+    },
+    "2bc5fef52ea24d942bab8e6ea19e7eb291db6bd21449e7f1034e4e6f14ea7bc9": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "Advanced Solutions Labを受講するときに役立つ知識",
+      "url": "https://tech.coincheck.blog/entry/2025/12/18/110925"
+    },
+    "2c65e0b818fadc909260cef00b8e2ea82a3aceee1a0efce5e44e8c505314229d": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "オプティムがBelongと連携、MDMサービス「OPTiM Biz」上から法人スマホの買取サービスを利用可能に(クラウド Watch)",
+      "url": "https://news.yahoo.co.jp/articles/7f63a74fbb694dc2911f7b1f6f69a6d90b38a100?source=rss"
+    },
+    "2d394f91c0783c0f76799d4fa11cdf3058c6381d0418ed58d568e63b87d35982": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "WebのWYSIWYGなルビ入力の現在",
+      "url": "https://zenn.dev/cybozu_frontend/articles/ruby-wysiwyg"
+    },
+    "2f7e0d875ac5aaed42e2699e5bb7af9e691d9e76c898429acb6355ea61bf113f": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "あなたの街の「スマホ決済」キャンペーンまとめ【2026年7月版】～PayPay、d払い、au PAY、楽天ペイ(ITmedia Mobile)",
+      "url": "https://news.yahoo.co.jp/articles/991638615a40a8583c2dc17e8bc2e91678f7a913?source=rss"
+    },
+    "30ac18509c9c12580901c7f80972cd961064837e60254f1af7c03407644b4c71": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "中古ゲーム市場 ネット接続で変化",
+      "url": "https://news.yahoo.co.jp/pickup/6586931?source=rss"
+    },
+    "31c8b6acbe31c000ffea48a638cea5fcf42a75b40c1dd2a24052df2c5b38e4eb": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "「現場から学ぶ ”QAのリアル” LT」から感じたこと",
+      "url": "https://blog.ingage.jp/entry/2026/02/13/111347"
+    },
+    "32698f942ea7afea6c6ada3bcc8ecafad5ff03cf24c3bfae91f5988ddffe6c84": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "南天の夜空を10年のあいだ繰り返して観測 ベラ・ルービン天文台のサーベイ観測が正式始動(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/f5ff152b78e6d10c890f43ec111bd2d12d518792?source=rss"
+    },
+    "32fabda3faabd0ae87ef8fa25f8ec541c7581020d51e14df8a512bc155bb5299": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "KDDI情報流出 未知の脆弱性が原因",
+      "url": "https://news.yahoo.co.jp/pickup/6586971?source=rss"
+    },
+    "331d0f5d12af2790bfca8e8e005f270247d062b2e3f7b95e59efe6fcd962d290": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "Kintone Documentation MCPの開発秘話",
+      "url": "https://qiita.com/sean-kintone/items/fc0a96e46b743262e7eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "343e9a482900eee023849cba0ab57b12f41dab32c08e9cd99cc4b243070ba922": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "チケット起票するだけで、リポジトリを跨いでプルリクエストを自動生成できるようにしてみた",
+      "url": "https://tech.coincheck.blog/entry/2025/12/03/110000"
+    },
+    "35ad189bbe4bf47a5f26d64bc10f2a2f391ba737b0cff1d517a3a273411f771b": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "Railsの悲観的ロックと楽観的ロックの使用シーンの紹介",
+      "url": "https://blog.ingage.jp/entry/2026/02/20/180624"
+    },
+    "36778cc6362dd3bbe3ce7c5902f5b26b01caa64edaa80080e47e4df8041e4aef": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "Squid Proxyを用いたドメインリスト制御はAWS Network Firewallで代替可能か？",
+      "url": "https://tech.coincheck.blog/entry/2024/12/21/101034"
+    },
+    "37f26667c43024a07acb9f48e2d17731d5fb6b01ffcc18f67bc4f3cd4f152900": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "インデックスを貼ったはずなのに速度が改善されない！？",
+      "url": "https://qiita.com/yuuudaiiiiii/items/000aca3b7916271f0e9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "39ac83f1cd0426ff075a576648ff34ea5e801ee71a3d979abfb26eef4b276c26": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "合計170万機以上の衛星打ち上げ計画に天文学者が警鐘 「天文学にとって壊滅的な結果に」(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/5c4134b416059392bb9716efc5c3516b201fb0c7?source=rss"
+    },
+    "41251dc4356dd4e29b39605b1c45a072454c0105f0c223c2a63e885f719aa976": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "Agentic RLにおけるMITOとTITO",
+      "url": "https://zenn.dev/mkj/articles/e63b7e25a1c853"
+    },
+    "4249d957f407bc6f4126c8581148aa021324110ea8662abee18c8192371bc49f": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "デザインパターンを使ってプログラムの保守性を上げてみた - ディーリングシステムの設計紹介",
+      "url": "https://tech.coincheck.blog/entry/2025/04/02/105318"
+    },
+    "43c1c9aa8571341a655ce74c0e8dfe8147752b1c26368c8156e651e860ced586": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "複雑な決済フローを React Hooks と Strategy Pattern で整理した",
+      "url": "https://zenn.dev/zozotech/articles/react_hooks_strategy_pattern"
+    },
+    "45e992c11c267c2d637515b1b8783e6b25e3ae575f4e651f7004136d7641f632": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "AI にデータ分析 SQL を書かせる仕組みを作りました - Bdash Server MCP の紹介",
+      "url": "https://techlife.cookpad.com/entry/2025/06/19/111539"
+    },
+    "46df3bec8339ed32cb6402ae1ea964bf7c5f6da64aaaf377dd8f8fcc58e76d5e": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "NY高層ビル崩落の恐れ 周辺避難",
+      "url": "https://news.yahoo.co.jp/pickup/6587127?source=rss"
+    },
+    "4757d9ad80f486f33a5fe8df10a3c452c474028e8d4d2560c830b6a7ebc160cd": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "ProjectRefからGitHub Packagesへ：社内Scalaライブラリの管理を改善した話",
+      "url": "https://zenn.dev/zozotech/articles/f39b8e67c99102387da1"
+    },
+    "47d63cc16c348f39fc50e8646bd58adb27130da16ec25b1f7c33661e70c4f9a1": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "PL/SQLのバッチ処理をTemplate Methodパターンで共通化する",
+      "url": "https://qiita.com/take-yoda/items/a8e097a488923360b03b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "480188c3102938b959dbd3bc436fcdbaf01165e8e1155951f61146284f211fd0": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用",
+      "url": "https://zenn.dev/yui/articles/740da24e9ee419"
+    },
+    "4872e3243e1fbf449ec4f276162867623550a374bdee6b8e0b74754cc62cd3cd": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "Dify をほぼ触らずに Google ログインを追加する方法",
+      "url": "https://zenn.dev/zozotech/articles/ad0518756147a8"
+    },
+    "4bab0bf9d75a13cc1db0c77086566061ba84f6be45ab7e3fc6faa0622b7a4f64": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "Androidチームのミーティング「チョルチャタンマ」を紹介します！",
+      "url": "https://blog.cybozu.io/entry/2026/05/19/080000"
+    },
+    "4d7957edae5be2c5576d742107b6fd2eb2e598a65a91ac08b6825741a703cc7b": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "🤖 【Claude】自作Skillが「Claude Codeでは動くのにCoworkに出てこない」を解決する",
+      "url": "https://qiita.com/imamu123/items/2baf3f2f047e912dab48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "4dcc466b148d6c3383e13837cec3ef69b7c7b8a6ce3416da8781356bd51c87e4": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "天の川銀河の「渦巻腕」は一部が想定よりも大きく広がっている？ X線観測データを分析(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/ba8efe5b923c07d7a1b6d965fad9acf1246ae334?source=rss"
+    },
+    "4eb30489871cb20a4e8999b4c657e2f166f74f94d87c2f41c68f7b72ebc3474d": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた",
+      "url": "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer"
+    },
+    "4f254e7d7065b1ac86508bb451695a34b22ec59a78a3bd96ed0072538aacd75a": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "Claude CodeのAgent Teamsでテクニカルサポート調査を行いやすくする",
+      "url": "https://blog.ingage.jp/entry/2026/04/03/203314"
+    },
+    "4f37cf19c790cb87306472b4712d6bfb53ed2514ee21ae6bf8d3403a7283417c": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "2025年に技術広報として買って良かったものまとめ",
+      "url": "https://zenn.dev/zozotech/articles/7ea5e411117d76"
+    },
+    "4f697312c12fd6fd9e9015b86640ce6cd011ab0d132ac8346853ef2a2d93b8c4": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "ページネーションを壊さずにInterleavingをする",
+      "url": "https://techlife.cookpad.com/entry/2025/10/08/090000"
+    },
+    "54ad5bef32c1c3fe8136da27bcb0a66e97065fcfcd06c50d444359b46ad48181": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "AI駆動開発を2コマンドで組織標準に ── Claude Code × Codexで設計からテストまで",
+      "url": "https://techblog.zozo.com/entry/ai-development-two-commands"
+    },
+    "551e295f481b26e4161d05ab3e4d4aa62e166448f2c615d9ea6418f7c2c780d0": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "【G10-50】スペースXがスターリンク衛星29機を軌道投入 半導体材料製造の実証ペイロードも搭載(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/46b2783f9861968c2cc77efd52ff0d407c126abf?source=rss"
+    },
+    "557ea8067ada08e197000f4a5f3916b68b9d136dfcf06a8b7baa22c66263a7cd": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "Claude Code はリグレッションテスト作成プロセスの何を変え、何を変えなかったか？",
+      "url": "https://blog.cybozu.io/entry/2026/07/06/113000"
+    },
+    "56033f04a6a9586aa16c1f86d458f871b51d2fde8b1404733bcaf6e8a505b95d": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "“ベストな設計”は1年後どう変わる？ kintoneダッシュボード開発の設計判断を振り返る - Cybozu Tech Meetup 開催レポート",
+      "url": "https://blog.cybozu.io/entry/2026/06/30/090000"
+    },
+    "5669bb692f7254884e6442ca31f128911652b0005279d73a7caaf0071c084079": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "Black Hat Asia 2026のArsenalで登壇してきました",
+      "url": "https://blog.cybozu.io/entry/2026/07/06/093000"
+    },
+    "57ad67ab31f3bcbc13c8202e6711e16f4cb93ea71fbbd76c36939b3c377fe9ad": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "サイボウズは JaSST'26 Tohoku で協賛＆登壇します！",
+      "url": "https://blog.cybozu.io/entry/2026/05/22/170000"
+    },
+    "57e75465939f822fd337b335e964b1582e718b577dd9981bcdd30339f0f7b495": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "Ethereum Fusaka Upgrade 解説",
+      "url": "https://tech.coincheck.blog/entry/2025/12/05/110000"
+    },
+    "59bf4ef97b59c9a184c5ca144ef7b59b1f3a82dadf5234a0675c2a29e86cf0cc": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "Ableton MCPのソースコードを眺める MCP Server 編",
+      "url": "https://zenn.dev/zozotech/articles/3677e01eb9351d"
+    },
+    "5c1721489820e9e0ef4f0a320ff0af05801e0a7b20251a0dd0f430a43bc0f318": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "Claude Code を Bedrock 越しに使う",
+      "url": "https://techlife.cookpad.com/entry/claude-code-bedrock-2025"
+    },
+    "5c23ee02fea759ce94ea63f1666766f2f95144fc62451e32b9f1bf24b079bad3": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "WCAG2.2のISO/IEC 40500:2025 規格化など: Cybozu Frontend Weekly (2025-09-30号)",
+      "url": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250930"
+    },
+    "5c3835e2b74caf9c52e3405e44e313b5a016ee29afe27b3679eed39a702cf446": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "OpenAPIをTypeSpecで書き換えたら型定義が崩壊した話",
+      "url": "https://zenn.dev/zozotech/articles/f536a99b1cdbb9"
+    },
+    "5e4014e637a27807d42fb9bc75caf777bd52e2ae914ef8dce97604d32017b2c8": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "絵本作家・林明子さんが死去",
+      "url": "https://news.yahoo.co.jp/pickup/6587135?source=rss"
+    },
+    "5e530e241bbde365edcb6e69f363f74c6fecee20809250f5c83caf651b3bbe25": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "AI生成画像は、芸術か？",
+      "url": "https://blog.ingage.jp/entry/2026/06/11/183205"
+    },
+    "5e551e8c1247c415730a790ebff32215887ce46844dbf4efe785d688a6712c65": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "俺が一番好きなデザインパターン「Strategy Pattern」の話",
+      "url": "https://zenn.dev/zozotech/articles/204d6bfe2e4314"
+    },
+    "602cad7c3dcca1f87e599fddaca5a4c32ec61fb81ae9d9ff76e20837ad800e65": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "2歳虐待死 両親に拘禁刑9年求刑",
+      "url": "https://news.yahoo.co.jp/pickup/6587136?source=rss"
+    },
+    "60502b5e1d6df8b1a34315f5d2d1740199f200a2a017146baf2773f8fbb93223": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2026年4月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604"
+    },
+    "6087b0a1a5a02480be37a9d5eb5b806517cd19ea1bae00de16993d77264afb61": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "KDDI パスワード760万人分漏えい",
+      "url": "https://news.yahoo.co.jp/pickup/6586944?source=rss"
+    },
+    "6201ec4847fd50d8fcc0f1bc314a737c60aa1152b3cc9376cff513cbf93ad645": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "WebKit Features in Safari 26.0など: Cybozu Frontend Weekly (2025-09-15号)",
+      "url": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250916"
+    },
+    "629fa79df87e1f44211270e36667261be093c9bb6597bcd196e45006bb7d491d": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "React の状態管理の歴史と、最新 API に込められた React の思想",
+      "url": "https://zenn.dev/zozotech/articles/ebf38b7ab4aff0"
+    },
+    "632662f289d03ba75e42e6281b20b23592c567537d3a9a541d28ed6ff40be8c5": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "なでられると赤ちゃんが落ち着くメカニズム 東邦大学などの研究チームが解明(テレビ朝日系（ANN）)",
+      "url": "https://news.yahoo.co.jp/articles/c119528d944f4ab8b0a9cc671f1bbdbbbd894bf5?source=rss"
+    },
+    "63d2c8298adffe7e3c53adfee518f71df19b2fd9d187bd7b507b18b1c6b613cf": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "ジャンプのワンピカード なぜ人気",
+      "url": "https://news.yahoo.co.jp/pickup/6587134?source=rss"
+    },
+    "6472425e42eb639acc2c782380fa6f78a92179524b6ff03ee4d2b5644fb64a3e": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "MINISFORUM、DDR4メモリ採用により32GBで13万円台のCore i9搭載ミニPC(PC Watch)",
+      "url": "https://news.yahoo.co.jp/articles/d6c0bf8e89d4fe0c9ff43e485e6941c7ae91a6eb?source=rss"
+    },
+    "64b7498df00858ce5c9695bb45aa20eee86daf2d6d9818611edd5a829a1944cb": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "RubyKaigi 2025 のクックパッドブースで出来ること",
+      "url": "https://techlife.cookpad.com/entry/rubykaigi-2025"
+    },
+    "653c5530ceaae19308fcc6e930110ba59d43047787ad2c7bb246cc4441659b10": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "AIによりスクラムが溶けつつある",
+      "url": "https://blog.ingage.jp/entry/2026/05/13/194714"
+    },
+    "67a9f491222a2ca8b0ca41f3f0e134f7c07ecc733f7856cb6bdf175e8a0be103": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "はじめてイチから社内ネットワークを構築してみた話",
+      "url": "https://tech.coincheck.blog/entry/2024/12/17/095824"
+    },
+    "67d8ed7ffc6f74e71b6b560ab8a705c0499c70fcfa5b165ab3077290994c7549": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "スクラムが新卒の学習環境として優れている理由 ── リファインメント・プランニング・モブプロから何を学んだか",
+      "url": "https://techblog.zozo.com/entry/scrum-as-learning-environment"
+    },
+    "6859dc740724a7868490342f9b53015876b116386c6cf0adbbf7dca1ec439ccb": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "TSKaigi 2026 協賛&参加レポート",
+      "url": "https://techblog.zozo.com/entry/tskaigi2026"
+    },
+    "6aeb8ee954335ab7ceab482817150bd6bfef22a72a59d51ccb0e14d63e5b47fd": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "どうやって生き延びた？ 白色矮星を公転する太陽系外惑星「WD 1856 b」をウェッブ宇宙望遠鏡が観測(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/65e9853c53c9f1e544a529155897a3268ddc088f?source=rss"
+    },
+    "6ce70684eec3af9fac16f813f7ddf85456424e4cee5acbc64dc0ecf722265842": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "NTTデータG・中山新社長が明かす、AI時代の成長戦略。「1.2兆円」への道筋と人月ビジネスの先【単独】(BUSINESS INSIDER JAPAN)",
+      "url": "https://news.yahoo.co.jp/articles/a79289d1f17fbc1c91626a54d7b37819f338550f?source=rss"
+    },
+    "6ed8c545f5e05eff0d788f1ea0fd364649931c169ea0de7844fb8d2595096a4c": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "これ全部Botがやってます。〜Zapier自動化4選〜",
+      "url": "https://zenn.dev/zozotech/articles/20251223_zapier_usage"
+    },
+    "6edfb0e921bfee757ef359d694c5bcb519eb561a0f0b3711dce1c8a3e815eebd": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "AndroidのVitalsエラーを追う",
+      "url": "https://tech.coincheck.blog/entry/2025/12/08/110000"
+    },
+    "7046dc21e135b3e06f7852644dbaadb1bb21b379869138d598459193f93a1356": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2026年5月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202605"
+    },
+    "707338f8611e0c7583f500a22d67f45246035862fb3c1c7469e654619fa23490": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "ssh で複雑なコマンドを実行する",
+      "url": "https://blog.ingage.jp/entry/2026/03/09/111925"
+    },
+    "737ecd893c10bf81ffa8be9134cb08b441c28a9005bfdc55eba890ecf8ab0211": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "九州北部・中国・近畿で梅雨明け",
+      "url": "https://news.yahoo.co.jp/pickup/6587139?source=rss"
+    },
+    "74d1664768a58cb75b75ed87e7ac15047d07d16e26bafc224a423b3cb46c9b10": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "Java 初学者にこそ JJUG CCC への参加を勧めたい - JJUG CCC 2026 Spring 参加レポート",
+      "url": "https://blog.cybozu.io/entry/jjug-ccc-2026-spring"
+    },
+    "7772c55f3408669c4402a7779441e464e37927ca8f8316c5344e6c808e7b43ec": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "無料でSAR衛星画像を見る！Sentinel-1で始める0冊目の入門書",
+      "url": "https://zenn.dev/syu_tan/books/sentinel-1-introduction"
+    },
+    "78c5676825e124b16e12a67a1878b138dd90a6eaa2bac789c178634652c22fd0": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "AIと1日8時間超会話 男性の告白",
+      "url": "https://news.yahoo.co.jp/pickup/6586831?source=rss"
+    },
+    "79888153b6cbad2b25c3dea86cab095da1befcce1534b83db502930e7c04a25e": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "Claude Codeのルールを育て続ける——Routinesでレビュー指摘を.claude/rulesに自動反映する",
+      "url": "https://zenn.dev/zozotech/articles/20260423_pr_review_claude_rules"
+    },
+    "7aac93e6e61ab4e049dbfc502f15781f8bb37b77927442fb791cef9fc9ed41d0": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "OxlintやOxfmtのAlpha版など: Cybozu Frontend Weekly (2025-12-09号)",
+      "url": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20251209"
+    },
+    "7b2e461a5a80472731829a50ed87d435e83af107435f16fecac0b452570db73c": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "成長し続ける大規模プロダクトを、小さなチームでどう切り拓くか？開発陣のセッションから見えた意思決定の現在地",
+      "url": "https://blog.cybozu.io/entry/2026/05/07/090000"
+    },
+    "7bfef9a2f91c3c2e7454e1220d50f48908a45d1fecb57907e548a9a11002410b": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "Claude CodeがSOC業務を全自動でやってくれるってさ",
+      "url": "https://techblog.zozo.com/entry/soc-claude-agent"
+    },
+    "7c4c106079c1404015d33938b48cedd7499c905aa92ec9c8d5c886dc0aaba7d5": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "TSKaigi 2026 スポンサーブースクイズ解説",
+      "url": "https://techblog.zozo.com/entry/tskaigi2026-quiz"
+    },
+    "7d264e9c5c0731dae585038fec3a41cbb388105d9b0207da075e2295e1e81179": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "テックブログ編集後記 数字の向こう側で起きていたこと",
+      "url": "https://zenn.dev/zozotech/articles/6a69516e015c95"
+    },
+    "7d40c20609d96275248c3fcc50bf98d12cba01bae292ec07973ecc255a0a5876": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "とある部長のObsidian",
+      "url": "https://zenn.dev/canly/articles/173479ac3e9824"
+    },
+    "7d52cb166f0a88f5e263df81c32aec5201efc527cf92f6c6468f97d871736c6b": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "中国の小惑星探査機「天問2号」が小惑星カモオアレワに接近 近傍観測とサンプル採取へ(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/e2642301230ce146646f35f6a17330ddb8782cda?source=rss"
+    },
+    "7f8c322ad5cc38595249c6712564bd4c6b23a3a8cd88e9870f4b3166345b3089": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "AWS Summit Japan 2026 参加レポート",
+      "url": "https://techblog.zozo.com/entry/aws-summit-japan-2026"
+    },
+    "7ff81dce0678a51c90f127183d7f8ec1581e2beac55b2a57a480680f1d73e5e2": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "Monthly Tech Report 2026年5月",
+      "url": "https://techblog.zozo.com/entry/monthly-tech-report-202605"
+    },
+    "85042c89cbeecfccf4ab5c73338259a58bd7cafd71e1527ba19e9863d9a3a30a": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "LLMのコスト暴走と情報漏洩を防ぐ社内Gateway設計: Azure/AWSガバナンスとLiteLLM実装(Phase1→Phase2)",
+      "url": "https://qiita.com/nogataka/items/6251b5727998ca29734c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "861a6ff6964f91565430612f239dcc9d41293f63336dddf5520549f11dc2b7dc": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "【開催レポ】Tech Kitchen #29 Mobile App One Experience",
+      "url": "https://techlife.cookpad.com/entry/2025/01/10/140000"
+    },
+    "879b0cc1de2d74f47fd6d850e920c66bf9d5a631efcaf654b3c28415b509270b": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "PHP 8.5へのバージョンアップ時にも役立つAST（抽象構文木）",
+      "url": "https://blog.cybozu.io/entry/2026/07/06/123000"
+    },
+    "891a8f70dda721afaa1a9d6ccfec93ae36d2fb51e862d46db8c89b655aff73fe": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "JJUG CCC 2026 Spring 協賛&参加レポート",
+      "url": "https://techblog.zozo.com/entry/jjug-ccc-2026-spring"
+    },
+    "8a19f82df811af57277b8a83bfaab5b24fc05d19b414d6cfdbdcf41352334ba7": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "AI Agentに自由な開発環境を渡す、Proxmox+LXCで。",
+      "url": "https://zenn.dev/uzulla/articles/91272997a7c668"
+    },
+    "8a3c15578e40fb0305eefef3e7c8f5f02d606d4f7eb80d036c8fbac844b3375a": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "One experience 検索移行の話",
+      "url": "https://techlife.cookpad.com/entry/2024/12/11/111200"
+    },
+    "8b8725da663e94a6eeecb498f1b33350c6474e5d75d5eaa604f883d3755655d8": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "仏極右ルペン氏 大統領選出馬表明",
+      "url": "https://news.yahoo.co.jp/pickup/6587123?source=rss"
+    },
+    "8c1ac7dbf74049d24b3f59f06f864f9ac8a4ab5c17eaab1529fc6e8b7061bd0c": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "クラウドネイティブ会議 参加レポート",
+      "url": "https://techblog.zozo.com/entry/cloudnative-kaigi-2026"
+    },
+    "8c560b6696a507e38ffae270f955fd0e2208fe87e595cadfa09c7bf7d9a36a76": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "Coincheckのシステム構成 - Webアプリケーションの裏側",
+      "url": "https://tech.coincheck.blog/entry/2025/12/21/191011"
+    },
+    "8c70f8d716db7cb5f9164c8ebce3bbcb48a9c7c6fec9d9c4ac30b0a80de0cad1": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "kintoneのダッシュボード開発チームの紹介 - チャレンジ & わいわい",
+      "url": "https://blog.cybozu.io/entry/2026/06/12/170000"
+    },
+    "8d563ac4503a980e46352193682bfb036588814586cb34ca7dc6eff1ed8b4b69": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "外部システムを kintone アプリとして使うためのアーキテクチャ紹介",
+      "url": "https://blog.cybozu.io/entry/kintone-externalapp-architecture"
+    },
+    "8e0a0097b1e726583074963e4e928a72fdebc313d0805e2425fc6345d45a9c48": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "JaSST'26 Tohoku 参加レポート",
+      "url": "https://blog.cybozu.io/entry/2026/06/12/113000"
+    },
+    "8e35acc8a6d015abb2578b40035b3e1e131dc2121b518d190b5baf82f403ff75": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "RailsでN+1を検出するならProsopiteがおすすめ",
+      "url": "https://tech.coincheck.blog/entry/2025/12/13/110000"
+    },
+    "8ff59d1e95766244a36c7fbb6a3f670698a73561303ba8d48a0e3b5087142f53": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "ウィンドウ関数とRANGEとROWS",
+      "url": "https://blog.ingage.jp/entry/2026/04/10/090000"
+    },
+    "901ab8c21b91c71ad77c89bed420e89f57af2392c87085ee9cb2b8a883aee128": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "自分が見ていた未来を、翌日Cursorが公式リリースした話",
+      "url": "https://blog.ingage.jp/entry/2026/03/06/222619"
+    },
+    "906fb63faddda15d57dd5423fe8e49ca23a716da6eac6f6716da3e3c7c2e10e9": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "Claude Code で @path を使うか Read させるか",
+      "url": "https://zenn.dev/zozotech/articles/4b13d2ce563c9f"
+    },
+    "90967257521dec825c75bfe34efa1851e7b08c2599912b1bdd1e93fa9ec8bb34": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "Compose で Drag and Drop を用いてリストの並び替えを実現する",
+      "url": "https://techlife.cookpad.com/entry/2025/12/15/090000"
+    },
+    "91999189ca46f2ef2aab919f4fd23296d37b4ef6694fef16d80b65a98a1a40a1": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "NLP2025 に参加しました",
+      "url": "https://techlife.cookpad.com/entry/nlp2025"
+    },
+    "94aa75f6441d4bb3adcbb21fb09e7d24a19a06a5c47bb50d12172b430eb1c7ee": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "PayPay残高、三井住友銀行口座への送金が月5回まで無料に(CNET Japan)",
+      "url": "https://news.yahoo.co.jp/articles/89724e6acd8067af5cf137f875b2bd96e320cb02?source=rss"
+    },
+    "9550d2b38b97ba643fd727d1dde89cd3e8ac0a5d76b2b6647ec42999958e5b31": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "トレンドワード機能を新システムに移行するときに考慮したこと",
+      "url": "https://techlife.cookpad.com/entry/2024/12/12/110000"
+    },
+    "955565937853f95227b51de97e367813b2ffabe8dcef41687f9c740ca61e72dd": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "暗号資産交換所で脅威モデリングをしてみる",
+      "url": "https://tech.coincheck.blog/entry/2024/12/23/105002"
+    },
+    "97a0caea47de95e9931f085a4f8011e818f344a93854597ef07b97cd5608475f": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "2026年度 人工知能学会全国大会（JSAI2026）協賛&参加レポート",
+      "url": "https://techblog.zozo.com/entry/jsai2026"
+    },
+    "97d6a31b713205af2732ad2b14f4231534ce67a66936545ed591ea83b5d0da41": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "【Windows標準OCR】窓キー + Shift + T キー押してますか？",
+      "url": "https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "9a5f381598539c5d8d6fc349d8ab9d456ce07f112341221c2a5c82a97ecb3b0c": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "【イベントレポート】「RubyKaigi 2026 アフターイベント〜初参加LT・スポンサー4社のパネル〜」を開催しました！",
+      "url": "https://techblog.zozo.com/entry/20260513-after-rubykaigi-2026"
+    },
+    "9b9d5f66b74ca6bcbaefea25f0b90b9cece69ed18a4c37c3674f9e107c1cf6a6": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "Claude Cowork、モバイルとWebでも利用可能に PC閉じても作業継続(Impress Watch)",
+      "url": "https://news.yahoo.co.jp/articles/e26fd9b80bec8d6e124975123d29ebe5cc3fe1bd?source=rss"
+    },
+    "9d0773367cf24d5d1ad5ab6b99933b9f80046325fe7d378ca188013267970873": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "CloudFront Saas ManagerのACM証明書の注意点",
+      "url": "https://blog.ingage.jp/entry/2026/04/17/185820"
+    },
+    "9e63466edaf5de0b45d0ebe3f27d55a817e1116812e011dbd6f112d236d5a6e4": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 \"SubEtha\"を作った",
+      "url": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78"
+    },
+    "a03e8f02554061edf39acb06f4415c14c95ac57bec141427f1cf3b78f5577cdc": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "[UI] 開閉アニメーションは「反応・読む場所・完了」を分けて伝える",
+      "url": "https://zenn.dev/zozotech/articles/79c6e3cf401e55"
+    },
+    "a206720e878d0028cc94afc12260bc2ee07c16502b6ce1e39f508ea24642ae02": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "Spanner Omni を採用して CI のトータル実行時間を84%減らすまでの道のり",
+      "url": "https://zenn.dev/kauche/articles/ac1c707f2fc991"
+    },
+    "a2e61c1601945565bdf4bd68e2ea9617644bad29e31c1161c56fb3d4cd8adee6": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "なんだか最近 RuboCop のキャッシュファイルが git diff に入ってくる方へ",
+      "url": "https://techlife.cookpad.com/entry/2026/02/13/104502"
+    },
+    "a39916340f6b596ebe3322da97351aa2f1a434b360ee2ade6eaec457d2a40cf4": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "AutoHotInterception で Ctrl と CapsLock を入れ替える",
+      "url": "https://blog.ingage.jp/entry/2026/06/29/115921"
+    },
+    "a3d959871d7fa9a441ec3df6703cfb7723083b5a02d11b4c1c2162328b9f404c": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "エジプトの得点取り消し 判定物議",
+      "url": "https://news.yahoo.co.jp/pickup/6587126?source=rss"
+    },
+    "a463613789f5a5ab65d26f706c3f5063be969309a27d8cdee441e435e7010d1e": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "ライター0人。AIの学校 AI Crew、AIだけで執筆するメディアが1ヶ月で記事38本(Yahoo!ニュース PR［PR］)",
+      "url": "https://news.yahoo.co.jp/articles/63f1924b5a2663cae06b9f21a4df53e6e23fecbb?source=rss"
+    },
+    "a52c1395fe9992c256cd273325627c17228fa908739a32a697bc7392373ce4cb": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "スピードを最優先する組織で、QAは何を測るべきか",
+      "url": "https://blog.ingage.jp/entry/2026/02/26/132853"
+    },
+    "a645e215448229545908a9aa5949249a88d0730d96a507e88a32e173764ce381": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "No space left on deviceがGlueで出たので、圧縮に興味を持った話",
+      "url": "https://blog.cybozu.io/entry/2026/07/06/133000"
+    },
+    "a7ad1e32dc2ad41cf7cb4d521518e1a635a6af4ed905c976d7cacbaf0f7cd27e": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "1日平均4.5本の記事を5週間投稿する夏フェス「CYBOZU SUMMER BLOG FES '26」を開催します！",
+      "url": "https://blog.cybozu.io/entry/2026/07/02/180000"
+    },
+    "a83add87dca20239d452d2883192a80dbc3cd91fa3c1f8618b4b6099b7a532d9": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "RubyKaigi 2026 のクックパッドブースはこんな感じです",
+      "url": "https://techlife.cookpad.com/entry/rubykaigi2026"
+    },
+    "aa64b9e378605534d45fd188f1e78f3a329a91c15ee5e4b9ae3df41d809ecf46": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "競売に著名人ドメイン GMO見解",
+      "url": "https://news.yahoo.co.jp/pickup/6586864?source=rss"
+    },
+    "ac80cdbe53056a025e0b0f72b335cfc72beeae9f515c9b7a2090db3d74061547": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "Rook/Ceph でラック間のデータの引っ越しを安全かつ効率的に行う",
+      "url": "https://blog.cybozu.io/entry/2026/07/08/090000"
+    },
+    "aed37f6edde8203ae4b18481a6fa900dd7505d12ccce754a24ffe0ba36defec7": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み",
+      "url": "https://techblog.zozo.com/entry/architecture-diagram-with-claude-code"
+    },
+    "b0b71d0823d3a8ca7df7d703fccc382880a7defb77e22f12ff98ce9aabbf3a99": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "部署全員でアドベントカレンダーに挑戦！完走率100%を達成した施策と工夫",
+      "url": "https://zenn.dev/zozotech/articles/1262c0a50194b3efb092"
+    },
+    "b31770ec165f5b377671510afdc4c564ae56a1f8631d1f56c6c3481b4408fc0c": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "「見た目の好み」を捉えるマルチモーダル推薦システム —— 画像特徴量でCTR・CVR・売上を改善",
+      "url": "https://techblog.zozo.com/entry/multimodal-recommendation-with-image-embedding"
+    },
+    "b34b61c9657f40a8496fb295fb78847a70d8a260bcdad1b2c15bc6f0c14414d1": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2026年3月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202603"
+    },
+    "b582f5f20fa1001b5cc3f8a8d193864f1d02ed48132808cdf0ffa80c0ebbe7ec": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "クックパッドはDroidKaigi 2025とiOSDC Japan 2025に協賛します!",
+      "url": "https://techlife.cookpad.com/entry/2025/09/09/113000"
+    },
+    "b69f7d269fe96cbbb06244c6ff45300aaac966f504217e5d2c3be95ad5b58770": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "レシピIDリンク移行の話",
+      "url": "https://techlife.cookpad.com/entry/2024/11/15/112500"
+    },
+    "b8714dd76d5b81d2576842b1195ce24c9c3b667e19e68b242c75cfdbf001976b": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "クックパッドアプリのLiquid Glass対応",
+      "url": "https://techlife.cookpad.com/entry/2026/05/12/110000"
+    },
+    "b956653ef32133d77e589ae05fec2853725c908e4f52c2cf19d1e1b50a48c29e": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "大LLM時代に論文を読む/まとめるならカスタムGPTで",
+      "url": "https://zenn.dev/zozotech/articles/17a56e85d43529"
+    },
+    "ba2ba6e136184b10b44dbcb23e7cb480e922e62cbd9a8694525ffb27378829d1": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "ちょっと複雑なサイドバーをHotwireで簡単に作りたい",
+      "url": "https://techlife.cookpad.com/entry/2024/11/13/130000"
+    },
+    "bc28b3ef1b1ba81d2c4ba3b2a87fa94e1c2ef43a5f1679c4d5589f0140cb68a0": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "ハリガネムシに操られたカマドウマは「オメガ3脂肪酸」の運び手になると判明(ナショナル ジオグラフィック日本版)",
+      "url": "https://news.yahoo.co.jp/articles/18562a18157ff65875dc917a9d72d39989e3e4e0?source=rss"
+    },
+    "c27994d32666698ec88439a8e190dffc1eafdccc4bd69d81f4a7864e90ee71a0": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”",
+      "url": "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9"
+    },
+    "c2eed22d5f629371225f3b5e9fb15111ee12cd3e85ea39ed96493e28f6e95dc7": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "AI-BPRで業務そのものを再設計する",
+      "url": "https://qiita.com/licux/items/25e87077b6ef29162a93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "c3798b329700bce7fed27f87d097181d53770bca87e88cdefab01aa6ff1363a5": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
+      "url": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "c45a8c817e811124469eeb2a20c688ae45af34e7d887142700747fc0743b878c": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "Claude Code Review より\"自作 Skill\"の方がレビュー精度が高かった件",
+      "url": "https://zenn.dev/zozotech/articles/93d318a99d329e"
+    },
+    "c498fe7dec331c45c1e3f41229c638c5c886a54256a9ee23cb220e60365fad20": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "RailsTokyo#2に参加しました",
+      "url": "https://tech.coincheck.blog/entry/2025/12/23/110000"
+    },
+    "c55d2ec76846cc3f721b350d3228e975c06f7db466517e65dfa63ae2873defec": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "「秘伝のタレ」を未来のシステムへ繋ぐ ── フィーチャー分割で実現した商品詳細APIリプレイス",
+      "url": "https://techblog.zozo.com/entry/legacy-app-goods-api-replace"
+    },
+    "c8908570da1ddb05fade6b6773751d0686ca1c500c1e44f74c2b86b12da9a4c9": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "毎日奮闘中のPMが新機能の紹介！",
+      "url": "https://blog.ingage.jp/entry/2026/02/06/205337"
+    },
+    "c98854717cc3c1400fd64cbfb7f43d69397bb945032d2bcaba8d5cdea363a6f5": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "TSKaigiにゴールドスポンサーとして協賛し、ブースを出展しました",
+      "url": "https://blog.cybozu.io/entry/2026/05/26/170000"
+    },
+    "ca099132d06629653640d5d14957b60158bf0b4a672dc5eb5df5684b21a7520c": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "SRE運用業務をAI Agentで半自動化する - 実行可能な手順書の設計と実践",
+      "url": "https://tech.coincheck.blog/entry/2025/12/15/083826"
+    },
+    "ca75d138f04de6a98f75e9e29db79ef60355f206f0a88f9b7c8c55318e191c21": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "AI時代のエンジニアのこれからを認知心理学から考える",
+      "url": "https://tech.coincheck.blog/entry/2025/12/06/095432"
+    },
+    "caa50dbacee2a4d5cc32cdd14d7c97694a0199fe9b0d06a660466f545ef3ba73": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "APIもDBも東京なのに、全クエリが太平洋横断していた話",
+      "url": "https://zenn.dev/avaintelligence/articles/b7d4743a448485"
+    },
+    "cb4791fa268c80ea5dcace8cd37a47a047fe6719bc94dc2b102c76ac594f0132": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "Goジェネリクスを支えるGC Shape Stencilingと辞書渡しの仕組み",
+      "url": "https://zenn.dev/kanmu_dev/articles/3c7057cc7ee5c8"
+    },
+    "cc2492ea38b6d1f4432fa7a37cddeb8a58e618fb53d230c747989d80b9492e86": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "なりすまし閉店セール投稿 店憤り",
+      "url": "https://news.yahoo.co.jp/pickup/6587100?source=rss"
+    },
+    "cf354e1b1a503aa1879906ed3266d566c2c80d2ca97ebeb6bcd5789d2dfc17be": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "雰囲気似ていて、混同しがちなエンジニア用語集 ~ 先輩、ごめんなさい。私、実はテキトーに使ってました ~",
+      "url": "https://qiita.com/n-isd/items/7bbf59e985c8e2955ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "cfb22b002667d1fa5766b5c16f5e777bc18002ae2fa620cf074ce3b59da4a5f9": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2025年11月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202511"
+    },
+    "d02c8f242ba5b74e042e409089dbf0c1638eb9201f7cc80b13323b36d451c456": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Vite+、Remix 3、React Conf 2025など: Cybozu Frontend Weekly (2025-10-14号)",
+      "url": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20251017"
+    },
+    "d0596beff14301b47867bdc9b603f810ba61736dbd569313df43ddd376781ace": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2025年10月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510"
+    },
+    "d15c4d746b12ccf938ba2c2d28773fce77de99aac0c0990e7337b1ca3e790152": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "iOSアプリにおける複数リリースに跨った機能改善の開発事例紹介",
+      "url": "https://techlife.cookpad.com/entry/2024/11/14/111400"
+    },
+    "d28486059091df395aa8c7c90bbc4e02b1a0a1027bd72e0eb4cda1d68ec75824": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "事業開発における AI ネイティブ化にまず必要なことを考えてみる",
+      "url": "https://qiita.com/yatabekei/items/dd5d020565beb5bd930c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "d486a42630ea056b53fff74d0c4d01bb71e2a9f17559d85e872981238e32efa6": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "「噂のVite+」を数千モジュールを抱えるプロジェクトで試してみた",
+      "url": "https://blog.ingage.jp/entry/2026/03/19/183507"
+    },
+    "d4c7e3e25cba927c6ebf252044c82cc186a1e108822e2ce56f299e2659d9e3fa": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "UIKitで巨大かつ複雑なStickyヘッダーを実装する",
+      "url": "https://techlife.cookpad.com/entry/2025/08/28/110000"
+    },
+    "d534eb91fa517fbb16366c7589516915021d0e7ec97af5b4c9bdc0bbb1bb707c": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "「帰宅したら…」頑張って“ヨボヨボ”で出迎えたワンコに18万いいね「ほんと愛すべき存在」「実家のおばあちゃんみたい」(BuzzFeed Japan)",
+      "url": "https://news.yahoo.co.jp/articles/0b18b673b4036587a0c5f5976e083a9fb5983886?source=rss"
+    },
+    "d5759555da9317c7e46aa7cfdfe7a3cf459dbd6a50e9a20c4a196f1105f2026c": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "Cloud SQL for MySQLのIAM認証化とGitHub Actionsを承認ゲートにした書き込み権限の一時払い出し",
+      "url": "https://techblog.zozo.com/entry/cloudsql-mysql-db-role-iam-grant-wf"
+    },
+    "d5c51605305d69e3d2d11ef88121bdaa71ca67f00dfa590f37c3414f9beba222": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "大谷 日本選手初のMLB通算300号",
+      "url": "https://news.yahoo.co.jp/pickup/6587140?source=rss"
+    },
+    "d61b2c8ca713d02118226353429c90f6f769e2572d2e9c261f613c00738efcac": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Node.jsの脆弱性対応など: Cybozu Frontend Weekly (2025-12-16号)",
+      "url": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20251216"
+    },
+    "d6f14e5d5fdb069d1cbaa194f8089f810caa76540eb8632a9a911d8f85c0372a": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2026年2月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202602"
+    },
+    "d8b14af61bf5c41bdab9a32864820d28ba047f6d87602e912c2c48de871e7c17": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "モバイルアプリのログをいい感じに収集するライブラリ「Puree」の Kotlin Multiplatform 版をリリースしました",
+      "url": "https://techlife.cookpad.com/entry/2025/04/21/090000"
+    },
+    "da3345b2a183f4c71956a9a323650fda8c0d78884e6a1529ffb5795a08a822bb": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "C# で出来ること一覧 2026年版（.NET 10）",
+      "url": "https://zenn.dev/microsoft/articles/what-can-you-do-on-dotnet10"
+    },
+    "db4c24b40a407badb500b34d931f70155291fd7ac79a4780e7b5c839f1de9b6b": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "Squid Proxyの汎用化デプロイ戦略：AWS AppConfig による設定管理",
+      "url": "https://tech.coincheck.blog/entry/2025/02/13/112620"
+    },
+    "dbae53c1ee87168b1e03ac73e752d3881295fceb0d5058110ef4bb12c6eb406e": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
+      "url": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "dd027206ad1f2ef8da7b50e18f5338d60d58bfd1ae0d27ca125e762338340494": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "ベクトル検索対応に向けたWEAR検索インデクサー刷新 ── OpenSearch Ingestionでの試行錯誤",
+      "url": "https://techblog.zozo.com/entry/rebuilding-wear-search-indexer"
+    },
+    "dd709bbe18aecc2702aa49f29b208fb8ac7562ea099ee6c66cfb4e271d058087": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "問い合わせ調査のリードタイムを平均70%削減 ── Claude Code Skillを\"動くマニュアル\"にしたZOZOTOWNの取り組み",
+      "url": "https://techblog.zozo.com/entry/cs-inquiry-ai-automation"
+    },
+    "dd729353cdd43a8485167113ffcdb28bf50f1dd9ed120fb7e9b6145e4aeaee6f": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2026年1月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202601"
+    },
+    "e003412c5e9b8759abe4ddf0ff7745d00199eb410a8d83765ec5d21391d744ac": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "Difyの.env.exampleを毎回目視で見てる人へ：安全に同期するスクリプトを書いた",
+      "url": "https://zenn.dev/zozotech/articles/9add3a5c2de5cc"
+    },
+    "e132951d636bf317fd2c8c0e71fbb8772bed3a73753ee6dd80284ab115109853": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "AWS Microcredentialsを全部取得したので勉強方法と難易度をまとめてみた",
+      "url": "https://qiita.com/kazuki_horiuchi/items/3cddf7c1189e36b4c4ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "e21a54a2c0e6e2484fff014081b65ac381ea54271ccc27166508e70b80df08f3": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "JSTQB FL受験記録",
+      "url": "https://blog.ingage.jp/entry/2026/06/05/160528"
+    },
+    "e21bea8f388e19b9ad5dee3ef81a8f2744982ed9cc1cc4f8fa6e08b148fc53d5": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "Java で SOCKS サーバーを自作する",
+      "url": "https://blog.cybozu.io/entry/build-socks5-server-in-java"
+    },
+    "e2ef380e78c77584128b6d78ec185fe744e91f6845358a1ae5790ec6ef2f54dd": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "蚊をたたくときは「上下」で!「左右からパチン」は逃げられやすい 血を吸うのはメス 見分け方は?【害虫駆除の専門家が伝授】(RSK山陽放送)",
+      "url": "https://news.yahoo.co.jp/articles/d04db87804196d3d5cb7d94dcb46c17defd5738d?source=rss"
+    },
+    "e41618b6880ac9164afff061d3f1e464199927cd7b25b82568faa83cc10c1cc6": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "AI俳優 新作長編映画で初主演へ",
+      "url": "https://news.yahoo.co.jp/pickup/6587018?source=rss"
+    },
+    "e50a6c38ef03aa281eb6837a90333edce63f26f4fda99af5db4ff44b2da77d98": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "MacBook Air のJIS配列のキーボードにUS配列キーボードを繋がて使うときの悩み",
+      "url": "https://blog.ingage.jp/entry/2026/03/26/100000"
+    },
+    "e8f6fd76a7737ef3f5192936f715a9e12e971a74ab69f601201e794a5cae3573": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "AI Agent Conference 2026 参加レポート",
+      "url": "https://techblog.zozo.com/entry/ai-agent-conference-2026"
+    },
+    "ea80dba2b59d716a9435be38a379b569b1ca7b22fbbf7bea664dbb687811aed6": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "Pectra Upgrade解説（Ethereum）",
+      "url": "https://tech.coincheck.blog/entry/2024/12/12/095948"
+    },
+    "ebead5dcf4620af08059ff23887609aee4b8520db473464244da0e66a500f88c": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2026年6月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202606"
+    },
+    "ec71d127da54540ae427a3555f87d4626fdae64a3da1d870d83cd0f44c1c274e": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "W3C Japan 30年の軌跡、そして次世代へ： 村井先生×青野社長が問う、日本が人類に果たすべき役割とは？",
+      "url": "https://blog.cybozu.io/entry/w3c-cybozu-discussion-jp-meeting"
+    },
+    "ed373fc865051f21e2e334fec059a047c847e43c87ccf9daf74d8b42459ece1f": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "デザインシステムを丸ごと Skills にする",
+      "url": "https://zenn.dev/cybozu_frontend/articles/design-system-skills"
+    },
+    "ee9c605517a0020a54a5838898ba1023035c32b832f53e2e2dc192eb4389b70c": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "不確実性が高いときに、PMが前に進むための“型”",
+      "url": "https://blog.ingage.jp/entry/2026/01/27/183111"
+    },
+    "eebc4158df3a3b6d9e2e1d71cc7629b07b7c262925b6a88426bece53e4da2dfc": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "新卒社員向けアジャイル・スクラム研修を体験型で設計した話",
+      "url": "https://blog.cybozu.io/entry/2026/05/22/113000"
+    },
+    "ef0a010fe6723921f779417b8f6bf30860d4b9f9378ca4271043868d8ae21227": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Web 標準動向 2025年12月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202512"
+    },
+    "ef8e240d78d819c2e016e1db33bd5aea3d27268429c71d4604390c71a923c4bc": {
+      "first_seen": "2026-07-08",
+      "source": "Cookpad Tech Life",
+      "title": "東京Ruby会議12のスポンサーブースでサービス統合の展示をします / 料理を食べながらRubyの話ができる非公式関連イベントを開催します",
+      "url": "https://techlife.cookpad.com/entry/2025/01/16/164605"
+    },
+    "f27e4b4625f6d5b3e8b017532b12252b9fa78e8cd139dc691dd0d821a82ebd11": {
+      "first_seen": "2026-07-08",
+      "source": "Zenn",
+      "title": "複数リポジトリを単一のdev containerで開発する Claude Code 環境を構築する",
+      "url": "https://zenn.dev/finatext/articles/whole-dev-container"
+    },
+    "f29fef109239dd924de0522043b36f6eb9977f262d86d09737e35a6591122d7e": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Vitestで始めるシンプルなVRT",
+      "url": "https://zenn.dev/cybozu_frontend/articles/vitest-simple-vrt"
+    },
+    "f2c767a981a6a376c2eb8a95f5a93bd7d50539dc75b640021401e29febccded1": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH BLOG",
+      "title": "設計書から始めるレガシーFragmentのリファクタリング",
+      "url": "https://techblog.zozo.com/entry/doc-first-fragment-refactoring"
+    },
+    "f394558957ce75ac6735857fec527dac656051fe75ce2d52c26a881fc0f2c6b9": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Storybook公式MCPの解説とその先 - Design Systems with Agentsの提案について -",
+      "url": "https://zenn.dev/cybozu_frontend/articles/e17267112d7816"
+    },
+    "f462c2f510bde1cb7ae903e9d5f54fa09fea2a300880efe9377d471c99033840": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "【Curl】Curlは一か月の夏休みを満喫するよ",
+      "url": "https://qiita.com/rana_kualu/items/6ac5b511b055d34d88fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "f4f8c37b0597d838af8ea875eb9a34d3a081912a16c37e96e87c939613c4276e": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "AI利用率5割でも信頼はゼロ、「使うほど不安」になる米国人たち(Forbes JAPAN)",
+      "url": "https://news.yahoo.co.jp/articles/10ad38d1c3d40490c4e3bc610e9153e882df54cb?source=rss"
+    },
+    "f5dd31fc3959f2c2b6a1d60cfd3af8c341a8245e76fcc7e61e61fc57ff493259": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "【Google Cloud × Streamlit】ブラウザ上でデータ分析できるようにして、分析効率を上げてみた - 資金管理最適化での実践例",
+      "url": "https://tech.coincheck.blog/entry/2026/03/26/094458"
+    },
+    "f8a50debf21beb39894b02406240e1fa405ad15084643c1b66ee6641109ec497": {
+      "first_seen": "2026-07-08",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "米マイクロソフト 約4800人削減へ",
+      "url": "https://news.yahoo.co.jp/pickup/6587006?source=rss"
+    },
+    "f8d09b68711296b36e6e57cfd230b7c25eb90c4b1370104a86c6a9a7392b7f6e": {
+      "first_seen": "2026-07-08",
+      "source": "Coincheck Tech Blog",
+      "title": "認定スクラムデベロッパー（CSD）になりました",
+      "url": "https://tech.coincheck.blog/entry/2024/12/19/095541"
+    },
+    "f8d72e4ab1b11ee5b20c7bcc5b7bb00fa55d4cb4ad4577e16f9d51ce423929bd": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Inside Out",
+      "title": "サイボウズ独自の文化と外部知見の融合",
+      "url": "https://blog.cybozu.io/entry/2026/07/07/093000"
+    },
+    "f99cb64e4ed632822733f8a3a3a33c81bc8af0a495cb4e495b7617104fefb063": {
+      "first_seen": "2026-07-08",
+      "source": "Cybozu Frontend Zenn",
+      "title": "Interop 2026提案募集開始など: Cybozu Frontend Weekly (2025-09-09号)",
+      "url": "https://zenn.dev/cybozu_frontend/articles/few-2025-09-09"
+    },
+    "f9b3b8b4fa6981365db3ab0171d5cdf530b3465523a20f0be62084973692e7b7": {
+      "first_seen": "2026-07-08",
+      "source": "Qiita 人気記事",
+      "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
+      "url": "https://qiita.com/ryu-ki/items/2cd37256824b54022bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "fc2148b71dc1c670e3866bf969304c18bd5973a2e249b382281d9e15eafeecd4": {
+      "first_seen": "2026-07-08",
+      "source": "Ingage Blog",
+      "title": "8409ms → 15ms: PostgreSQL の EXPLAIN ANALYZE で 555倍の高速化を見つけた話",
+      "url": "https://blog.ingage.jp/entry/2026/05/28/200922"
+    },
+    "fcfd41136f1ac23a7fae798c39f563c42a26fb460b8d5127243cc79bc4a9c543": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "[JS] グローバル変数を見つけ出せ！",
+      "url": "https://zenn.dev/zozotech/articles/24f8bb0aba1beb"
+    },
+    "fd3a723abcfaf9ff996fa21de3660e59f6670e43735331848cac5e81298141a0": {
+      "first_seen": "2026-07-08",
+      "source": "ZOZO TECH Zenn",
+      "title": "Ableton MCPのソースコードを眺める AbletonMCP_Remote_Script 編",
+      "url": "https://zenn.dev/zozotech/articles/f43685a1a0dc67"
+    }
+  }
+}
