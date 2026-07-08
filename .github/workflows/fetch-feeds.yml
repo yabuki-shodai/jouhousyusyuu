@@ -23,16 +23,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch source feeds
-        run: python scripts/fetch_feeds.py
-
-      - name: Build today summary
+      - name: Fetch feeds and build today summary
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/build_today.py
+        run: python scripts/fetch_feeds.py
 
       - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update collected feeds"
-          file_pattern: "today.md docs/**/*.md data/history.json"
+          file_pattern: "today.md docs/**/*.md data/*.json"
