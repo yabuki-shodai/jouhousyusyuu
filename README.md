@@ -1,6 +1,6 @@
 # jouhousyusyuu
 
-RSS / Atom フィードや脆弱性情報を収集し、日付ごとの Markdown ファイルとして保存するリポジトリです。
+RSS / Atom フィードから情報を収集し、日付ごとの Markdown ファイルとして保存するリポジトリです。
 
 ## 概要
 
@@ -12,46 +12,28 @@ RSS / Atom フィードや脆弱性情報を収集し、日付ごとの Markdown
 - Qiita
 - Zenn
 
-追加機能として、CVE Digest による脆弱性情報サマリーも生成します。
-
-CVE Digest は NVD と CISA KEV を取得し、関心技術に関連するCVE、CVSS 7.0以上、またはCISA KEV掲載の脆弱性を `summary.md` にまとめます。
-
 ## ディレクトリ構成
 
 ```txt
 .
 ├── config/
-│   ├── sources.json
-│   └── cve-digest.json
+│   └── sources.json
 ├── scripts/
-│   ├── fetch_feeds.py
-│   └── cve_digest.py
+│   └── fetch_feeds.py
 ├── docs/
-│   ├── YYYY-MM-DD/
-│   │   ├── yahoo.md
-│   │   ├── qiita.md
-│   │   └── zenn.md
-│   └── cve-digest/
-│       └── YYYY-MM-DD/
-│           └── summary.md
+│   └── YYYY-MM-DD/
+│       ├── yahoo.md
+│       ├── qiita.md
+│       └── zenn.md
 └── .github/
     └── workflows/
-        ├── fetch-feeds.yml
-        └── cve-digest.yml
+        └── fetch-feeds.yml
 ```
 
 ## ローカル実行
 
-RSS / Atom 収集:
-
 ```bash
 python scripts/fetch_feeds.py
-```
-
-CVE Digest:
-
-```bash
-python scripts/cve_digest.py
 ```
 
 ## 収集対象の追加
@@ -70,11 +52,9 @@ python scripts/cve_digest.py
 }
 ```
 
-CVE Digest の監視キーワードは `config/cve-digest.json` の `watch_keywords` で管理します。
-
 ## 出力先
 
-RSS / Atom は実行日の JST 日付で、以下のように保存します。
+実行日の JST 日付で、以下のように保存します。
 
 ```txt
 docs/YYYY-MM-DD/{source_name}.md
@@ -86,18 +66,10 @@ docs/YYYY-MM-DD/{source_name}.md
 docs/2026-07-08/qiita.md
 ```
 
-CVE Digest は以下に `summary.md` だけを保存します。
-
-```txt
-docs/cve-digest/YYYY-MM-DD/summary.md
-```
-
 ## 方針
 
 初期実装では、RSS / Atom で取得できる情報源のみを対象にします。
 HTML スクレイピング、AI 要約、DB 保存、通知連携は後続拡張の対象です。
-
-CVE Digest は外部APIが一部失敗しても、取得できた範囲で `summary.md` を生成します。
 
 ## 関連
 
