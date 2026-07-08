@@ -318,7 +318,7 @@ def collect_articles(sources: list[Source], now: datetime) -> tuple[list[Article
             all_articles.extend(articles)
         except (urllib.error.URLError, TimeoutError, ET.ParseError, OSError, ValueError) as error:
             ok = False
-            print(f"failed: {source.name}: {error}", file=sys.stderr)
+            print(f"warning: failed to fetch {source.name}: {error}", file=sys.stderr)
             write_source_markdown(source, [], now)
     return all_articles, ok
 
@@ -555,7 +555,9 @@ def main() -> int:
     history = update_history(history, new_articles, now)
     write_json(HISTORY_PATH, history)
 
-    return 0 if ok else 1
+    if not ok:
+        print("warning: one or more feeds failed, but generated files were created", file=sys.stderr)
+    return 0
 
 
 if __name__ == "__main__":
