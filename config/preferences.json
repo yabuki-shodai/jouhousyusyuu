@@ -1,0 +1,50 @@
+{
+  "interests": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "Next.js",
+    "React",
+    "Django",
+    "FastAPI",
+    "Go",
+    "AWS",
+    "Terraform",
+    "Docker",
+    "GitHub Actions",
+    "CI/CD",
+    "セキュリティ",
+    "認証",
+    "設計",
+    "アーキテクチャ",
+    "バックエンド",
+    "フロントエンド",
+    "インフラ",
+    "DB",
+    "PostgreSQL",
+    "MySQL",
+    "Redis",
+    "パフォーマンス",
+    "テスト",
+    "自動化",
+    "AI",
+    "LLM",
+    "ポートフォリオ改善",
+    "転職に役立つ技術"
+  ],
+  "exclude_keywords": [
+    "イベント告知",
+    "採用イベント",
+    "登壇します",
+    "登壇しました",
+    "スポンサー",
+    "キャンペーン"
+  ],
+  "max_summary_items": 10,
+  "history_retention_days": 90,
+  "github_models": {
+    "enabled": true,
+    "endpoint": "https://models.github.ai/inference/chat/completions",
+    "model": "openai/gpt-4.1-mini"
+  }
+}
