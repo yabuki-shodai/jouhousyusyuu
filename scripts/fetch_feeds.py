@@ -89,6 +89,7 @@ def load_preferences() -> dict[str, Any]:
             "exclude_keywords": [],
             "max_summary_items": 10,
             "history_retention_days": 90,
+            "today_summary": {"published_within_days": 2, "max_ai_candidates": 40},
             "github_models": {"enabled": False},
         },
     )
@@ -134,6 +135,29 @@ def normalize_date(value: str | None) -> str | None:
         return parsed.astimezone(JST).strftime("%Y-%m-%d %H:%M:%S JST")
     except (TypeError, ValueError):
         return clean_text(value)
+
+
+def parse_published_date(value: str | None) -> datetime | None:
+    if not value:
+        return None
+    try:
+        return datetime.strptime(value, "%Y-%m-%d %H:%M:%S JST").replace(tzinfo=JST)
+    except ValueError:
+        return None
+
+
+def is_recent_published(article: Article, now: datetime, published_within_days: int) -> bool:
+    published = parse_published_date(article.published_at)
+    if published is None:
+        return False
+    start_date = (now - timedelta(days=published_within_days - 1)).date()
+    return start_date <= published.date() <= now.date()
+
+
+def filter_recent_articles(articles: list[Article], now: datetime, preferences: dict[str, Any]) -> list[Article]:
+    today_summary = preferences.get("today_summary", {})
+    published_within_days = int(today_summary.get("published_within_days", 2))
+    return [article for article in articles if is_recent_published(article, now, published_within_days)]
 
 
 def parse_feed(xml_bytes: bytes, source: Source) -> list[Article]:
@@ -311,6 +335,21 @@ def keyword_score(article: Article, interests: list[str], exclude_keywords: list
     return score, matched
 
 
+def ranked_candidates_for_model(articles: list[Article], preferences: dict[str, Any]) -> list[Article]:
+    interests = [str(item) for item in preferences.get("interests", [])]
+    exclude_keywords = [str(item) for item in preferences.get("exclude_keywords", [])]
+    today_summary = preferences.get("today_summary", {})
+    max_ai_candidates = int(today_summary.get("max_ai_candidates", 40))
+
+    scored: list[tuple[int, Article]] = []
+    for article in articles:
+        score, _ = keyword_score(article, interests, exclude_keywords)
+        if score >= 0:
+            scored.append((score, article))
+    scored.sort(key=lambda item: item[0], reverse=True)
+    return [article for _, article in scored[:max_ai_candidates]]
+
+
 def fallback_select_articles(
     articles: list[Article], preferences: dict[str, Any]
 ) -> list[dict[str, Any]]:
@@ -340,6 +379,20 @@ def fallback_select_articles(
     return selected
 
 
+def compact_article_for_model(article: Article) -> dict[str, Any]:
+    description = article.description or ""
+    if len(description) > 140:
+        description = description[:140] + "..."
+    return {
+        "title": article.title,
+        "url": article.url,
+        "published_at": article.published_at,
+        "source": article.source_display_name,
+        "category": article.category,
+        "description": description,
+    }
+
+
 def call_github_models(articles: list[Article], preferences: dict[str, Any]) -> list[dict[str, Any]] | None:
     model_config = preferences.get("github_models", {})
     if not model_config.get("enabled", False):
@@ -350,7 +403,8 @@ def call_github_models(articles: list[Article], preferences: dict[str, Any]) -> 
         return None
 
     max_items = int(preferences.get("max_summary_items", 10))
-    payload_articles = [asdict(article) for article in articles[:80]]
+    model_candidates = ranked_candidates_for_model(articles, preferences)
+    payload_articles = [compact_article_for_model(article) for article in model_candidates]
     prompt = {
         "interests": preferences.get("interests", []),
         "exclude_keywords": preferences.get("exclude_keywords", []),
@@ -391,6 +445,7 @@ def call_github_models(articles: list[Article], preferences: dict[str, Any]) -> 
         with urllib.request.urlopen(request, timeout=60) as response:
             response_data = json.loads(response.read().decode("utf-8"))
         content = response_data["choices"][0]["message"]["content"]
+        content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
         parsed = json.loads(content)
         items = parsed.get("items", [])
         if isinstance(items, list):
@@ -404,6 +459,7 @@ def render_today_markdown(
     selected_items: list[dict[str, Any]],
     new_articles: list[Article],
     all_articles_count: int,
+    recent_articles_count: int,
     now: datetime,
     used_model: bool,
 ) -> str:
@@ -412,7 +468,9 @@ def render_today_markdown(
         "# 今日の記事サマリー",
         "",
         f"- 取得日時: {fetched_text}",
+        "- 対象期間: 昨日と今日に公開された記事のみ",
         f"- 全取得記事数: {all_articles_count}",
+        f"- 対象期間内の記事数: {recent_articles_count}",
         f"- 新規記事数: {len(new_articles)}",
         f"- 選定方式: {'GitHub Models' if used_model else 'キーワード一致フォールバック'}",
         "",
@@ -478,7 +536,8 @@ def main() -> int:
     )
 
     all_articles, ok = collect_articles(sources, now)
-    new_articles = split_new_articles(all_articles, history)
+    recent_articles = filter_recent_articles(all_articles, now, preferences)
+    new_articles = split_new_articles(recent_articles, history)
     write_json(NEW_ARTICLES_PATH, {"articles": [asdict(article) for article in new_articles]})
 
     model_items = call_github_models(new_articles, preferences) if new_articles else None
@@ -488,6 +547,7 @@ def main() -> int:
         selected_items,
         new_articles,
         len(all_articles),
+        len(recent_articles),
         now,
         used_model,
     )
