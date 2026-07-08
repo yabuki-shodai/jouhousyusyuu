@@ -70,7 +70,7 @@
       "url": "https://techblog.zozo.com/rss",
       "limit": 20,
       "category": "company_blog",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "cybozu_frontend_zenn",
