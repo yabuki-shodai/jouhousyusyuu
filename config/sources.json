@@ -41,7 +41,7 @@
       "display_name": "Qiita 人気記事",
       "type": "rss",
       "url": "https://qiita.com/popular-items/feed",
-      "limit": 10,
+      "limit": 20,
       "category": "tech",
       "enabled": true
     },
@@ -50,8 +50,71 @@
       "display_name": "Zenn",
       "type": "rss",
       "url": "https://zenn.dev/feed",
-      "limit": 10,
+      "limit": 20,
       "category": "tech",
+      "enabled": true
+    },
+    {
+      "name": "zozo_zenn",
+      "display_name": "ZOZO TECH Zenn",
+      "type": "rss",
+      "url": "https://zenn.dev/p/zozotech/feed",
+      "limit": 20,
+      "category": "company_blog",
+      "enabled": true
+    },
+    {
+      "name": "zozo_techblog",
+      "display_name": "ZOZO TECH BLOG",
+      "type": "rss",
+      "url": "https://techblog.zozo.com/rss",
+      "limit": 20,
+      "category": "company_blog",
+      "enabled": true
+    },
+    {
+      "name": "cybozu_frontend_zenn",
+      "display_name": "Cybozu Frontend Zenn",
+      "type": "rss",
+      "url": "https://zenn.dev/p/cybozu_frontend/feed",
+      "limit": 20,
+      "category": "company_blog",
+      "enabled": true
+    },
+    {
+      "name": "cybozu_blog",
+      "display_name": "Cybozu Inside Out",
+      "type": "rss",
+      "url": "https://blog.cybozu.io/feed",
+      "limit": 20,
+      "category": "company_blog",
+      "enabled": true
+    },
+    {
+      "name": "ingage_blog",
+      "display_name": "Ingage Blog",
+      "type": "rss",
+      "url": "https://blog.ingage.jp/rss",
+      "limit": 20,
+      "category": "company_blog",
+      "enabled": true
+    },
+    {
+      "name": "coincheck_tech",
+      "display_name": "Coincheck Tech Blog",
+      "type": "rss",
+      "url": "https://tech.coincheck.blog/rss",
+      "limit": 20,
+      "category": "company_blog",
+      "enabled": true
+    },
+    {
+      "name": "cookpad_techlife",
+      "display_name": "Cookpad Tech Life",
+      "type": "rss",
+      "url": "https://techlife.cookpad.com/rss",
+      "limit": 20,
+      "category": "company_blog",
       "enabled": true
     }
   ]
