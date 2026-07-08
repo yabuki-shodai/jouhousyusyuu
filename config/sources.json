@@ -1,12 +1,39 @@
 {
   "sources": [
     {
-      "name": "yahoo",
-      "display_name": "Yahoo!ニュース",
+      "name": "yahoo_top_picks",
+      "display_name": "Yahoo!ニュース ピックアップ",
       "type": "rss",
-      "url": "https://news.yahoo.co.jp/rss",
+      "url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
       "limit": 10,
       "category": "news",
+      "enabled": true
+    },
+    {
+      "name": "yahoo_it_topics",
+      "display_name": "Yahoo!ニュース トピックス IT",
+      "type": "rss",
+      "url": "https://news.yahoo.co.jp/rss/topics/it.xml",
+      "limit": 10,
+      "category": "tech_news",
+      "enabled": true
+    },
+    {
+      "name": "yahoo_it_category",
+      "display_name": "Yahoo!ニュース カテゴリ IT",
+      "type": "rss",
+      "url": "https://news.yahoo.co.jp/rss/categories/it.xml",
+      "limit": 10,
+      "category": "tech_news",
+      "enabled": true
+    },
+    {
+      "name": "yahoo_science_category",
+      "display_name": "Yahoo!ニュース カテゴリ 科学",
+      "type": "rss",
+      "url": "https://news.yahoo.co.jp/rss/categories/science.xml",
+      "limit": 10,
+      "category": "science",
       "enabled": true
     },
     {
