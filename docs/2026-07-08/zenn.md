@@ -3,8 +3,8 @@
 - 取得元: Zenn
 - カテゴリ: tech
 - フィードURL: https://zenn.dev/feed
-- 取得日時: 2026-07-08 11:05:17 JST
-- 取得件数: 10
+- 取得日時: 2026-07-08 11:22:22 JST
+- 取得件数: 20
 
 ## 記事一覧
 
@@ -66,4 +66,64 @@
 
 - URL: https://zenn.dev/finatext/articles/whole-dev-container
 - 公開日時: 2026-07-06 09:00:08 JST
+- サムネイル: -
+
+### 11. C# で出来ること一覧 2026年版（.NET 10）
+
+- URL: https://zenn.dev/microsoft/articles/what-can-you-do-on-dotnet10
+- 公開日時: 2026-07-06 00:02:46 JST
+- サムネイル: -
+
+### 12. JavaScriptのメソッドチェインが遅い理由
+
+- URL: https://zenn.dev/dameyodamedame/articles/0bd949354baf6e
+- 公開日時: 2026-07-05 19:58:57 JST
+- サムネイル: -
+
+### 13. Cloudflare Workers + better-auth で全リクエストが無応答になる - hanging promise の罠
+
+- URL: https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise
+- 公開日時: 2026-07-05 19:11:56 JST
+- サムネイル: -
+
+### 14. コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった
+
+- URL: https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories
+- 公開日時: 2026-07-04 18:57:02 JST
+- サムネイル: -
+
+### 15. 無料でSAR衛星画像を見る！Sentinel-1で始める0冊目の入門書
+
+- URL: https://zenn.dev/syu_tan/books/sentinel-1-introduction
+- 公開日時: 2026-07-04 15:19:32 JST
+- サムネイル: -
+
+### 16. とある部長のObsidian
+
+- URL: https://zenn.dev/canly/articles/173479ac3e9824
+- 公開日時: 2026-07-03 15:28:32 JST
+- サムネイル: -
+
+### 17. すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”
+
+- URL: https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9
+- 公開日時: 2026-07-03 08:28:29 JST
+- サムネイル: -
+
+### 18. Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用
+
+- URL: https://zenn.dev/yui/articles/740da24e9ee419
+- 公開日時: 2026-07-03 07:24:25 JST
+- サムネイル: -
+
+### 19. Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた
+
+- URL: https://zenn.dev/gys/articles/fable5-local-llm-ask-cli
+- 公開日時: 2026-07-02 16:44:33 JST
+- サムネイル: -
+
+### 20. AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた
+
+- URL: https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer
+- 公開日時: 2026-07-02 15:52:46 JST
 - サムネイル: -

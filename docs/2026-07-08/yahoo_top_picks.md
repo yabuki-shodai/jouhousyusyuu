@@ -3,15 +3,15 @@
 - 取得元: Yahoo!ニュース ピックアップ
 - カテゴリ: news
 - フィードURL: https://news.yahoo.co.jp/rss/topics/top-picks.xml
-- 取得日時: 2026-07-08 11:05:17 JST
+- 取得日時: 2026-07-08 11:22:22 JST
 - 取得件数: 8
 
 ## 記事一覧
 
-### 1. 米軍がイラン攻撃 商船攻撃に対抗
+### 1. 九州北部・中国・近畿で梅雨明け
 
-- URL: https://news.yahoo.co.jp/pickup/6587128?source=rss
-- 公開日時: 2026-07-08 09:02:02 JST
+- URL: https://news.yahoo.co.jp/pickup/6587139?source=rss
+- 公開日時: 2026-07-08 11:15:52 JST
 - サムネイル: -
 
 ### 2. 仏極右ルペン氏 大統領選出馬表明
@@ -20,16 +20,16 @@
 - 公開日時: 2026-07-08 08:07:05 JST
 - サムネイル: -
 
-### 3. NY高層ビル崩落の恐れ 周辺避難
-
-- URL: https://news.yahoo.co.jp/pickup/6587127?source=rss
-- 公開日時: 2026-07-08 08:42:54 JST
-- サムネイル: -
-
-### 4. 2歳虐待死 両親に拘禁刑9年求刑
+### 3. 2歳虐待死 両親に拘禁刑9年求刑
 
 - URL: https://news.yahoo.co.jp/pickup/6587136?source=rss
 - 公開日時: 2026-07-08 10:55:51 JST
+- サムネイル: -
+
+### 4. NY高層ビル崩落の恐れ 周辺避難
+
+- URL: https://news.yahoo.co.jp/pickup/6587127?source=rss
+- 公開日時: 2026-07-08 08:42:54 JST
 - サムネイル: -
 
 ### 5. 絵本作家・林明子さんが死去

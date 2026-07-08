@@ -3,8 +3,8 @@
 - 取得元: Qiita 人気記事
 - カテゴリ: tech
 - フィードURL: https://qiita.com/popular-items/feed
-- 取得日時: 2026-07-08 11:05:17 JST
-- 取得件数: 10
+- 取得日時: 2026-07-08 11:22:22 JST
+- 取得件数: 20
 
 ## 記事一覧
 
@@ -66,4 +66,64 @@
 
 - URL: https://qiita.com/ryu-ki/items/2cd37256824b54022bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
 - 公開日時: 2026-07-07T01:08:21+09:00
+- サムネイル: -
+
+### 11. 【AWS】Bedrock AgentCore Web Search を試してみた！
+
+- URL: https://qiita.com/PDC-Kurashinak/items/9bc404e35625ade6e198?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-07T11:17:07+09:00
+- サムネイル: -
+
+### 12. Kintone Documentation MCPの開発秘話
+
+- URL: https://qiita.com/sean-kintone/items/fc0a96e46b743262e7eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-07T14:18:46+09:00
+- サムネイル: -
+
+### 13. インデックスを貼ったはずなのに速度が改善されない！？
+
+- URL: https://qiita.com/yuuudaiiiiii/items/000aca3b7916271f0e9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-06T19:52:56+09:00
+- サムネイル: -
+
+### 14. LLMのコスト暴走と情報漏洩を防ぐ社内Gateway設計: Azure/AWSガバナンスとLiteLLM実装(Phase1→Phase2)
+
+- URL: https://qiita.com/nogataka/items/6251b5727998ca29734c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-06T20:00:01+09:00
+- サムネイル: -
+
+### 15. AWS Microcredentialsを全部取得したので勉強方法と難易度をまとめてみた
+
+- URL: https://qiita.com/kazuki_horiuchi/items/3cddf7c1189e36b4c4ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-07T09:08:14+09:00
+- サムネイル: -
+
+### 16. 雰囲気似ていて、混同しがちなエンジニア用語集 ~ 先輩、ごめんなさい。私、実はテキトーに使ってました ~
+
+- URL: https://qiita.com/n-isd/items/7bbf59e985c8e2955ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-06T21:54:58+09:00
+- サムネイル: -
+
+### 17. 🤖 【Claude】自作Skillが「Claude Codeでは動くのにCoworkに出てこない」を解決する
+
+- URL: https://qiita.com/imamu123/items/2baf3f2f047e912dab48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-06T09:21:42+09:00
+- サムネイル: -
+
+### 18. 【Curl】Curlは一か月の夏休みを満喫するよ
+
+- URL: https://qiita.com/rana_kualu/items/6ac5b511b055d34d88fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-06T20:27:23+09:00
+- サムネイル: -
+
+### 19. 【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価
+
+- URL: https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-07T11:28:41+09:00
+- サムネイル: -
+
+### 20. 事業開発における AI ネイティブ化にまず必要なことを考えてみる
+
+- URL: https://qiita.com/yatabekei/items/dd5d020565beb5bd930c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- 公開日時: 2026-07-07T10:28:15+09:00
 - サムネイル: -
