@@ -28,6 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_feeds.py
 
+      - name: Format docs markdown
+        run: python scripts/format_docs.py
+
       - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
