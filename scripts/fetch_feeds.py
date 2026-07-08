@@ -284,14 +284,13 @@ def render_source_markdown(source: Source, articles: list[Article], fetched_at: 
         lines.extend(["記事は取得できませんでした。", ""])
         return "\n".join(lines)
     for index, article in enumerate(articles, start=1):
+        title = f"[{article.title}]({article.url})" if article.url else article.title
         lines.extend(
             [
-                f"### {index}. {article.title}",
+                f"### {index}. {title}",
                 "",
-                f"- URL: {article.url or '-'}",
                 f"- 公開日時: {article.published_at or '-'}",
                 f"- サムネイル: {article.thumbnail_url or '-'}",
-                f"- 概要: {article.description or '-'}",
                 "",
             ]
         )
