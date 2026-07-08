@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "name": "yahoo",
+      "display_name": "Yahoo!ニュース",
+      "type": "rss",
+      "url": "https://news.yahoo.co.jp/rss",
+      "limit": 10,
+      "category": "news",
+      "enabled": true
+    },
+    {
+      "name": "qiita",
+      "display_name": "Qiita 人気記事",
+      "type": "rss",
+      "url": "https://qiita.com/popular-items/feed",
+      "limit": 10,
+      "category": "tech",
+      "enabled": true
+    },
+    {
+      "name": "zenn",
+      "display_name": "Zenn",
+      "type": "rss",
+      "url": "https://zenn.dev/feed",
+      "limit": 10,
+      "category": "tech",
+      "enabled": true
+    }
+  ]
+}
