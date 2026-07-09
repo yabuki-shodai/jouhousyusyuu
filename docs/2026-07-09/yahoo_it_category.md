@@ -3,57 +3,57 @@
 - 取得元: Yahoo!ニュース カテゴリ IT
 - カテゴリ: tech_news
 - フィードURL: https://news.yahoo.co.jp/rss/categories/it.xml
-- 取得日時: 2026-07-09 08:12:01 JST
+- 取得日時: 2026-07-09 12:34:41 JST
 - 取得件数: 10
 
 ## 記事一覧
 
-### 1. [Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」(ITmedia NEWS)](https://news.yahoo.co.jp/articles/38f74a5cb2d6df06ba60d2d01c64d9cd235cc18a?source=rss)
+### 1. [SwitchBot「スマートデイリーステーション」のE-Ink画面を自由に編集可能に(ケータイ Watch)](https://news.yahoo.co.jp/articles/3a402c5cc42f1d1392075f1b18acab19adba36c2?source=rss)
 
-- 公開日時: 2026-07-09 08:10:17 JST
+- 公開日時: 2026-07-09 12:30:00 JST
 - サムネイル: -
 
-### 2. [「Ryzen 7 5800X3D 10th Anniversary Edition」が発売、Intel第14世代Coreシリーズが再入荷の動き [7月前半のCPU価格](AKIBA PC Hotline!)](https://news.yahoo.co.jp/articles/9780a112b6e302a04be61d2a0a233e9e00194775?source=rss)
+### 2. [バスの「ハンズフリー決済」実現へ、JCBなど3社(ケータイ Watch)](https://news.yahoo.co.jp/articles/a2ed33f9d7ca63e9b3cee222a2dc444c9621aadd?source=rss)
 
-- 公開日時: 2026-07-09 08:05:00 JST
+- 公開日時: 2026-07-09 12:29:00 JST
 - サムネイル: -
 
-### 3. [自学ノートのテーマに悩む親子へ、『小学生の究極の自学ノート図鑑2』7月9日発売(こどもとIT)](https://news.yahoo.co.jp/articles/10807006bd25d0d66cdf47762c15602a81c342a3?source=rss)
+### 3. [コーディング評価「SWE-Bench Pro」は役に立たない。OpenAIが非推奨に(PC Watch)](https://news.yahoo.co.jp/articles/3142b2e5991ef93dc41332c037abb87a8541ccf5?source=rss)
 
-- 公開日時: 2026-07-09 08:00:00 JST
+- 公開日時: 2026-07-09 12:26:00 JST
 - サムネイル: -
 
-### 4. [フォーティネット、エージェント型AIを搭載した統合SOCプラットフォーム「FortiSOC」を提供(クラウド Watch)](https://news.yahoo.co.jp/articles/119b35dfd7f7a44f51da0dfb536fe6894b437869?source=rss)
+### 4. [クールジャパンの失敗は生かされず？ 経産省肝いりで始まった後釜施策「IP360」の“光と影”(ITmedia NEWS)](https://news.yahoo.co.jp/articles/f4be4dcd795c95c10ce738a211fe08551e484fbf?source=rss)
 
-- 公開日時: 2026-07-09 08:00:00 JST
+- 公開日時: 2026-07-09 12:21:23 JST
 - サムネイル: -
 
-### 5. [MiCA移行後のEU、規制当局がカストディアンの回復力審査を開始(NADA NEWS)](https://news.yahoo.co.jp/articles/edb0b0cbeda1f5201e5c5775d1b5db04675f254b?source=rss)
+### 5. [スペースXAI、新型AI「Grok 4.5」を発表…価格や処理速度で先行企業に対抗(ビジネス＋IT)](https://news.yahoo.co.jp/articles/37955737984cf8b108792fe7367385f6f739b66a?source=rss)
 
-- 公開日時: 2026-07-09 08:00:00 JST
+- 公開日時: 2026-07-09 12:20:06 JST
 - サムネイル: -
 
-### 6. [清水建設、AIロボットを現場実装 「Torch Tower」建設で実証(Impress Watch)](https://news.yahoo.co.jp/articles/bc74aa7bdff30af776ec62ca219dc5b0a2d06563?source=rss)
+### 6. [BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え(あたらしい経済)](https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06?source=rss)
 
-- 公開日時: 2026-07-09 08:00:00 JST
+- 公開日時: 2026-07-09 12:17:23 JST
 - サムネイル: -
 
-### 7. [ベッド脇用や卓上用など4種のスマホ・タブレットスタンド、エレコムが発売(INTERNET Watch)](https://news.yahoo.co.jp/articles/33a9d65392b1453f089a18b3e5cd64af0a1053d6?source=rss)
+### 7. [ラックスマン「B-100 CENTENNIAL」試聴会、岐阜と仙台で7/11・12開催(PHILE WEB)](https://news.yahoo.co.jp/articles/eadcf651b43c44859b399bbd1a192296b1c6f671?source=rss)
 
-- 公開日時: 2026-07-09 08:00:00 JST
+- 公開日時: 2026-07-09 12:15:20 JST
 - サムネイル: -
 
-### 8. [OpenAI、新音声モデル「GPT-Live-1」など公開(ZDNET Japan)](https://news.yahoo.co.jp/articles/75737ddc66f62d98c4b00454d8f39ce34d306203?source=rss)
+### 8. [au、SIMフリースマホ「AQUOS R11」を7月10日発売(ケータイ Watch)](https://news.yahoo.co.jp/articles/64ff2ce7f1b6f9d6b822d58ce2af0835530b6587?source=rss)
 
-- 公開日時: 2026-07-09 07:50:00 JST
+- 公開日時: 2026-07-09 12:11:00 JST
 - サムネイル: -
 
-### 9. [米国政治家はなぜ暗号資産を保有するのか──ビットコインがワシントンを動かし始めた【エックスウィン】(NADA NEWS)](https://news.yahoo.co.jp/articles/91a1d56ad6336a0297c2d3d708529b1a4c8ab477?source=rss)
+### 9. [SpaceXAI、最上位モデル「Grok 4.5」公開 高速・低コストでコーディングに強み(Impress Watch)](https://news.yahoo.co.jp/articles/e2d9148ad7e1688c2154f3c1851fee079ee1e3cf?source=rss)
 
-- 公開日時: 2026-07-09 07:50:00 JST
+- 公開日時: 2026-07-09 12:10:21 JST
 - サムネイル: -
 
-### 10. [OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に(ITmedia NEWS)](https://news.yahoo.co.jp/articles/3bcb778abdf2fb1381937ebbd283024bbbc6c175?source=rss)
+### 10. [Etymotic／Westone Audioの親会社がFidelity Collectiveへ変更。国内販売は完実電気で変わらず(PHILE WEB)](https://news.yahoo.co.jp/articles/cab90ad072416bb11a6b6bafd48f867ec867a5c7?source=rss)
 
-- 公開日時: 2026-07-09 07:44:38 JST
+- 公開日時: 2026-07-09 12:06:59 JST
 - サムネイル: -
