@@ -28,6 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_feeds.py
 
+      - name: Update README today link
+        run: python scripts/update_readme_today_link.py
+
       - name: Format docs markdown
         run: python scripts/format_docs.py
 
@@ -35,4 +38,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update collected feeds"
-          file_pattern: "today.md docs/**/*.md data/*.json"
+          file_pattern: "README.md today.md docs/**/*.md data/*.json"
