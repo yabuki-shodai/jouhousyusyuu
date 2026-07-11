@@ -24,17 +24,41 @@
       "title": "SQSメッセージ処理の高速化によるクレジットカード決済の待ち時間改善（PCリプレイス編）",
       "url": "https://techblog.zozo.com/entry/order-sqs-optimization"
     },
+    "03b93d18266e8dbe779e084725963b5582f0dd348d40fa31ab696a03ec9ee1b9": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "2万円台でも後悔させない！コスパ健在、エントリーモデルの完成形「arrows We3」実機レビュー(＠ＤＩＭＥ)",
+      "url": "https://news.yahoo.co.jp/articles/37204f8e80d929542605da78a2e47b3848fa8710?source=rss"
+    },
     "047bc619c4d63a6edd23ff260f1456294c3fd888aa4f41dba6376469cd6f577c": {
       "first_seen": "2026-07-09",
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に(ITmedia NEWS)",
       "url": "https://news.yahoo.co.jp/articles/3bcb778abdf2fb1381937ebbd283024bbbc6c175?source=rss"
     },
+    "068bba3cb488993c4beb50b1a08e9d05c768422c68a168e1a4617cb1797e1f88": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "宇宙の膨張率「ハッブル定数」に新たな測定値 中性子星合体の観測データをもとに算出(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/0416fd979128dd99f95511703f41232794457bcb?source=rss"
+    },
+    "074dae8e8cc38922a93fc0bf2a7b565adaf0f4d5a7292dcf7249368f2479fff3": {
+      "first_seen": "2026-07-12",
+      "source": "Zenn",
+      "title": "Claude Fable 5 が教えてくれた FastEnum の高速化テクニック (1) - 文字列のハッシュ値生成",
+      "url": "https://zenn.dev/xin9le/articles/6fb2045805996c"
+    },
     "07bb807dc8e91c1c1ef9911173fa59a18f12496c8c842b8931b99c1ee7452775": {
       "first_seen": "2026-07-08",
       "source": "Cybozu Inside Out",
       "title": "Google I/O 2026 現地参加レポート",
       "url": "https://blog.cybozu.io/entry/google-io-2026-report"
+    },
+    "0810c816b72e441f106bbff6b749193f382fcaa34f5e030384b68b783df0453e": {
+      "first_seen": "2026-07-12",
+      "source": "Zenn",
+      "title": "Claude CodeでAgentic Engineeringを個人開発での本番運用につなぐ",
+      "url": "https://zenn.dev/okamyuji/articles/agent-driven-workflow-feedflow"
     },
     "082f67d3da222e4167286ee45c570f16e975917fc278ce8487b12f35cea10d91": {
       "first_seen": "2026-07-08",
@@ -54,6 +78,12 @@
       "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
       "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
     },
+    "09c13fb219e8108d7716723237c0e004ca09009da341198c44e66e1704d2554b": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "全国の最高気温上位10地点を九州独占…台風9号接近に伴い「フェーン現象」 福岡・太宰府市で観測史上最高39・3度(西日本新聞me)",
+      "url": "https://news.yahoo.co.jp/articles/7ff76b3160325052834efb142aef152eb1ea68a3?source=rss"
+    },
     "0a45a8d3f14dfdcf4e1614b98f82b74cc4b2576611381817a66265217a2916f7": {
       "first_seen": "2026-07-08",
       "source": "Cookpad Tech Life",
@@ -65,6 +95,12 @@
       "source": "Qiita 人気記事",
       "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
       "url": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "0b1f517a6e121fadc0dd43dd43552c8d1d3c346f74a350cd56b3d7226da2ba09": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "橋の下が“おしゃれなジャズバー”に？金管四重奏団の演奏に6.2万「いいね」⇒「上手すぎない？」と反響(ハフポスト日本版)",
+      "url": "https://news.yahoo.co.jp/articles/aae01b4e3e1854160f49a1c82b3b039fa1be9e5b?source=rss"
     },
     "0b4f8b7cf2c3c860c19ec0b3db68f8dc718840a71154e836308192ca5f94e3e7": {
       "first_seen": "2026-07-08",
@@ -90,6 +126,12 @@
       "title": "飲食店にAIが何度も予約電話 なぜ",
       "url": "https://news.yahoo.co.jp/pickup/6587403?source=rss"
     },
+    "0ddbebbd5595aa0fb3a219a028b67f8fd4152e1d58087931e87f0549e2b4293c": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "モジタバ師「復讐を誓う」と表明",
+      "url": "https://news.yahoo.co.jp/pickup/6587611?source=rss"
+    },
     "0e006a05c2c963e6e3b26b1a75115d4451c3094323640a4ba24d5bc7b61e52b1": {
       "first_seen": "2026-07-08",
       "source": "Ingage Blog",
@@ -102,11 +144,29 @@
       "title": "アプリ層から低レイヤーを打ち抜く：WhatsApp GIF脆弱性(CVE-2019-11932)をGemini×Claudeで徹底検証",
       "url": "https://zenn.dev/inlet_back/articles/2069cb693dd737"
     },
+    "0ef5a68ff149a36890fc3c8675dc112b025ddea2c763db945eed7505e8d109ce": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "「ChatGPT」を銀行と接続、今では定番の金融アプリに--その方法と理由(ZDNET Japan)",
+      "url": "https://news.yahoo.co.jp/articles/a2ad17f9bff64ffd4681d5b3a520233e39b42183?source=rss"
+    },
     "0ff68037f05eb6551563875da25b0b46d7de050161a8d8c5de673156bfaaf5e3": {
       "first_seen": "2026-07-08",
       "source": "Coincheck Tech Blog",
       "title": "管理者向けの API キーしか出さない SaaS を、Workato で「ユーザー権限」に変えて MCP から安全に呼ぶ",
       "url": "https://tech.coincheck.blog/entry/2026/06/11/110707"
+    },
+    "10e8f1cdd4b1ed6841e67d935b7d9da8eff115f4847865dfae35ae719e16e115": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "＜ポタフェス＞AVIOT初のBluetoothスピーカー／ピヤホンブースにピエール中野降臨／JLab、耳を塞がない“ヘッドホン”(PHILE WEB)",
+      "url": "https://news.yahoo.co.jp/articles/92cff0bf93299b8e4e1fad6afaf3ff4741c3f3b4?source=rss"
+    },
+    "12f1af826397bff2005be17df51c79e51c5cda6a518389654f5f5b98cc566b51": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "釣り道具追いかけおぼれたか 死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6587610?source=rss"
     },
     "13c0b8a33de5e873de800c28622b8b5004e9aaf59e8366b6a1aa1d61995414b5": {
       "first_seen": "2026-07-09",
@@ -378,11 +438,23 @@
       "title": "Railsの悲観的ロックと楽観的ロックの使用シーンの紹介",
       "url": "https://blog.ingage.jp/entry/2026/02/20/180624"
     },
+    "35caa672ed4144d2f39fab52c7a99422ea15b86632f03dd85d0bbb7aeab1c900": {
+      "first_seen": "2026-07-12",
+      "source": "Zenn",
+      "title": "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
+      "url": "https://zenn.dev/jodycraft/articles/3f7548173dcb55"
+    },
     "36778cc6362dd3bbe3ce7c5902f5b26b01caa64edaa80080e47e4df8041e4aef": {
       "first_seen": "2026-07-08",
       "source": "Coincheck Tech Blog",
       "title": "Squid Proxyを用いたドメインリスト制御はAWS Network Firewallで代替可能か？",
       "url": "https://tech.coincheck.blog/entry/2024/12/21/101034"
+    },
+    "36e3fd275ce75a92b9188bb978177e61547ef43784b2efe20f84d2e6a4d7f5a4": {
+      "first_seen": "2026-07-12",
+      "source": "Zenn",
+      "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+      "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering"
     },
     "37200bf87ab182d21f82bb5f5c03a4d66e7ab571e0a38a6bc3ce3ace3a4f8490": {
       "first_seen": "2026-07-11",
@@ -431,6 +503,18 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "ネアンデルタール人と現生人類が文化を共有か、洞窟での発見が示唆 トルコ(CNN.co.jp)",
       "url": "https://news.yahoo.co.jp/articles/f89ca2da73f471401d84cbf3333c9379105685ef?source=rss"
+    },
+    "3fb5401aa04d6f47fdf97ad31d09a41afd8d7531bd7bb6ed402c759879e38d0b": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "W杯出場の南ア選手が急死 25歳",
+      "url": "https://news.yahoo.co.jp/pickup/6587612?source=rss"
+    },
+    "409ad79b1d0dd72309fd9a3212764a6afdd6fd8be580fb9b789bd9f486741e1c": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "＜ポタフェス＞iBassoの巨艦、688台限定DAP「DX340MAX」実機展示／小型R2R DAPの2代目「HiBy R2 II」上陸(PHILE WEB)",
+      "url": "https://news.yahoo.co.jp/articles/f09b00a58c2dd2b5eb5aa101eebbf642fb528a60?source=rss"
     },
     "40ef8b4072d88da72591ea5b67cf3d302a032ce2f19fe835957aa43af50c5252": {
       "first_seen": "2026-07-10",
@@ -594,6 +678,12 @@
       "title": "ムラサキヌタウナギの寄生虫、サメの人工羊水で撃退 沖縄美ら海水族館(Science Portal)",
       "url": "https://news.yahoo.co.jp/articles/635249464bc42c431c9ea4e6d9c2557fc9d900f2?source=rss"
     },
+    "54f692e466ddaf0480da8f610a939b9fb87380bf79d4af43b49e7a7700de251f": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "再使用ロケット実験機RV－X、初飛行試験 高さ11メートルに上昇 垂直降下し着陸成功(産経新聞)",
+      "url": "https://news.yahoo.co.jp/articles/997eb7a0150ec71b28155e10c7888f9001a4cc86?source=rss"
+    },
     "551e295f481b26e4161d05ab3e4d4aa62e166448f2c615d9ea6418f7c2c780d0": {
       "first_seen": "2026-07-08",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -605,6 +695,12 @@
       "source": "Cybozu Inside Out",
       "title": "Claude Code はリグレッションテスト作成プロセスの何を変え、何を変えなかったか？",
       "url": "https://blog.cybozu.io/entry/2026/07/06/113000"
+    },
+    "558ab868ac84d28c033813eb1b0a852072724414fa72c472e0d9baf33a3cb8a0": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "“合体途中”の銀河団が生み出す重力レンズ効果 ウェッブ宇宙望遠鏡が観測した「MACS J0553.4-3342」(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/fca34f1c25706cf8081f9791c2654ab2b533be0e?source=rss"
     },
     "56033f04a6a9586aa16c1f86d458f871b51d2fde8b1404733bcaf6e8a505b95d": {
       "first_seen": "2026-07-08",
@@ -635,6 +731,12 @@
       "source": "Coincheck Tech Blog",
       "title": "Ethereum Fusaka Upgrade 解説",
       "url": "https://tech.coincheck.blog/entry/2025/12/05/110000"
+    },
+    "587f1d4fbfa79e2a8d6df0f42dc372e8c04b40b6a0173f2d874d4123c0241478": {
+      "first_seen": "2026-07-12",
+      "source": "Zenn",
+      "title": "agent-cost-bench でコーディングエージェントの品質とコストを測ってみる",
+      "url": "https://zenn.dev/aws_japan/articles/agent-cost-bench-model-compare"
     },
     "5960326b691863bc8dfcbdce60aa32d01a59c1891a738c6d288577d51f640b1c": {
       "first_seen": "2026-07-09",
@@ -702,11 +804,23 @@
       "title": "俺が一番好きなデザインパターン「Strategy Pattern」の話",
       "url": "https://zenn.dev/zozotech/articles/204d6bfe2e4314"
     },
+    "5ec3a09d857601e28ca67ea0fc0c84ea3fc76d8aef57ecd2d1871e873674e976": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "速報 ノルウェーvs.イングランド",
+      "url": "https://news.yahoo.co.jp/pickup/6587604?source=rss"
+    },
     "5f18f99c1f44554be2adcb6bd5a7de36cb1ee48303fd8b5e6fff8bbc6985a4b0": {
       "first_seen": "2026-07-11",
       "source": "Yahoo!ニュース ピックアップ",
       "title": "渡部建のライブ告知巡る波紋 背景",
       "url": "https://news.yahoo.co.jp/pickup/6587493?source=rss"
+    },
+    "5f1e6e87bff4200618247acdbf9cadbe36f1f1f5231eba810933bc7e32119562": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "【闘病】「猫と娘をよろしく」最期を覚悟した『くも膜下出血』… 13時間の手術と失語症の試練(メディカルドック)",
+      "url": "https://news.yahoo.co.jp/articles/56d30dbb409c08533fb75980eed270768c083b1c?source=rss"
     },
     "602cad7c3dcca1f87e599fddaca5a4c32ec61fb81ae9d9ff76e20837ad800e65": {
       "first_seen": "2026-07-08",
@@ -768,6 +882,12 @@
       "title": "RubyKaigi 2025 のクックパッドブースで出来ること",
       "url": "https://techlife.cookpad.com/entry/rubykaigi-2025"
     },
+    "64f9dc42e839361456861166cce76ad9f8aa0e5154f7506f8cd0d73313bee040": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "空冷ファンを搭載したXiaomiのゲーミングモデル「REDMI K90 Max」の進化点(ITmedia Mobile)",
+      "url": "https://news.yahoo.co.jp/articles/ba09e83bb2d0a1482d75b890f4b9b69562ad1a43?source=rss"
+    },
     "653c5530ceaae19308fcc6e930110ba59d43047787ad2c7bb246cc4441659b10": {
       "first_seen": "2026-07-08",
       "source": "Ingage Blog",
@@ -779,6 +899,12 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "MoonPayのAIエージェント、Telegramから利用可能に(NADA NEWS)",
       "url": "https://news.yahoo.co.jp/articles/b172f1d1ffe2ee250b5a02d6a9bc14aa57b6ad94?source=rss"
+    },
+    "66a969c6f3b44729cc06c6ae65a2277933c150f3bd78290c31d502fbb8314996": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "インスタのAI画像生成 3日で廃止",
+      "url": "https://news.yahoo.co.jp/pickup/6587580?source=rss"
     },
     "670f853677a99057ca3cd86263b8788bd45783c7e353005462c1998c53e89467": {
       "first_seen": "2026-07-11",
@@ -828,6 +954,12 @@
       "title": "取り調べで罵倒 検察官が無罪主張",
       "url": "https://news.yahoo.co.jp/pickup/6587491?source=rss"
     },
+    "69c15cd252395528b26ba011efd73a57aa55488a861a69497b30c14bfc7045d3": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "AIで「均質化」する世界で、「アンチオルカン」思考が生む“人間の価値”(ビジネス＋IT)",
+      "url": "https://news.yahoo.co.jp/articles/0e8a4443060db89a066344f84692509781680c21?source=rss"
+    },
     "6aeb8ee954335ab7ceab482817150bd6bfef22a72a59d51ccb0e14d63e5b47fd": {
       "first_seen": "2026-07-08",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -845,6 +977,12 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "NTTデータG・中山新社長が明かす、AI時代の成長戦略。「1.2兆円」への道筋と人月ビジネスの先【単独】(BUSINESS INSIDER JAPAN)",
       "url": "https://news.yahoo.co.jp/articles/a79289d1f17fbc1c91626a54d7b37819f338550f?source=rss"
+    },
+    "6e689af9250eeb270d7e0abd52915496b3f8d4af974343b22614c8529b637548": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "Apple 営業秘密流用でOpenAI提訴",
+      "url": "https://news.yahoo.co.jp/pickup/6587501?source=rss"
     },
     "6ed8c545f5e05eff0d788f1ea0fd364649931c169ea0de7844fb8d2595096a4c": {
       "first_seen": "2026-07-08",
@@ -869,6 +1007,12 @@
       "source": "Ingage Blog",
       "title": "ssh で複雑なコマンドを実行する",
       "url": "https://blog.ingage.jp/entry/2026/03/09/111925"
+    },
+    "708dd02332adbe47b98d528c569f8a89308c4e9a0776e85ad0b2d650ff4be216": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "1日千人使うバス廃止へ 住民困惑",
+      "url": "https://news.yahoo.co.jp/pickup/6587607?source=rss"
     },
     "710f8026a5328fda730faf282b3db121d39712f59b379e15ef91328e58ab4bb5": {
       "first_seen": "2026-07-11",
@@ -990,6 +1134,12 @@
       "title": "テックブログ編集後記 数字の向こう側で起きていたこと",
       "url": "https://zenn.dev/zozotech/articles/6a69516e015c95"
     },
+    "7d3f197801d7ca1af9dfb8bb64175f4573b25247f509b240a59fa5f4af460626": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "鼻の下にある溝「人中」に秘められた人体の神秘(Forbes JAPAN)",
+      "url": "https://news.yahoo.co.jp/articles/69a2c9ab00418d6708b493e66191fe65da1a8173?source=rss"
+    },
     "7d40c20609d96275248c3fcc50bf98d12cba01bae292ec07973ecc255a0a5876": {
       "first_seen": "2026-07-08",
       "source": "Zenn",
@@ -1020,6 +1170,12 @@
       "title": "Tiptap の自動テストがたまに落ちる？原因を調査するとイベントループに行き着いた",
       "url": "https://zenn.dev/cybozu_frontend/articles/why-tiptap-test-flaky"
     },
+    "8125f4dc0cf68c97d6fa162b6a289d3fe9ad00d6bff08c714b70da7eda59a8ae": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "AI×医療で“命を守る” 患部の3D化で医師の負担軽減 日本ならではの課題も(テレビ朝日系（ANN）)",
+      "url": "https://news.yahoo.co.jp/articles/a18d094a1851ff6f988b3f24e1b52afc732d7d2a?source=rss"
+    },
     "819c105ca837d272c804c091698f6c8ff5143d754f66eeff7d71808228547f71": {
       "first_seen": "2026-07-10",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -1031,6 +1187,12 @@
       "source": "Zenn",
       "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
       "url": "https://zenn.dev/layerx/articles/797bb5b8935bf6"
+    },
+    "81f3f90abdd44134014f358aa07e8bd2c745d9e0b0e9fa29a1c0d6870c128426": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "アークエッジ・スペース、月測位実証衛星の製造拠点「新木場ラボ」を整備(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/d77125480c4ab2bf353694b4a7b5f53a9316b30b?source=rss"
     },
     "85042c89cbeecfccf4ab5c73338259a58bd7cafd71e1527ba19e9863d9a3a30a": {
       "first_seen": "2026-07-08",
@@ -1061,6 +1223,12 @@
       "source": "Cybozu Inside Out",
       "title": "PHP 8.5へのバージョンアップ時にも役立つAST（抽象構文木）",
       "url": "https://blog.cybozu.io/entry/2026/07/06/123000"
+    },
+    "8884d4b46d9ea7a665c7619d6edbff33e994b60761e68ae4bccaa71d4be7cd5c": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "九州 40℃に迫る危険な暑さ予想",
+      "url": "https://news.yahoo.co.jp/pickup/6587616?source=rss"
     },
     "891a8f70dda721afaa1a9d6ccfec93ae36d2fb51e862d46db8c89b655aff73fe": {
       "first_seen": "2026-07-08",
@@ -1248,6 +1416,12 @@
       "title": "【イベントレポート】「RubyKaigi 2026 アフターイベント〜初参加LT・スポンサー4社のパネル〜」を開催しました！",
       "url": "https://techblog.zozo.com/entry/20260513-after-rubykaigi-2026"
     },
+    "9ab079addfa8d9fc3f0a699b296092e477c2456955694fec09d960781a5c7b7a": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "JAXAが再使用ロケットの飛行試験 打ち上げから水平移動し着陸(テレビ朝日系（ANN）)",
+      "url": "https://news.yahoo.co.jp/articles/3b41422da7e3de45ce90af1e94d26d99e69f94b6?source=rss"
+    },
     "9acb5abe7604c11944b6d6638c98dd85b7c22a9024f6db807a3323cb6a4df073": {
       "first_seen": "2026-07-08",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -1326,6 +1500,12 @@
       "title": "Spanner Omni を採用して CI のトータル実行時間を84%減らすまでの道のり",
       "url": "https://zenn.dev/kauche/articles/ac1c707f2fc991"
     },
+    "a293ec4e4d07dd596d3f209e2dd9df16c9ef2d94ac1a16217e5945602d74d132": {
+      "first_seen": "2026-07-12",
+      "source": "Zenn",
+      "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
+      "url": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types"
+    },
     "a2e61c1601945565bdf4bd68e2ea9617644bad29e31c1161c56fb3d4cd8adee6": {
       "first_seen": "2026-07-08",
       "source": "Cookpad Tech Life",
@@ -1398,6 +1578,12 @@
       "title": "ゲームの貸し借り 各社の対応は",
       "url": "https://news.yahoo.co.jp/pickup/6587152?source=rss"
     },
+    "a93f221a615081e994c1db260eab82b3c783451710d7d8aa9067e28f58749d68": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "山本由伸 オールスターは登板せず",
+      "url": "https://news.yahoo.co.jp/pickup/6587614?source=rss"
+    },
     "aa64b9e378605534d45fd188f1e78f3a329a91c15ee5e4b9ae3df41d809ecf46": {
       "first_seen": "2026-07-08",
       "source": "Yahoo!ニュース トピックス IT",
@@ -1445,6 +1631,12 @@
       "source": "Zenn",
       "title": "Unity 6時代のR3運用ルール：SubscribeAwait・EveryUpdate・禁止パターンを整理する",
       "url": "https://zenn.dev/gamedev_toollab/articles/88cbe9d9110202"
+    },
+    "b2f69021f267d2e2d935f8ec5fef3e705004a9676c4f52f3c39bc88b1bcf45ac": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "＜ポタフェス＞Fosi Audio、“CDより小さい”CDプレーヤー／Skullcandy「Smokin' Buds 360」が好評(PHILE WEB)",
+      "url": "https://news.yahoo.co.jp/articles/1075a77217503ce1f33088ebe3c7be42275cdd6c?source=rss"
     },
     "b31770ec165f5b377671510afdc4c564ae56a1f8631d1f56c6c3481b4408fc0c": {
       "first_seen": "2026-07-08",
@@ -1512,6 +1704,12 @@
       "title": "ハンガリー 公共放送「うそ」謝罪",
       "url": "https://news.yahoo.co.jp/pickup/6587143?source=rss"
     },
+    "bbd0c17ceccc3df47156c5f24475db82b96cd1b170e2476e522e7536f606521f": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "マンションで女性殺害疑い 男逮捕",
+      "url": "https://news.yahoo.co.jp/pickup/6587615?source=rss"
+    },
     "bc28b3ef1b1ba81d2c4ba3b2a87fa94e1c2ef43a5f1679c4d5589f0140cb68a0": {
       "first_seen": "2026-07-08",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -1547,6 +1745,12 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "古代の騎馬民族「スキタイ人」、支配層は世襲だった DNA解析で判明(CNN.co.jp)",
       "url": "https://news.yahoo.co.jp/articles/2478c4bcefdf4ed3ff51698820c2a6fee32231b6?source=rss"
+    },
+    "c19244c3d6c4f7ed7145fbf6a427c000df164728eeb2e8ee435792ebef06f2dd": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "赤と青のコントラストが美しい領域 ハッブル宇宙望遠鏡が観測した星形成領域「LH 95」(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/7bc26431f8df3a247b9ca7f83decdf8e927f4a13?source=rss"
     },
     "c248bea77b8821cec86959b7397f86ab1aead143c0525d32a2878752d209d915": {
       "first_seen": "2026-07-11",
@@ -1733,6 +1937,18 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "初めて頭部持った生物、既知の生物の中で最古の「右利き」と判明 豪州(CNN.co.jp)",
       "url": "https://news.yahoo.co.jp/articles/c9204c02eec18d98b1a85394f6f8a2a28d33dc03?source=rss"
+    },
+    "d381fcbd5724977978299dc03e968b43eef9f357ba3a8163449ea307faec324d": {
+      "first_seen": "2026-07-12",
+      "source": "Zenn",
+      "title": "ボードゲーム「ナショナルエコノミー」をブラウザで遊べる非公式サービスを作った",
+      "url": "https://zenn.dev/lambdalisue/articles/introduce-unofficial-national-economy"
+    },
+    "d46ed9e1bf4f508d24eb877868936496529f298b8c6b345c2f292fc505909e57": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "「Google アカウント」でもサインインできる「Microsoft Edge 150」登場／OpenAIが最新AIモデル「GPT-5.6」を一般公開(ITmedia PC USER)",
+      "url": "https://news.yahoo.co.jp/articles/fe49519231413ac139801ba89487389f02083c4a?source=rss"
     },
     "d4714fd9f3723965dac7f42b1f7623fc2a1a8a8c1a881c634e44be07c664507d": {
       "first_seen": "2026-07-09",
@@ -1974,6 +2190,12 @@
       "title": "フランス4強進出 盤石の完封勝利",
       "url": "https://news.yahoo.co.jp/pickup/6587365?source=rss"
     },
+    "ecbfbe048e07c4997a140030779329565baa3b671c687d1e4cad701263f4c7f8": {
+      "first_seen": "2026-07-12",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "プーマの新作シューズに死角なし。ランナーから健康維持まで万能さが魅力(ギズモード・ジャパン)",
+      "url": "https://news.yahoo.co.jp/articles/016ec01ab016c190971e71b1b3ef666f755ac3b2?source=rss"
+    },
     "ed373fc865051f21e2e334fec059a047c847e43c87ccf9daf74d8b42459ece1f": {
       "first_seen": "2026-07-08",
       "source": "Cybozu Frontend Zenn",
@@ -2015,6 +2237,12 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "SpaceXAI、最上位モデル「Grok 4.5」公開 高速・低コストでコーディングに強み(Impress Watch)",
       "url": "https://news.yahoo.co.jp/articles/e2d9148ad7e1688c2154f3c1851fee079ee1e3cf?source=rss"
+    },
+    "f01ed4863cfda187eabb7cdf933ef199a7fedd177959b2d31c4b879ea5b756d5": {
+      "first_seen": "2026-07-12",
+      "source": "Zenn",
+      "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
+      "url": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel"
     },
     "f1e2cb03467d8fded7a8ee63a2593458eb8a96f90c60fd720d9316037474ecfd": {
       "first_seen": "2026-07-09",

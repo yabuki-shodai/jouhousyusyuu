@@ -1,7 +1,7 @@
 # jouhousyusyuu
 
 <!-- today-summary-link:start -->
-[今日の記事サマリー（2026-07-11）](docs/2026-07-11/summary.md)
+[今日の記事サマリー（2026-07-12）](docs/2026-07-12/summary.md)
 <!-- today-summary-link:end -->
 
 RSS / Atom フィードから情報を収集し、日付ごとの Markdown ファイルとして保存するリポジトリです。
