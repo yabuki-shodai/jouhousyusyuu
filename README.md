@@ -1,5 +1,7 @@
 # jouhousyusyuu
 
+[GitHub Pagesで収集結果を見る](https://yabuki-shodai.github.io/jouhousyusyuu/)
+
 <!-- today-summary-link:start -->
 [今日の記事サマリー（2026-07-13）](docs/2026-07-13/summary.md)
 <!-- today-summary-link:end -->
