@@ -1,0 +1,109 @@
+# Zenn 2026-07-30
+
+- 取得元: Zenn
+- カテゴリ: tech
+- フィードURL: https://zenn.dev/feed
+- 取得日時: 2026-07-30 08:00:53 JST
+- 取得件数: 20
+
+## 記事一覧
+
+### 1. [[gamification] DIVER OSINT CTF 2026 Writeup](https://zenn.dev/syurenuko/articles/7c1834466efd8a)
+
+- 公開日時: 2026-07-29 20:34:02 JST
+- サムネイル: -
+
+### 2. [GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで](https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling)
+
+- 公開日時: 2026-07-29 09:57:38 JST
+- サムネイル: -
+
+### 3. [【Claude Code】planモードはもう使っていない](https://zenn.dev/notahotel/articles/0c28638945aa32)
+
+- 公開日時: 2026-07-29 09:37:17 JST
+- サムネイル: -
+
+### 4. [自分で作るクラウド競技](https://zenn.dev/bull/books/cloud-competition)
+
+- 公開日時: 2026-07-29 09:15:14 JST
+- サムネイル: -
+
+### 5. [自作APIをChatGPTからアクセス可能にする「Super MCP」](https://zenn.dev/reizt/articles/super-mcp-chatgpt)
+
+- 公開日時: 2026-07-29 09:00:05 JST
+- サムネイル: -
+
+### 6. [NVIDIA DGX Spark でソフトウェア開発に最適な Gemma 4 モデルを検証する (31B vs 26B)](https://zenn.dev/st_little/articles/gemma4-benchmark-dgx-spark)
+
+- 公開日時: 2026-07-28 22:56:04 JST
+- サムネイル: -
+
+### 7. [AI時代に感じた危機感と、エンジニアがこれから考えるべきこと](https://zenn.dev/nabewata/articles/8cef1bd4cbae3f)
+
+- 公開日時: 2026-07-28 21:24:59 JST
+- サムネイル: -
+
+### 8. [ソフトウェアエンジニアとして視野を広げるためのブックガイド](https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d)
+
+- 公開日時: 2026-07-28 20:03:03 JST
+- サムネイル: -
+
+### 9. [TypeScript 7 時代の Vue.js ツールチェーン Vize を実プロダクトで検証した](https://zenn.dev/uniquevision/articles/4359e64b17b028)
+
+- 公開日時: 2026-07-28 19:11:01 JST
+- サムネイル: -
+
+### 10. [Claude Code Routinesにてサブスク内で自動コードレビューする](https://zenn.dev/rehabforjapan/articles/claude-code-routines-pr-review-202607)
+
+- 公開日時: 2026-07-28 17:42:50 JST
+- サムネイル: -
+
+### 11. [【決着】Claude CodeとCodexの設定ファイルを同期させる (みんな仲良く)](https://zenn.dev/explaza/articles/20f7f41cff8428)
+
+- 公開日時: 2026-07-28 13:40:29 JST
+- サムネイル: -
+
+### 12. [【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか](https://zenn.dev/fixstars/articles/kimi-k3-benchmark)
+
+- 公開日時: 2026-07-28 08:19:53 JST
+- サムネイル: -
+
+### 13. [「Simple Made Easy」の観点から、UI/UXはどうあるべきか](https://zenn.dev/pksha/articles/6cdf19e5fe8065)
+
+- 公開日時: 2026-07-27 16:22:43 JST
+- サムネイル: -
+
+### 14. [コードレビューでの見落としをきっかけに『ITエンジニア1年目の教科書』を読んだ](https://zenn.dev/flinters_blog/articles/eeb769c9331de1)
+
+- 公開日時: 2026-07-27 15:46:05 JST
+- サムネイル: -
+
+### 15. [【2026年版】MIXI 新卒向け技術研修を公開しました。](https://zenn.dev/mixi/articles/fd62f8ddc178f6)
+
+- 公開日時: 2026-07-27 13:26:35 JST
+- サムネイル: -
+
+### 16. [最近の開発の流れ](https://zenn.dev/kimuchan/articles/bc8e98682f8594)
+
+- 公開日時: 2026-07-27 09:31:05 JST
+- サムネイル: -
+
+### 17. [エンジニアの習熟度は、トークン消費量として露呈していく](https://zenn.dev/kaji_kaji/articles/token-management-as-ai-proficiency)
+
+- 公開日時: 2026-07-27 09:00:08 JST
+- サムネイル: -
+
+### 18. [1日500コミットは、もう読めない ── だからコードレビューをやめた](https://zenn.dev/singularity/articles/stopped-reviewing-my-code)
+
+- 公開日時: 2026-07-27 05:06:28 JST
+- サムネイル: -
+
+### 19. [Feature-Sliced Design 実践ガイド](https://zenn.dev/norman6464/books/fsd-migration)
+
+- 公開日時: 2026-07-26 20:34:50 JST
+- サムネイル: -
+
+### 20. [「ソフトウェアアーキテクチャの基礎」を読んで設計判断の引き出しが増えた](https://zenn.dev/raamenwakamatu/articles/software-architecture-fundamentals-review)
+
+- 公開日時: 2026-07-26 12:47:06 JST
+- サムネイル: -
