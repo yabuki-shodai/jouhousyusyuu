@@ -8,7 +8,6 @@ on:
 
 permissions:
   contents: write
-  models: read
 
 jobs:
   fetch-feeds:
@@ -25,7 +24,7 @@ jobs:
 
       - name: Fetch feeds and build today summary
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_feeds.py
 
       - name: Update README today link
