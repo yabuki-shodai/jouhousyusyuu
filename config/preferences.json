@@ -48,7 +48,7 @@
   },
   "github_models": {
     "enabled": true,
-    "endpoint": "https://models.github.ai/inference/chat/completions",
-    "model": "openai/gpt-4.1-mini"
+    "endpoint": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+    "model": "gemini-2.5-flash"
   }
 }
