@@ -46,7 +46,7 @@
     "published_within_days": 2,
     "max_ai_candidates": 40
   },
-  "github_models": {
+  "gemini": {
     "enabled": true,
     "endpoint": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
     "model": "gemini-2.5-flash"
