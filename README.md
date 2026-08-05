@@ -3,7 +3,7 @@
 [GitHub Pagesで収集結果を見る](https://yabuki-shodai.github.io/jouhousyusyuu/)
 
 <!-- today-summary-link:start -->
-[今日の記事サマリー（2026-08-05）](docs/2026-08-05/summary.md)
+[今日の記事サマリー（2026-08-06）](docs/2026-08-06/summary.md)
 <!-- today-summary-link:end -->
 
 RSS / Atom フィードから情報を収集し、日付ごとの Markdown ファイルとして保存するリポジトリです。
