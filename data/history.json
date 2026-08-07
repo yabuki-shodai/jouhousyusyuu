@@ -42,6 +42,12 @@
       "title": "Cloudflare Workers + better-auth で全リクエストが無応答になる - hanging promise の罠",
       "url": "https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise"
     },
+    "00e0e67192b45ad04f11990155c9c27f8b19332c183d769f55eeb4527faf9c46": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "QRコードで災害詐欺 どう見抜く",
+      "url": "https://news.yahoo.co.jp/pickup/6590781?source=rss"
+    },
     "014cecb252f8d277e5bc8d3023c923595b30b3da1c2842b65d5f7adb4de7ddc3": {
       "first_seen": "2026-07-10",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -114,6 +120,12 @@
       "title": "10分37秒で4000冊売れた「ティラノサウルスだけ」の図鑑、編集者の確信と熱意 「サメだけ」も人気(withnews by 朝日新聞)",
       "url": "https://news.yahoo.co.jp/articles/cecc8a649e877e1955a70194702bc3992ee6af13?source=rss"
     },
+    "042832b16289352c8e1c11df2a2629e16f6066fde23c239decea0dc409f9eb2f": {
+      "first_seen": "2026-08-07",
+      "source": "Zenn",
+      "title": "DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた",
+      "url": "https://zenn.dev/ait/articles/google-design-md-measured"
+    },
     "046620c0aef1c2814c3ee65900b95b3cd0381f1f1bf78bfc86bdbe49e5cec86d": {
       "first_seen": "2026-07-20",
       "source": "Yahoo!ニュース ピックアップ",
@@ -155,6 +167,12 @@
       "source": "Zenn",
       "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
       "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code"
+    },
+    "0666ace4b7ef61c362f80eaf4d2a2a662b783e1eaabd85db64f76652163a7481": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "女性研究者支援 新制度設ける方針",
+      "url": "https://news.yahoo.co.jp/pickup/6590820?source=rss"
     },
     "068bba3cb488993c4beb50b1a08e9d05c768422c68a168e1a4617cb1797e1f88": {
       "first_seen": "2026-07-12",
@@ -251,6 +269,12 @@
       "source": "Qiita 人気記事",
       "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
       "url": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "0ab5230b4cf423ebc4829e155a9c3de07794c884f9e98c073e6fce4e0fccb4f9": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "任天堂 被災者の製品修理は無償",
+      "url": "https://news.yahoo.co.jp/pickup/6590780?source=rss"
     },
     "0ad257b9cf66cf9bf8d3ae7abe81dbfc924c39e5cd2f20cf3cd2b085f6f28a63": {
       "first_seen": "2026-07-24",
@@ -443,6 +467,12 @@
       "source": "Coincheck Tech Blog",
       "title": "管理者向けの API キーしか出さない SaaS を、Workato で「ユーザー権限」に変えて MCP から安全に呼ぶ",
       "url": "https://tech.coincheck.blog/entry/2026/06/11/110707"
+    },
+    "101f5fd9de14af61073e50053b6e1aa4855b4340bef801811acdc61b2298b78f": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "無料版「ChatGPT」で無限の会話が可能に、新モデル「GPT‑5.6 Luna」も開放(CNET Japan)",
+      "url": "https://news.yahoo.co.jp/articles/1bd02389efc590fadb9aa060d407f111abebb67d?source=rss"
     },
     "1021be20a88d38147a83e9171945aaa8d57ff6dddddc51e99f99f7f0cad996fd": {
       "first_seen": "2026-07-30",
@@ -1320,6 +1350,12 @@
       "title": "ImportLintの紹介: import専門の高速なリンター",
       "url": "https://zenn.dev/uhyo/articles/import-lint-intro"
     },
+    "2cc5d6f6cbfaf3b65727fa6cbd7f01189905deaecbc17facc52c3d9f038b0bc0": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "UEFAがW杯ボイコット方針を継続",
+      "url": "https://news.yahoo.co.jp/pickup/6590823?source=rss"
+    },
     "2cc6a4851ff19af1d93cf3911be26ff31dcace24f0bcc4297b226e04ee1c89d5": {
       "first_seen": "2026-07-22",
       "source": "Yahoo!ニュース トピックス IT",
@@ -1410,6 +1446,12 @@
       "title": "IIJmio海外eSIMが20％オフ、夏休み応援キャンペーン(ケータイ Watch)",
       "url": "https://news.yahoo.co.jp/articles/e210eba001da5059395a15776addfd6290af7703?source=rss"
     },
+    "3176d62e4cf837dfd649fc3c00900163b171376c249abcb35afc429b9bba2da4": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "BBIX、「OCX」の接続サービスで「Google Cloud」に対応(クラウド Watch)",
+      "url": "https://news.yahoo.co.jp/articles/fcd8528102d493a6bfdb979eb8c77edc87f21f33?source=rss"
+    },
     "31a1143fa3b7e8924b896ed6585a2d4b7bd82d7b14bd33c887a0f6a8c48ab4a1": {
       "first_seen": "2026-07-28",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -1421,6 +1463,12 @@
       "source": "Ingage Blog",
       "title": "「現場から学ぶ ”QAのリアル” LT」から感じたこと",
       "url": "https://blog.ingage.jp/entry/2026/02/13/111347"
+    },
+    "31f9062695f3e076afbec35018f9d2bbcea8ca17a41741ef7851e4a0ce308489": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "加工アプリ「SNOW」に措置命令",
+      "url": "https://news.yahoo.co.jp/pickup/6590755?source=rss"
     },
     "3204db13726dc8fa847df05628e5faf1c956e2b176420fb000b2df60b8c38f05": {
       "first_seen": "2026-08-04",
@@ -1439,6 +1487,12 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "南天の夜空を10年のあいだ繰り返して観測 ベラ・ルービン天文台のサーベイ観測が正式始動(sorae 宇宙へのポータルサイト)",
       "url": "https://news.yahoo.co.jp/articles/f5ff152b78e6d10c890f43ec111bd2d12d518792?source=rss"
+    },
+    "326c4ab988f19324ec36fdb7c2eab3caa09c1f68f10804657c777af16a7b0474": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "レーザーで「ハイエントロピー合金」作製、組成操作も可能 大阪公立大(Science Portal)",
+      "url": "https://news.yahoo.co.jp/articles/8ec807ce95a09e617c378e3af62be3d6aa245284?source=rss"
     },
     "327522eb3ffeea99a542ce6d2381db325e84e286b01d2d58ee9c779fca7085e5": {
       "first_seen": "2026-07-25",
@@ -1481,6 +1535,12 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "熊本地震 海外メディアが一斉速報",
       "url": "https://news.yahoo.co.jp/pickup/6589725?source=rss"
+    },
+    "339bb275315d55268a7866adb5a867ae293969b444cc436c11cf126a5bc49949": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "太陽表面を過去最高の解像度で観測、磁気にまつわる謎が明らかに(CNN.co.jp)",
+      "url": "https://news.yahoo.co.jp/articles/366769747c876aa2af9458910a77e2ffbc5780c7?source=rss"
     },
     "33ee282ca329ed23d059cb5c1bebcc54145d8dfb70515fa9ac3d636beb60d97c": {
       "first_seen": "2026-08-03",
@@ -1559,6 +1619,12 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "栄養士が実践する「最高の朝食」。高食物繊維・高タンパク質で血糖値の上昇も穏やか（海外）(BUSINESS INSIDER JAPAN)",
       "url": "https://news.yahoo.co.jp/articles/5abc807dedbd9d142476dac07416538e6688d6ed?source=rss"
+    },
+    "3590cd1e9792544c5f953277a4c3b36de91c11c12b1ca47c8eb806a6f250a278": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "スーパーハイエンドから台湾ブランドまで。オーディオの楽しみが揃う「台湾ハイエンドショウ」レポート(PHILE WEB)",
+      "url": "https://news.yahoo.co.jp/articles/0260d2fa102f6609f19578aebf491c0ad243c1a0?source=rss"
     },
     "35a3065f9384e54e7149efa7118860fae4a28e991a8112d355f0a905c7b17b7a": {
       "first_seen": "2026-08-02",
@@ -1823,6 +1889,12 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "W杯出場の南ア選手が急死 25歳",
       "url": "https://news.yahoo.co.jp/pickup/6587612?source=rss"
+    },
+    "3fbc249f52dad34dec1384939ba106c8d6179bbcc9bfb7620f5cf3090439e4a0": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "月のロケット残骸衝突跡 画像公開",
+      "url": "https://news.yahoo.co.jp/pickup/6590828?source=rss"
     },
     "3fd222e49854371f12ff414000eccc2654922e2ec4f96516482c627c987aad78": {
       "first_seen": "2026-07-14",
@@ -2292,6 +2364,12 @@
       "title": "生命の“100年の謎” 解く…日本人初のノーベル生理学・医学賞 利根川進さん死去(テレビ朝日系（ANN）)",
       "url": "https://news.yahoo.co.jp/articles/09deafa1d8beb914b61dcd03fb5ba207d00bb0c2?source=rss"
     },
+    "5022498db5ed9f83406c061fd2858e518fecc53da840a739174999a9e9223884": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "始めは大誤算、7年で7回の水害被災…順風満帆ではなかった日本有数のパクチー農家(西日本新聞me)",
+      "url": "https://news.yahoo.co.jp/articles/8a41b5967f4598cde1b9acaf469a587d6a5ed6be?source=rss"
+    },
     "50321167796b3c8ece8cffcd16d1d35add64e009e8d8783a68f284e556188034": {
       "first_seen": "2026-07-29",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -2315,6 +2393,18 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "潰れた1階から「ここー」弟を救出",
       "url": "https://news.yahoo.co.jp/pickup/6589843?source=rss"
+    },
+    "51332114dfd80dc31c0de7f57dcf9bfc53644d6cb87d726fd6b8b9f65cd9181d": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "【G17-53】スペースXがスターリンク衛星24機を軌道投入 1段目は34回目の飛行(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/79b19a6502288a7ecc5895ebd2c337b1bec200ab?source=rss"
+    },
+    "5176eb4e978288cce0150d893e369b91961bb3b40d86e70604c3c18673dc6a92": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "イオン爆発遺族 本当のこと言って",
+      "url": "https://news.yahoo.co.jp/pickup/6590821?source=rss"
     },
     "51b0724597bfda4b8d4ab480f4df1bdb4f859d7c7af6cfd48368f581a7c0be6b": {
       "first_seen": "2026-07-24",
@@ -2496,6 +2586,12 @@
       "title": "ビル1室で3千社起業 経営実態は?",
       "url": "https://news.yahoo.co.jp/pickup/6587492?source=rss"
     },
+    "57383882e46b7e094f1c32cbc8ef229bf4b509eff9e26c20a2e37956f173386f": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "SMBC日興証券、仮想化基盤をデル製品に刷新--5年間のインフラコスト約20％削減へ(ZDNET Japan)",
+      "url": "https://news.yahoo.co.jp/articles/a490b991eb61e45a96874db2f9253926808fc389?source=rss"
+    },
     "578c377df2cf5f2c8d5a54a7b33fd292098b3fada4b33b9cb0a6f22d65d335f3": {
       "first_seen": "2026-07-15",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -2610,6 +2706,12 @@
       "title": "エヌビディアのイベントでもらった“銀色の袋”→「一獲千金」を期待の中、開けると…… まさかの中身に仰天(ねとらぼ)",
       "url": "https://news.yahoo.co.jp/articles/1d2d7dc366c5312fcfd70637946b0344ce20d20f?source=rss"
     },
+    "5a2384b1a17b24ffaa94b3d3f951ea15faee9513f0cfd8242e2760d492cf60a9": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "リコージャパン、「施設環境見える化・熱中症アラートパック」を提供開始(BCN)",
+      "url": "https://news.yahoo.co.jp/articles/286a53cbcd2eed5fb8cea1fbac652810fb56987b?source=rss"
+    },
     "5a2fdd4c5e988698375f27fbc4301bcce419a1d5a809f33f2fce080b6d0a333f": {
       "first_seen": "2026-08-04",
       "source": "Zenn",
@@ -2639,6 +2741,12 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "「タトゥー」で発電、ウェアラブルの電源に--米大学が開発(CNET Japan)",
       "url": "https://news.yahoo.co.jp/articles/d009a0c41877cbcfff1309d865c3371a65c4b4d9?source=rss"
+    },
+    "5b20cdfa31c8dec6952dcae40048a2bdb93e2c943ad65509c71248f594008381": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "お盆の帰省で休めない どうすれば",
+      "url": "https://news.yahoo.co.jp/pickup/6590822?source=rss"
     },
     "5b64ce6e27be48b0a41fcc8ee2af48ff22b0e9897ed8af1ec36df00b540a5b71": {
       "first_seen": "2026-07-13",
@@ -3396,6 +3504,12 @@
       "title": "自学ノートのテーマに悩む親子へ、『小学生の究極の自学ノート図鑑2』7月9日発売(こどもとIT)",
       "url": "https://news.yahoo.co.jp/articles/10807006bd25d0d66cdf47762c15602a81c342a3?source=rss"
     },
+    "71ef747dc225032e8fc8d59fa77b0f0688797b33f432a9d887315e87f0e87a2f": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "「高学力＝ストレスに耐えられる」ではない 秀才が苦しむ一方、収入・満足度が高いのは…… 医学生・医師1000人超を分析(ITmedia NEWS)",
+      "url": "https://news.yahoo.co.jp/articles/faad0f3ded889769b18d980597b2767bce7a4a03?source=rss"
+    },
     "7200fe7eb833bf90ba83a1912e82402555549ee4110ad4e0bb23a5c971ec8187": {
       "first_seen": "2026-07-19",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -3407,6 +3521,12 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "マツダ・アテンザを高音質化！ TS-Z900PRSと楽ナビで実現した理想のカーオーディオ［Pro Shop インストール・レビュー］by サウンドステーション SUBLIME 後編(レスポンス)",
       "url": "https://news.yahoo.co.jp/articles/a085bd164c5d5e3061be5a66f4b90e2bc0e3e3de?source=rss"
+    },
+    "722de5b77477182333227c47968861c4230d6f2a93807575dfce16563a2aa45c": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "「XR CREATIVE AWARD」第12回開催決定！株式会社Vが運営を継承(Yahoo!ニュース PR［PR］)",
+      "url": "https://news.yahoo.co.jp/articles/f75468ff18cdb015b22cba5baca20c18e942a6fe?source=rss"
     },
     "724d19025ad4ea0c21ec84fb1459b4f07965ebddfef973b9899bf5295825feef": {
       "first_seen": "2026-07-18",
@@ -4512,6 +4632,12 @@
       "title": "全長24m、史上最大の巨大ザメ「メガロドン」はなぜ絶滅したのか(Forbes JAPAN)",
       "url": "https://news.yahoo.co.jp/articles/972d9c0f31a67fd9b69d642288792057de40ec3f?source=rss"
     },
+    "98325c745b2c7cc30699a0d3762db5b89a68cb63d6293177354a0420b2e4343b": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "〈目撃〉米アリゾナ州でジャガーを撮影、ネコ科の王者復活なるか 過去15年間で5頭目(ナショナル ジオグラフィック日本版)",
+      "url": "https://news.yahoo.co.jp/articles/3ef87114a67e5b9afd4590cdbf9c0ffcfe7b6f80?source=rss"
+    },
     "98bd6e0a96106aba4f36975d1434de61af20241ebff939c12dccfb59f411d052": {
       "first_seen": "2026-07-28",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -4607,6 +4733,12 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "オープンソースのAI機能付きオフィス登場 docx・xlsx・pptx・pdfに対応 Genspark(ITmedia NEWS)",
       "url": "https://news.yahoo.co.jp/articles/6f431870e8bff3dd0eddfb470e5318d0df92cce9?source=rss"
+    },
+    "9bd365946ffb033dc4c6922315a69dc2978705b049a4f761529cfa99bed6bd2c": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "デュアルファンクーラー搭載の「PULSE AMD Radeon RX 9050」がSAPPHIREから(AKIBA PC Hotline!)",
+      "url": "https://news.yahoo.co.jp/articles/13037654b7bba2b5b7ae7527965f3cbddf8a5a8b?source=rss"
     },
     "9c0b1b70ef61d51e4f4391eca6d2ba40b7cc1c94f542c2dedb161cea4fdfbff2": {
       "first_seen": "2026-07-13",
@@ -4824,6 +4956,12 @@
       "title": "「渇いてから」では遅い―熱中症予防に必須“戦略的補水”のカギは「先回り」(メディカルドック)",
       "url": "https://news.yahoo.co.jp/articles/8c9c01927a6271f4482d2eaace88c7c7d9b292f7?source=rss"
     },
+    "a384c70bb62286a8d195045c73f72da7beb90113b95a3d2747fe4b15a32a3c77": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "秋田にAIデータセンター建設へ",
+      "url": "https://news.yahoo.co.jp/pickup/6590818?source=rss"
+    },
     "a39916340f6b596ebe3322da97351aa2f1a434b360ee2ade6eaec457d2a40cf4": {
       "first_seen": "2026-07-08",
       "source": "Ingage Blog",
@@ -4847,6 +4985,12 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "牛丼で稼げぬ時代 大手3社の今",
       "url": "https://news.yahoo.co.jp/pickup/6587272?source=rss"
+    },
+    "a4563f5e222fee633d8d885e16481b1a781c319c4be83df3d2d152065bd183a5": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "歌舞伎の中村小三郎さん 書類送検",
+      "url": "https://news.yahoo.co.jp/pickup/6590825?source=rss"
     },
     "a463613789f5a5ab65d26f706c3f5063be969309a27d8cdee441e435e7010d1e": {
       "first_seen": "2026-07-08",
@@ -4895,6 +5039,12 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "勾留中に男性死亡 見えてきた経緯",
       "url": "https://news.yahoo.co.jp/pickup/6588212?source=rss"
+    },
+    "a56c80760804b423f91c9f26555912288b35dfbcca84f8dc2530628474ce5ecb": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "中国が「長征8号甲」打ち上げ 衛星インターネット用低軌道衛星群を軌道投入(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/33fa8af39ffc6e7a26abcd4b463cf69bd3136300?source=rss"
     },
     "a59d2f715be126611bea72cdc2368e2bcee1472704fd2c355560df7b9211c980": {
       "first_seen": "2026-08-06",
@@ -5106,6 +5256,12 @@
       "title": "TMR西川 THE FIRST TAKEで快挙",
       "url": "https://news.yahoo.co.jp/pickup/6587972?source=rss"
     },
+    "aaf6c3a45d4abf3ab699005e4f960f8a665138dd18049153d3cde9a583ff640a": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "ディズニーとTikTok 提携を発表",
+      "url": "https://news.yahoo.co.jp/pickup/6590738?source=rss"
+    },
     "ac80cdbe53056a025e0b0f72b335cfc72beeae9f515c9b7a2090db3d74061547": {
       "first_seen": "2026-07-08",
       "source": "Cybozu Inside Out",
@@ -5207,6 +5363,12 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "【最強入門】API課金なし…ローカルLLMは「無限に頼める作業員」、ハマる仕事の3条件(ビジネス＋IT)",
       "url": "https://news.yahoo.co.jp/articles/5f80a1c5f2ce9cb9e8fd7a80588159408256d4c0?source=rss"
+    },
+    "b0347f80e32ba3c151f268a238390f64f8b28381925a9dc402747f694c76133e": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "全東信破産 539億円超焦げ付くか",
+      "url": "https://news.yahoo.co.jp/pickup/6590831?source=rss"
     },
     "b0acec2d9303f3354203578a4b84e27805fe2d51529ad38eafe59abef3aec6cf": {
       "first_seen": "2026-07-29",
@@ -5790,6 +5952,12 @@
       "title": "大腸がんの早期発見へ――「大腸CT検査」という選択肢とは(Medical Note)",
       "url": "https://news.yahoo.co.jp/articles/f551dde93c80c03a7a892914e35b5195e1c521fa?source=rss"
     },
+    "c655f5d1ad9e11a30df09cad5d895fa966df1e8039ee7ccef2a8bead30c2502b": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "縦折りスマホ「Galaxy Z Flip8」1週間レビュー 格段に使いやすくなったカバー画面と画質は買い(CNN.co.jp)",
+      "url": "https://news.yahoo.co.jp/articles/55246b28f6564d33773e41d2aaa9d00dfa2beb58?source=rss"
+    },
     "c744b1f0c5d086fbbdf991d31f7b8c45e61f88b57e0b62b701c7164289691a7d": {
       "first_seen": "2026-07-15",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -5886,6 +6054,12 @@
       "title": "米民主党、反汚職局創設を提案──トランプ氏の暗号資産事業も念頭に(NADA NEWS)",
       "url": "https://news.yahoo.co.jp/articles/a0a0ad9f47497cf93aad00e80743375fefde5b28?source=rss"
     },
+    "c9b3b0cb08f603858f131fd56ba01562fa4e80a2af0a9ba41be3df1913a29a4e": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "ANA、エクイニクスとクラウドネットワークハブを構築--ネットワーク構築期間を数週間に短縮(ZDNET Japan)",
+      "url": "https://news.yahoo.co.jp/articles/11b3fb53ed4182e102fc65c14ce8a14edc9c5229?source=rss"
+    },
     "ca099132d06629653640d5d14957b60158bf0b4a672dc5eb5df5684b21a7520c": {
       "first_seen": "2026-07-08",
       "source": "Coincheck Tech Blog",
@@ -5897,6 +6071,12 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "“伝える業務”が激変、動画AI「Seedance」が簡単すぎ…撮影ゼロで完成「神ワザ10選」(ビジネス＋IT)",
       "url": "https://news.yahoo.co.jp/articles/1f1463629e4e6f4e503d3fc186309f3b2c187ee3?source=rss"
+    },
+    "ca48f4eb558126c47090067be45df6f7304151ff43c265d519705e9c1556e5d4": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "Suica、JRE POINTのキャンペーンまとめ【8月7日最新版】 チャージや買い物で1万～2万ポイント還元(ITmedia Mobile)",
+      "url": "https://news.yahoo.co.jp/articles/3d58437c8f7ae41e9a16d35ac1f9e93c6f0bbbe9?source=rss"
     },
     "ca75d138f04de6a98f75e9e29db79ef60355f206f0a88f9b7c8c55318e191c21": {
       "first_seen": "2026-07-08",
@@ -6030,6 +6210,12 @@
       "title": "首都直下地震の緊急対策計画改定 死者を半数以下へ、火災対策など重視(Science Portal)",
       "url": "https://news.yahoo.co.jp/articles/06ada6f8b48e596791343e123d18533f263ba45c?source=rss"
     },
+    "cdf3b208c831836a5af0dba82f3653286bd38d8b267e6a60230067c3e2ef5c7b": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース トピックス IT",
+      "title": "メタAIモデルも外部システム侵入",
+      "url": "https://news.yahoo.co.jp/pickup/6590734?source=rss"
+    },
     "cdff920eca44d4443587bf819a770b658e6bfd063bf7b180229d762380785614": {
       "first_seen": "2026-08-05",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -6071,6 +6257,12 @@
       "source": "Cybozu Frontend Zenn",
       "title": "Vite+、Remix 3、React Conf 2025など: Cybozu Frontend Weekly (2025-10-14号)",
       "url": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20251017"
+    },
+    "d04e8460d977edb1299b771bfcef206a3470d7e59c96ec651630017b74c41bce": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ IT",
+      "title": "「Windows 10 Enterprise LTSC 2021」のサポート終了迫る、2027年1月12日まで ～ESUは9月1日から販売(窓の杜)",
+      "url": "https://news.yahoo.co.jp/articles/67f7a411a0cd3a268656417dbe9f63f490d95d7e?source=rss"
     },
     "d055f1096591a09c67936dafe16d25b8a22d284bdb5a67c59deb9ec9b94bc262": {
       "first_seen": "2026-07-31",
@@ -6155,6 +6347,12 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "頭がいいイルカは人がつくったルールの抜け穴を突く、しかも子どもや仲間にも共有(Forbes JAPAN)",
       "url": "https://news.yahoo.co.jp/articles/823634385ed4c646604a73f428017ce00ddb7f21?source=rss"
+    },
+    "d2a838635b70ef2386d7e7f37820728b3c6b8f73ac69cbb0e638ae151cfba9ca": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "若い人にも起こる\"くちのがん\"「AYA世代の口腔がんは\"白い病変\"として舌に現れやすい」世代特有の特徴と予後を左右する指標を解明【岡山大学など】(RSK山陽放送)",
+      "url": "https://news.yahoo.co.jp/articles/1e5df03432bec1bea95354adc78aa59bff8c6150?source=rss"
     },
     "d2adfeca7522e8fa463cbe700aebf557eb2326477abfc38050b1b6cde2af4e97": {
       "first_seen": "2026-07-11",
@@ -6786,6 +6984,12 @@
       "title": "「AIの回答、広告に寄ってない…？」ついに始まったChatGPT広告、ユーザーに残る3懸念(ビジネス＋IT)",
       "url": "https://news.yahoo.co.jp/articles/59c11d860b033eb34d6e3d8a644b1f74a79bd9ae?source=rss"
     },
+    "e87f293a5805b2f7ed7caffb523001f2cacf14d9e84874e6803c0f6e9665ecbf": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース カテゴリ 科学",
+      "title": "寝苦しくて目覚めるとだいたい午前3時。それ、人間の初期設定でした(ギズモード・ジャパン)",
+      "url": "https://news.yahoo.co.jp/articles/c02cd4b437dedb098e601049cb3aadf6984625a9?source=rss"
+    },
     "e89dbbc338f18bbca1bbd43f92ab25d26b26a6f1849871a095911aaac1f48537": {
       "first_seen": "2026-07-19",
       "source": "Yahoo!ニュース ピックアップ",
@@ -7229,6 +7433,12 @@
       "source": "Zenn",
       "title": "AI フレンドリーな CLI を開発するテクニック",
       "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly"
+    },
+    "f6079afe9545d3fb6b099cf2c493a17309b348e0121876bd61699f5da1751d93": {
+      "first_seen": "2026-08-07",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "4/30に6兆円超の介入 政府・日銀",
+      "url": "https://news.yahoo.co.jp/pickup/6590832?source=rss"
     },
     "f6313ba51389409cff9cbb776022a767fa73b19e57b9ac9c7b809cf2d487c7b1": {
       "first_seen": "2026-07-15",
