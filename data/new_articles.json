@@ -1,1 +1,384 @@
-{"articles": []}
+{
+  "articles": [
+    {
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 19:36:44 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
+      "thumbnail_url": null,
+      "title": "熊本地震 月内にも支援パッケージ",
+      "url": "https://news.yahoo.co.jp/pickup/6592098?source=rss"
+    },
+    {
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 19:27:44 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
+      "thumbnail_url": null,
+      "title": "福岡県議会 蔵内氏が議長辞任意向",
+      "url": "https://news.yahoo.co.jp/pickup/6592099?source=rss"
+    },
+    {
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 18:14:20 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
+      "thumbnail_url": null,
+      "title": "指名手配中の男 建物侵入疑い逮捕",
+      "url": "https://news.yahoo.co.jp/pickup/6592089?source=rss"
+    },
+    {
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 19:50:54 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
+      "thumbnail_url": null,
+      "title": "クマ3頭飛び出し 走行中の車衝突",
+      "url": "https://news.yahoo.co.jp/pickup/6592101?source=rss"
+    },
+    {
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 20:12:38 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
+      "thumbnail_url": null,
+      "title": "ANAとJAL 互いにダイヤを調整へ",
+      "url": "https://news.yahoo.co.jp/pickup/6592102?source=rss"
+    },
+    {
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 20:17:11 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
+      "thumbnail_url": null,
+      "title": "ロケットナウ つまみ食い動画拡散",
+      "url": "https://news.yahoo.co.jp/pickup/6592103?source=rss"
+    },
+    {
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 19:50:23 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
+      "thumbnail_url": null,
+      "title": "渡辺元智さん死去 教え子に筒香ら",
+      "url": "https://news.yahoo.co.jp/pickup/6592100?source=rss"
+    },
+    {
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 18:54:00 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
+      "thumbnail_url": null,
+      "title": "衛藤美彩&源田壮亮 第3子が誕生",
+      "url": "https://news.yahoo.co.jp/pickup/6592097?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": null,
+      "published_at": "2026-08-17 20:17:11 JST",
+      "source_display_name": "Yahoo!ニュース トピックス IT",
+      "source_name": "yahoo_it_topics",
+      "thumbnail_url": null,
+      "title": "ロケットナウ つまみ食い動画拡散",
+      "url": "https://news.yahoo.co.jp/pickup/6592103?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": null,
+      "published_at": "2026-08-17 17:53:05 JST",
+      "source_display_name": "Yahoo!ニュース トピックス IT",
+      "source_name": "yahoo_it_topics",
+      "thumbnail_url": null,
+      "title": "ゲーム婚した夫婦たち 恋した瞬間",
+      "url": "https://news.yahoo.co.jp/pickup/6592086?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": null,
+      "published_at": "2026-08-17 17:09:33 JST",
+      "source_display_name": "Yahoo!ニュース トピックス IT",
+      "source_name": "yahoo_it_topics",
+      "thumbnail_url": null,
+      "title": "「comico」来年1月でサービス終了",
+      "url": "https://news.yahoo.co.jp/pickup/6592078?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": null,
+      "published_at": "2026-08-17 00:00:50 JST",
+      "source_display_name": "Yahoo!ニュース トピックス IT",
+      "source_name": "yahoo_it_topics",
+      "thumbnail_url": null,
+      "title": "オープンAI 経営幹部が相次ぎ退社",
+      "url": "https://news.yahoo.co.jp/pickup/6592006?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "引っ越し多めならイケアへ行けあ。 人生の中で何度起こるかは人それぞれですが、わりとビッグイベントでしかもけっこう面倒くさいのが引っ越し。いつか引っ越すかもしれないことを考えると、家具の購入は気が引け",
+      "published_at": "2026-08-17 20:30:02 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "引っ越しに最適化されたイケア。パッと運んですぐ使える(ギズモード・ジャパン)",
+      "url": "https://news.yahoo.co.jp/articles/7e083fc3d889bef6959aa31f6dd1f64a44715e01?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "ミライロとヤマト運輸は17日、デジタル障害者手帳「ミライロID」と個人向け会員サービス「クロネコメンバーズ」の連携サービスを提供開始した。ミライロIDの利用者が、荷物の配達時に希望する対応を事前登録で",
+      "published_at": "2026-08-17 20:25:46 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "ヤマト、障害のある人の「待ってほしい」などの要望に対応 ミライロID連携(Impress Watch)",
+      "url": "https://news.yahoo.co.jp/articles/edd0ffc878279a1d6e5edb7c9161cd3c08ec614a?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "楽天グループが、独防衛AI企業ヘルシングと提携し、攻撃型ドローン「HX-2」の日本導入を支援することが17日、明らかになった。陸上自衛隊は同機を実証中で、試験は9月末まで続く見通し。楽天は政府との調",
+      "published_at": "2026-08-17 20:00:10 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "楽天、攻撃型ドローンの自衛隊導入を支援 独ヘルシングと防衛分野で連携へ(ビジネス＋IT)",
+      "url": "https://news.yahoo.co.jp/articles/58d0279bd0b65e1233cfb54b328f96469d112981?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "アップルはAIを搭載した新しい音声アシスタント「Siri」に最新のニュースや情報を取り込むため、報道各社と契約交渉を進めているという。米紙The Wall Street Journalが8月12日に",
+      "published_at": "2026-08-17 20:00:00 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "アップル、Siriのニュース対応で報道各社に150億円超支払いか(アスキー)",
+      "url": "https://news.yahoo.co.jp/articles/9e24bd3ae76242c55a3b5d5eed4d2887b99a718e?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "アップルは2026年9月に発表するとうわさの「iPhone 18 Pro」シリーズに搭載する有機ELディスプレーについて、調達価格を前モデルから約4割引き下げたという。韓国メディアDealSiteが",
+      "published_at": "2026-08-17 20:00:00 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "アップル「iPhone 18 Pro」有機ELパネル調達価格を約4割引き下げ?(アスキー)",
+      "url": "https://news.yahoo.co.jp/articles/f2ec6e18b0b16ab45018d1e123328f3e0c848687?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "アップルが9月に発表するとうわさの初の折りたたみ式iPhone「iPhone Ultra」は、発表されても当初は米国のみでの発売となり、その他の国では数ヵ月待たされる可能性があるという。オーストラリ",
+      "published_at": "2026-08-17 20:00:00 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "アップル初の折りたたみ「iPhone Ultra」、米国以外は発売まで数ヵ月待ち？(アスキー)",
+      "url": "https://news.yahoo.co.jp/articles/5b19fb72706f91d4e0f60571c5e7e78e304b6d2d?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "ローソンとネットスターズは8月17日、東京・大崎のローソンゲートシティ大崎アトリウム店で、ネットスターズの店舗向けステーブルコイン決済サービス「Stablecoin Pay（ステーブルコイン・ペイ）」",
+      "published_at": "2026-08-17 19:55:11 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は(NADA NEWS)",
+      "url": "https://news.yahoo.co.jp/articles/a3c9e8fe4127a6f31798de2c58aa13883bbb52cc?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "名古屋市交通局は9月3日、名古屋市営地下鉄各線においてクレジットカード／デビットカード／プリペイドカードのタッチ決済（EMVコンタクトレス決済）を利用した乗車サービス「クレカ乗車（タッチ決済）」を開",
+      "published_at": "2026-08-17 19:40:09 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "名古屋市営地下鉄でクレカの「タッチ決済乗車」開始 9月3日から 名鉄の対応駅への直通乗車も可(ITmedia Mobile)",
+      "url": "https://news.yahoo.co.jp/articles/a58234f1a3b75bc068afbde845bccc5c44b425c9?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "AIに論文を書かせてみようとした人は多いのではないでしょうか。 わたしも試したことがありますが、研究してみたいテーマをざっくり伝えるだけで、なんだかそれっぽく感じられる仕上がりのものがあっという間に",
+      "published_at": "2026-08-17 19:30:02 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "もうAIは自分だけで論文を書ける。だからこそ起こりつつある「困った事態」(ギズモード・ジャパン)",
+      "url": "https://news.yahoo.co.jp/articles/9cd3381610be6b5fa48373aa72fd30352c58b38d?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "Fastlane Japan（ファストレーン）は、最新ガジェットが集まる専門店「&count（エンカウント）」を8月20日（木）にオープンする。扱うジャンルは最新のAIデバイスやオーディオ製品",
+      "published_at": "2026-08-17 19:24:50 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "最先端のガジェットが集まる専門店「&count」が渋谷に8/20オープン。Nothingや水月雨など展示(PHILE WEB)",
+      "url": "https://news.yahoo.co.jp/articles/5a896b55bb9d5aa8f215168e2b5c1b768dd3f47e?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "CASC（中国航天科技集団）は2026年8月16日、中国・海南省の海南商業航天発射場から「長征12号」ロケットを打ち上げ、「衛星インターネット低軌道第24組衛星」を所定の軌道へ投入したと発表しました。",
+      "published_at": "2026-08-17 20:16:18 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "中国が「長征12号」打ち上げ 衛星インターネット低軌道第24組衛星を軌道投入(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/f39e928a757a6ef06790e4c749c1997c1408efac?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "2010年代前半、インターネット上の誰もが、ある小さくみすぼらしい肉食獣のとりこになった──その動物の名前は、ラーテル（日本での別名はミツアナグマ、学名：Mellivora capensis）。 爆",
+      "published_at": "2026-08-17 17:00:00 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "毒ヘビもハチの巣も食べてしまう、小さな猛獣ラーテルの秘密(Forbes JAPAN)",
+      "url": "https://news.yahoo.co.jp/articles/640ed2ed4914e4aa2f314276e33638fbf2065e42?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "危険な暑さが続く中、熱中症に注意が必要なのは、人間だけではありません。 イヌやネコなど、ペットも熱中症に注意が必要です。 お盆明けも厳しい暑さが続く東海地方。 17日午後3時までの最高気温は",
+      "published_at": "2026-08-17 16:47:01 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "大切なペットを熱中症からどう守る 犬の散歩は地面の温度に注意 猫も室内で発症の危険(メ〜テレ（名古屋テレビ）)",
+      "url": "https://news.yahoo.co.jp/articles/d4b6cfbf5c3b1378bfa28cb51a13381091dee06a?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "令和8年熊本地震など、各地で地震が相次ぐ中、物流倉庫の荷物を被災しないようにするための防震構法の開発に、金沢工業大学が産学連携で成功した。床に球体の人工骨材をまいた上に敷板を乗せ、後はパレット敷きの",
+      "published_at": "2026-08-17 15:52:17 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "免震並みの物流倉庫を安価で実現する手法開発 球体の人工骨材活用 金沢工業大(Science Portal)",
+      "url": "https://news.yahoo.co.jp/articles/2d1eb1beb84a4927dc7e17f8d4bbb44a40907b96?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "京都大は昨年のノーベル化学賞を受賞した北川進特別教授が開発した「金属有機構造体（MOF）」の研究支援に向け、MOFをモチーフとしたクリアファイルを大学の生活協同組合ショップなどで一般販売している。北川",
+      "published_at": "2026-08-17 14:42:47 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "京大、金属有機構造体デザインのクリアファイルを発売 北川進特別教授がノーベル賞受賞(産経新聞)",
+      "url": "https://news.yahoo.co.jp/articles/457140140a672b27ee6d01f543b92e52475562f2?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "SpaceX（スペースX）は日本時間2026年8月16日、ケープカナベラル宇宙軍基地から「Falcon 9（ファルコン9）」ロケットを打ち上げ、Globalstar（グローバルスター）の通信衛星8機を",
+      "published_at": "2026-08-17 12:04:04 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "スペースXがグローバルスターの通信衛星8機を打ち上げ(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/098d8b4e0aa3d9d67a8ed741e359168fc29db91b?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "こちらは、ハッブル宇宙望遠鏡が観測した散開星団「NGC 6791」のクローズアップです。NGC 6791はこと座の方向、地球から約1万3300光年先にあります。 NASA（アメリカ航空宇宙局）による",
+      "published_at": "2026-08-17 11:51:16 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "本来よりも若く見える白色矮星たち ハッブル宇宙望遠鏡が観測した散開星団「NGC 6791」(sorae 宇宙へのポータルサイト)",
+      "url": "https://news.yahoo.co.jp/articles/63644893a74b0ef4a39ee2d53e26d3816d900faa?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "「がん克服へ向けた知の挑戦」をテーマに、2026年9月24〜26日、国立京都国際会館（京都市左京区）で第85回日本癌学会学術総会が開催されます。本総会では、がん研究に関わる魅力的なプログラムが多数用意",
+      "published_at": "2026-08-17 11:50:39 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "第85回日本癌学会学術総会、9月24日から京都で――注目プログラムを紹介（後編）(Medical Note)",
+      "url": "https://news.yahoo.co.jp/articles/b52652583cae8c4119ee59fe4eab222e76b6bbed?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "第85回日本癌学会学術総会が2026年9月24〜26日、国立京都国際会館（京都市左京区）で開催されます。今大会のテーマは「がん克服へ向けた知の挑戦」。 がんは依然として多くの人の命に関わる病気ですが",
+      "published_at": "2026-08-17 11:50:02 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "がん克服へ向けた「知の挑戦」――小川 誠司先生に聞くがん研究の歩み（前編）(Medical Note)",
+      "url": "https://news.yahoo.co.jp/articles/9d140dadb1b6a0013ae9906fc207e25ca82598cc?source=rss"
+    },
+    {
+      "category": "science",
+      "description": "先日、Radical Numerics（ラディカル・ニューメリクス）の共同創業者で最高経営責任者（CEO）のエリック・グエンに話を聞いた。彼はAIにDNAを「書く」ことを教えた立役者の1人であり、狙っ",
+      "published_at": "2026-08-17 10:30:00 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ 科学",
+      "source_name": "yahoo_science_category",
+      "thumbnail_url": null,
+      "title": "AIは「ディープフェイク・ウイルス」を作れるようになった──しかし、私たちに備えはない(Forbes JAPAN)",
+      "url": "https://news.yahoo.co.jp/articles/59464864739a55ac96cb849b71d4b3165dacadf2?source=rss"
+    },
+    {
+      "category": "tech",
+      "description": "OAuth における代表的な攻撃手法とその対抗策を最新のベストプラクティスに基づいて解説します。",
+      "published_at": "2026-08-17 03:37:30 JST",
+      "source_display_name": "Zenn",
+      "source_name": "zenn",
+      "thumbnail_url": null,
+      "title": "攻撃手法から学ぶ OAuth セキュリティベストプラクティス",
+      "url": "https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp"
+    },
+    {
+      "category": "tech",
+      "description": "皆さんは仕事でどれぐらいのアプリケーションを使用するでしょうか。 GitHub、Slack、Notion、Outlook/Gmail・・・などの SaaS はもちろん、社内の業務システムもあるでしょう。AI エージェントに仕事を任せるとき、これらのサービスと連携させたくなるのは自然です。その時ハードルになることの一つが、連携させるための「認可」です。GitHub のための認可、Slack のための認可、認可、認可・・・と手間が増えるのは避けたいものです。 本記事では、AI エージェントと連携するサービスが増えても認証を最初の一回のみで OK とする方法について解説します。もちろん、これは...",
+      "published_at": "2026-08-16 22:18:26 JST",
+      "source_display_name": "Zenn",
+      "source_name": "zenn",
+      "thumbnail_url": null,
+      "title": "AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで",
+      "url": "https://zenn.dev/aws_japan/articles/2b62886aa8735e"
+    },
+    {
+      "category": "tech",
+      "description": "はじめに Solid 2.0 が RC になりました。公式ブログを読みつつ触ってみましたので共有します。 https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal 触ってみた感想を先に言うと、「これ Async React だな」でした。React が use() や startTransition や Suspense に分けて積み上げてきたことを、Solid 2.0 は いつもの createMemo（React でいう useMemo みたいな派生値。）が Promise を返せるという一点でやっています。 この記事では、...",
+      "published_at": "2026-08-16 18:47:15 JST",
+      "source_display_name": "Zenn",
+      "source_name": "zenn",
+      "thumbnail_url": null,
+      "title": "Hello, Solid 2.0 ! —— use() も startTransition もない Async React !?",
+      "url": "https://zenn.dev/r1013t/articles/37669abac10840"
+    },
+    {
+      "category": "tech",
+      "description": "Keychronとギズモード・ジャパンが共同開発したKeychron Orca echoのクラウドファンディングが6億円に迫るなど、分割キーボードが最近盛り上がってきていますね！ 私は、昨今の盛り上がりの火付け役となったと思われるCornixを使っているのですが、いろいろと試行錯誤しながら設定を変えてきました。変更するたびに毎回「今回は完璧だな！」と思うのですが、その後にさらに良い設定を思いついたり、変更してみたら不都合が生じたりして、何度も何度も変更してきました。 今回こそ完璧にできたと思うので、ここにその最強の設定をまとめておきます。もうこれ以上の設定はないはずなので、ここから変更す...",
+      "published_at": "2026-08-16 18:30:09 JST",
+      "source_display_name": "Zenn",
+      "source_name": "zenn",
+      "thumbnail_url": null,
+      "title": "ぼくのかんがえたさいきょうのCornixせってい ~最小限の運指で全ての操作を完結させ、モニターを1枚減らせた究極のキーマップ~",
+      "url": "https://zenn.dev/ncdc/articles/my-cornix-setting"
+    },
+    {
+      "category": "tech",
+      "description": "AlpacaTechの北山です。 今回は大作、かつ、かなりマニアックな話題なので、興味のある人だけお付き合いください。 発端は以下のXのやり取りでした。 https://x.com/gamella/status/2087753029638611107?s=20 これまでJPX総研様と三井物産様のKaggle金融コンペで問題設計を担当してきました。それぞれの設計の裏側は、個別の記事にまとめています。 https://zenn.dev/gamella/articles/eaf7fe5a96bdf0 https://zenn.dev/gamella/articles/7e944bd18cdbe...",
+      "published_at": "2026-08-16 13:43:06 JST",
+      "source_display_name": "Zenn",
+      "source_name": "zenn",
+      "thumbnail_url": null,
+      "title": "botterのためのKaggle金融予測コンペの設計史",
+      "url": "https://zenn.dev/gamella/articles/f5e6bddab37c8d"
+    },
+    {
+      "category": "tech",
+      "description": "こんにちは、まっともぉん です。 この記事では、プログラムを1行も書かずに、ターミナルで AI に話しかけるだけで弾幕ゲームを完成させます。 こんな方におすすめです！ プログラミングはできないけど、ゲームを作ってみたい！ AI でゲームが作れるって聞くけど、実際どこまでいけるの？ AI に何をどう頼めばゲームになるのか知りたい Godot を触ってみたいけど、何から始めればいいかわからない！ 0. ひとことで言うと？ 「日本語でお願いするだけで、AI が Godot のゲームを組み上げてくれる」 という話です。 あなたがやることは、ターミナルに日本語を打つことだけ。ファイルを作る...",
+      "published_at": "2026-08-16 11:56:54 JST",
+      "source_display_name": "Zenn",
+      "source_name": "zenn",
+      "thumbnail_url": null,
+      "title": "【もぉん流】Godot × AI : 会話だけでゲーム制作！",
+      "url": "https://zenn.dev/matsu_friends/articles/61bed2ae1c6b91"
+    }
+  ]
+}
