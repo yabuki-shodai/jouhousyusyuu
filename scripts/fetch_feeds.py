@@ -395,10 +395,12 @@ def compact_article_for_model(article: Article) -> dict[str, Any]:
 def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[dict[str, Any]] | None:
     model_config = preferences.get("gemini", {})
     if not model_config.get("enabled", False):
+        print("gemini fallback: disabled in preferences", file=sys.stderr)
         return None
 
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
+        print("gemini fallback: GEMINI_API_KEY is empty", file=sys.stderr)
         return None
 
     max_items = int(preferences.get("max_summary_items", 10))
@@ -463,6 +465,9 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
         items = parsed.get("items", [])
         if isinstance(items, list):
             return items[:max_items]
+    except urllib.error.HTTPError as error:
+        body = error.read().decode("utf-8", errors="replace")
+        print(f"gemini fallback: HTTP {error.code}: {body}", file=sys.stderr)
     except Exception as error:  # noqa: BLE001
         print(f"gemini fallback: {error}", file=sys.stderr)
     return None
