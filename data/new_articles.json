@@ -1,14 +1,3 @@
 {
-  "articles": [
-    {
-      "category": "news",
-      "description": null,
-      "published_at": "2026-08-17 20:10:30 JST",
-      "source_display_name": "Yahoo!ニュース ピックアップ",
-      "source_name": "yahoo_top_picks",
-      "thumbnail_url": null,
-      "title": "シン・山の神卒業 青学5区候補は",
-      "url": "https://news.yahoo.co.jp/pickup/6592093?source=rss"
-    }
-  ]
+  "articles": []
 }
