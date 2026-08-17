@@ -1,24 +1,14 @@
 {
   "articles": [
     {
-      "category": "tech",
-      "description": "対象読者 Codex を効率よく使う方法を知りたい方 ChatGPT を契約しているけど、開発では Codex ばかり使っている方 Claude Code を使っているけど、Codex にも興味がある方 はじめに Codex を使って開発していると、調査や実装計画、コード変更、レビューなど、さまざまな工程をそのまま Codex にお願いしたくなります。また、Codex には利用枠があるため、「このタスク、完走できるかな？」「あと○日あるけど大丈夫かな？」と気になることもあります。 そこで私は、作業内容に応じて ChatGPT と Codex を使い分けています。GitHubプ...",
-      "published_at": "2026-08-17 07:30:05 JST",
-      "source_display_name": "Zenn",
-      "source_name": "zenn",
+      "category": "news",
+      "description": null,
+      "published_at": "2026-08-17 20:10:30 JST",
+      "source_display_name": "Yahoo!ニュース ピックアップ",
+      "source_name": "yahoo_top_picks",
       "thumbnail_url": null,
-      "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
-      "url": "https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e"
-    },
-    {
-      "category": "tech",
-      "description": "外出中に自宅のDGX Sparkが止まり、家族に電源を入れ直してもらうことがありました。 SSHもTailscaleも届かない状態になると、ソフトウェア側からできることはありません。そこで、SwitchBot プラグミニ（JP）を使って遠隔から電源を入れ直す構成を検討し、消費電力の記録を試しました。 SwitchBot プラグミニを選んだ理由 SwitchBot プラグミニ（JP）は、次の機能を1台で使えます。 Wi-Fi内蔵で、ハブなしでも外出先からON/OFFできる リアルタイムの消費電力と過去の履歴を確認できる 定格は100V・最大15A・1500W Bluetoothにも対...",
-      "published_at": "2026-08-16 22:25:24 JST",
-      "source_display_name": "Zenn",
-      "source_name": "zenn",
-      "thumbnail_url": null,
-      "title": "DGX SparkをSwitchBotで遠隔復旧する構成と電力測定を試した",
-      "url": "https://zenn.dev/karaage0703/articles/dgx-spark-switchbot-power-monitor"
+      "title": "シン・山の神卒業 青学5区候補は",
+      "url": "https://news.yahoo.co.jp/pickup/6592093?source=rss"
     }
   ]
 }

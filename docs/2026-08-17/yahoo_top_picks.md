@@ -3,7 +3,7 @@
 - 取得元: Yahoo!ニュース ピックアップ
 - カテゴリ: news
 - フィードURL: https://news.yahoo.co.jp/rss/topics/top-picks.xml
-- 取得日時: 2026-08-17 20:10:29 JST
+- 取得日時: 2026-08-17 20:16:09 JST
 - 取得件数: 8
 
 ## 記事一覧
@@ -33,9 +33,9 @@
 - 公開日時: 2026-08-17 17:41:04 JST
 - サムネイル: -
 
-### 6. [葬儀の料金複雑化 トラブル絶えず](https://news.yahoo.co.jp/pickup/6592088?source=rss)
+### 6. [シン・山の神卒業 青学5区候補は](https://news.yahoo.co.jp/pickup/6592093?source=rss)
 
-- 公開日時: 2026-08-17 18:12:15 JST
+- 公開日時: 2026-08-17 20:10:30 JST
 - サムネイル: -
 
 ### 7. [渡辺元智さん死去 教え子に筒香ら](https://news.yahoo.co.jp/pickup/6592100?source=rss)
