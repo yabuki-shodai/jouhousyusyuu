@@ -3,52 +3,52 @@
     {
       "category": "news",
       "description": null,
-      "published_at": "2026-08-17 19:36:44 JST",
+      "published_at": "2026-08-17 18:12:15 JST",
       "source_display_name": "Yahoo!ニュース ピックアップ",
       "source_name": "yahoo_top_picks",
       "thumbnail_url": null,
-      "title": "熊本地震 月内にも支援パッケージ",
-      "url": "https://news.yahoo.co.jp/pickup/6592098?source=rss"
-    },
-    {
-      "category": "news",
-      "description": null,
-      "published_at": "2026-08-17 16:33:19 JST",
-      "source_display_name": "Yahoo!ニュース ピックアップ",
-      "source_name": "yahoo_top_picks",
-      "thumbnail_url": null,
-      "title": "楽天 迎撃ドローンで独企業と提携",
-      "url": "https://news.yahoo.co.jp/pickup/6592073?source=rss"
-    },
-    {
-      "category": "news",
-      "description": null,
-      "published_at": "2026-08-17 19:50:54 JST",
-      "source_display_name": "Yahoo!ニュース ピックアップ",
-      "source_name": "yahoo_top_picks",
-      "thumbnail_url": null,
-      "title": "クマ3頭飛び出し 走行中の車衝突",
-      "url": "https://news.yahoo.co.jp/pickup/6592101?source=rss"
-    },
-    {
-      "category": "news",
-      "description": null,
-      "published_at": "2026-08-17 19:50:23 JST",
-      "source_display_name": "Yahoo!ニュース ピックアップ",
-      "source_name": "yahoo_top_picks",
-      "thumbnail_url": null,
-      "title": "渡辺元智さん死去 教え子に筒香ら",
-      "url": "https://news.yahoo.co.jp/pickup/6592100?source=rss"
+      "title": "葬儀の料金複雑化 トラブル絶えず",
+      "url": "https://news.yahoo.co.jp/pickup/6592088?source=rss"
     },
     {
       "category": "tech_news",
-      "description": "ローソンとネットスターズは8月17日、東京・大崎のローソンゲートシティ大崎アトリウム店で、ネットスターズの店舗向けステーブルコイン決済サービス「Stablecoin Pay（ステーブルコイン・ペイ）」",
-      "published_at": "2026-08-17 19:55:11 JST",
+      "description": "楽天グループが、独防衛AI企業ヘルシングと提携し、攻撃型ドローン「HX-2」の日本導入を支援することが17日、明らかになった。陸上自衛隊は同機を実証中で、試験は9月末まで続く見通し。楽天は政府との調",
+      "published_at": "2026-08-17 20:00:10 JST",
       "source_display_name": "Yahoo!ニュース カテゴリ IT",
       "source_name": "yahoo_it_category",
       "thumbnail_url": null,
-      "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は(NADA NEWS)",
-      "url": "https://news.yahoo.co.jp/articles/a3c9e8fe4127a6f31798de2c58aa13883bbb52cc?source=rss"
+      "title": "楽天、攻撃型ドローンの自衛隊導入を支援 独ヘルシングと防衛分野で連携へ(ビジネス＋IT)",
+      "url": "https://news.yahoo.co.jp/articles/58d0279bd0b65e1233cfb54b328f96469d112981?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "アップルはAIを搭載した新しい音声アシスタント「Siri」に最新のニュースや情報を取り込むため、報道各社と契約交渉を進めているという。米紙The Wall Street Journalが8月12日に",
+      "published_at": "2026-08-17 20:00:00 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "アップル、Siriのニュース対応で報道各社に150億円超支払いか(アスキー)",
+      "url": "https://news.yahoo.co.jp/articles/9e24bd3ae76242c55a3b5d5eed4d2887b99a718e?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "アップルは2026年9月に発表するとうわさの「iPhone 18 Pro」シリーズに搭載する有機ELディスプレーについて、調達価格を前モデルから約4割引き下げたという。韓国メディアDealSiteが",
+      "published_at": "2026-08-17 20:00:00 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "アップル「iPhone 18 Pro」有機ELパネル調達価格を約4割引き下げ?(アスキー)",
+      "url": "https://news.yahoo.co.jp/articles/f2ec6e18b0b16ab45018d1e123328f3e0c848687?source=rss"
+    },
+    {
+      "category": "tech_news",
+      "description": "アップルが9月に発表するとうわさの初の折りたたみ式iPhone「iPhone Ultra」は、発表されても当初は米国のみでの発売となり、その他の国では数ヵ月待たされる可能性があるという。オーストラリ",
+      "published_at": "2026-08-17 20:00:00 JST",
+      "source_display_name": "Yahoo!ニュース カテゴリ IT",
+      "source_name": "yahoo_it_category",
+      "thumbnail_url": null,
+      "title": "アップル初の折りたたみ「iPhone Ultra」、米国以外は発売まで数ヵ月待ち？(アスキー)",
+      "url": "https://news.yahoo.co.jp/articles/5b19fb72706f91d4e0f60571c5e7e78e304b6d2d?source=rss"
     }
   ]
 }
