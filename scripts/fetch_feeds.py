@@ -434,8 +434,9 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
         ],
         "generationConfig": {
             "temperature": 0.2,
-            "maxOutputTokens": 2000,
+            "maxOutputTokens": int(model_config.get("max_tokens", 8192)),
             "responseMimeType": "application/json",
+            "thinkingConfig": {"thinkingBudget": 0},
         },
     }
 
@@ -459,7 +460,12 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
     try:
         with urllib.request.urlopen(request, timeout=60) as response:
             response_data = json.loads(response.read().decode("utf-8"))
-        content = response_data["candidates"][0]["content"]["parts"][0]["text"]
+        candidate = response_data["candidates"][0]
+        finish_reason = candidate.get("finishReason")
+        if finish_reason == "MAX_TOKENS":
+            print(f"gemini fallback: response truncated (finishReason=MAX_TOKENS, {len(payload_articles)} candidates)", file=sys.stderr)
+            return None
+        content = candidate["content"]["parts"][0]["text"]
         content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
         parsed = json.loads(content)
         items = parsed.get("items", [])
