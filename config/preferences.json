@@ -46,9 +46,9 @@
     "published_within_days": 2,
     "max_ai_candidates": 40
   },
-  "github_models": {
+  "gemini": {
     "enabled": true,
-    "endpoint": "https://models.github.ai/inference/chat/completions",
-    "model": "openai/gpt-4.1-mini"
+    "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
+    "model": "gemini-2.0-flash"
   }
 }

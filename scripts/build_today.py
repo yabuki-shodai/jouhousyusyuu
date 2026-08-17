@@ -193,44 +193,60 @@ def keyword_select(articles: list[Article], prefs: dict[str, Any]) -> list[dict[
 
 
 def model_select(articles: list[Article], prefs: dict[str, Any]) -> list[dict[str, Any]]:
-    config = prefs.get("github_models", {})
+    config = prefs.get("gemini", {})
     if not config.get("enabled", False):
         raise RuntimeError("model disabled")
-    token = os.environ.get("GITHUB_TOKEN")
-    if not token:
-        raise RuntimeError("GITHUB_TOKEN is empty")
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise RuntimeError("GEMINI_API_KEY is empty")
 
+    model_name = str(config.get("model", "gemini-2.0-flash"))
     payload = {
-        "model": str(config.get("model", "openai/gpt-4.1-mini")),
-        "temperature": 0.2,
-        "messages": [
-            {
-                "role": "system",
-                "content": "記事本文は読まず、タイトル・出典・カテゴリ・RSS概要だけで興味がありそうな記事を選び、JSONのみ返してください。形式は {\"items\":[{\"id\":\"...\",\"reason\":\"...\",\"keywords\":[\"...\"]}]} です。",
-            },
+        "system_instruction": {
+            "parts": [
+                {
+                    "text": "記事本文は読まず、タイトル・出典・カテゴリ・RSS概要だけで興味がありそうな記事を選び、JSONのみ返してください。形式は {\"items\":[{\"id\":\"...\",\"reason\":\"...\",\"keywords\":[\"...\"]}]} です。",
+                }
+            ],
+        },
+        "contents": [
             {
                 "role": "user",
-                "content": json.dumps(
+                "parts": [
                     {
-                        "interests": prefs.get("interests", []),
-                        "exclude_keywords": prefs.get("exclude_keywords", []),
-                        "max_summary_items": prefs.get("max_summary_items", 10),
-                        "articles": [a.__dict__ for a in articles],
-                    },
-                    ensure_ascii=False,
-                ),
-            },
+                        "text": json.dumps(
+                            {
+                                "interests": prefs.get("interests", []),
+                                "exclude_keywords": prefs.get("exclude_keywords", []),
+                                "max_summary_items": prefs.get("max_summary_items", 10),
+                                "articles": [a.__dict__ for a in articles],
+                            },
+                            ensure_ascii=False,
+                        ),
+                    }
+                ],
+            }
         ],
+        "generationConfig": {
+            "temperature": 0.2,
+            "responseMimeType": "application/json",
+        },
     }
+    endpoint = str(
+        config.get(
+            "endpoint",
+            f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent",
+        )
+    )
     req = urllib.request.Request(
-        str(config.get("endpoint", "https://models.github.ai/inference/chat/completions")),
+        f"{endpoint}?key={api_key}",
         data=json.dumps(payload).encode("utf-8"),
-        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+        headers={"Content-Type": "application/json"},
         method="POST",
     )
     with urllib.request.urlopen(req, timeout=60) as res:
         data = json.loads(res.read().decode("utf-8"))
-    content = data["choices"][0]["message"]["content"]
+    content = data["candidates"][0]["content"]["parts"][0]["text"]
     selected = json.loads(content).get("items", [])
     article_map = {a.id: a for a in articles}
     result = []
@@ -257,9 +273,9 @@ def select_articles(articles: list[Article], prefs: dict[str, Any]) -> tuple[lis
     try:
         selected = model_select(articles, prefs)
         if selected:
-            return selected, "github_models"
+            return selected, "gemini"
     except Exception as e:
-        print(f"GitHub Models failed. fallback used: {e}", file=sys.stderr)
+        print(f"Gemini failed. fallback used: {e}", file=sys.stderr)
     return keyword_select(articles, prefs), "keyword_fallback"
 
 

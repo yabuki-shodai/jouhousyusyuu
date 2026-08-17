@@ -90,7 +90,7 @@ def load_preferences() -> dict[str, Any]:
             "max_summary_items": 10,
             "history_retention_days": 90,
             "today_summary": {"published_within_days": 2, "max_ai_candidates": 40},
-            "github_models": {"enabled": False},
+            "gemini": {"enabled": False},
         },
     )
 
@@ -392,13 +392,13 @@ def compact_article_for_model(article: Article) -> dict[str, Any]:
     }
 
 
-def call_github_models(articles: list[Article], preferences: dict[str, Any]) -> list[dict[str, Any]] | None:
-    model_config = preferences.get("github_models", {})
+def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[dict[str, Any]] | None:
+    model_config = preferences.get("gemini", {})
     if not model_config.get("enabled", False):
         return None
 
-    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    if not token:
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
         return None
 
     max_items = int(preferences.get("max_summary_items", 10))
@@ -412,28 +412,42 @@ def call_github_models(articles: list[Article], preferences: dict[str, Any]) -> 
     }
 
     request_body = {
-        "model": str(model_config.get("model", "openai/gpt-4.1-mini")),
-        "messages": [
-            {
-                "role": "system",
-                "content": "あなたは技術記事の選別担当です。本文要約はしません。タイトル、出典、カテゴリ、RSS概要だけから、ユーザーが興味を持ちそうな記事を選び、JSONだけを返してください。",
-            },
+        "system_instruction": {
+            "parts": [
+                {
+                    "text": "あなたは技術記事の選別担当です。本文要約はしません。タイトル、出典、カテゴリ、RSS概要だけから、ユーザーが興味を持ちそうな記事を選び、JSONだけを返してください。",
+                }
+            ],
+        },
+        "contents": [
             {
                 "role": "user",
-                "content": "次の記事候補から読む価値が高そうなものを選んでください。返却形式は {\"items\":[{\"title\":...,\"url\":...,\"source\":...,\"published_at\":...,\"reason\":...,\"keywords\":[...]}]} のJSONのみ。\n"
-                + json.dumps(prompt, ensure_ascii=False),
-            },
+                "parts": [
+                    {
+                        "text": "次の記事候補から読む価値が高そうなものを選んでください。返却形式は {\"items\":[{\"title\":...,\"url\":...,\"source\":...,\"published_at\":...,\"reason\":...,\"keywords\":[...]}]} のJSONのみ。\n"
+                        + json.dumps(prompt, ensure_ascii=False),
+                    }
+                ],
+            }
         ],
-        "temperature": 0.2,
-        "max_tokens": 2000,
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 2000,
+            "responseMimeType": "application/json",
+        },
     }
 
-    endpoint = str(model_config.get("endpoint", "https://models.github.ai/inference/chat/completions"))
+    model_name = str(model_config.get("model", "gemini-2.0-flash"))
+    endpoint = str(
+        model_config.get(
+            "endpoint",
+            f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent",
+        )
+    )
     request = urllib.request.Request(
-        endpoint,
+        f"{endpoint}?key={api_key}",
         data=json.dumps(request_body).encode("utf-8"),
         headers={
-            "Authorization": f"Bearer {token}",
             "Content-Type": "application/json",
             "Accept": "application/json",
         },
@@ -443,14 +457,14 @@ def call_github_models(articles: list[Article], preferences: dict[str, Any]) -> 
     try:
         with urllib.request.urlopen(request, timeout=60) as response:
             response_data = json.loads(response.read().decode("utf-8"))
-        content = response_data["choices"][0]["message"]["content"]
+        content = response_data["candidates"][0]["content"]["parts"][0]["text"]
         content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
         parsed = json.loads(content)
         items = parsed.get("items", [])
         if isinstance(items, list):
             return items[:max_items]
     except Exception as error:  # noqa: BLE001
-        print(f"github models fallback: {error}", file=sys.stderr)
+        print(f"gemini fallback: {error}", file=sys.stderr)
     return None
 
 
@@ -471,7 +485,7 @@ def render_today_markdown(
         f"- 全取得記事数: {all_articles_count}",
         f"- 対象期間内の記事数: {recent_articles_count}",
         f"- 新規記事数: {len(new_articles)}",
-        f"- 選定方式: {'GitHub Models' if used_model else 'キーワード一致フォールバック'}",
+        f"- 選定方式: {'Gemini' if used_model else 'キーワード一致フォールバック'}",
         "",
         "## 今日見る候補",
         "",
@@ -539,7 +553,7 @@ def main() -> int:
     new_articles = split_new_articles(recent_articles, history)
     write_json(NEW_ARTICLES_PATH, {"articles": [asdict(article) for article in new_articles]})
 
-    model_items = call_github_models(new_articles, preferences) if new_articles else None
+    model_items = call_gemini(new_articles, preferences) if new_articles else None
     used_model = model_items is not None
     selected_items = model_items or fallback_select_articles(new_articles, preferences)
     today_markdown = render_today_markdown(
