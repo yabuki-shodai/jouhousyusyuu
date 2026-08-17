@@ -3,7 +3,7 @@
 - 取得元: Yahoo!ニュース カテゴリ 科学
 - カテゴリ: science
 - フィードURL: https://news.yahoo.co.jp/rss/categories/science.xml
-- 取得日時: 2026-08-17 20:08:09 JST
+- 取得日時: 2026-08-17 20:10:29 JST
 - 取得件数: 10
 
 ## 記事一覧
