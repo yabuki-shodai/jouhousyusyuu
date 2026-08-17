@@ -414,7 +414,7 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
     }
 
     request_body = {
-        "system_instruction": {
+        "systemInstruction": {
             "parts": [
                 {
                     "text": "あなたは技術記事の選別担当です。本文要約はしません。タイトル、出典、カテゴリ、RSS概要だけから、ユーザーが興味を持ちそうな記事を選び、JSONだけを返してください。",
@@ -436,7 +436,7 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
             "temperature": 0.2,
             "maxOutputTokens": int(model_config.get("max_tokens", 8192)),
             "responseMimeType": "application/json",
-            "thinkingConfig": {"thinkingBudget": 0},
+            "thinkingConfig": {"thinkingLevel": str(model_config.get("thinking_level", "low"))},
         },
     }
 

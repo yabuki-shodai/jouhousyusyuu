@@ -202,7 +202,7 @@ def model_select(articles: list[Article], prefs: dict[str, Any]) -> list[dict[st
 
     model_name = str(config.get("model", "gemini-3.6-flash"))
     payload = {
-        "system_instruction": {
+        "systemInstruction": {
             "parts": [
                 {
                     "text": "記事本文は読まず、タイトル・出典・カテゴリ・RSS概要だけで興味がありそうな記事を選び、JSONのみ返してください。形式は {\"items\":[{\"id\":\"...\",\"reason\":\"...\",\"keywords\":[\"...\"]}]} です。",
@@ -229,7 +229,9 @@ def model_select(articles: list[Article], prefs: dict[str, Any]) -> list[dict[st
         ],
         "generationConfig": {
             "temperature": 0.2,
+            "maxOutputTokens": int(config.get("max_tokens", 8192)),
             "responseMimeType": "application/json",
+            "thinkingConfig": {"thinkingLevel": str(config.get("thinking_level", "low"))},
         },
     }
     endpoint = str(
