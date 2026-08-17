@@ -200,7 +200,7 @@ def model_select(articles: list[Article], prefs: dict[str, Any]) -> list[dict[st
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY is empty")
 
-    model_name = str(config.get("model", "gemini-2.0-flash"))
+    model_name = str(config.get("model", "gemini-3.6-flash"))
     payload = {
         "system_instruction": {
             "parts": [

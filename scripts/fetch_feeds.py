@@ -439,7 +439,7 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
         },
     }
 
-    model_name = str(model_config.get("model", "gemini-2.0-flash"))
+    model_name = str(model_config.get("model", "gemini-3.6-flash"))
     endpoint = str(
         model_config.get(
             "endpoint",
