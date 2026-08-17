@@ -1,123 +1,127 @@
 # 今日の記事サマリー
 
-- 取得日時: 2026-08-17 07:24:46 JST
+- 取得日時: 2026-08-17 19:51:29 JST
 - 対象期間: 昨日と今日に公開された記事のみ
 - 全取得記事数: 196
-- 対象期間内の記事数: 30
-- 新規記事数: 30
+- 対象期間内の記事数: 37
+- 新規記事数: 34
 - 選定方式: キーワード一致フォールバック
 
 ## 今日見る候補
 
-### 1. botterのためのKaggle金融予測コンペの設計史
+### 1. AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで
 
 - 出典: Zenn
-- URL: https://zenn.dev/gamella/articles/f5e6bddab37c8d
-- 公開日時: 2026-08-16 13:43:06 JST
-- 理由: 興味キーワードに一致: 設計, DB
-- 関連キーワード: 設計, DB
+- URL: https://zenn.dev/aws_japan/articles/2b62886aa8735e
+- 公開日時: 2026-08-16 22:18:26 JST
+- 理由: 興味キーワードに一致: 認証, AI
+- 関連キーワード: 認証, AI
 
-### 2. オープンAI 経営幹部が相次ぎ退社
+### 2. 【もぉん流】Godot × AI : 会話だけでゲーム制作！
 
-- 出典: Yahoo!ニュース トピックス IT
-- URL: https://news.yahoo.co.jp/pickup/6592006?source=rss
-- 公開日時: 2026-08-17 00:00:50 JST
+- 出典: Zenn
+- URL: https://zenn.dev/matsu_friends/articles/61bed2ae1c6b91
+- 公開日時: 2026-08-16 11:56:54 JST
+- 理由: 興味キーワードに一致: Go, AI
+- 関連キーワード: Go, AI
+
+### 3. もうAIは自分だけで論文を書ける。だからこそ起こりつつある「困った事態」(ギズモード・ジャパン)
+
+- 出典: Yahoo!ニュース カテゴリ IT
+- URL: https://news.yahoo.co.jp/articles/9cd3381610be6b5fa48373aa72fd30352c58b38d?source=rss
+- 公開日時: 2026-08-17 19:30:02 JST
 - 理由: 興味キーワードに一致: AI
 - 関連キーワード: AI
 
-### 3. Claudeで障害 アクセスできず(CNET Japan)
+### 4. 最先端のガジェットが集まる専門店「&count」が渋谷に8/20オープン。Nothingや水月雨など展示(PHILE WEB)
 
 - 出典: Yahoo!ニュース カテゴリ IT
-- URL: https://news.yahoo.co.jp/articles/1b5aee93fb7236ed5d37d0e5930843f2ad4b53d5?source=rss
-- 公開日時: 2026-08-17 07:17:00 JST
+- URL: https://news.yahoo.co.jp/articles/5a896b55bb9d5aa8f215168e2b5c1b768dd3f47e?source=rss
+- 公開日時: 2026-08-17 19:24:50 JST
 - 理由: 興味キーワードに一致: AI
 - 関連キーワード: AI
 
-### 4. 第53回：なぜ、日本企業では「考えるマネジャー」が育たないのか──AI時代、「言われたことは得意だが、課題抽出や提案は苦手」な組織から脱する方法(ITmedia エンタープライズ)
+### 5. Coldcardの脆弱性悪用以降、BTCの取引所残高増加額が20億ドル超──SafePal・Trezorの情報流出でセキュリティリスク高まる【価格分析】(NADA NEWS)
 
 - 出典: Yahoo!ニュース カテゴリ IT
-- URL: https://news.yahoo.co.jp/articles/04c4ccde450265c1ee882a56585730f19c99a821?source=rss
-- 公開日時: 2026-08-17 07:05:08 JST
+- URL: https://news.yahoo.co.jp/articles/21f1900d0ee3194dd36a101190837499f1b6adfa?source=rss
+- 公開日時: 2026-08-17 19:10:11 JST
+- 理由: 興味キーワードに一致: セキュリティ
+- 関連キーワード: セキュリティ
+
+### 6. アリババ「Qwen」、6カ月で30億DLと発表…Hugging Faceの分析でも存在感が鮮明(ビジネス＋IT)
+
+- 出典: Yahoo!ニュース カテゴリ IT
+- URL: https://news.yahoo.co.jp/articles/65d3b07ca8d54ab87dea0bb9849306728c0d12cb?source=rss
+- 公開日時: 2026-08-17 19:05:06 JST
 - 理由: 興味キーワードに一致: AI
 - 関連キーワード: AI
 
-### 5. 【単独】再現可能？ トヨタ出身社長に聞く、年10億円を生んだ「生成AI活用」成功法則(ビジネス＋IT)
+### 7. 完全無料のナビアプリはGoogleマップよりもドライバーにやさしい(ギズモード・ジャパン)
 
 - 出典: Yahoo!ニュース カテゴリ IT
-- URL: https://news.yahoo.co.jp/articles/5d88b1384c226216a0a6359f1ce2e5d379252779?source=rss
-- 公開日時: 2026-08-17 07:00:07 JST
+- URL: https://news.yahoo.co.jp/articles/68ab54add672f3126bd54a82c0455a4fc34cb339?source=rss
+- 公開日時: 2026-08-17 19:00:01 JST
+- 理由: 興味キーワードに一致: Go
+- 関連キーワード: Go
+
+### 8. アメリカのAIのCMが地獄のように暗い。中国のQwen3.8なんてこんな明るいのに(ギズモード・ジャパン)
+
+- 出典: Yahoo!ニュース カテゴリ IT
+- URL: https://news.yahoo.co.jp/articles/a7cd7e757108e778336a38e60f1adb071197b782?source=rss
+- 公開日時: 2026-08-17 19:00:01 JST
 - 理由: 興味キーワードに一致: AI
 - 関連キーワード: AI
 
-### 6. 主要国の動向から考えるフロンティアAIがもたらすサイバーリスクとの向き合い方(ZDNET Japan)
+### 9. AIニュースサイトが人間を出し抜いてスクープ。どうなる、ジャーナリズム！(ギズモード・ジャパン)
 
 - 出典: Yahoo!ニュース カテゴリ IT
-- URL: https://news.yahoo.co.jp/articles/83519a6cc06dfd3dc1be616d8af3a201aba713c4?source=rss
-- 公開日時: 2026-08-17 07:00:00 JST
+- URL: https://news.yahoo.co.jp/articles/867f41c24c2cdc270d0313e173323dd33208269e?source=rss
+- 公開日時: 2026-08-17 19:00:01 JST
 - 理由: 興味キーワードに一致: AI
 - 関連キーワード: AI
 
-### 7. もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる(アスキー)
+### 10. 攻撃手法から学ぶ OAuth セキュリティベストプラクティス
 
-- 出典: Yahoo!ニュース カテゴリ IT
-- URL: https://news.yahoo.co.jp/articles/c7efcface7511f8d3863e04c4c7f4c04cabfb5f2?source=rss
-- 公開日時: 2026-08-17 07:00:00 JST
-- 理由: 興味キーワードに一致: AI
-- 関連キーワード: AI
-
-### 8. オープンAI 経営幹部が相次ぎ退社
-
-- 出典: Yahoo!ニュース ピックアップ
-- URL: https://news.yahoo.co.jp/pickup/6592006?source=rss
-- 公開日時: 2026-08-17 00:00:50 JST
-- 理由: 興味キーワードに一致: AI
-- 関連キーワード: AI
-
-### 9. ルールも研修も効果なし…なぜ社員は「職場で写真撮ってSNS投稿」の誘惑に負けるのか(ビジネス＋IT)
-
-- 出典: Yahoo!ニュース カテゴリ IT
-- URL: https://news.yahoo.co.jp/articles/3032afd85e5103ae0682d4bd9cae4ea281ac95d3?source=rss
-- 公開日時: 2026-08-17 07:20:06 JST
-- 理由: 技術カテゴリの記事
-- 関連キーワード: -
-
-### 10. ブラックロック参戦、日本のRWAはなぜ「買って償還待ち」？SBI・大和も挑む一手(ビジネス＋IT)
-
-- 出典: Yahoo!ニュース カテゴリ IT
-- URL: https://news.yahoo.co.jp/articles/5c4c7a6f5d0bc0983dc0747034d314a2f2939247?source=rss
-- 公開日時: 2026-08-17 07:10:06 JST
-- 理由: 技術カテゴリの記事
-- 関連キーワード: -
+- 出典: Zenn
+- URL: https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp
+- 公開日時: 2026-08-17 03:37:30 JST
+- 理由: 興味キーワードに一致: セキュリティ
+- 関連キーワード: セキュリティ
 
 ## 新規記事一覧
 
-- [福岡県で震度4 津波の心配なし](https://news.yahoo.co.jp/pickup/6592009?source=rss) - Yahoo!ニュース ピックアップ
-- [逆走台風と千葉豪雨 なぜ起きた](https://news.yahoo.co.jp/pickup/6591993?source=rss) - Yahoo!ニュース ピックアップ
-- [トランプ氏 米韓軍事演習縮小指示](https://news.yahoo.co.jp/pickup/6592012?source=rss) - Yahoo!ニュース ピックアップ
-- [BBQ中に川に流され 20代女性重体](https://news.yahoo.co.jp/pickup/6592000?source=rss) - Yahoo!ニュース ピックアップ
-- [オープンAI 経営幹部が相次ぎ退社](https://news.yahoo.co.jp/pickup/6592006?source=rss) - Yahoo!ニュース ピックアップ
-- [トミー・ジョン氏死去 MLB発表](https://news.yahoo.co.jp/pickup/6592011?source=rss) - Yahoo!ニュース ピックアップ
-- [Cロナウド 今季終了後の引退示唆](https://news.yahoo.co.jp/pickup/6592008?source=rss) - Yahoo!ニュース ピックアップ
-- [村上宗隆が28号2ラン 快進撃主役](https://news.yahoo.co.jp/pickup/6592007?source=rss) - Yahoo!ニュース ピックアップ
-- [オープンAI 経営幹部が相次ぎ退社](https://news.yahoo.co.jp/pickup/6592006?source=rss) - Yahoo!ニュース トピックス IT
-- [ルールも研修も効果なし…なぜ社員は「職場で写真撮ってSNS投稿」の誘惑に負けるのか(ビジネス＋IT)](https://news.yahoo.co.jp/articles/3032afd85e5103ae0682d4bd9cae4ea281ac95d3?source=rss) - Yahoo!ニュース カテゴリ IT
-- [Claudeで障害 アクセスできず(CNET Japan)](https://news.yahoo.co.jp/articles/1b5aee93fb7236ed5d37d0e5930843f2ad4b53d5?source=rss) - Yahoo!ニュース カテゴリ IT
-- [ブラックロック参戦、日本のRWAはなぜ「買って償還待ち」？SBI・大和も挑む一手(ビジネス＋IT)](https://news.yahoo.co.jp/articles/5c4c7a6f5d0bc0983dc0747034d314a2f2939247?source=rss) - Yahoo!ニュース カテゴリ IT
-- [ドコモのStarlink Direct、通話とウェブ閲覧に対応 次世代衛星「V2」契約 28年度(CNET Japan)](https://news.yahoo.co.jp/articles/c5ed67f05e8dc8ead551e372b8f99d4a18598b15?source=rss) - Yahoo!ニュース カテゴリ IT
-- [第53回：なぜ、日本企業では「考えるマネジャー」が育たないのか──AI時代、「言われたことは得意だが、課題抽出や提案は苦手」な組織から脱する方法(ITmedia エンタープライズ)](https://news.yahoo.co.jp/articles/04c4ccde450265c1ee882a56585730f19c99a821?source=rss) - Yahoo!ニュース カテゴリ IT
-- [上下左右のタスクバー、新しくなった［スタート］画面がRelease Previewチャネルに(窓の杜)](https://news.yahoo.co.jp/articles/17880ea4caaa00e152bee819d76e1295a6a92201?source=rss) - Yahoo!ニュース カテゴリ IT
-- [【単独】再現可能？ トヨタ出身社長に聞く、年10億円を生んだ「生成AI活用」成功法則(ビジネス＋IT)](https://news.yahoo.co.jp/articles/5d88b1384c226216a0a6359f1ce2e5d379252779?source=rss) - Yahoo!ニュース カテゴリ IT
-- [GMKtec、手のひらサイズで軽量の超小型ミニPC「G5S」発売(INTERNET Watch)](https://news.yahoo.co.jp/articles/97c5d977e933c0150aeb54a6a767aec9f7d9c7a9?source=rss) - Yahoo!ニュース カテゴリ IT
-- [主要国の動向から考えるフロンティアAIがもたらすサイバーリスクとの向き合い方(ZDNET Japan)](https://news.yahoo.co.jp/articles/83519a6cc06dfd3dc1be616d8af3a201aba713c4?source=rss) - Yahoo!ニュース カテゴリ IT
-- [もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる(アスキー)](https://news.yahoo.co.jp/articles/c7efcface7511f8d3863e04c4c7f4c04cabfb5f2?source=rss) - Yahoo!ニュース カテゴリ IT
-- [輝線星雲「タランチュラ星雲」の多波長画像 ハッブル・ウェッブ・チャンドラが観測(sorae 宇宙へのポータルサイト)](https://news.yahoo.co.jp/articles/742a4c83b28250c2a72f441cc28864f384756c2d?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [NASAが惑星探査機「ボイジャー2号」の省電力化に成功 科学観測を1年以上延長へ(sorae 宇宙へのポータルサイト)](https://news.yahoo.co.jp/articles/8494c94a29eed30798a0e34bea9cc1f66a848538?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [史上初の鑑識捜査。殺人事件解明の鍵を握ったのは「ハエ」(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/efea5013d1714ff4f3d36269f6cab8b54268eec8?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [エイリアンからの信号は、古い望遠鏡データの中に隠れているかも？(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/354e10bbe9eabf705363eff3ab07fb65ea71974f?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [NASA火星探査「スカイフォール」用の地中レーダーアンテナが着陸200回相当の負荷に耐える(sorae 宇宙へのポータルサイト)](https://news.yahoo.co.jp/articles/1d3ea02f63d66a9dec9272127b2e3d09de22c243?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [まるで凛々しい百獣の王 ウェッブ宇宙望遠鏡が観測した惑星状星雲「NGC 2392」(sorae 宇宙へのポータルサイト)](https://news.yahoo.co.jp/articles/bf7a7e413c92d9a119a242a207df1eb340d5f512?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [人工冬眠で長期記憶調査、沖縄科技大などが発見したこと(ニュースイッチ)](https://news.yahoo.co.jp/articles/c66e1ae060c6a87c2cad1f1f3e1c86949ca8a9fb?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [NASA、宇宙の広大なパノラマ地図するローマン宇宙望遠鏡 8月末打ち上げへ(Forbes JAPAN)](https://news.yahoo.co.jp/articles/0ea9244abdc27b245f4b4b33d1f665270fef578d?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [自動操縦の田植え機「乗っていても他の作業ができます」 若手農家で“スマート農業”拡大中(西日本新聞me)](https://news.yahoo.co.jp/articles/210bcbbe1d687a3d9cd478b5db6e8711f1d2bd54?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [夏休みの自由研究 自宅で避難所体験 “不便さ・暗さ”を学んで対策を考える【暮らしの防災】(メ〜テレ（名古屋テレビ）)](https://news.yahoo.co.jp/articles/ba5918227d8e565118970c8b98a427d15393945e?source=rss) - Yahoo!ニュース カテゴリ 科学
-- [botterのためのKaggle金融予測コンペの設計史](https://zenn.dev/gamella/articles/f5e6bddab37c8d) - Zenn
+- [福岡県議会 蔵内氏が議長辞任意向](https://news.yahoo.co.jp/pickup/6592099?source=rss) - Yahoo!ニュース ピックアップ
+- [コロンビア地震 日本が物資供与へ](https://news.yahoo.co.jp/pickup/6592074?source=rss) - Yahoo!ニュース ピックアップ
+- [EU 対露制裁を大幅拡大の方針](https://news.yahoo.co.jp/pickup/6592071?source=rss) - Yahoo!ニュース ピックアップ
+- [11歳男児が海岸で溺れ死亡 新潟](https://news.yahoo.co.jp/pickup/6592090?source=rss) - Yahoo!ニュース ピックアップ
+- [指名手配中の男 建物侵入疑い逮捕](https://news.yahoo.co.jp/pickup/6592089?source=rss) - Yahoo!ニュース ピックアップ
+- [「いけず石」物議 大阪市タジタジ](https://news.yahoo.co.jp/pickup/6592082?source=rss) - Yahoo!ニュース ピックアップ
+- [横浜高校元監督 渡辺元智さん死去](https://news.yahoo.co.jp/pickup/6592092?source=rss) - Yahoo!ニュース ピックアップ
+- [衛藤美彩&源田壮亮 第3子が誕生](https://news.yahoo.co.jp/pickup/6592097?source=rss) - Yahoo!ニュース ピックアップ
+- [ゲーム婚した夫婦たち 恋した瞬間](https://news.yahoo.co.jp/pickup/6592086?source=rss) - Yahoo!ニュース トピックス IT
+- [「comico」来年1月でサービス終了](https://news.yahoo.co.jp/pickup/6592078?source=rss) - Yahoo!ニュース トピックス IT
+- [名古屋市営地下鉄でクレカの「タッチ決済乗車」開始 9月3日から 名鉄の対応駅への直通乗車も可(ITmedia Mobile)](https://news.yahoo.co.jp/articles/a58234f1a3b75bc068afbde845bccc5c44b425c9?source=rss) - Yahoo!ニュース カテゴリ IT
+- [もうAIは自分だけで論文を書ける。だからこそ起こりつつある「困った事態」(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/9cd3381610be6b5fa48373aa72fd30352c58b38d?source=rss) - Yahoo!ニュース カテゴリ IT
+- [最先端のガジェットが集まる専門店「&count」が渋谷に8/20オープン。Nothingや水月雨など展示(PHILE WEB)](https://news.yahoo.co.jp/articles/5a896b55bb9d5aa8f215168e2b5c1b768dd3f47e?source=rss) - Yahoo!ニュース カテゴリ IT
+- [まるで紙に描くよう？ 「Wacom Art Pen 2」登場 既存のワコムペンとの違いをチェック(Fav-Log by ITmedia)](https://news.yahoo.co.jp/articles/5ba1729e71a261e2f0d7ee1a8897d6a4823da8d1?source=rss) - Yahoo!ニュース カテゴリ IT
+- [Coldcardの脆弱性悪用以降、BTCの取引所残高増加額が20億ドル超──SafePal・Trezorの情報流出でセキュリティリスク高まる【価格分析】(NADA NEWS)](https://news.yahoo.co.jp/articles/21f1900d0ee3194dd36a101190837499f1b6adfa?source=rss) - Yahoo!ニュース カテゴリ IT
+- [ESOTERIC、8/21に新製品発表へ。Xでティザー公開(PHILE WEB)](https://news.yahoo.co.jp/articles/11a242ac99d474daf54302d359f199cde3539467?source=rss) - Yahoo!ニュース カテゴリ IT
+- [アリババ「Qwen」、6カ月で30億DLと発表…Hugging Faceの分析でも存在感が鮮明(ビジネス＋IT)](https://news.yahoo.co.jp/articles/65d3b07ca8d54ab87dea0bb9849306728c0d12cb?source=rss) - Yahoo!ニュース カテゴリ IT
+- [完全無料のナビアプリはGoogleマップよりもドライバーにやさしい(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/68ab54add672f3126bd54a82c0455a4fc34cb339?source=rss) - Yahoo!ニュース カテゴリ IT
+- [アメリカのAIのCMが地獄のように暗い。中国のQwen3.8なんてこんな明るいのに(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/a7cd7e757108e778336a38e60f1adb071197b782?source=rss) - Yahoo!ニュース カテゴリ IT
+- [AIニュースサイトが人間を出し抜いてスクープ。どうなる、ジャーナリズム！(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/867f41c24c2cdc270d0313e173323dd33208269e?source=rss) - Yahoo!ニュース カテゴリ IT
+- [毒ヘビもハチの巣も食べてしまう、小さな猛獣ラーテルの秘密(Forbes JAPAN)](https://news.yahoo.co.jp/articles/640ed2ed4914e4aa2f314276e33638fbf2065e42?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [大切なペットを熱中症からどう守る 犬の散歩は地面の温度に注意 猫も室内で発症の危険(メ〜テレ（名古屋テレビ）)](https://news.yahoo.co.jp/articles/d4b6cfbf5c3b1378bfa28cb51a13381091dee06a?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [免震並みの物流倉庫を安価で実現する手法開発 球体の人工骨材活用 金沢工業大(Science Portal)](https://news.yahoo.co.jp/articles/2d1eb1beb84a4927dc7e17f8d4bbb44a40907b96?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [京大、金属有機構造体デザインのクリアファイルを発売 北川進特別教授がノーベル賞受賞(産経新聞)](https://news.yahoo.co.jp/articles/457140140a672b27ee6d01f543b92e52475562f2?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [スペースXがグローバルスターの通信衛星8機を打ち上げ(sorae 宇宙へのポータルサイト)](https://news.yahoo.co.jp/articles/098d8b4e0aa3d9d67a8ed741e359168fc29db91b?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [本来よりも若く見える白色矮星たち ハッブル宇宙望遠鏡が観測した散開星団「NGC 6791」(sorae 宇宙へのポータルサイト)](https://news.yahoo.co.jp/articles/63644893a74b0ef4a39ee2d53e26d3816d900faa?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [第85回日本癌学会学術総会、9月24日から京都で――注目プログラムを紹介（後編）(Medical Note)](https://news.yahoo.co.jp/articles/b52652583cae8c4119ee59fe4eab222e76b6bbed?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [がん克服へ向けた「知の挑戦」――小川 誠司先生に聞くがん研究の歩み（前編）(Medical Note)](https://news.yahoo.co.jp/articles/9d140dadb1b6a0013ae9906fc207e25ca82598cc?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [AIは「ディープフェイク・ウイルス」を作れるようになった──しかし、私たちに備えはない(Forbes JAPAN)](https://news.yahoo.co.jp/articles/59464864739a55ac96cb849b71d4b3165dacadf2?source=rss) - Yahoo!ニュース カテゴリ 科学
+- [攻撃手法から学ぶ OAuth セキュリティベストプラクティス](https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp) - Zenn
+- [AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで](https://zenn.dev/aws_japan/articles/2b62886aa8735e) - Zenn
+- [Hello, Solid 2.0 ! —— use() も startTransition もない Async React !?](https://zenn.dev/r1013t/articles/37669abac10840) - Zenn
+- [ぼくのかんがえたさいきょうのCornixせってい ~最小限の運指で全ての操作を完結させ、モニターを1枚減らせた究極のキーマップ~](https://zenn.dev/ncdc/articles/my-cornix-setting) - Zenn
+- [【もぉん流】Godot × AI : 会話だけでゲーム制作！](https://zenn.dev/matsu_friends/articles/61bed2ae1c6b91) - Zenn

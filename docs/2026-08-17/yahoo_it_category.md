@@ -3,57 +3,57 @@
 - 取得元: Yahoo!ニュース カテゴリ IT
 - カテゴリ: tech_news
 - フィードURL: https://news.yahoo.co.jp/rss/categories/it.xml
-- 取得日時: 2026-08-17 07:24:46 JST
+- 取得日時: 2026-08-17 19:51:29 JST
 - 取得件数: 10
 
 ## 記事一覧
 
-### 1. [ルールも研修も効果なし…なぜ社員は「職場で写真撮ってSNS投稿」の誘惑に負けるのか(ビジネス＋IT)](https://news.yahoo.co.jp/articles/3032afd85e5103ae0682d4bd9cae4ea281ac95d3?source=rss)
+### 1. [名古屋市営地下鉄でクレカの「タッチ決済乗車」開始 9月3日から 名鉄の対応駅への直通乗車も可(ITmedia Mobile)](https://news.yahoo.co.jp/articles/a58234f1a3b75bc068afbde845bccc5c44b425c9?source=rss)
 
-- 公開日時: 2026-08-17 07:20:06 JST
+- 公開日時: 2026-08-17 19:40:09 JST
 - サムネイル: -
 
-### 2. [Claudeで障害 アクセスできず(CNET Japan)](https://news.yahoo.co.jp/articles/1b5aee93fb7236ed5d37d0e5930843f2ad4b53d5?source=rss)
+### 2. [もうAIは自分だけで論文を書ける。だからこそ起こりつつある「困った事態」(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/9cd3381610be6b5fa48373aa72fd30352c58b38d?source=rss)
 
-- 公開日時: 2026-08-17 07:17:00 JST
+- 公開日時: 2026-08-17 19:30:02 JST
 - サムネイル: -
 
-### 3. [ブラックロック参戦、日本のRWAはなぜ「買って償還待ち」？SBI・大和も挑む一手(ビジネス＋IT)](https://news.yahoo.co.jp/articles/5c4c7a6f5d0bc0983dc0747034d314a2f2939247?source=rss)
+### 3. [最先端のガジェットが集まる専門店「&count」が渋谷に8/20オープン。Nothingや水月雨など展示(PHILE WEB)](https://news.yahoo.co.jp/articles/5a896b55bb9d5aa8f215168e2b5c1b768dd3f47e?source=rss)
 
-- 公開日時: 2026-08-17 07:10:06 JST
+- 公開日時: 2026-08-17 19:24:50 JST
 - サムネイル: -
 
-### 4. [ドコモのStarlink Direct、通話とウェブ閲覧に対応 次世代衛星「V2」契約 28年度(CNET Japan)](https://news.yahoo.co.jp/articles/c5ed67f05e8dc8ead551e372b8f99d4a18598b15?source=rss)
+### 4. [まるで紙に描くよう？ 「Wacom Art Pen 2」登場 既存のワコムペンとの違いをチェック(Fav-Log by ITmedia)](https://news.yahoo.co.jp/articles/5ba1729e71a261e2f0d7ee1a8897d6a4823da8d1?source=rss)
 
-- 公開日時: 2026-08-17 07:09:00 JST
+- 公開日時: 2026-08-17 19:15:00 JST
 - サムネイル: -
 
-### 5. [第53回：なぜ、日本企業では「考えるマネジャー」が育たないのか──AI時代、「言われたことは得意だが、課題抽出や提案は苦手」な組織から脱する方法(ITmedia エンタープライズ)](https://news.yahoo.co.jp/articles/04c4ccde450265c1ee882a56585730f19c99a821?source=rss)
+### 5. [Coldcardの脆弱性悪用以降、BTCの取引所残高増加額が20億ドル超──SafePal・Trezorの情報流出でセキュリティリスク高まる【価格分析】(NADA NEWS)](https://news.yahoo.co.jp/articles/21f1900d0ee3194dd36a101190837499f1b6adfa?source=rss)
 
-- 公開日時: 2026-08-17 07:05:08 JST
+- 公開日時: 2026-08-17 19:10:11 JST
 - サムネイル: -
 
-### 6. [上下左右のタスクバー、新しくなった［スタート］画面がRelease Previewチャネルに(窓の杜)](https://news.yahoo.co.jp/articles/17880ea4caaa00e152bee819d76e1295a6a92201?source=rss)
+### 6. [ESOTERIC、8/21に新製品発表へ。Xでティザー公開(PHILE WEB)](https://news.yahoo.co.jp/articles/11a242ac99d474daf54302d359f199cde3539467?source=rss)
 
-- 公開日時: 2026-08-17 07:05:00 JST
+- 公開日時: 2026-08-17 19:06:38 JST
 - サムネイル: -
 
-### 7. [【単独】再現可能？ トヨタ出身社長に聞く、年10億円を生んだ「生成AI活用」成功法則(ビジネス＋IT)](https://news.yahoo.co.jp/articles/5d88b1384c226216a0a6359f1ce2e5d379252779?source=rss)
+### 7. [アリババ「Qwen」、6カ月で30億DLと発表…Hugging Faceの分析でも存在感が鮮明(ビジネス＋IT)](https://news.yahoo.co.jp/articles/65d3b07ca8d54ab87dea0bb9849306728c0d12cb?source=rss)
 
-- 公開日時: 2026-08-17 07:00:07 JST
+- 公開日時: 2026-08-17 19:05:06 JST
 - サムネイル: -
 
-### 8. [GMKtec、手のひらサイズで軽量の超小型ミニPC「G5S」発売(INTERNET Watch)](https://news.yahoo.co.jp/articles/97c5d977e933c0150aeb54a6a767aec9f7d9c7a9?source=rss)
+### 8. [完全無料のナビアプリはGoogleマップよりもドライバーにやさしい(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/68ab54add672f3126bd54a82c0455a4fc34cb339?source=rss)
 
-- 公開日時: 2026-08-17 07:00:00 JST
+- 公開日時: 2026-08-17 19:00:01 JST
 - サムネイル: -
 
-### 9. [主要国の動向から考えるフロンティアAIがもたらすサイバーリスクとの向き合い方(ZDNET Japan)](https://news.yahoo.co.jp/articles/83519a6cc06dfd3dc1be616d8af3a201aba713c4?source=rss)
+### 9. [アメリカのAIのCMが地獄のように暗い。中国のQwen3.8なんてこんな明るいのに(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/a7cd7e757108e778336a38e60f1adb071197b782?source=rss)
 
-- 公開日時: 2026-08-17 07:00:00 JST
+- 公開日時: 2026-08-17 19:00:01 JST
 - サムネイル: -
 
-### 10. [もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる(アスキー)](https://news.yahoo.co.jp/articles/c7efcface7511f8d3863e04c4c7f4c04cabfb5f2?source=rss)
+### 10. [AIニュースサイトが人間を出し抜いてスクープ。どうなる、ジャーナリズム！(ギズモード・ジャパン)](https://news.yahoo.co.jp/articles/867f41c24c2cdc270d0313e173323dd33208269e?source=rss)
 
-- 公開日時: 2026-08-17 07:00:00 JST
+- 公開日時: 2026-08-17 19:00:01 JST
 - サムネイル: -
