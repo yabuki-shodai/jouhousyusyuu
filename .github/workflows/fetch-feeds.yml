@@ -27,6 +27,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_feeds.py
 
+      - name: Group new articles by category
+        run: python scripts/group_new_articles.py
+
       - name: Update README today link
         run: python scripts/update_readme_today_link.py
 
