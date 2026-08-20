@@ -35,11 +35,12 @@ RSS / Atom フィードから幅広いニュースを収集し、日付ごとの
 
 毎日の「今日見る候補」は、技術分野を特別扱いせず、複数ジャンルに分散するよう選定します。
 
-- 最大 12 件
+- 最大 20 件
 - 同一ジャンルは原則 2 件まで
-- 記事が十分にある場合は 6 ジャンル以上を優先
+- 記事が十分にある場合は 8 ジャンル以上を優先
 - 同じ話題や同じ媒体への偏りを避ける
 - Gemini が利用できない場合も、同じジャンル分散ルールでフォールバック選定する
+- 新規記事一覧はジャンル別に見出しを分けて表示する
 
 ## ディレクトリ構成
 
@@ -49,7 +50,8 @@ RSS / Atom フィードから幅広いニュースを収集し、日付ごとの
 │   ├── sources.json
 │   └── preferences.json
 ├── scripts/
-│   └── fetch_feeds.py
+│   ├── fetch_feeds.py
+│   └── group_new_articles.py
 ├── data/
 ├── docs/
 │   └── YYYY-MM-DD/
@@ -62,6 +64,7 @@ RSS / Atom フィードから幅広いニュースを収集し、日付ごとの
 
 ```bash
 python scripts/fetch_feeds.py
+python scripts/group_new_articles.py
 ```
 
 Gemini による記事選定を利用する場合は `GEMINI_API_KEY` を環境変数に設定します。未設定の場合はジャンル分散フォールバックで選定します。
