@@ -52,14 +52,14 @@
     "イベント告知",
     "採用イベント"
   ],
-  "max_summary_items": 12,
+  "max_summary_items": 20,
   "history_retention_days": 90,
   "today_summary": {
     "published_within_days": 2,
     "max_ai_candidates": 70,
     "max_candidates_per_category": 8,
     "max_per_category": 2,
-    "min_categories": 6
+    "min_categories": 8
   },
   "gemini": {
     "enabled": true,
