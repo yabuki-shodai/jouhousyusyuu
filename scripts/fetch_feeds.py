@@ -10,6 +10,7 @@ import sys
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
+from collections import defaultdict
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -23,7 +24,24 @@ HISTORY_PATH = ROOT_DIR / "data" / "history.json"
 OUTPUT_ROOT = ROOT_DIR / "docs"
 TODAY_PATH = ROOT_DIR / "today.md"
 NEW_ARTICLES_PATH = ROOT_DIR / "data" / "new_articles.json"
-USER_AGENT = "jouhousyusyuu-feed-collector/1.0"
+USER_AGENT = "jouhousyusyuu-news-collector/2.0"
+
+CATEGORY_LABELS = {
+    "general": "総合",
+    "politics": "政治",
+    "world": "国際・外交",
+    "business": "経済・ビジネス",
+    "cybersecurity": "サイバーセキュリティ",
+    "technology": "IT・AI",
+    "science": "科学・宇宙",
+    "health": "医療・健康",
+    "anime": "アニメ・漫画",
+    "history": "歴史・考古",
+    "education": "教育",
+    "society": "社会・事件",
+    "sports": "スポーツ",
+    "culture": "文化・芸術",
+}
 
 
 @dataclass(frozen=True)
@@ -87,12 +105,22 @@ def load_preferences() -> dict[str, Any]:
         {
             "interests": [],
             "exclude_keywords": [],
-            "max_summary_items": 10,
+            "max_summary_items": 12,
             "history_retention_days": 90,
-            "today_summary": {"published_within_days": 2, "max_ai_candidates": 40},
+            "today_summary": {
+                "published_within_days": 2,
+                "max_ai_candidates": 70,
+                "max_candidates_per_category": 8,
+                "max_per_category": 2,
+                "min_categories": 6,
+            },
             "gemini": {"enabled": False},
         },
     )
+
+
+def category_label(category: str) -> str:
+    return CATEGORY_LABELS.get(category, category)
 
 
 def fetch_xml(url: str) -> bytes:
@@ -104,7 +132,7 @@ def fetch_xml(url: str) -> bytes:
 def clean_text(value: str | None) -> str | None:
     if not value:
         return None
-    text = re.sub(r"<[^>]+>", "", value)
+    text = re.sub(r"<[^>]+>", " ", value)
     text = html.unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
     return text or None
@@ -121,19 +149,28 @@ def get_attr(element: ET.Element, path: str, attr: str, namespaces: dict[str, st
     found = element.find(path, namespaces or {})
     if found is None:
         return None
-    value = found.attrib.get(attr)
-    return clean_text(value)
+    return clean_text(found.attrib.get(attr))
 
 
 def normalize_date(value: str | None) -> str | None:
     if not value:
         return None
+
     try:
         parsed = email.utils.parsedate_to_datetime(value)
+        if parsed is not None:
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=timezone.utc)
+            return parsed.astimezone(JST).strftime("%Y-%m-%d %H:%M:%S JST")
+    except (TypeError, ValueError):
+        pass
+
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=timezone.utc)
         return parsed.astimezone(JST).strftime("%Y-%m-%d %H:%M:%S JST")
-    except (TypeError, ValueError):
+    except ValueError:
         return clean_text(value)
 
 
@@ -150,7 +187,7 @@ def is_recent_published(article: Article, now: datetime, published_within_days: 
     published = parse_published_date(article.published_at)
     if published is None:
         return False
-    start_date = (now - timedelta(days=published_within_days - 1)).date()
+    start_date = (now - timedelta(days=max(published_within_days - 1, 0))).date()
     return start_date <= published.date() <= now.date()
 
 
@@ -230,6 +267,18 @@ def article_key(article: Article) -> str:
     return hashlib.sha256(value.encode("utf-8")).hexdigest()
 
 
+def dedupe_articles(articles: list[Article]) -> list[Article]:
+    seen: set[str] = set()
+    result: list[Article] = []
+    for article in articles:
+        key = article_key(article)
+        if key in seen:
+            continue
+        seen.add(key)
+        result.append(article)
+    return result
+
+
 def prune_history(history: dict[str, Any], now: datetime, retention_days: int) -> dict[str, Any]:
     seen = history.get("seen", {})
     if not isinstance(seen, dict):
@@ -260,6 +309,7 @@ def update_history(history: dict[str, Any], articles: list[Article], now: dateti
             "title": article.title,
             "url": article.url,
             "source": article.source_display_name,
+            "category": article.category,
             "first_seen": today,
         }
     return history
@@ -272,7 +322,7 @@ def render_source_markdown(source: Source, articles: list[Article], fetched_at: 
         f"# {source.display_name} {date_text}",
         "",
         f"- 取得元: {source.display_name}",
-        f"- カテゴリ: {source.category}",
+        f"- ジャンル: {category_label(source.category)}",
         f"- フィードURL: {source.url}",
         f"- 取得日時: {fetched_text}",
         f"- 取得件数: {len(articles)}",
@@ -283,6 +333,7 @@ def render_source_markdown(source: Source, articles: list[Article], fetched_at: 
     if not articles:
         lines.extend(["記事は取得できませんでした。", ""])
         return "\n".join(lines)
+
     for index, article in enumerate(articles, start=1):
         title = f"[{article.title}]({article.url})" if article.url else article.title
         lines.extend(
@@ -320,59 +371,101 @@ def collect_articles(sources: list[Source], now: datetime) -> tuple[list[Article
             ok = False
             print(f"warning: failed to fetch {source.name}: {error}", file=sys.stderr)
             write_source_markdown(source, [], now)
-    return all_articles, ok
+    return dedupe_articles(all_articles), ok
 
 
 def keyword_score(article: Article, interests: list[str], exclude_keywords: list[str]) -> tuple[int, list[str]]:
-    text = f"{article.title} {article.description or ''} {article.category} {article.source_display_name}".lower()
+    text = f"{article.title} {article.description or ''} {category_label(article.category)} {article.source_display_name}".lower()
     if any(keyword.lower() in text for keyword in exclude_keywords):
         return -1000, []
+
     matched = [keyword for keyword in interests if keyword.lower() in text]
-    score = len(matched) * 10
-    if article.category in {"company_blog", "tech", "tech_news"}:
-        score += 3
-    return score, matched
+    return 1 + len(matched) * 10, matched
+
+
+def diverse_articles(
+    scored: list[tuple[int, Article]],
+    limit: int,
+    max_per_category: int,
+) -> list[Article]:
+    scored = sorted(scored, key=lambda item: item[0], reverse=True)
+    selected: list[Article] = []
+    selected_keys: set[str] = set()
+    category_counts: dict[str, int] = defaultdict(int)
+
+    for _, article in scored:
+        if category_counts[article.category] >= max_per_category:
+            continue
+        key = article_key(article)
+        if key in selected_keys:
+            continue
+        selected.append(article)
+        selected_keys.add(key)
+        category_counts[article.category] += 1
+        if len(selected) >= limit:
+            return selected
+
+    for _, article in scored:
+        key = article_key(article)
+        if key in selected_keys:
+            continue
+        selected.append(article)
+        selected_keys.add(key)
+        if len(selected) >= limit:
+            break
+
+    return selected
 
 
 def ranked_candidates_for_model(articles: list[Article], preferences: dict[str, Any]) -> list[Article]:
     interests = [str(item) for item in preferences.get("interests", [])]
     exclude_keywords = [str(item) for item in preferences.get("exclude_keywords", [])]
     today_summary = preferences.get("today_summary", {})
-    max_ai_candidates = int(today_summary.get("max_ai_candidates", 40))
+    max_ai_candidates = int(today_summary.get("max_ai_candidates", 70))
+    max_candidates_per_category = int(today_summary.get("max_candidates_per_category", 8))
 
     scored: list[tuple[int, Article]] = []
     for article in articles:
         score, _ = keyword_score(article, interests, exclude_keywords)
         if score >= 0:
             scored.append((score, article))
-    scored.sort(key=lambda item: item[0], reverse=True)
-    return [article for _, article in scored[:max_ai_candidates]]
+
+    return diverse_articles(scored, max_ai_candidates, max_candidates_per_category)
 
 
-def fallback_select_articles(
-    articles: list[Article], preferences: dict[str, Any]
-) -> list[dict[str, Any]]:
+def fallback_select_articles(articles: list[Article], preferences: dict[str, Any]) -> list[dict[str, Any]]:
     interests = [str(item) for item in preferences.get("interests", [])]
     exclude_keywords = [str(item) for item in preferences.get("exclude_keywords", [])]
-    max_items = int(preferences.get("max_summary_items", 10))
+    max_items = int(preferences.get("max_summary_items", 12))
+    max_per_category = int(preferences.get("today_summary", {}).get("max_per_category", 2))
 
-    scored: list[tuple[int, list[str], Article]] = []
+    scored: list[tuple[int, Article]] = []
+    matches_by_key: dict[str, list[str]] = {}
     for article in articles:
         score, matched = keyword_score(article, interests, exclude_keywords)
-        if score > 0:
-            scored.append((score, matched, article))
+        if score < 0:
+            continue
+        scored.append((score, article))
+        matches_by_key[article_key(article)] = matched
 
-    scored.sort(key=lambda item: item[0], reverse=True)
+    selected_articles = diverse_articles(scored, max_items, max_per_category)
     selected: list[dict[str, Any]] = []
-    for score, matched, article in scored[:max_items]:
+    for article in selected_articles:
+        matched = matches_by_key.get(article_key(article), [])
+        reason = (
+            f"興味キーワードに一致: {', '.join(matched[:5])}"
+            if matched
+            else f"{category_label(article.category)}ジャンルの新着ニュース"
+        )
         selected.append(
             {
                 "title": article.title,
                 "url": article.url,
                 "source": article.source_display_name,
                 "published_at": article.published_at,
-                "reason": f"興味キーワードに一致: {', '.join(matched)}" if matched else "技術カテゴリの記事",
-                "keywords": matched,
+                "category": article.category,
+                "reason": reason,
+                "keywords": matched[:8],
             }
         )
     return selected
@@ -380,14 +473,15 @@ def fallback_select_articles(
 
 def compact_article_for_model(article: Article) -> dict[str, Any]:
     description = article.description or ""
-    if len(description) > 140:
-        description = description[:140] + "..."
+    if len(description) > 180:
+        description = description[:180] + "..."
     return {
         "title": article.title,
         "url": article.url,
         "published_at": article.published_at,
         "source": article.source_display_name,
         "category": article.category,
+        "category_label": category_label(article.category),
         "description": description,
     }
 
@@ -403,13 +497,26 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
         print("gemini fallback: GEMINI_API_KEY is empty", file=sys.stderr)
         return None
 
-    max_items = int(preferences.get("max_summary_items", 10))
+    max_items = int(preferences.get("max_summary_items", 12))
+    today_summary = preferences.get("today_summary", {})
+    max_per_category = int(today_summary.get("max_per_category", 2))
+    min_categories = int(today_summary.get("min_categories", 6))
     model_candidates = ranked_candidates_for_model(articles, preferences)
+    if not model_candidates:
+        return []
+
     payload_articles = [compact_article_for_model(article) for article in model_candidates]
     prompt = {
         "interests": preferences.get("interests", []),
         "exclude_keywords": preferences.get("exclude_keywords", []),
         "max_summary_items": max_items,
+        "diversity_rules": {
+            "max_per_category": max_per_category,
+            "prefer_at_least_categories": min_categories,
+            "avoid_duplicate_stories": True,
+            "avoid_source_concentration": True,
+            "do_not_prioritize_technology_over_other_categories": True,
+        },
         "articles": payload_articles,
     }
 
@@ -417,7 +524,13 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
         "systemInstruction": {
             "parts": [
                 {
-                    "text": "あなたは技術記事の選別担当です。本文要約はしません。タイトル、出典、カテゴリ、RSS概要だけから、ユーザーが興味を持ちそうな記事を選び、JSONだけを返してください。",
+                    "text": (
+                        "あなたは総合ニュースの選別担当です。技術だけを優遇せず、政治、国際、経済、"
+                        "サイバーセキュリティ、IT・AI、科学、医療、アニメ、歴史、教育、社会、スポーツ、"
+                        "文化など複数ジャンルから、重要性と読み物としての面白さを両立して選んでください。"
+                        "本文要約はせず、タイトル、出典、カテゴリ、RSS概要だけを根拠にしてください。"
+                        "同じ話題・同じジャンル・同じ媒体への偏りを避け、JSONだけを返してください。"
+                    )
                 }
             ],
         },
@@ -426,8 +539,12 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
                 "role": "user",
                 "parts": [
                     {
-                        "text": "次の記事候補から読む価値が高そうなものを選んでください。返却形式は {\"items\":[{\"title\":...,\"url\":...,\"source\":...,\"published_at\":...,\"reason\":...,\"keywords\":[...]}]} のJSONのみ。\n"
-                        + json.dumps(prompt, ensure_ascii=False),
+                        "text": (
+                            "次の記事候補から読む価値が高そうなものを選んでください。"
+                            "返却形式は {\"items\":[{\"title\":...,\"url\":...,\"source\":...,"
+                            "\"published_at\":...,\"category\":...,\"reason\":...,\"keywords\":[...]}]} のJSONのみ。\n"
+                            + json.dumps(prompt, ensure_ascii=False)
+                        )
                     }
                 ],
             }
@@ -450,10 +567,7 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
     request = urllib.request.Request(
         f"{endpoint}?key={api_key}",
         data=json.dumps(request_body).encode("utf-8"),
-        headers={
-            "Content-Type": "application/json",
-            "Accept": "application/json",
-        },
+        headers={"Content-Type": "application/json", "Accept": "application/json"},
         method="POST",
     )
 
@@ -463,20 +577,97 @@ def call_gemini(articles: list[Article], preferences: dict[str, Any]) -> list[di
         candidate = response_data["candidates"][0]
         finish_reason = candidate.get("finishReason")
         if finish_reason == "MAX_TOKENS":
-            print(f"gemini fallback: response truncated (finishReason=MAX_TOKENS, {len(payload_articles)} candidates)", file=sys.stderr)
+            print(
+                f"gemini fallback: response truncated (finishReason=MAX_TOKENS, {len(payload_articles)} candidates)",
+                file=sys.stderr,
+            )
             return None
         content = candidate["content"]["parts"][0]["text"]
         content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
         parsed = json.loads(content)
         items = parsed.get("items", [])
         if isinstance(items, list):
-            return items[:max_items]
+            return [item for item in items if isinstance(item, dict)]
     except urllib.error.HTTPError as error:
         body = error.read().decode("utf-8", errors="replace")
         print(f"gemini fallback: HTTP {error.code}: {body}", file=sys.stderr)
     except Exception as error:  # noqa: BLE001
         print(f"gemini fallback: {error}", file=sys.stderr)
     return None
+
+
+def diverse_items(items: list[dict[str, Any]], max_items: int, max_per_category: int) -> list[dict[str, Any]]:
+    selected: list[dict[str, Any]] = []
+    selected_urls: set[str] = set()
+    category_counts: dict[str, int] = defaultdict(int)
+
+    for item in items:
+        url = str(item.get("url") or "")
+        category = str(item.get("category") or "general")
+        if url and url in selected_urls:
+            continue
+        if category_counts[category] >= max_per_category:
+            continue
+        selected.append(item)
+        if url:
+            selected_urls.add(url)
+        category_counts[category] += 1
+        if len(selected) >= max_items:
+            return selected
+
+    for item in items:
+        url = str(item.get("url") or "")
+        if url and url in selected_urls:
+            continue
+        selected.append(item)
+        if url:
+            selected_urls.add(url)
+        if len(selected) >= max_items:
+            break
+
+    return selected
+
+
+def finalize_model_items(
+    model_items: list[dict[str, Any]],
+    articles: list[Article],
+    preferences: dict[str, Any],
+) -> list[dict[str, Any]]:
+    max_items = int(preferences.get("max_summary_items", 12))
+    max_per_category = int(preferences.get("today_summary", {}).get("max_per_category", 2))
+    article_by_url = {article.url: article for article in articles if article.url}
+
+    normalized: list[dict[str, Any]] = []
+    for item in model_items:
+        url = str(item.get("url") or "")
+        article = article_by_url.get(url)
+        if article is None:
+            continue
+        keywords = item.get("keywords")
+        if not isinstance(keywords, list):
+            keywords = []
+        normalized.append(
+            {
+                "title": article.title,
+                "url": article.url,
+                "source": article.source_display_name,
+                "published_at": article.published_at,
+                "category": article.category,
+                "reason": str(item.get("reason") or "幅広いニュース候補として選定"),
+                "keywords": [str(keyword) for keyword in keywords[:8]],
+            }
+        )
+
+    existing_urls = {str(item.get("url") or "") for item in normalized}
+    for item in fallback_select_articles(articles, preferences):
+        url = str(item.get("url") or "")
+        if url and url in existing_urls:
+            continue
+        normalized.append(item)
+        if url:
+            existing_urls.add(url)
+
+    return diverse_items(normalized, max_items, max_per_category)
 
 
 def render_today_markdown(
@@ -496,7 +687,7 @@ def render_today_markdown(
         f"- 全取得記事数: {all_articles_count}",
         f"- 対象期間内の記事数: {recent_articles_count}",
         f"- 新規記事数: {len(new_articles)}",
-        f"- 選定方式: {'Gemini' if used_model else 'キーワード一致フォールバック'}",
+        f"- 選定方式: {'Gemini + ジャンル分散' if used_model else 'ジャンル分散フォールバック'}",
         "",
         "## 今日見る候補",
         "",
@@ -511,10 +702,12 @@ def render_today_markdown(
                 keyword_text = ", ".join(str(keyword) for keyword in keywords) or "-"
             else:
                 keyword_text = str(keywords)
+            category = str(item.get("category") or "general")
             lines.extend(
                 [
                     f"### {index}. {item.get('title', 'No title')}",
                     "",
+                    f"- ジャンル: {category_label(category)}",
                     f"- 出典: {item.get('source', '-')}",
                     f"- URL: {item.get('url', '-')}",
                     f"- 公開日時: {item.get('published_at') or '-'}",
@@ -529,7 +722,9 @@ def render_today_markdown(
         lines.extend(["新規記事はありませんでした。", ""])
     else:
         for article in new_articles:
-            lines.append(f"- [{article.title}]({article.url}) - {article.source_display_name}")
+            lines.append(
+                f"- [{article.title}]({article.url}) - {article.source_display_name} / {category_label(article.category)}"
+            )
         lines.append("")
 
     return "\n".join(lines)
@@ -553,11 +748,7 @@ def main() -> int:
         return 1
 
     history = load_json(HISTORY_PATH, {"seen": {}})
-    history = prune_history(
-        history,
-        now,
-        int(preferences.get("history_retention_days", 90)),
-    )
+    history = prune_history(history, now, int(preferences.get("history_retention_days", 90)))
 
     all_articles, ok = collect_articles(sources, now)
     recent_articles = filter_recent_articles(all_articles, now, preferences)
@@ -566,7 +757,12 @@ def main() -> int:
 
     model_items = call_gemini(new_articles, preferences) if new_articles else None
     used_model = model_items is not None
-    selected_items = model_items or fallback_select_articles(new_articles, preferences)
+    selected_items = (
+        finalize_model_items(model_items, new_articles, preferences)
+        if model_items is not None
+        else fallback_select_articles(new_articles, preferences)
+    )
+
     today_markdown = render_today_markdown(
         selected_items,
         new_articles,

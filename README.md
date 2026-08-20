@@ -6,31 +6,53 @@
 [今日の記事サマリー（2026-08-20）](docs/2026-08-20/summary.md)
 <!-- today-summary-link:end -->
 
-RSS / Atom フィードから情報を収集し、日付ごとの Markdown ファイルとして保存するリポジトリです。
+RSS / Atom フィードから幅広いニュースを収集し、日付ごとの Markdown ファイルとして保存するリポジトリです。
 
-## 概要
+## 収集方針
 
-このリポジトリでは、GitHub Actions を使って定期的にニュース・技術記事・企業技術ブログなどを収集します。
+企業ブログ、Qiita、Zenn などの技術ブログ・投稿サイトは収集対象から外し、ニュース記事を中心に収集します。
 
-初期対象は以下です。
+現在の主なジャンルは以下です。
 
-- Yahoo!ニュース
-- Qiita
-- Zenn
+- 総合
+- 政治
+- 国際・外交
+- 経済・ビジネス
+- サイバーセキュリティ / ハッキング
+- IT・AI
+- 科学・宇宙
+- 医療・健康
+- アニメ・漫画
+- 歴史・考古
+- 教育
+- 社会・事件
+- スポーツ
+- 文化・芸術・映画・音楽
+
+収集元は Yahoo!ニュースのピックアップと、Googleニュースのテーマ別検索 RSS を利用します。
+
+## 記事選定
+
+毎日の「今日見る候補」は、技術分野を特別扱いせず、複数ジャンルに分散するよう選定します。
+
+- 最大 12 件
+- 同一ジャンルは原則 2 件まで
+- 記事が十分にある場合は 6 ジャンル以上を優先
+- 同じ話題や同じ媒体への偏りを避ける
+- Gemini が利用できない場合も、同じジャンル分散ルールでフォールバック選定する
 
 ## ディレクトリ構成
 
 ```txt
 .
 ├── config/
-│   └── sources.json
+│   ├── sources.json
+│   └── preferences.json
 ├── scripts/
 │   └── fetch_feeds.py
+├── data/
 ├── docs/
 │   └── YYYY-MM-DD/
-│       ├── yahoo.md
-│       ├── qiita.md
-│       └── zenn.md
 └── .github/
     └── workflows/
         └── fetch-feeds.yml
@@ -42,40 +64,35 @@ RSS / Atom フィードから情報を収集し、日付ごとの Markdown フ�
 python scripts/fetch_feeds.py
 ```
 
-## 収集対象の追加
+Gemini による記事選定を利用する場合は `GEMINI_API_KEY` を環境変数に設定します。未設定の場合はジャンル分散フォールバックで選定します。
 
-`config/sources.json` に RSS / Atom フィードを追加します。
+## 収集対象の変更
+
+`config/sources.json` に RSS / Atom フィードを追加・編集します。
 
 ```json
 {
-  "name": "example",
-  "display_name": "Example Tech Blog",
+  "name": "example_news",
+  "display_name": "Example News",
   "type": "rss",
   "url": "https://example.com/feed.xml",
-  "limit": 10,
-  "category": "company_blog",
+  "limit": 15,
+  "category": "world",
   "enabled": true
 }
 ```
 
+興味キーワードや選定件数、ジャンルごとの上限は `config/preferences.json` で変更できます。
+
 ## 出力先
 
-実行日の JST 日付で、以下のように保存します。
+実行日の JST 日付で、取得元ごとの記事一覧とサマリーを保存します。
 
 ```txt
 docs/YYYY-MM-DD/{source_name}.md
+docs/YYYY-MM-DD/summary.md
+today.md
 ```
-
-例:
-
-```txt
-docs/2026-07-08/qiita.md
-```
-
-## 方針
-
-初期実装では、RSS / Atom で取得できる情報源のみを対象にします。
-HTML スクレイピング、AI 要約、DB 保存、通知連携は後続拡張の対象です。
 
 ## 関連
 
