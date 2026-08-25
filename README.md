@@ -1,10 +1,10 @@
-# Daily News Digest
+# ニュース速報
 
-> Daily multi-category news digest powered by GitHub Actions and AI.
+> Daily multi-category news updates powered by GitHub Actions and AI.
 
-[![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88&duration=11)](https://yabuki-shodai.github.io/jouhousyusyuu/)
+[![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E9%80%9F%E5%A0%B1&duration=11)](https://yabuki-shodai.github.io/jouhousyusyuu/)
 
-Daily News Digest は、RSS / Atom フィードから幅広いジャンルのニュースを毎日収集し、ジャンル別に整理・選定して保存するプロジェクトです。
+ニュース速報は、RSS / Atom フィードから幅広いジャンルのニュースを毎日収集し、ジャンル別に整理・選定して保存するプロジェクトです。
 
 ## ✨ Features
 
