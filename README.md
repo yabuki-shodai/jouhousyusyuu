@@ -2,7 +2,7 @@
 
 > Daily multi-category news updates powered by GitHub Actions and AI.
 
-[![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E9%80%9F%E5%A0%B1&duration=11)](https://yabuki-shodai.github.io/jouhousyusyuu/)
+[![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E9%80%9F%E5%A0%B1&duration=11)](today.md)
 
 ニュース速報は、RSS / Atom フィードから幅広いジャンルのニュースを毎日収集し、ジャンル別に整理・選定して保存するプロジェクトです。
 
@@ -65,7 +65,6 @@ Gemini API が利用できない場合でも、フォールバック処理によ
 
 最新の収集結果は以下から確認できます。
 
-- 🌐 [GitHub Pages](https://yabuki-shodai.github.io/jouhousyusyuu/)
 - 📊 [`today.md`](today.md)
 
 <!-- today-summary-link:start -->
