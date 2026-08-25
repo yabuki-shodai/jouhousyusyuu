@@ -6,8 +6,6 @@
 
 Daily News Digest は、RSS / Atom フィードから幅広いジャンルのニュースを毎日収集し、ジャンル別に整理・選定して保存するプロジェクトです。
 
-企業ブログ、Qiita、Zenn などの技術ブログ・投稿サイトは対象から外し、一般のニュース記事を中心に収集します。
-
 ## ✨ Features
 
 ### 📰 Multi-category News
