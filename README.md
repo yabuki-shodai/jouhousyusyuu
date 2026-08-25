@@ -1,18 +1,23 @@
-# jouhousyusyuu
+# ニュース速報
 
-[GitHub Pagesで収集結果を見る](https://yabuki-shodai.github.io/jouhousyusyuu/)
+> Daily multi-category news updates powered by GitHub Actions and AI.
 
-<!-- today-summary-link:start -->
-[今日の記事サマリー（2026-08-25）](docs/2026-08-25/summary.md)
-<!-- today-summary-link:end -->
+[![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E9%80%9F%E5%A0%B1&duration=11)](today.md)
 
-RSS / Atom フィードから幅広いニュースを収集し、日付ごとの Markdown ファイルとして保存するリポジトリです。
+ニュース速報は、RSS / Atom フィードから幅広いジャンルのニュースを毎日収集し、ジャンル別に整理・選定して保存するプロジェクトです。
 
-## 収集方針
+## ✨ Features
 
-企業ブログ、Qiita、Zenn などの技術ブログ・投稿サイトは収集対象から外し、ニュース記事を中心に収集します。
+### 📰 Multi-category News
 
-現在の主なジャンルは以下です。
+政治・国際・経済・サイバーセキュリティ・IT・科学・アニメ・歴史など、特定分野に偏らず幅広いニュースを収集します。
+
+#### Sources
+
+- Yahoo!ニュースのピックアップ
+- Googleニュースのテーマ別検索 RSS
+
+#### Categories
 
 - 総合
 - 政治
@@ -29,49 +34,83 @@ RSS / Atom フィードから幅広いニュースを収集し、日付ごとの
 - スポーツ
 - 文化・芸術・映画・音楽
 
-収集元は Yahoo!ニュースのピックアップと、Googleニュースのテーマ別検索 RSS を利用します。
+---
 
-## 記事選定
+### 🎯 Daily Selection
 
-毎日の「今日見る候補」は、技術分野を特別扱いせず、複数ジャンルに分散するよう選定します。
+毎日の「今日見る候補」を最大 20 件まで選定します。
+
+#### Selection Policy
 
 - 最大 20 件
 - 同一ジャンルは原則 2 件まで
 - 記事が十分にある場合は 8 ジャンル以上を優先
-- 同じ話題や同じ媒体への偏りを避ける
-- Gemini が利用できない場合も、同じジャンル分散ルールでフォールバック選定する
-- 新規記事一覧はジャンル別に見出しを分けて表示する
+- 同じ話題や同じ媒体への偏りを抑制
+- 技術分野だけを特別扱いせず、複数ジャンルへ分散
+- Gemini が利用できない場合もジャンル分散ルールでフォールバック
 
-## ディレクトリ構成
+---
 
-```txt
-.
-├── config/
-│   ├── sources.json
-│   └── preferences.json
-├── scripts/
-│   ├── fetch_feeds.py
-│   └── group_new_articles.py
-├── data/
-├── docs/
-│   └── YYYY-MM-DD/
-└── .github/
-    └── workflows/
-        └── fetch-feeds.yml
+### 🤖 AI Summary
+
+Gemini API を利用して、収集した記事から読む候補を選定します。
+
+Gemini API が利用できない場合でも、フォールバック処理によりジャンルを分散した候補を生成します。
+
+利用する場合は環境変数 `GEMINI_API_KEY` を設定してください。GitHub Actions ではリポジトリシークレットに設定します。
+
+---
+
+## 📋 Dashboard
+
+最新の収集結果は以下から確認できます。
+
+- 📊 [`today.md`](today.md)
+
+<!-- today-summary-link:start -->
+[今日の記事サマリー（2026-08-25）](docs/2026-08-25/summary.md)
+<!-- today-summary-link:end -->
+
+---
+
+## 📁 Outputs
+
+実行日の JST 日付で、取得元ごとの記事一覧とサマリーを保存します。
+
+```text
+today.md
+
+docs/
+└── YYYY-MM-DD/
+    ├── summary.md
+    └── {source_name}.md
 ```
 
-## ローカル実行
+---
 
-```bash
-python scripts/fetch_feeds.py
-python scripts/group_new_articles.py
+## ⚙️ GitHub Actions
+
+ニュース収集は GitHub Actions から自動実行します。
+
+| Workflow | Description |
+|----------|-------------|
+| `fetch-feeds.yml` | RSS / Atom の取得・記事整理・今日見る候補の生成 |
+
+---
+
+## ⚙️ Configuration
+
+収集元や記事選定ルールは設定ファイルから変更できます。
+
+```text
+config/
+├── sources.json
+└── preferences.json
 ```
 
-Gemini による記事選定を利用する場合は `GEMINI_API_KEY` を環境変数に設定します。未設定の場合はジャンル分散フォールバックで選定します。
+### `config/sources.json`
 
-## 収集対象の変更
-
-`config/sources.json` に RSS / Atom フィードを追加・編集します。
+RSS / Atom フィードの追加・変更を行います。
 
 ```json
 {
@@ -85,18 +124,43 @@ Gemini による記事選定を利用する場合は `GEMINI_API_KEY` を環境�
 }
 ```
 
-興味キーワードや選定件数、ジャンルごとの上限は `config/preferences.json` で変更できます。
+### `config/preferences.json`
 
-## 出力先
+以下のような記事選定ルールを変更できます。
 
-実行日の JST 日付で、取得元ごとの記事一覧とサマリーを保存します。
+- 興味キーワード
+- 選定件数
+- ジャンルごとの上限
 
-```txt
-docs/YYYY-MM-DD/{source_name}.md
-docs/YYYY-MM-DD/summary.md
-today.md
+---
+
+## 🛠️ Local Development
+
+```bash
+python scripts/fetch_feeds.py
+python scripts/group_new_articles.py
 ```
 
-## 関連
+Gemini を利用する場合は `GEMINI_API_KEY` を環境変数に設定してください。
 
-- [作業の記録](https://github.com/users/yabuki-shodai/projects/5?pane=issue&itemId=210023191&issue=yabuki-shodai%7Clife-study%7C2)
+---
+
+## 📁 Structure
+
+```text
+.
+├── .github/
+│   └── workflows/
+│       └── fetch-feeds.yml
+├── config/
+│   ├── sources.json
+│   └── preferences.json
+├── data/
+├── docs/
+│   └── YYYY-MM-DD/
+├── scripts/
+│   ├── fetch_feeds.py
+│   └── group_new_articles.py
+├── README.md
+└── today.md
+```
