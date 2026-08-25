@@ -165,9 +165,3 @@ Gemini を利用する場合は `GEMINI_API_KEY` を環境変数に設定して�
 ├── README.md
 └── today.md
 ```
-
----
-
-## 🔗 Related
-
-- [作業の記録](https://github.com/users/yabuki-shodai/projects/5?pane=issue&itemId=210023191&issue=yabuki-shodai%7Clife-study%7C2)
