@@ -68,7 +68,7 @@ Gemini API が利用できない場合でも、フォールバック処理によ
 - 📊 [`today.md`](today.md)
 
 <!-- today-summary-link:start -->
-[今日の記事サマリー（2026-08-26）](docs/2026-08-26/summary.md)
+[今日の記事サマリー（2026-08-27）](docs/2026-08-27/summary.md)
 <!-- today-summary-link:end -->
 
 ---
