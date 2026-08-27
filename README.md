@@ -164,3 +164,9 @@ Gemini を利用する場合は `GEMINI_API_KEY` を環境変数に設定して�
 ├── README.md
 └── today.md
 ```
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
