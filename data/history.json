@@ -84,6 +84,13 @@
       "title": "新着情報: 交尾中に鳴くことには意味がある！～哺乳類や鳥類でよく知られる交尾声の機能をフクロウ類から検証～（理学研究院 教授 髙木昌興） - hokudai.ac.jp",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ValZMUkVBNFJ2RFUtV2RDakhnLWhYOEY4eTdvZDMzMEhVS1B5VTM2VUo2a3I1Qk1ldHJrZWRhY0duMHpFRHp4TDhrSWNPb25tRHRpTjRBZm9OZ3FpOXluUTgwWQ?oc=5"
     },
+    "00dc50d543830cb98956d78e45abac26997826b404b715b69289a979529a7875": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "なぜMicrosoftは脆弱性修正を13時間から15分にできたのか SDL進化の中身：25年の歴史をひもとく - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yeGFxQ0dvMGNOTWJmbzVBYTVtejNzVVFzNFlpX0pEY3ZqaWEyZU4tbTlDeGM0QlF5VHNxQl9pVWs4bDdpWTB3QWpoNWZ6U3pyT0tiRVlFeGhaODdnYWx0TzBIdXozcVFRbFFyeVpyMVA?oc=5"
+    },
     "00dc8a1ef764dcfc70c635ada253a9bde173073afa646d4f015416078129324e": {
       "category": "society",
       "first_seen": "2026-08-20",
@@ -437,6 +444,20 @@
       "source": "Zenn",
       "title": "個人開発のLaravelサイトにOpenTelemetry+Grafanaで可観測性基盤を作った（Docker無し・systemd運用）",
       "url": "https://zenn.dev/shim_03248/articles/5094579401a468"
+    },
+    "04b41e313de8c79e6de8de15431699d4660faf3ac147b8a66e16295f91f17ed8": {
+      "category": "general",
+      "first_seen": "2026-09-01",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "高校で車横転 生徒の遺族が提訴へ",
+      "url": "https://news.yahoo.co.jp/pickup/6593821?source=rss"
+    },
+    "04d7bbf4b7358d0cdf6addb4b3b44834bb7393cf16fdf510f93b0eb81af45a4c": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "【西新井文化ホール】21世紀ADACHI芸術文化共同制作プロジェクト 歓喜の演Vol.25「合唱」A.ヴィヴァルディ作曲「グローリア ニ長調 RV589」F.シューベルト作曲 「ミサ曲第 ５番 変 イ長調」 〔令和8年12月5日（土曜日）〕 - city.adachi.tokyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYOUxVbnJ1bVZXMWtxeDBxU2FkSTVwcHZaZUo5dE5LbVNWTXpDZmhuZW1Jdl9WVjQ1N205XzJEVnAxMEZmZlJxREpscGJmeUdlUGZWUllyMGt6UF9fbU5wZXM0LWktbW84WEV0MTV2dnBFMV9YYVpV?oc=5"
     },
     "04d858264ddffa0582c44815e3857e7da0bd83cbd455a7cb5207ba09bf091853": {
       "first_seen": "2026-07-20",
@@ -999,6 +1020,13 @@
       "title": "『MURCIÉLAGO-ムルシエラゴ-』アニメ化で来年1月放送・配信 - 山陽新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55QjdMZHRLbk9pdUlKd3BEdF9wcnZaYzF1d2t2VzdaRnhHSk1GZEdBcUd6RFY4YUo4ZkM3SUJ1Q3VPSW4yOUMtQWpLYjUxdUdyUWc?oc=5"
     },
+    "0a9465c8fc0933adb9f1d0ecf642fd02a3ab93beb47a7aa2a2f95b0b197827c4": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "三股町スポーツ大会参加等激励金について - town.mimata.lg.jp",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rUDM4d0diclBkTk1Uc1d4VnZRNVlPQWFFc09qcU9SbkY5Ql9iN1JtU3JuV0JFUjVkckxycHBUZDI5bWxmanBSMXVHeWtSWkJGM2ZYRjlTN3ZISWJt?oc=5"
+    },
     "0a9a3352a45eb22310f4fbb3201ec80c9fd8b99f56fc5d277dda29db4a7b88d7": {
       "category": "sports",
       "first_seen": "2026-08-23",
@@ -1011,6 +1039,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "スペースX、アメリカ宇宙軍の機密ミッション「USSF-366」を実施(sorae 宇宙へのポータルサイト)",
       "url": "https://news.yahoo.co.jp/articles/288832b507d095a6f31661724fb60d3da7e54674?source=rss"
+    },
+    "0a9d8c5f915a68437e41f9856777746dfe7b8563ad6876678f99cfd81263f784": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "熊本地震と北海道・北陸豪雨で貨物列車に影響 -- 災害多発で問われる日本の物流網 #エキスパートトピ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXF1LWhQWDJWR2FoZE1QLUVtc3doMkNVR1JiOXFTVUJwZTdXR1V2UkNtR2d6Z1FfeHdJRjA1MjNwenpqaXFsV0ZrZ2RWOVVVLUZiZlRSNkNpZndIN2xQeWNFdnFyOGtVMEM4OWVlNzEzQ1E0R2d3OURpOUNFdzl1ZjlJZFRxUF9C?oc=5"
     },
     "0ab5230b4cf423ebc4829e155a9c3de07794c884f9e98c073e6fce4e0fccb4f9": {
       "first_seen": "2026-08-07",
@@ -1182,6 +1217,13 @@
       "source": "Googleニュース 医療・健康",
       "title": "医師志望の高校生4人が館山で医療体験 地域医療や患者の幸せ考える（千葉県）（房日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeXU5RmhkNm9IZjl3ZVNUR191SWVpNHFVT2JwZlRVWGVJQjBDMDVORmx0Rm9Td19FT2V1cE8wTnNNVUFQXzlDTzU1cjlsd2ZWZnd1NEszV2ZYUGM4bVNQUEFXU2RLX3QxbVc5aUlXdnZFdG4wWjdvSnhaUmFQZnM?oc=5"
+    },
+    "0c25fb7accadbb7a475126a57f9ffafa651d4187cd28268de720d213500822f2": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "缶バッジ「TVアニメ『対ありでした。～お嬢さまは格闘ゲームなんてしない～』」02/コンプリートセット(全5種)(ミニキャライラスト) - eeo",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90VThsekdzek9RZWZIa3J3dnBtV2hVcTAxVmJmMkNFcFNYUmJucFBhcjhaVDZBUHpnN2RMaWZqMGpBTENOWnBJSXl2N1ZlUGlidmh0MWUxdFl6NktqU2ZZ?oc=5"
     },
     "0c2f3311a21a550e918c06b3fdd453ae4451e54296f7457a5d1fedda10247e2f": {
       "first_seen": "2026-07-18",
@@ -1533,6 +1575,13 @@
       "title": "「侍ジャパンU-18壮行試合」高校日本代表 対 大学日本代表 予告先発投手について - japan-baseball.jp",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oYmM0QmoxMVo4ZE43cUxxNEE4a092eDlpMmYxWWNURjZ5TVNiWWRSRUVIcHhodDVzcFZMNjV2MERjd1RPRDJ2ZEVxaTZjQVNkZV9kSGJiRjhjS1RFVnZZNDBPYV8yeDlhaEpr?oc=5"
     },
+    "0f6915b56d44a3a8337999dc3580eb57069190320169ef161735de710ababe18": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "彭麗媛夫人、キルギス大統領夫人と国立歴史博物館を見学 - 新華網日本語",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbS1vYjJKUWp4RUtCeFpVZkV2YmJmbW1aajhYZE1WSEJobTc2UHpJdEc0aUQ1SW1wVHBRQ2ltSk1rR0wzb0dKN1lETVRiZEx1c2NYeE9jdG9ldlZpdm5fMmgtaXBvM01vNHJHQnRIalZ1d0ZUcmc?oc=5"
+    },
     "0f7d2e1ff92e3768de00950b7d5648a750b861af63c7ea72c2072736108cdbbe": {
       "first_seen": "2026-07-31",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -1839,6 +1888,13 @@
       "title": "イラン革命防衛隊 米国をけん制",
       "url": "https://news.yahoo.co.jp/pickup/6591033?source=rss"
     },
+    "122bed792de8449b4be655c211a902e7f443e0e3dfe93e4b69d8894256cab506": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "いまどき島根の歴史◆４０７◇ リニューアルした島根県立古代出雲歴史博物館の総合展示室 新たな研究反映、直感的に ＜小田七奈 - 山陰中央新報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wVi02ZzdyOVR5SFZxeGl1RHRYdGM4aXN4UEVEbE1kTTFoRGRET2x3ZXZmZDRwVDhKRlZxRjJTWXZldkVicXFHUmExdGZ1R3RxSXdDR2NuUUEwOE0?oc=5"
+    },
     "122c28416d5c94051c66e0b3f44b878c5b4ba998de0c5d06b5bd4bb99afd6bff": {
       "first_seen": "2026-07-31",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -1958,6 +2014,13 @@
       "title": "日本アニメ界のパイオニア久里洋二さん創作80年の軌跡 出身地の鯖江で回顧展 漆器や眼鏡モチーフ作品も - 福井テレビ",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IUTB1VGNDRnEwVUhJeG1MYnQzYUVpUDlyVXVGTlhQUmg2SEhXZElQSzVSOVNiMW5SQWwtYi13cDVoZFpPTHlZOVU5ZzEyaS1OMGxNdTlkUHJhZ0RScmdLaWI0RUZ6WENs?oc=5"
     },
+    "1348c2763dcaf8f42364942b0f585a4dd9517dfb4654f171ffd2374213d0ba72": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "「フィジカル AI 開発支援プログラム by AWS ジャパン」最終成果発表会を開催しました - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWd6TFBtN2QzMUtDNDUzWGpJSWxFRkptS1pTRG1EMTU2X3BYLVNxWW5mUU5Pa0QxTy1uNXl5M1l3U3NPTkJYS0VmR2NiTG11ekh1QjNSX2JQRXozQXZEWm1EdnphWDZkX3d4VWhjd21QY3llMlFUMS1HREJ1akk0Q3VHc0dKWTl0OEVTaG41OFJ5S1N1ZThsWU1paw?oc=5"
+    },
     "135228dc5f09baf872dbffceefab9daea4d610ced463696bcacefa789a5e79d3": {
       "category": "anime",
       "first_seen": "2026-08-20",
@@ -2045,6 +2108,13 @@
       "source": "Googleニュース 社会・事件",
       "title": "神戸 女性殺害事件1年「面識ない」ストーカー相談 兵庫で増加 - NHKニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IX1JRSFZrb1hiY1BHVlh0RS1zcm1hYWVyeWZxQ2hsT2tvX1BvN01JSi0tc1Rac3YzR2Y2YUtWQUUwYS0xTlRkREMwUTR5Mk9oVzg4czJmVGt5endyenBv?oc=5"
+    },
+    "1453341f188657d4993247002d2cdab2312112698b78ff2abadaf8623739d19e": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "PL学園では甲子園で春夏連覇、元プロ野球選手が7回制に断固反対「2イニングを削っても、たぶん熱中症になる」 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzU1ZwMDZOWWNSLXM0MmJ1TElXQVhUc21YTENvcE5tY3VQc3dmMXA2QWt3U1ZMRHlnajAtVkhrU1ppQXBobXUxdmpEYjlQNTJnU3dJbGZxQTNTYXJSUmQwT1dmYm96cFdva05IbVJDUk5hcFk0Zkpnb2RfU0c5NzQ?oc=5"
     },
     "145b122a0da51e839718b028bbd22d39a5b42c94a6da7b3652921de414738fcf": {
       "category": "society",
@@ -3164,6 +3234,13 @@
       "title": "サッカー＝フォレスト、チェルシーからＦＷデラップ獲得 推定97億円 - ロイター",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WU0RVNDhsa0FUVHJnVFBoQ3hvYnRYUE04aEtjMW5yZXN1clVCWVc5YkJ4RGYwRGdxSUY5RzlxWlNFdnNpUlRPVFNhcHVnb0hzM1EyNXlrRUEtTlNqSnBGTDkwaDJIV3dGdGZOQ1ZJMElManh5YmVaRDFzWklxdw?oc=5"
     },
+    "1e46dba08ce975bfaa5d2206b96da890da7655c76dc293a41c18f5a74bd2b5c8": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "システム障害はサイバー攻撃ではなく「システム監視装置の不具合」 一時休診となった市立奈良病院 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSy1ZR0NkSWt4TUd2dDhLNVcxOF9TOFVlekR4bFo5MDB4clJsbGV3UFVDZGpZcDhpUjZfUTZhVVRnLWhOak1DYUg3ck9Wa0p6RjhCWTJ5ZnFDVTBJU2o5VWswcDVNeXVpOUpfRkhGYnkzcXI5V2w5akFNNlNUMHZrb1B1X0d6ZU0?oc=5"
+    },
     "1e7223987907937c86710a984c1e4fc5489fde43d1c87461e6f0930d3fe0bbb9": {
       "first_seen": "2026-08-20",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -3279,6 +3356,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "小惑星「1998 SH2」は彗星だった “地球防衛”にも関係してくる「ダークコメット」の存在(sorae 宇宙へのポータルサイト)",
       "url": "https://news.yahoo.co.jp/articles/cfcda7f08d843aa901718d6c26212d43b2e7d5b7?source=rss"
+    },
+    "1fc3dfb2f87f666c3dbcb611803e59a776f858b8e9e4e67c9b54951ca37655fa": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "横浜南部市場 食の専門店街 9月イベント - 横浜金沢観光協会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yVlV6Yk9oSWxUaGh5ei1JWGNDNW1fc3A3ZGRDRkJkVW9keEhaNWdRVDBjNWhvT1FkWmRQQlVqUmYyRHVmczFKSXVhRjFJVlBBYWhXVmZOaXJ4Si1Ca2VRR2lWZWZmWU5waTI2cjhn?oc=5"
     },
     "1fc7c2b681cebd560cdab3248e0c7840adc2e4ef6fcd97594848f0d1a480a694": {
       "category": "anime",
@@ -3426,6 +3510,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "トランプ氏 海峡「通航料」を撤回",
       "url": "https://news.yahoo.co.jp/pickup/6587970?source=rss"
+    },
+    "218b73e827b285c69d94db4a3299d38faf883ca0c291951851e9822b97a6e944": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "科学や歴史をテーマにした作品を制作するCuriosityStream、AI学習データライセンス収益が48%増 - media-innovation.jp",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWWHJUS043OHlCU3VPOERNSFBCN0hYSE1GTnRRYkVhTWIydVJ6Qkd4b3ozMHVLalEzdVppMVk3T0JYanRqdVk2VUQ2TWwyT1FYQUc0bG80SzZCWFZCNVktMERBaldQenNxUlE?oc=5"
     },
     "21c0a21cc17db8284ad56ed32558267d0bc3f551cfc11ff3b0c4fba19e2d4020": {
       "category": "business",
@@ -3670,6 +3761,13 @@
       "title": "AIエージェントがCAEを動かすとどうなる？ 人に残る役割は？ - MONOist",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uejNCLTlVX2xEaS04UHpIbUJQYzBRS092ZEFIMnFDY2dSRHdlVE5FV1JlY0tfZ1FzN1JKZ1E2RnRoSHhVamhzVjN4QThyVUo5S0NWdnpKUUdTR3lFXzVxdnJEZkMweGFpN2tpckFDVQ?oc=5"
     },
+    "244003a0a1f396569b4adf1802afec4faf19161957da73342c1450dec5c7aa34": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "CyberCrewが発見・報告した脆弱性、Red Hat公式CVE情報に掲載 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uNmdhb2Q0QnV3YkZWbEdMMGl5X2s0c3p3X1I3SGpza0dtU0tUaU03Q3NVLUFTdzNrRHFIdHBUNm1hVi1HVXdUd3R5bmMzSDdfODhEZWhEbndpTVJKWlRlVG5JNVZzd2tFZWc?oc=5"
+    },
     "244b5a25b833a35545615f0045c0f61c826c26d1f8515ae77a27a859dffba015": {
       "category": "health",
       "first_seen": "2026-08-28",
@@ -3783,6 +3881,13 @@
       "source": "Googleニュース 医療・健康",
       "title": "医師会チーム派遣「迅速調整できた」 熊本地震で県医師会が会見 - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSk4xSmlfZS1ON3R5VFBwOTljcE9tcWY5d2xzc0xUV0huVDhPUjBQOXJWZmNya1VtRXpnZ2JlT1F2bGpOYzdTbFBOYmZWelNVUzYzVl9HZHBQNTBVdzVXUnBtTFI0V1U?oc=5"
+    },
+    "256889d17aad9b9747f3c35d05ef076035e92d343bf9d9f8a5a9b1bc52dfe6cd": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "市立奈良病院、4月のシステム障害「サイバー攻撃なし」と結論 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ybmJrbnhBODdCeHI4dm1QU0VrTTZDT3RJbXh1QkphTlZMQmFXMkJEVUR4OUZ1ckFJT2VzcG1BR2xoR29rYUdSbDQyRklHU0RQd29qR1JKWGk1WEd4TFh2Q09oNjdISDY2dEpOdg?oc=5"
     },
     "257018ce6f615225c6d7be46b2dd0303d0b513b45b37ce1defa6556b961eaf83": {
       "first_seen": "2026-07-08",
@@ -4198,6 +4303,13 @@
       "title": "世界遺産に求められる保全と活用 開発が景観へ与える影響調査を [青森県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tRjQzRzNYZ2FDRXhqYmFkYmpDLTB5amJ2UVJZSXRUNWFKMHBxMG8wZ1lrcWpWdTh1VFFxZk8zbUdyUVNwVU4waTdOVVhZZ0ZzS0N2LUxOZnphaEVKVVIxSFR1TmtJOVk?oc=5"
     },
+    "2a23c25a4e18e4c9ebd866aa34b1bf2d8bbe3862c62fcff7efb66da00fb8d745": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "債券市場、日銀の追加利上げ「3回以上」見込む QUICK8月調査 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01SHFjUjVfeDJMZmQ0NkRablc1cng4ajFmcHBKTmxpdjNDd2VQM2V0X2NBVmNaTDRqc3pMMk1qSXlSSXZfRjZiYjNSMVVKbjk5ZGczc3FPZUxIY1ktYnRPU2RoNFZHbEJpamRNZA?oc=5"
+    },
     "2a253b3ab75e6c98d3a7f10d36d930064801c1f630a5a074d2ea99244d707954": {
       "first_seen": "2026-08-17",
       "source": "Zenn",
@@ -4210,6 +4322,13 @@
       "source": "Googleニュース スポーツ",
       "title": "中止のプロ野球（22日）（時事通信） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ONW5SdG9HNlNhSlMxX1AtVjhvZDl2WXpuTzZFV0tpcXRvTkxWOVlSbW9weDlIQUdwYzUzRHRvRTRrdWJ2cjFHeTVTaGlXZjVRZWVlbWFiSTR3VDRscE1WVTVtVEY5S3JhOXJYeF8zY0VOT081cVdBSTdpM0pibEk?oc=5"
+    },
+    "2a29a73722bf10d553681aa84f98d54e269e1abf3ec3444d79bef593e7e8dea2": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "お知らせトピックス2026-030 - oita-u.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fWTVuWnR0MXZWWDRyem9vNDQzek16dFJ4TmIzQ3FNTS14VnNBd3R6akFXQkEyVURMTl9iOUtqTVd2RWg1aVhTcC1KemsxODk1R2ZqdFBjMUtpTGo3Y19UX3JWa2g3RWM?oc=5"
     },
     "2a37510fb0e4e1a86dc5675b8b26942d1b43ac06434e2f8f65e03ff291744352": {
       "category": "anime",
@@ -4639,6 +4758,13 @@
       "title": "ウェブライフ、OEM向けホームページ作成サービスで不正アクセス、情報漏えいの可能性（INTERNET Watch） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vSUhhekp1bzBTSFBtc1lJMjQ2Snl5Z3Mycmc2WS1XMGFXekdTU1M1NkRLenlMMk5OTG1FTzE3TkFnbjhRMDRRRDBUY2RPbVM4OVhtcUhWYUJLN1lRTWJjZi02R05WMmNVYzBqVE5wNFd6aWl6RTZwREdUcFg3M2c?oc=5"
     },
+    "2e840451bf7a20b028141eab7dd49831bb2b75e9b6f5b66d26f87fbac6b64516": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "広報誌「東京の障害者スポーツ112号」を発行しました！ - tsad-portal.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTWRIcWt1UkxYYkpiaGdUNjlxMWVVLVFGZHJ0dDBtNEVmeHRpMHFUbzlXM2NNa05xN2FTR1RrV1A4aE5HZmx5QXpEVlo2RGN0ZUQ0?oc=5"
+    },
     "2e8bf94d6c367d839ea47b264218ace3f001a118066458af2cbd5f0ed111977b": {
       "first_seen": "2026-07-18",
       "source": "Yahoo!ニュース トピックス IT",
@@ -4692,6 +4818,13 @@
       "source": "Googleニュース 国際・外交",
       "title": "ホルムズ海峡は「国際海峡」と日本政府が初認定：その意義と含意 - nippon.com",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RV0hlcWh3OWpTeFg0M2p0bUlCUGdJQW5VOUZFNHBOQXp5S01LQVVuazBiamFPTEZwTURmU2hldG1GTk5BaXJEWnJ4WU1oYi1acU9INA?oc=5"
+    },
+    "2f55e9baea2eb087ae51702f2fe842388d504f8a82ac6955b751b4dcdd2868a5": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "シャドバで遊ぼう〜声優と夜あそび編〜 #1 - ABEMA",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OOG1FNXIwU21EaU9IdlViT1haaTVqUVRmaDJ0UmxVUzFOOW5BdG5fOXJta29Bc1BtWXZUX19Dd0lBV3hhdUdPNDFZOFVkQUNTMHQ0R0h0Yy11eXlaOVR2R3l2elpicFlS?oc=5"
     },
     "2f56b0afd30974fe27acfe584cdfd94be153125f9ffb9b4c38ca07aab35fb75b": {
       "category": "world",
@@ -5458,6 +5591,13 @@
       "title": "映画館座席の“仮押さえループ”話題に 「大量保持はお控えを」──渋谷HUMAXシネマが苦言(ITmedia Mobile)",
       "url": "https://news.yahoo.co.jp/articles/4b56e5e5ad6f3945c62c27ecce48a9d0b30b9add?source=rss"
     },
+    "373025b34a96b46f0682d8689e38d55f01810ddbda09b2182ed844347c70a076": {
+      "category": "general",
+      "first_seen": "2026-09-01",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "メッシ代表引退 全て捧げ尽くした",
+      "url": "https://news.yahoo.co.jp/pickup/6593812?source=rss"
+    },
     "373196c98a316642a245052fc1c8aaac977ca561ed90259ab1ed44822a261f4c": {
       "category": "culture",
       "first_seen": "2026-08-30",
@@ -5578,6 +5718,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "塵のベールに隠された若き星々を探る 赤外線で観測した星形成領域「いっかくじゅう座R2」(sorae 宇宙へのポータルサイト)",
       "url": "https://news.yahoo.co.jp/articles/b3d1e521c759496f75145c986c8bbc15047f08e9?source=rss"
+    },
+    "386c71f8528df6a867e9ef4c38693db755e138f2642e29f9571f1eba7f4eb4c3": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "AIエージェントによって「一晩25万ドル」の請求も 通信事業者に求められるコスト管理とガバナンス - businessnetwork.jp",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wbzc2WUtYYmtUdWZtcjM0ekZuZjRmTmwxdG1RX2JvaExZQm5OdGdtdUhYTTlNVTh6a1ZFcGZ1STZ1ckJzWXpSamc5VHhwUkhUMEY4?oc=5"
     },
     "38831e041b75c77aa0086108eaad6fd45f45e1d66e3e0c148b83d99b3d5a433a": {
       "category": "politics",
@@ -5787,6 +5934,13 @@
       "title": "特急列車 車との衝突気付かず走行",
       "url": "https://news.yahoo.co.jp/pickup/6591508?source=rss"
     },
+    "3af3d2fa903d6079d19d073873addc5c64ded45662f1587bb351c57c6518159e": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "『ドラえもん 誕生日スペシャル』に小泉孝太郎さんがゲスト声優として出演！ - ドラえもん公式サイト｜ドラえもんチャンネル",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCYmNVbnFvSmhlbEIwZnd4NlZfb3Y1UGNiNFV0dFB6b3lwaEJXOUYySXI1NkxMaFZKNzdoRDVMaXRxQlcxam9DTHVwc1Q?oc=5"
+    },
     "3b0c3cde7101b8c0615c214c42f9345e931293a5d3894b727ffb27e8ba862eda": {
       "category": "politics",
       "first_seen": "2026-08-26",
@@ -5995,6 +6149,20 @@
       "title": "【重要】グローバルな視野と地域社会を結ぶ新たなビジネス教育へ 北海商科大学新たな学びの構想 - hokkai.ac.jp",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jb1dfOGVWMU1TX016NUlMalV1VF9jeTRESzNId21heU5yU3I2MmNFMDBUNjJVWFhWcVFWa3J3UGpUbU5EQVp5bFBsYU5QTVllZlBLVmpsSVFiVUp2?oc=5"
     },
+    "3cde7901d174fcff3d6ed9900455d672f8ce61fcf799940c47d1173e60e66d7a": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "ＦＲＢ議長、Ｇ２０デビュー 「世界経済、大きな変化」：時事ドットコム - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xRXpzZXY1LXJ1RE9jYmJaR3ZwM1FuX2Z3WEloa1VaS2JCRFZaY3lfc3REOVA0QkhGaEIzcy1IbXdzdHRBanJiYjNST3pFajJyc2pRQ1FKR1I5d2JRaUtDVnNGaw?oc=5"
+    },
+    "3ce1734791e71cbbcbafa4fb9e321c195291305f484807db8599aab9becdffd0": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "［相次ぐ災害 「防災の日」］被災地の課題踏まえ備えを - sannichi.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PWmJfWGRpNVVTVE0tN1ZzLW5UQjFENzNEUW14QmwyQVJ3MU9tLVB4eFl4RkZQTHBHaEN3a0ZlS2xtNHBMRVhHX1FaeXFNMFJmdmRSWDNnUzNGbWhpeC1ISGJkcWo?oc=5"
+    },
     "3ce60140a3cffa68a4a9c37840de4015b49d34da7575e11575a3c93017895eab": {
       "category": "general",
       "first_seen": "2026-08-21",
@@ -6022,6 +6190,13 @@
       "source": "Googleニュース 教育",
       "title": "第XⅢ次生涯教育推進委員会答申「かかりつけ医機能報告制度を踏まえた日本医師会生涯教育制度のあり方について」 - 日本医師会",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HTlFOY0l1Z1d3c2dvM2ZScl9IVXg0MGsweUd6YWs5SGduWEZNQTVKNnJsTW1WNmthOHNvVUxVMUx6Wlh1NllwWUtRQUxyb2dVN2R4c1ZXMjhuYkdHVFZyaHM0SUo?oc=5"
+    },
+    "3d2b046c43a6d1ef9dbf1303fb058d21068284e0eb86ecd9ec41b6c12ba744e9": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "【在学生紹介】工学部社会デザイン工学科 福島 実里 さん|教育|FUKUDAism（フクダイズム） - fukuoka-u.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hbF9ubmZUdFZ3WkJmd2U5UmphUDZvUVFRVzNjbFpTSGVUcnI5Wi1WdHZEYWlWVFpXMHVFTGUxRnF4ZkhNMzVUbFI4LXNTYXRKd0UyYzN1LWZOLXNIQTdnNWF5eU41eFFFR3M4Z0VXQVRpZw?oc=5"
     },
     "3d33e920c0439fe7fb43f2e9bd8cf7227ec461419c04b47ad1122c11a6763cb0": {
       "category": "society",
@@ -6055,6 +6230,13 @@
       "source": "Googleニュース 科学・宇宙",
       "title": "【社会起業研究科】「いのちと向き合う映画祭」開催のお知らせ[9月13日・日曜日] - 相模女子大学",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zQjlEeUNEeW9HUFl2eElFa0l4NUt1M0U2NU9VdExtU2lZRlJoX0JvMndqd3VCZjc1c1hJT2dGQTdJMGY3amtPaHR1ZVktWnJQMHZuUVh0emc?oc=5"
+    },
+    "3d54841f9c55414ef7caa4d6954a84ead6c9dee3b9fa6c36fea0af786dc0903d": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "【市場概況】東京為替見通し＝ドル円、日米通貨同盟による円買い介入の可能性に要警戒か - 外為どっとコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95cFNGcE82YWtRZnRaWUtEc2d4NXlWcGJIeWZPQ1R1WC1mcF9FZ0QxT2w1cVFVZkh3R3o3aWc3bUkwdzd6R0lZa2Y3a0JsaFhNcGphRG1NM2xSOFhMRkNMY3ZNdw?oc=5"
     },
     "3d74fd3e94581926780647785d71615842087685036eab8e6bd68db058e131c6": {
       "first_seen": "2026-07-14",
@@ -6167,6 +6349,13 @@
       "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "url": "https://zenn.dev/knowledgesense/articles/7c1a8f7720b119"
     },
+    "3e9729f102a77e4bce897c38cc3a9fcf5b6c62a58fe101fe6daa6af9843f83e0": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "新学習指導要領案のポイント 情報や国語・授業時間・成績評価が変わる - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85S1ltd0phZ05lZWg1NnNKcG5hbks5RF8zeXhDMEtSQVUyUkxXOFlNNHVJM19WR3o2VjJ2aWVDSmtDcnJfQmJrWHUzWGFSM3J4bHhMZm9Hb2Z1Rk5XSFN1UzRTWm9JZm5vOThIVA?oc=5"
+    },
     "3ea0eebeb51fbb1ac1d607f8ea51b2704d0af408132bea192b1d04af563763ac": {
       "category": "history",
       "first_seen": "2026-08-27",
@@ -6192,6 +6381,20 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "九州-東海で猛暑日の予想 警戒を",
       "url": "https://news.yahoo.co.jp/pickup/6592350?source=rss"
+    },
+    "3ef44d3cede97c571ff3c6502b5fda06060ef8d37d0a867347802962a84595b5": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "大学院保健科学研究科の博士後期課程認可 福島医大、27年4月開設:地域ニュース - 福島民友新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STGs4RXhiV3FXQzdSSWFzZVh1RnROYzFnOGc3S25oSFhqQUdZLXVCSmRiQ2UtZlN3b3J0Z004OUNBRU5XRzh6VHVDZE5zYnQ5SktBNzlaMFp4WEZKaGE4NGFIbVQ4N2E5?oc=5"
+    },
+    "3ef7758e9de66f5e08c1ab4a91ad3bff820608bb1e6f7133f1c799363f7b6df7": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "ＮＹ外為市場＝ドル小幅安、159円台後半 利上げ観測巡り米指標に注目 - jp.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aakJMZHpDU0d1RHpwT21paTY3MG5taWU5YzFqVTBDYlMyTHBLdGRYZnZCWFo2U2RvZFZUX0NyZU5UT0lOai0wRFJjTV9QV1d3ZXpJUE1YR1JVYndNWE1mYmtReEZPejVUMmxZVTFjZVpyOGc2c1RfWQ?oc=5"
     },
     "3f1dda170e2b77b7814394350718aed53d8ef560813ac1f1e508e8be0d36710d": {
       "first_seen": "2026-07-17",
@@ -6270,6 +6473,13 @@
       "source": "Googleニュース 文化・芸術",
       "title": "恐怖分子 デジタルリマスター - bunkamura.co.jp",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sN21PMjVWSXpXeHZiUTVfTmNOdGFNN3R3Q21CZXFLeFdxSjJ1MS1uWUpFcW5lUUtrcUM3b1dYMmNhN0N6Y21VeGVPeUJiOC10MHJWRWNDeFQwOXNmc0t6bExIZXN0ZXhNeVRvc3RB?oc=5"
+    },
+    "3fcc5186560ed9b064c884ba13624e4ffb89463071c7e9345a3ff984b96d989e": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "辺野古沖の転覆事故 研修旅行に関わった同志社国際高校の教師が死亡 – Quebee キュエビー - QAB 琉球朝日放送",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90UXRSNzI5Qno1b1RLdWh1dTgyRHdIUjRyRW5WbW1hMkVxTkNFc0kzUUhHVjJ5Zy1pQTI0VEkyRmNrTDg0NWNZWUpEaHNueloybXQyOWxjLVQ?oc=5"
     },
     "3fd222e49854371f12ff414000eccc2654922e2ec4f96516482c627c987aad78": {
       "first_seen": "2026-07-14",
@@ -6640,6 +6850,13 @@
       "title": "「災害福祉」が地域を強くする｜NEXT Well-being. - n-fukushi.ac.jp",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsVndDRmRWdWRUU2NsZlYzMXZFRWo4R0FoQ2E0eVNUaXF5eG5zeFVRUWtHc1ZNVFNlTzlfbnJmTTNOaWNjdl9RakxCMGpkOFZvV2pOZ2tUMktSNjlEcTdrVEo3aHVFTVlrM1l4VU95T2E?oc=5"
     },
+    "437d4ea43ae3ee33d327387358df1e9e1e7943eb8f56d7c8b65d2b442bf4e034": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "NASAがSpaceXのファルコンヘビーでローマン宇宙望遠鏡打ち上げ、宇宙最大の謎を解明へ - sbbit.jp",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UX3JySThnRFpCTldwTGtJN0JVVW9OY3NfcTRfaGZrREhURno0ZDlNUkJDckx1ZEctYV9vdkRVcjJuUzB4MElVMTlnaE5wNjduRjBR?oc=5"
+    },
     "4388a874a61015c3ffd1c37d0d2a018a6600d8614f5693a8fe0ade8271bd0cf0": {
       "category": "society",
       "first_seen": "2026-08-26",
@@ -6798,6 +7015,13 @@
       "title": "AIの暴走・サイバー攻撃を防ぐために企業が今すぐやるべきこと - 日経ビジネス電子版",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lQ3FJQU5sTXdvUDk0SHZmZ21yQmxjUkE4eVVFcjBxU2t6dW1vUDh0Z1oxYTVtZUwxRGY5RjRTWFdTa0g4MEViN3phM0p1ejQycV9iekxMM2FCRk5udjE5dVM5eG9Zekk?oc=5"
     },
+    "44dea80c1f568139eb3bb7c74df5804a1845f453101cd921cf68267b59d775f2": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "PFAS血中濃度指標超え、京都 宇治市、医療生協検査（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NY3ZYNlRYM2JXeVBmd1NmcVQ1WE5jVjVVLS0wZ280clRBZkFrdUZuckJJaTNtZWxqSDladU1YQnYxU1hEYlQtb1RQeklRWl9hNGhJdFA1MDRleGxmY2NhQ1QxZmhNMXJZa2dsNEFWUUpodXdrZWpKMEsxLU1hVnc?oc=5"
+    },
     "44e611f4312fbc7d342b84c521e53e7b998cdcb584eda7fb72653e5b0b2892c4": {
       "first_seen": "2026-08-14",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -6902,6 +7126,13 @@
       "title": "AI にデータ分析 SQL を書かせる仕組みを作りました - Bdash Server MCP の紹介",
       "url": "https://techlife.cookpad.com/entry/2025/06/19/111539"
     },
+    "45ea7d4cdc3ae86b1c3c930158870d4746b9f9ffa89a9060216a5f2dd6c40927": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "米軍、中間選挙で投票所に部隊派遣「計画ない」 制服組トップ - jp.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UdmQta2RUZTlkeWlKSXpxa3NJeVVqMktxTlpXOHZUYTdmXy15SFRLdTRGMWlucWNudy1SZzVyUTRhMkNNSHh6OG1zZUlvQkFtRmRMdWNtX2JDemtQeUpKTjRJR2J0dGY4TjZmbmZTQV9ITW9RNmtpUGRB?oc=5"
+    },
     "4600e2e8dcc29a798c280801d98471dc4f074b64dba3e5402ba40838a10c5603": {
       "category": "world",
       "first_seen": "2026-08-23",
@@ -6994,6 +7225,13 @@
       "title": "たかが配線、されど配線？「スピーカーケーブル」で音が変わる［カー用音響機材・チョイスの極意…パーツ＆部材編］(レスポンス)",
       "url": "https://news.yahoo.co.jp/articles/5f92bc284e0a660b8b90a2f2e80e8f6b4e9bb355?source=rss"
     },
+    "46956720ab8ab83255fe554332cdeeb21f3a0749f968c6e486ede04a816fd873": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "福井市、坂井市が災害ごみ仮置き場を開設 設置場所、持ち込み対象ごみ一覧 - 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IMWF5eEY4WXgyZF9sRGJIYVd3eEJwSGpjdVE3YWM5TGpGM0JVVUE0M2s4NVoyN19GSE4xeHNibmNiRDNTOEhnSUR5N1l1TjMzZENFb09QRXd0cFhaTGc?oc=5"
+    },
     "46aad31659a7d843ff0095d849d30d941557f08f9373e234634456f1b8c4c7f2": {
       "category": "technology",
       "first_seen": "2026-08-20",
@@ -7038,6 +7276,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "Ado23歳 熊本支援で4000万円寄付",
       "url": "https://news.yahoo.co.jp/pickup/6591507?source=rss"
+    },
+    "470c476abaad6aa8f698e0b9c7b92627e70d882278e4e6969ca0121c9d67a28a": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "もしもの災害に備えて、アプリを事前準備！「CHARGESPOT」が「初回3時間未満無料」キャンペーンを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sZnlQdUtzUEpfSVY1QlJ3NFhVQk1YSWo4b2Z0VF9rR1BrMUtJSWhPeHRQb3c3a29JQ2RuMkRZY1JuWGhEVWVOUDV4bEQ2TVJVUFhLNmEwRkZMWWdrYnloS3pyWmI4T3lXYXc?oc=5"
     },
     "471f50ef1e4cd655820f0942388e78486ebbb56945a8739bb0b4b9cd360cf1af": {
       "category": "technology",
@@ -7283,6 +7528,20 @@
       "title": "長引く『貧血』や『骨折』の原因とは？ 見逃しがちな腎臓病のサイン【医師解説】(メディカルドック)",
       "url": "https://news.yahoo.co.jp/articles/324f8964870a4aec1a5ac7b570e872e4fe9b9b60?source=rss"
     },
+    "48ff89756406a8b4ba64ff4bd1f94f75cfaa37360c4c744389e6db221d45a11d": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "辺野古沖の転覆事故 研修旅行に関わった同志社国際高校の教師が死亡（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iV3ZjdlR6b0dKWXhnbnptM19ta3hQRlFocXY2VE00RC11TWQ2QV9iU0IxV2NFaUVBaE9NME1kSHMyVWx5cmc0MVpia1paUXMyek0wZEh1djRrVkV6VGd6QVhVemlBbUs0bUR1YV9BYWNJUU5VUGd1QzN3dUdaY0k?oc=5"
+    },
+    "4900960e50149d6159710c678cbf654c6b6ae2b50f0bcc8c6351c670f419e156": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "国産自動繰糸機の設計思想と技能を記録・継承 －東京農工大学科学博物館、専用ウェブサイトの公開とパネル展示の開催 - tuat.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSi04aTc2RVdlNjNIcjYzNHZ6a1lVekNfakh1R0lVUFBkZEViZWZYTjF1QXM2enkyLWw2dGQ2Q21tSU9OWTlNMzdaMWhHTzhOdUhxeTJJR2lUajFQanR6ZlhiV01IRWVlWTZGdXQ5OFdwQ3NJUWxNeHo0UVlqaXNaMVVn?oc=5"
+    },
     "49149494f2c62d7b44378de0575c744756d7a8b265eee5aa83916d23095b213c": {
       "category": "culture",
       "first_seen": "2026-08-27",
@@ -7415,12 +7674,26 @@
       "title": "9月9日は「救急の日」～救急医療を守ろう～ - city.seiyo.ehime.jp",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BcFN1YTItMVZSeVg0MFFOQ3psQ3FDME9VRnlVSjRIcnA1Wl8yQ2V6RWJFNXZBV2RvZkNQbUREYnh2MER3Ylh0al9SMjB6RDY3YjNyMDNJblFaYTJCSy14UlMyR1NtSExqQUx5Zkd1TGtUODhJeG41LU82dzY?oc=5"
     },
+    "4ae292ed1fcaa8705184c29247ce217f182752f5c2aa68c007c0c174193dfa94": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "ＩＮＰＥＸ、柏の葉キャンパスに研究拠点を新設(ウエルスアドバイザー) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFRrVXF0RFNxX3V3eGpyaXp6YVE5QVlvZjIxWjNfb3A2bjhQYUljeTZDOVpfQlI4VWQ4TVZvdWtVMFB0U2Z2amJOalE0NkNzSGZwbzF0aW40VHFTU0sxRHhfUHRJcGs2RmMyNWtsNFZicHZib2JpLXhpZmJ3eTVUdVl6S0NKcU0?oc=5"
+    },
     "4af2167b4730d9c25bdf6874ced3adab773b1bb33fb0acc1bcc0587ce67af17a": {
       "category": "politics",
       "first_seen": "2026-08-28",
       "source": "Googleニュース 政治",
       "title": "カタール首相がイラン訪問、国会議長らと会談 外交回帰促す - ロイター",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUJSZGxSd25ZRE9ic1hCRHZ5YS15ZHhYcHhEQTBMUDNsR0k2d3VURFk0X3dCMTM2YVJWSUxLd1JBV3locVlCdHJvQmFDbXNITkI5UlVVVERmUzgza05yVHltSWFrRlRpZnA2dFVyOVRHTVVvc1VteUVLNXJBWWRuWXpn?oc=5"
+    },
+    "4b00e39b9cf69ab555b919078616efab10c366e21dc529fd74972ebab304cceb": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "中小企業向け環境マネジメントシステム エコアクション21オンラインセミナーのご案内（令和８年10月開催） - pref.hiroshima.lg.jp",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zelhVWlREU0FpbTVYZVpxYXROQktUVklSRE5GNXVnNDh3S0k4TURKUTI4QjZqSHB5SF9QbDJ6cXlVc1gtdTJ1RlNTTFdQb3A3RjB1UllReWdsdWkwMkRkVUhSM281OW14?oc=5"
     },
     "4b01e4454925b2f98e9f848a73b283468b0a449cb283f9c9fcb41ea0fea19205": {
       "first_seen": "2026-07-23",
@@ -7757,6 +8030,13 @@
       "title": "早大新監督の足立修氏は松商学園を春夏３度甲子園に 21年夏16強 小宮山悟監督任期満了で退任（日刊スポーツ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tTHJKeXhnWUpLUTEyVGZGMHlidkRtTFg4aVByS1pTMXlyQWxxcGVia3NsNk1ZaGRMLWwxb29RMndUYUlTTkR1OUtkZG5na0pqRzZSM0pBaDJUbE1PTHNBdm5rTk14QVpOaWp0dGt5S0d2aTN0OU80eWVGYVk3SHM?oc=5"
     },
+    "4e027bb64acdaa4f4ce873002cc6a9fb5cb94a2e4578e6e5b9538e20e893389d": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "運転手の健康支える車開発へ・弘大とホンダ｜科学・技術｜青森ニュース｜Web東奥 - 東奥日報社",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91elBSZGhTbnBiUnozV19tdHN2dF80dmlNUHZwZHdxMXNCbFljQjVXS016OUFTRlF1Y2daVnZQVXpCQXFyNEIxa19WNThLY1Vfc0FSY3lpdUE?oc=5"
+    },
     "4e2cf44debe86047f73641e687eed0512273612dd73f66b8b38b4e1d0c88fef4": {
       "first_seen": "2026-07-19",
       "source": "Yahoo!ニュース ピックアップ",
@@ -7839,6 +8119,13 @@
       "title": "AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた",
       "url": "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer"
     },
+    "4ec1e9bede9b9f3bc31035429410db8233010f8797dd9cb0e1b3a779547f2e23": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "日本プロ野球選手会が正職員１名募集 年内入社可能な人（デイリースポーツ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SME5HdFpJVmhNa0w3MTh1ektZN3NNU1ktbkdON0Q1cTZ6NUphMEY3ZmRvVDRPcE5qTmVhSU1xb1hBbmJGRzFjTHhrclg4TXN5eWhxb1d3ZjJiMktWTVRkZFZXcG5EOS1Pc1BDVF85X0tiaEwza1hXekZERHNmZEk?oc=5"
+    },
     "4eddac1d4a3cc70e2c1f995d533e90ace1d408842eea037fa48c9faa9770e3cf": {
       "category": "business",
       "first_seen": "2026-08-26",
@@ -7897,6 +8184,13 @@
       "title": "藤浪が降板 甲子園から異例の拍手",
       "url": "https://news.yahoo.co.jp/pickup/6588964?source=rss"
     },
+    "4f958ad55bdb0d8cb6b2621a20c16aade9c23642e79121fa5cbec394e29e634a": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "第25回東京学芸大学ホームカミングデー講演会｜スライド・ピックアップ・NEWS｜https://www.u-gakugei.ac.jp/ - u-gakugei.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iTXpTdHRKbTVpb2pGSDF0SXpHQ19GWXB4UTYxU2NBa19TRjB4bGFiMmpvUko1YWxQbFV4ZXAzWXRrQ0c5cEdjVndTc0JuRzRZQ2hPZGxVU2lUanV3NXgzcUZyQ2h1RjFjSnRWaTludw?oc=5"
+    },
     "4fb1326c8e53c5ebb4608683d5af0a6b09ca431abeb94135a1dd18c6858a25da": {
       "category": "anime",
       "first_seen": "2026-08-29",
@@ -7936,6 +8230,13 @@
       "source": "Googleニュース 社会・事件",
       "title": "＜お知らせ＞社会課題解決へ「高校生エール甲子園」 - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lOGZMT1FYM3htZDNFTW9qM1JVYl9GVmYxeWlTSm53V0JFMWFXUldaUVFkSFh2SkFxUUw3M212ZnFlRS1jLTdxS0Z6Y0drNnc2WVlWV0dydVp3cFpp?oc=5"
+    },
+    "501c639e5c781fe4d4c404e2cb1d06953db42f82ae3b11bc97164f5a9902af34": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "【漫画】きんかいごうとうオーシャンビュー - オモコロ",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE96Xzg0MGJ4TjRRcEQ4N0IxbjRjX0Z5WWhPbkhuTmJtRVp6NjhFWlRmd0pCVHBGak5rMEhjYk16ZFRkdWRrS1E?oc=5"
     },
     "5022498db5ed9f83406c061fd2858e518fecc53da840a739174999a9e9223884": {
       "first_seen": "2026-08-07",
@@ -7988,6 +8289,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "横浜・江坂のプレー 松坂氏が称賛",
       "url": "https://news.yahoo.co.jp/pickup/6592229?source=rss"
+    },
+    "5075038c8e7961026176f37fb18ba4b4909b7998ce92ba3f9690f0ee59d6406e": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "ハッカーってどんな人？ ラスベガスに集結、急変AI社会の役割議論 [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LQTZkSERJc2tzcEpPYURpWmRxV3dmNmMwdTZMTThfcjQwbVlOTXA3TS0yTVF6LWROay10aGQ3eFF4NUN4VFl5WkVtZF8xSXdHdzc2TG1mVGRLekZseHY1WXAxejJVdlU?oc=5"
     },
     "507d02fc01c02a9c65c4d46b100a9fbb62a825bf4250c342155e5a58f7bbcebc": {
       "category": "society",
@@ -8061,6 +8369,13 @@
       "title": "核実験に反対する国際デー（8月29日）に寄せるアントニオ・グテーレス国連事務総長メッセージ - 国連広報センター",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRZGFtdTJmVk5XandramxsUGlCV2l3ekVGNDFtQWJJX0ZIRS1iX3RZbWdReUE0amk5cGJzcFBuclhtN3ZVYWxobmVqLTdzNWdIWVlYaHNPZDZIQXFENDNIeFhiVE9GM05qbGp6R2FB?oc=5"
     },
+    "51dad0665ca053ab47c26fce1c5a73e9cb51bb5dbe76f2969d046930ae27d4f6": {
+      "category": "general",
+      "first_seen": "2026-09-01",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "旧統一教会解散 韓国でも現実味",
+      "url": "https://news.yahoo.co.jp/pickup/6593816?source=rss"
+    },
     "51de33c5b7f885881522f5bfb7fa764a352261acdaf5ec752f8e70277cdafaff": {
       "category": "sports",
       "first_seen": "2026-08-20",
@@ -8108,12 +8423,26 @@
       "title": "子どもの学習時間減少 背景に学ぶ意味の喪失、教育に企業の参加を - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mUzdPS3lWa3FyV1lCOWVILXpUaHFiZk9HMVZVQjFqWFc0c3ZZS1VNZ0plTzR2Zl8xLTdoNkc2c3pFOFpGV3hvYmtGQjVmTEhJNUJXUGVyTXVtTXNMYmpWam9qS0hhdEdhX05lOA?oc=5"
     },
+    "52494197daab224ca68194cc52bb2e298763ecfc17aea52c4f7aba3e29374c77": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "全教科にAIの記述 指導要領の素案 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2aWltOTZEWUlYUDlidnBsVkQ5amNuV3FEY3R2X2RYc0Rzb0NqVDBuYXFBWjJfQVNSTi1qQ2ZZaEsxLS1kVThhRXdyNFJFb3pl?oc=5"
+    },
     "526f65c404a0ea5cb764dc06af59c11f88a3dc6db821188c2e75b9b800a65136": {
       "category": "cybersecurity",
       "first_seen": "2026-08-20",
       "source": "Googleニュース サイバーセキュリティ",
       "title": "ランサムウェア攻撃の半数以上でデータ暗号化に成功。多要素認証の限界も明らかに - マイナビニュース",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pZXhWWDg2dnQ1YXFHaldHZWVIdnJGdjRBOFhiYUo2ZXZSYThCWjQzLWt2S2szUnNpOWxEU3Uzc2o5MWlESTlvVGo5OE5veWNzSG1kNnVHaXg0emswcU5sU1c3NVJmMXM?oc=5"
+    },
+    "527736ba091c0dd4d48b155cdfda382d1a3995b98c4d097902cbbfa309a19f29": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "【字】韓国バラエティ「青春MT～Re：メンバーアゲイン～」 - nitteleplus.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1S0Q0US1MVldhWHFwMDgtb0lsV0l3LWp4R0F0c1JybGg4TU5vQjdoNnNNcW5FSHY0VmZ3VkZJTzRGVjI3SmZoMlpOS1ZxTkJjQWZiZm9teUJfSWc?oc=5"
     },
     "527c6374f253fee7fba4174623d4933d9f16c280bbb163f2ac31394e18dcaa40": {
       "category": "anime",
@@ -8363,6 +8692,13 @@
       "title": "科学論文、安保上｢懸念ある｣組織との共著倍増 国内の研究機関 - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PZWRNdGVTRVFXNTRIekpGNFdROEFyV1o1LWdJUFM0NGgyUXRwRUllUl9IcnR3SXNxNFkya1kzbEpfdno0RkU1em1MclB1cjNaMEE2WXV2bWF1aUtjWXF0dDcwcl9fdlUtUG5xNQ?oc=5"
     },
+    "54a12642c6c1d843b0e91126a85782fe167d2f3bcc163700a84fd241652d78aa": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "広陵高「甲子園至上主義決別を」 野球部暴力で提言（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OcFZqYUhlZGV1X2pXLVVDeVN2V0NMcUFpaUstZlRfZE45U0hCS3M2bkVFX094UVoyMDNydUpkV1c5Y3VtSU1sM1MwWjZpZnJZbDRBTHI1Rmt5LWkzckhocDFLdVlKNlB3SzlhUFlhOElON2ZJcFNKdGRodEFtalk?oc=5"
+    },
     "54a5b0ba0b1876c8b44dd073132cf2e51ee7f7f3b2dd62fe37229aed13b4d9f4": {
       "category": "health",
       "first_seen": "2026-08-29",
@@ -8551,6 +8887,13 @@
       "title": "Black Hat Asia 2026のArsenalで登壇してきました",
       "url": "https://blog.cybozu.io/entry/2026/07/06/093000"
     },
+    "5669e1a2ba04faf400bc8d7bae64d91e28de0d7a207301d007af6534e261db11": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "Shippio、9/8〜11開催の「国際物流総合展 2026」に出展 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DRW9RVHdTVy1ZZUR6Qld4SDRSMzRzTlVOT0NRTFEySkxrQ3gtdWxRUWpPOWM0Wm9tTEtfNndyeW1HMGF5X1JHd1FxWGdwR3VRUl8xZllXMzd4bWJkcG9SRDVvX0E5U25hc0E?oc=5"
+    },
     "56807babff1a6d8dbeac6bf332b7f389b6a6f80e025c68cd1ed4ff6112d527ff": {
       "first_seen": "2026-07-14",
       "source": "Yahoo!ニュース ピックアップ",
@@ -8604,6 +8947,13 @@
       "title": "東京 板橋区付近で記録的な大雨 災害の危険迫る - NHKニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYeFVqQS0wRWxWN0ZqdUg3V2wwRi1OMGd5Q2FFaFVneDhxR2Q3YTBHakVndGNlQ0hpNE51N3cwRnBsTWxVeGQtLV9LdmlBei13WlAtVWdmMkJmM1hSTEZV?oc=5"
     },
+    "56facaeaced082cfc3cbf6f7f086e27ee1ebd32a36e4c747e4f4440c818204f9": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "ポケカが初の映画化！『ポケモン：ワイルドカード』2027年公開決定、特報のミミッキュの姿に「これはわくわくが止まらん」 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnV1BUU0J4VGZPUWdSZ1B1Ri00UC00N3BlejE1dVhoZHVZbXhKem9VVzJuNnU0MUpMSXl5UVQ2LVQ5VlBndkx3S2MtQWtscUZpRTdYTXA2dlNwbXhseGV6dC1KRmVhSzRFa2VDU21HQVBtck9neldGRG8xTVoxTW8?oc=5"
+    },
     "571540b763e4339a387183e1db5fdcc11df1ebc5ef19c0c2118514a2bae5596a": {
       "category": "general",
       "first_seen": "2026-08-22",
@@ -8649,6 +8999,13 @@
       "source": "Googleニュース サイバーセキュリティ",
       "title": "ハンズホールディングスにランサムウェア攻撃、従業員等のマイナンバー閲覧のおそれ - ScanNetSecurity",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkQ0gwdVMzMFZKcnhYaEFESmlBN2x4RlBmY2J4OWNiM2p4bmtxbm9qQnhtLUxXeEJNcFdFQXJpbTF3NGE0eS11LVZJSk1ucmU3b0dKOGk0TUMxWkdIdWlsM3loXzNsdzBvTjJPMQ?oc=5"
+    },
+    "5760300f41b0124196bdfcb0bf4f24cdf86239974c510a7b5dee1b84de2b518e": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "チルゼパチド、2型糖尿病治療の負担軽減に寄与か――実臨床研究で示唆｜CareNet.com - CareNet.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oaVpUeDdHMWgzUjlkVUFqWE1YcEp0dElJak4yTFlRaEJKcDZFOGVQRFFPQmkybFpSQmwyT2ZVVldZOVNmT0RVVU8ydTVwcmVnMmxBOHVwYVBEMlE?oc=5"
     },
     "5768dfa8f4809c690413de6feb1b21edbb35f73d011d54a2de283ddb865bc021": {
       "category": "technology",
@@ -8947,6 +9304,13 @@
       "title": "邦人大学生の露派遣を再開 外務省",
       "url": "https://news.yahoo.co.jp/pickup/6593488?source=rss"
     },
+    "5a1d74eb3ae56950ccdaab90df16db34597bfcdd1b67d8d93a0cc357dedf28cc": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "市立奈良病院の“異常検知”サイバー攻撃ではなくシステム障害 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWREE5VFdIb1NYMTlQYWh1VUFGZnN2YjV1b3h3MmZfYzVFX3h5RVdmT3dkdHRmcnpQMnRONlhxYVNIU0dZRVAyUUM2WkJNS2c4dWtKU1dnWTQ?oc=5"
+    },
     "5a2384b1a17b24ffaa94b3d3f951ea15faee9513f0cfd8242e2760d492cf60a9": {
       "first_seen": "2026-08-07",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -9024,6 +9388,13 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "「タトゥー」で発電、ウェアラブルの電源に--米大学が開発(CNET Japan)",
       "url": "https://news.yahoo.co.jp/articles/d009a0c41877cbcfff1309d865c3371a65c4b4d9?source=rss"
+    },
+    "5ae6404cd7a6ea7aace222078615941f9b4a109b572e50708c70e156e223b1f1": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "「犯人許せない」中学生野球チームのボール50球が盗まれる 短期間に2度の被害…犯行の瞬間をカメラがとらえた - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YR3hLOWR5bFZNOWwzbUZwcDNzclFIc08yZzRvckNxS3laTzRtRVZiTzRjbzB1SFk5aVhzdHVBbEFOZ081dkN6MzFiMGRzZXBKRGFGVllxcUpJVUtVOWMyVEFRZlVReGpxQlZ3Rnl2cmZBVFB2bXVFMDU1NGlqZ0E?oc=5"
     },
     "5ae7578853dfc6cbf824bf45aae0219c456b2377b5d4af968177ee2461f25b97": {
       "category": "business",
@@ -9345,6 +9716,13 @@
       "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
       "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark"
     },
+    "5e10b95c74d4718d9a76385a8719ca64b55717ff1a9db3b0a6125dea0c06ca9b": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "映画『スラダン』公式が新情報とビジュアル解禁 ファン「嬉しい」「かっこよ」「セカンドもある？」「豊玉やって」27年春に（マグミクス） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UdXBrSEVNY2l6aGtSRjRvT051Z0I0LURBVTRweE96TE1FRFJQbTRJYzV4aThyWlpMZ1R5R1dmNUpOWUM5RmswTDJfYVY1NHcwWDQxaDNJNWpqOEVRSEZtSlYya1ZBZmpUUEZCSHV0dkVVWmhfZF9EbW4taXhKNkk?oc=5"
+    },
     "5e1df6bc2546e12be072c4877f5a76df58f6ec187988aa1b95da31fa3f807b39": {
       "category": "anime",
       "first_seen": "2026-08-20",
@@ -9383,6 +9761,13 @@
       "source": "Googleニュース 社会・事件",
       "title": "【申し入れ】「令和8年8月千葉豪雨災害について緊急要望」を内閣官房長官へ申し入れ - 新・国民民主党",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TTXh3cnJJOHp6NlA1c2MtUEd5d1J0ZWZ4bGxCRzNXTDJoTnhQNnJRZk5iRTNoLWlqUTh6TWFodWREUS1kV1NHekJtNVljbEZsSThicWVnUndSYTQ?oc=5"
+    },
+    "5e614d95cdcc50407e7a3d6bbc58195334f8b952dabf7570a2ae18c8adc73bc4": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "まんだらけ、不正アクセスで通販注文者の個人情報漏えいの可能性 通販・オークション停止、カード・パスワードは対象外 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzMtNlJ3cXhFQ2VFREtpZlRzM2F1cTZMU01RXzV6VTlNVy1aMGZlaTJxdGg5ejFjSFBDTjNDR1hSckg0T2FjbmhSdU91UjFXbEtJT3Nxa2w5ZEtqUExQRm5sRjBlS0JPVHh6R1I2WDdPN1JfSDNNa1l0Vk9ObDc1S2ppNGNtZw?oc=5"
     },
     "5e6e3a7738b555ca07a0e42b0c4a5d6e653e2f9e7fbb3c1c0e19cc8431b31b2d": {
       "category": "education",
@@ -9473,6 +9858,13 @@
       "source": "Googleニュース 国際・外交",
       "title": "「日本の反応は段違いに弱い」 ICC制裁めぐり、超党派議連が声明 [高市早苗首相 自民党総裁] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmT1g1ZjlleHVNeFJlSnNNZTV3T1VpOEhSbERKRzd3b0dkWnJkelpleHN2dlA0ZjdISmhuVEpLVEFkcFFYTllVY2lNbEJVTU5nQ2oxMElsNTBRSmZPcmlrQWZfVEJySkE?oc=5"
+    },
+    "5f0d0d8bf615315f2ec8df9c1d9062abd9b990866db473c52527914457df0e27": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "（いま子どもたちは）ＺＥＮ大学の１期生：３ 医療＋ＡＩへ挑戦、国境感じずに - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4dVNkYmp3NjY2c2dQRldxQ3FJN1hOWnBscEhFSnp2cmllX0lHMDU5MDRIWTUtM2JKODBwb0FHXzlYT1NIZ1NMdUxDYVEzdHJTdkc1bE1PUjhkSFRC?oc=5"
     },
     "5f18f99c1f44554be2adcb6bd5a7de36cb1ee48303fd8b5e6fff8bbc6985a4b0": {
       "first_seen": "2026-07-11",
@@ -9587,6 +9979,13 @@
       "source": "Cybozu Frontend Zenn",
       "title": "Web 標準動向 2026年4月版",
       "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604"
+    },
+    "60598b78688347499a9fe013d0ae97153a541f777c252089e0962d73fb2de875": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "小学校から「AI学習」、情報教育を大幅拡充 次期学習指導要領案 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IX2JRNVZUa3NEOGY1em9yS3h6UXhGU1ZoNzdhd1Q0QnVzckpGblM0dDBZOWhkaHQzWFNCTm1QYmZDa01POHM0cXlyd2pSejdHeDJUNmpvVmI5ZzVTc0QzYnhvR1I2dFdpb1plag?oc=5"
     },
     "607924d4e2445090943d0ff9d9e218bbb47b1bc9bbd44ae18c203db3d988bd1d": {
       "first_seen": "2026-08-15",
@@ -9805,6 +10204,13 @@
       "title": "React の状態管理の歴史と、最新 API に込められた React の思想",
       "url": "https://zenn.dev/zozotech/articles/ebf38b7ab4aff0"
     },
+    "62acb364f2a9f10399b61b857c389261a1e590eba111538008f8a1d27095a097": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "小泉防衛相 ベルギー国防相と初会談 国際秩序維持・強化へ連携 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLenNPZ2VIbTRibUx5UjRnVlB0OGdveVJZTzdIZ1NnWWRkYlVidmE4NU9EWmtTZFNmUVVUNk83LVRPSHFMQ2VxQ3FvRWtfTll2bVFTc2tVVURwYkJsS0Nv?oc=5"
+    },
     "62b341ec5c1d9bc4aab09b66307c633a89fe0fe8538e3dc598640fdad12e238b": {
       "first_seen": "2026-07-25",
       "source": "Yahoo!ニュース ピックアップ",
@@ -9838,6 +10244,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "川あふれ道路冠水 住民ら早朝避難",
       "url": "https://news.yahoo.co.jp/pickup/6593241?source=rss"
+    },
+    "630e6a6b1ff5ac73247b6866dd60044d0b488b196b309bb712443ad7219bd9aa": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "【9月6日開催】天理大学オープンキャンパス開催のお知らせ！ ‐ 天理大学 - 天理教",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MNGgxeEs4UV81b3dreTh0YndaQWxRaUNucFFnajBBclkxbE54SG9BOFdyNG1NamduNzU1RUlqR0tELTNaUFNJZWhjbWw4NXdWSWJ4RlJ5ZkJIRTBxUVJj?oc=5"
     },
     "63209237ce479dbf745af0a192f3130993c67a58908a7e7e8470e317aa491c90": {
       "first_seen": "2026-08-01",
@@ -9933,6 +10346,13 @@
       "source": "Zenn",
       "title": "関数型まつり2026参加記",
       "url": "https://zenn.dev/konn/articles/2026-07-13-fp-matsuri-2026"
+    },
+    "644e19ad6d8df867940fc9b16dd08459eab72020bcc5ee011c428fea8068d3a9": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "GROWI に複数の脆弱性（ScanNetSecurity） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wX2pTTVVDeUJOUFpybkp5SVFPZFRuVFhsYUg4cDVKZWRRT2RBZzFOckFtUkVXa0NBc3U5bUpFQUFrQURaemJSejRTV3BwN0laU0tURlFaaDI4NmlCZy03R2cxbFFxY2lQWnB2Z1BkZUJRRjNLRWNuQzYyNlEzSVU?oc=5"
     },
     "6452698d685e3e000f769922ade5822b4d7c513729cf0085776b99e905db80af": {
       "first_seen": "2026-08-16",
@@ -10151,6 +10571,13 @@
       "title": "安全保障への質問、園田編集委員が答えました 中国は台湾に侵攻するの？国際法や国連は無力なの？ - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBucVhhN1cwLTlCZjQ1ZUJnWHRxSjBCMkxINEJNbjQxNGlJYmFrRENlTjlqM1JEeDNpRGZrRGtmVkswdDZvc0k2d19Ib0txUkxWODhTakZLZHZRM3Ju?oc=5"
     },
+    "6688a2169df6dc3ae1622dea7e7d31863541ddeb18ffd4e39353157e945ebaa9": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "「あきた健康大使」に竹脇まりなさん任命へ 秋田出身フィットネスインストラクター - 秋田魁新報電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zRTBzS2RfMW8tWldkX3NWckdIN0MtcjdkT3piVkp2YV9tWFRBNmNPZkpRVklncGtuQTc4elF1b3g3dkNwLVRXV09tQTEtdVpvUy01ZnZGaFpkMnZNdGJDdFJR?oc=5"
+    },
     "66a969c6f3b44729cc06c6ae65a2277933c150f3bd78290c31d502fbb8314996": {
       "first_seen": "2026-07-12",
       "source": "Yahoo!ニュース トピックス IT",
@@ -10338,6 +10765,13 @@
       "title": "テスト中暴走 OpenAI把握に時間",
       "url": "https://news.yahoo.co.jp/pickup/6589496?source=rss"
     },
+    "687f8e6870f89e2061bc9a99ae944eeac7750f0c5910d9e185b00d803ce6af69": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "市立奈良病院のシステム障害検証結果を公表 サイバー攻撃否定、監視装置の過検知 - 奈良新聞",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rdzRfbWhVVWc4Y296b1BKZjhQalI1RnAxOGFkdUdscHRVRExKVTdlcU4xYkVWdTJzTzlZbmN0WmhSU1M1WThKVE54N09NcmQtbVRKQkY2cW5ncGxyYzhz?oc=5"
+    },
     "688855b7f7db66c504665905ab34979f35aa873cd1b61a165174e3b28d7672f9": {
       "first_seen": "2026-08-04",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -10408,6 +10842,13 @@
       "title": "道沿いに連日のパン投棄 39kg確認",
       "url": "https://news.yahoo.co.jp/pickup/6592472?source=rss"
     },
+    "6932696a341f3f7f334a8c0b4c0cf3067038370628c2aee18d115cc8d1258492": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "MEGADETH 2027 - ウドー音楽事務所",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMFZncTNyZU92WmMxeVFtMU85ZXFJWUEzaUdtblFZWkhTcmV4VG9tSF9venRfMGpteWVJY0loWFRFSXl0TkRfOUpVSQ?oc=5"
+    },
     "696d00591be67e4077cd564b979596f4c688af14afdb39364168af55fcb7726b": {
       "category": "business",
       "first_seen": "2026-08-28",
@@ -10427,6 +10868,20 @@
       "source": "Zenn",
       "title": "AIエージェント向けのツールを、MCPではなくCLIとして作った — 設計の3原則",
       "url": "https://zenn.dev/codatum/articles/80b99faba75704"
+    },
+    "699cd734607db4cdade020df742e5aae97e43e1de944af1a416a2659649c2c29": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "【代表選2026】岐阜県大垣市で産前・産後ケア政策に関する座談会を実施 - 新・国民民主党",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40TFA0WXN6dzNLRWplSTNvYkNiNFR5UG1yMmJ6QjdXNElpVHBPVVVtdlJNQ1VXeXNMRTVEMWwyMkUyOEpDb0NYX3Q1X0hQc292bWkzalJ5OHd6bHc?oc=5"
+    },
+    "69a95d8a975d61941b3baef1d8322311b6071e1ba13a324274d58d58ffee199b": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "市立奈良病院のシステム障害 「サイバー攻撃ではなくセキュリティ監視装置の不具合が原因」専門家委員会が検証結果を報告 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRHFVcVRsdGt3MXNkLTJrcE9JTDgtLVl4dkJpZDRlT2FUQ21Kb0dpVlBNUnhDaVpmeDltbU9QVXJuNkxLS0MzaTJWaG1EcjI0OHNSTWVyZDV6RlpISVRsV3FEcHFNWGFEQ25EUzVLU0pUeVVjQnFLZVViR3N4Ml9najJaNDNkVFk?oc=5"
     },
     "69aa2f8df9aa6ddb47c0e5b58f68679650a67e9b05f89cf0bdabf26fa45bd4cf": {
       "category": "education",
@@ -10468,6 +10923,13 @@
       "title": "市制施行60周年記念 文化財講演会 - city.fujiidera.lg.jp",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFRlN01ITzNRUGhDcG5uWmE0T2tIcG1zWlZWZURPdnFvclVhRWxNcWU4QnNjcjd3ZkZWT3ZzV2c5MlVpUHZ0WjBUeF9FM2hsd0VpUF9jR1ZBT3o3ZUQyM1o4anpEY3NBa1YwblBadFhVVGlLNl9aMHlIcUI3OGZKRTdYRGVvTU1JSEZ4d0trTVhtd1dzMlgzaFRR?oc=5"
     },
+    "6a32ba504eecef8407bd70c1fe573ea6224662d9254079360745a6b31021ee36": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "「ミュトス」など最先端AIの脅威が迫る 変化したサイバー攻撃 言葉ひとつで数分で突破… 金融機関の「防御」は - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NVFBWRncxd002WDd1VlpKaW55OUh4dzk0cnRNaWVsRWtmZHhRRXhLX0IzXzFFaG9EenFxZkZMRFdUXzRTNXNUbjBTYThycHIxaERjcGp1VkE1QXFNX2NzZXlfQVlpVno0STNyMjZKRW5xeXVx?oc=5"
+    },
     "6a755e2a7ad1660a441f64a7f3fc70f4871bf748d62ced82e8309cd35d1ffb8b": {
       "first_seen": "2026-07-21",
       "source": "Yahoo!ニュース ピックアップ",
@@ -10493,11 +10955,25 @@
       "title": "未来科学人材アカデミー第30回：三重県立松阪高等学校の2年生が国際農業研究とイネの品種改良について学びました。 - jircas.go.jp",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQS0JySW9xaHlvZUNvZ3RMMjAzNV9FNVkwVXhBbURhSUlvTlZDdjNDdGV4a0I1a2RzVzdiMjFwUUhsYkVzTmFHVF9vdDdLdnNhanJzQlU5cllMbjVFU1N6NGZR?oc=5"
     },
+    "6ad0c36f3f23523d7c75237ac9cd105f257a59648b32db027b9953363422e460": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "サッカー＝ メッシ、アルゼンチン代表を引退 「辛いがその時が来た」 - jp.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DbTZLaTlJeU5PdExCQXJnYnRzTzBNaHhSbHl5Y2E5Y1dPanhlWHROTDFpbGhQbmhubm9UTng3VFpkRFhTZVdYZi1JX2NSUUd6elhIS2FPMm5RbUFkcjM4ajVkZXBpZ2pnZldkR2gzTTYwcFVMNURLZg?oc=5"
+    },
     "6aeb8ee954335ab7ceab482817150bd6bfef22a72a59d51ccb0e14d63e5b47fd": {
       "first_seen": "2026-07-08",
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "どうやって生き延びた？ 白色矮星を公転する太陽系外惑星「WD 1856 b」をウェッブ宇宙望遠鏡が観測(sorae 宇宙へのポータルサイト)",
       "url": "https://news.yahoo.co.jp/articles/65e9853c53c9f1e544a529155897a3268ddc088f?source=rss"
+    },
+    "6af899acbbb6d4d0508cad9471b231c0db92c2716a68c8dd7b848e5dc8273ce4": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "市民体育祭2026ファミリースポーツデイを開催します！ - city.koshigaya.saitama.jp",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjBuUGRhMU9yZy1vY25kWmhtVXlzd0xwMW9KUUpmcGlDREdiNFBJT2dpV25MVjJqR1dlNUg5RTdjSXNtREZYOXgxcTlucVFIbzhQRDQ5Ynlka3JwYjJpbDJxM3o5LUQ0aGEyQmdRRTF6d1RDeU5rYVVVR09vbk1TWGUzMHVidVdKVjdtdEg0TlUwTGpiWkJWSzdUVk5QdkdxTF9RcnZ3?oc=5"
     },
     "6af9eef5bfed2a1b068aeaec78045d623e9ce331bb61defe1aff8336fbf22115": {
       "category": "cybersecurity",
@@ -10552,12 +11028,26 @@
       "title": "「つくばちびっ子博士2026一般公開」を開催しました - jircas.go.jp",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dm01Mk11UTY2VUQyWDZxTHJqam50VUl6QXotY1pEOXo1ekEzckRfeHMzRW9xbWluOFNIVG1kOWZKOGFlOWZ4Wk56TFNTUmx0QzdKM1UzSERyMjI5MFJ3?oc=5"
     },
+    "6b9d86c9d41130c7c5abb7f72b001977d55385a94cb66b898881a58e616694c0": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "精神保健福祉普及運動 - city.akune.lg.jp",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVVpaUUp4ZnRZQnJNc2RmakZaSkpDX1VLUE55dU9xeDB5T0NXYlZOOXExSWpRTGFBVHUtWV9ONk5UcFhjdVV5NncwYXZhMFJrei1RVU5rY1hha3E3eVh0YnhzNDl5Nk1HMkdFYzVxUW9hUl80ZHp2ZldPemM1aWZXM2FHQQ?oc=5"
+    },
     "6ba6c2b1cc465b5320d8228b28a414c14ccef559b4eb30b759b891223d08f881": {
       "category": "society",
       "first_seen": "2026-08-25",
       "source": "Googleニュース 社会・事件",
       "title": "【続報】強盗事件 「室内が荒らされグチャグチャです」と通報 警察が犯人の行方追う 熊本県益城町 - TBS NEWS DIG",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvRTZWREhFOU5Ydmc2cjBFeWNPMVE2YVdwWjFBQ3dGQm1BUnpjSWVJXzdBTWFDdWdUR1Q1NThNV2ZBVFdSM2FMTU5rUDRxRWpXWFVSMUsyaw?oc=5"
+    },
+    "6baafb6d22de2fff95a8fd62f9c8241800cb4e0438256c9250d0e7d29eb7c68b": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "大阪成蹊大学フットサル部が5連覇達成 第22回 全日本大学フットサル大会 - JFA",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wUmFtQ2p3SGhJdDBkeUcxalVjb2RVNXRkUzBfbHNlNVFGMVpITnJVTFpYTHhzUmFKU214N3RGdkFRZXZyMUdUcA?oc=5"
     },
     "6bb8f4b8e4f04dfdf7ab0f67c2689395c8ad2d4c589f14f540f9481f37885d1e": {
       "first_seen": "2026-07-11",
@@ -10658,6 +11148,13 @@
       "title": "社説：衆院選挙制度 国会の機能取り戻す改革を - 京都新聞デジタル",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XQm9PaTVtV3dRdjJ1RWEtY3otVDY4Um5IcVFFaHRVWFpTRU0tT0UtcEtSS2FfOXRPem9FRkROTVJybkFtVVpEam5xX3c4MWZLaWZCZmQzc3A?oc=5"
     },
+    "6cc0a0babfb29b037b08112f564fd2bf2382e18eecab2e91128d3f6a977c3ff0": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "「どれを選んでも地獄」 中道分裂、「野党結集」の試み瓦解 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qNVRqeFRBUGJ3TzdxMkhiZl9zWVQ4VWNDWWllQmtSUE9tUUFNam1YNE9IaTRoY3I1MS1oQ0NtUHBkUk9XVUV5czYxd05xMzMzaWJjdDBCUzNrTTcwVWdKR1gwRHMxNWtz?oc=5"
+    },
     "6cd0e98abac84438dc48c94d50127f54e315c54acec9cb30f565d8b5e4c212d6": {
       "first_seen": "2026-07-16",
       "source": "Yahoo!ニュース ピックアップ",
@@ -10690,6 +11187,13 @@
       "source": "Googleニュース 社会・事件",
       "title": "災害、交通まひ、帰宅困難…「プランB」弱い日本 千葉豪雨でも課題 - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01S3RUZEhnamR2bmtKRHNhdHBjb1d0QlVkTmcxTk1TaWVRcjdXTGc3SnN6NDdWV08zWlBPXzM4c3NMYVZ4UXQ3bUNNS0c3TTNWUTEtdkYtWlJQQnQ2czlleWQ2UmQyX2c?oc=5"
+    },
+    "6d3b538de74474f782fc326df104e1ae9a2a9ee98ce27883299266eacc7c2bc5": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "高市内閣の物価高対策 | 政策 | ニュース - jimin.jp",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rQnB6SFowbVZsalB1elZReDBEY0duRnhTQnBrQ3BIRFdsZTd4YURtMm5wbUpjZjRlcGtzSmotRFdtSnVfbno4Qi1aSXY2YVcxc0hiOE81Yw?oc=5"
     },
     "6d71274b777793d586994d5e7638e988e58bd06fc30f484f4d9bd7113d077a5c": {
       "first_seen": "2026-08-17",
@@ -10728,6 +11232,13 @@
       "source": "Googleニュース 教育",
       "title": "災害や事故から子どもを守る 学校安全推進計画の策定を諮問 文科相 - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sdjREd2FjNmg4UElWNmExMFpXTUdsbmlUdDR0SHp1Y253aEU1NG0yQ0puUlBHSHpLc1VfTFo3RGNSNGdzeWFvcEN4aUktNlpmTENnRktCV3ZmUFVDM1dzYXBmT0wzVGdHT0VDR2FGRnBLODBLU2RDMQ?oc=5"
+    },
+    "6df0e770bbda489d555fa355c1526e7eb623fd526327f03f6171384fcba4b883": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "AI活用スキルとマインドの両面で社員の現在地を診断・把握できる 「生成AI活用テスト Basic」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zZDNJMk0wYmxVX1oxUURQTGV3R2dJSWFXNW1JYlRfTkpTUGhvNjNGVXZ2N2lzajlCeF9pSjlSMm5DQjhqTno3ZnBvSHExYUYwR1YyMDN4WTBha0tpN2Zyd3pval8xRDVRRGc?oc=5"
     },
     "6e1e8ab321b352f7eac0d05c8e78f691afae78dd91ff1693a557f3f1da19ecfc": {
       "first_seen": "2026-07-16",
@@ -10797,6 +11308,13 @@
       "source": "Coincheck Tech Blog",
       "title": "AndroidのVitalsエラーを追う",
       "url": "https://tech.coincheck.blog/entry/2025/12/08/110000"
+    },
+    "6ee991c29b997b86683457e2ae48942d89d786747e2840b1ee0a109eb81277ad": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "ブランチ横浜南部市場 9月イベント - 横浜金沢観光協会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WQ2VKekFEUk01VU9FVlZ6Y2NnQUw3dTgzN09iTXdpZXZRZGdkWTEtQURxTDlSN1pUa21TbVdObEJoa1EzR2FtSUJ0UmdfQjkyVUh2ZlE0UHc0dXBQdWVFRDZtZmpOcTJReVI3MnRn?oc=5"
     },
     "6f1957f1f2a129a7c4848d81c10de5d71410e3736eb1440aa59d1557dd8d9f74": {
       "category": "health",
@@ -10998,6 +11516,13 @@
       "title": "検索の5年前と、今と、これから考えること",
       "url": "https://zenn.dev/rejasupotaro/articles/c55722ca8aa2ca"
     },
+    "71075b1c5660ba866277cbf0ec0f683f0644bfde85f96134b2ff60a25ad0d80a": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "東大発ベンチャーEVERSTEEL社と共同研究契約を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2VnRFTE1meFIzM1J5UWYtS2tCWXB6eVp5RlhOOWJNdWd4YTJKZnVJNWRvTHRrSjIxT1lRTzVwamVCbGgzY0gtNUxEMWp1T0l3clRBWDFsN3NvbTVsdVRJYlJwUms5Mmlaa3c?oc=5"
+    },
     "710f8026a5328fda730faf282b3db121d39712f59b379e15ef91328e58ab4bb5": {
       "first_seen": "2026-07-11",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -11173,6 +11698,13 @@
       "title": "「駅長対抗 ご当地カレー総選挙」に竹田市の「荒城の月カリー」がエントリー！ - city.taketa.oita.jp",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1maXQ3Sl9tR1dkS25lYWhTTkhXNUI2U1d0RkNaQlZVWjVPVHM5Vzh4ZXk2TWFQVWRKSTZyRWpGTEgwODloY3B0LTRyWFkxcWdlZFgwUHAxR2ZJdEd3NVp3S2VoemJ0Q2FUdkUyQzJZalZHeHdVQkE?oc=5"
     },
+    "7278764672ad49148c35cd642feec48c1e8e9ba9a11026be7460ce8f7b9b10cf": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "［佐賀県］古代の赤穂 たおやかに 吉野ケ里歴史公園 - 西日本新聞me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Wk5UVjJ5WGgwaUMwS0ZqSnIwelc3MEctbDZmaEgwT2lBOERQaDZfY1JkVENjMkZNMl9hWXo4UEV0cmo3U1Y0UDJLQWhtbXRiWGt4M1lB?oc=5"
+    },
     "728f920fac8c082ca0afc9db2844c558cdabeb6188c76a5f0bad112fc47256ec": {
       "category": "technology",
       "first_seen": "2026-08-24",
@@ -11229,6 +11761,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "SNS発信が拓く外科医療の未来——消化器外科医5人が語る情報発信術(メディカルドック)",
       "url": "https://news.yahoo.co.jp/articles/a98bcc4b47ab9c65df01164a0078e64e793982f0?source=rss"
+    },
+    "732579c8288aaca6fb14a18d84e1ec1fdb962859ef8a5976a8ab013f2b3a69b2": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "ServiceNow、CVSS 10.0の脆弱性3件を修正-未認証RCE・権限昇格・SQLインジェクションに対応(CVE-2026-18885,CVE-2026-18886,CVE-2026-74820)|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2h0YUhualJMaklwcEcyZS1lWWVTbUtCUFh5RlU3aFhmSjB2WjVfUlBOcmtGLVhocVBiT0Z5RWtOemxIT2IwcV9mMV9XSjBHUTRTN2NlV2V5NkRfWlM1c3R5QUxhbU5HdjFvNldrN3ZvckEteERIN0lxMFhjZzNSQ0N3QlM4Szg0Z21RRnUtUQ?oc=5"
     },
     "7327cfa3ac48318fc36bcb86a541b46cf4cc462035b627e2d8f15f2add723511": {
       "first_seen": "2026-07-23",
@@ -11379,6 +11918,13 @@
       "title": "日本特殊陶業・NGK、知られざる半導体企業に 車用セラミックス技術を応用 - 日経ビジネス電子版",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92UFFJdWxraXJETFI4U21TaTNpMmtMYjIzWkZ6TEx0TjhNc25hQW9QOXlRdFlieXhHUklCenI0Vi1IbGl6Q0ZmVTd5bmdRTi1tV1RfcHZLeFh5ZWpOVlF5Y0QzMEhzMDA?oc=5"
     },
+    "743b431a0af70e2a06d8db0484701aa087d1d4d2d6b95a5b9ad1d1cbbc2b263d": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "災害対応のOSをアップデートする「災害ケースマネジメント」という発想｜Social Innovation - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jSUpqdWVkMjl1ejVxQWxiTkxZcWV3S081ZFlYY282dWhyTG1Ydi1KU3ptSGZNcDMxM0dRb1Z6QVA0NElSNjZvcEJtM1FGWnhmaXZtOHFVMURMenFIOFNXdDZRQ2NnUE1vX0NDTlRrTm5BUXFUNEZxOUtXWQ?oc=5"
+    },
     "7446433a61636d66a1e131b89f0a5e202b909707051339e98c26e309f97de300": {
       "first_seen": "2026-07-29",
       "source": "Yahoo!ニュース ピックアップ",
@@ -11403,6 +11949,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "バレー男子 フルセットで米に惜敗",
       "url": "https://news.yahoo.co.jp/pickup/6590197?source=rss"
+    },
+    "7474e061c4f465e2243b65cea1caa080203489f06fc9a8fdba373da79758eecd": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "東大発の燈、秋田のモーター製造に出資 フィジカルAIに3年で300億円 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUZGtPdlRqNGZuNHdTeFFvZTh0cUtiZXJMRTJ5WTlEV29mbUJ0NkRLRTFPeXBtQ01DZWFZZHJ0dk81emhoWDZzOHA0RTNDbjVwUjRfaFI1MUwwYkJmWm41ZGlNMTRYZUtGSkpqaQ?oc=5"
     },
     "748b143c723189dd7980e113b82107f0fa3366378d2400745d06bfe729d7f4a4": {
       "first_seen": "2026-07-23",
@@ -11481,6 +12034,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "【ハリガネムシの謎】寄生されたカマキリは催眠術にかかったように水場へ…成虫は30センチを超えることもある【画像閲覧注意】(RSK山陽放送)",
       "url": "https://news.yahoo.co.jp/articles/a42a4a79a437ecf4e771d5512533f2b64991ad0e?source=rss"
+    },
+    "756730c92dcb64c74ec60f58acefab8e53b27dafd419b072b1ed7456e091f3ca": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "NASAの「ローマン宇宙望遠鏡」、打ち上げ成功 - astroarts.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lSjQtX3laeHhSRFcteFNsbDVac2Y1M2psRW9pUndvYVVraVlCVC1rTWJsY2pkMFMwWk1FRFRIMVZ0MjB3U0dMMjJ4cHFoUE9aOUVhb002UWZuSVNUMVV4VkNB?oc=5"
     },
     "757e716ae4f6941dd10de60528c4a00641b571f83a5c21bc49fb703b67fc10c9": {
       "category": "cybersecurity",
@@ -11763,6 +12323,13 @@
       "title": "AIと1日8時間超会話 男性の告白",
       "url": "https://news.yahoo.co.jp/pickup/6586831?source=rss"
     },
+    "78ce407be8accbce8069c0788e9ab7ef90aecd2ceb06e6e0784421ad37438cf0": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "東京大学の新学部「カレッジ・オブ・デザイン」、和名は「価値創造学部」であることが判明～2027年開設 #エキスパートトピ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3FRYTg2dENqZDlmbktaX1MzM3R6X09XTjk1SVh2b3otODVfcmt3R2dqYkczRWFfWGtQNWNqdzRVMGUzbGQ5Z1VMRTVJclBHT2cxejNYcWE1M0pZVUpLUlV6YXhjNGlwbFJ3Z2tIcldvdGdFSmpvdmRZamFrZlFlVE5zbHNENHhh?oc=5"
+    },
     "78e4750088547a11f9569dc2e463b3c2680fc825424ff8e75527528ed503e52a": {
       "first_seen": "2026-07-15",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -11808,6 +12375,13 @@
       "source": "Googleニュース 社会・事件",
       "title": "令和8年8月千葉豪雨災害義援金の受付を開始します。 - 日本赤十字社",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaeWNvbGZTUnBmc244bWg4ZTNzSmFtc00wYXhxSmFUenk1YW8weTRkNG81dDdoYWRpaDZQVDlRcjBFQ0ROaXNRSGtwaWZqanA2Tlg5NV9qT0ljbzYteUJVMk91RlJrR1pYcXNla0JVNA?oc=5"
+    },
+    "796b69318af344ac56f60c63f3730de63636b0bb60c95362e2fc5639715ded0f": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "1世紀前と変わらぬ避難所の雑魚寝 災害大国日本でなぜ繰り返すのか - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yd3J5cWZBWGcyTHhvODdqaEZmT2N0Qk5zcWt3S1dpU0VUUWxzSGY1OUo0SVE0X2FJM0s3YVUyZnhjU2VTODFEbE0zT2RmY2xaTzFpM1k4bHlBVkdHc0R2eWNnaUpFVEE?oc=5"
     },
     "79888153b6cbad2b25c3dea86cab095da1befcce1534b83db502930e7c04a25e": {
       "first_seen": "2026-07-08",
@@ -11908,6 +12482,13 @@
       "title": "「COSMOSフィールド」とその周辺にひしめく50万以上の銀河 ベラ・ルービン天文台が観測(sorae 宇宙へのポータルサイト)",
       "url": "https://news.yahoo.co.jp/articles/89df697723a73f5aa4db9bddfcf19cd95360645e?source=rss"
     },
+    "7a92065b74b506bed4de6935b335142df01e3d9100a564ed67e189f65d825776": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "あべのキューズモールコラボ開催決定! - haikyu.jp",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCdTlueVZaR3N4b2tkQ3p2YUxNdjFmVXFST0NvYnVqTkV2c182Q3V6SnFScHp5U1l5bjlRSnpXTHZkUQ?oc=5"
+    },
     "7a983714d2d33cba893485af38a14d23c616455279d4513db7a1e7b0d45c1d62": {
       "category": "world",
       "first_seen": "2026-08-22",
@@ -11973,6 +12554,13 @@
       "source": "Cybozu Inside Out",
       "title": "成長し続ける大規模プロダクトを、小さなチームでどう切り拓くか？開発陣のセッションから見えた意思決定の現在地",
       "url": "https://blog.cybozu.io/entry/2026/05/07/090000"
+    },
+    "7b42d5138b581fc3d1c55ab4929038822fc4649f2e78d37160e488fd4ee770ef": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "「子どもに音楽を 創立20周年記念コンサート」 未来へつなぐ、“本物の音楽”との出会い - ぶらあぼONLINE | クラシック音楽情報ポータル",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GVzZtSjJDb21LX1l1Q0FDMlpGOWJHNTAyM0Iyc1N3bFFQUjltcUZQOHNxZWU2VU5BRFpSZ0dfMFo2UVNTOVVJaw?oc=5"
     },
     "7b669d4fec3f41bdc35ae77a5e38ffd169ad89abcca5fe23e4c0b060e26d6f12": {
       "category": "anime",
@@ -12108,12 +12696,26 @@
       "title": "機内の無料Wi-Fiがここまで進化！ Starlinkで300Mbps超、動画も仕事も快適だった(アスキー)",
       "url": "https://news.yahoo.co.jp/articles/1f1dc60e1733cedb634775f71685768b649851f7?source=rss"
     },
+    "7c85b3c0809f7ef206c15b59f30a842aa7e990047be9ba61c8c6d7286aec62c7": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "芸術大学の学園祭の開催日程（2026）まとめ 9月は東京藝術大学、東北芸術工科大学、長岡造形大学など 10月・11月に本格シーズンに突入！ - 美術展ナビ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiaUNnUFROVWxJYnZyd2o5bE9FZWsxTHV0VElnSWxWbEZuN1NtckdVMXlXbmFlQjFCeVJBYTVOaU1uU0wtM3dRR2pCM1FibF9sLWVFdndwMkt4a3ZxQ0tXODZRWWJZdGQx?oc=5"
+    },
     "7c8d3a34560a326b722196f0f2f6a2a4b39efb07c8a15c78d5489d499fde3a93": {
       "category": "health",
       "first_seen": "2026-08-30",
       "source": "Googleニュース 医療・健康",
       "title": "被災された皆様へ～避難所での健康を守るために～ - TKU テレビ熊本",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZRlIwMk9xMXY1OTZkdzRQbHhpTFJsQW9TLWhDMndGSDRnajdaa1NvT1lvUGdQelRuaVRoanpYVDFKWkItWnEwYnl1OFJMN2FjaGViUUlEMzRDRnlPZVhGdzFmOTAzb0VwV3pPSQ?oc=5"
+    },
+    "7ca01c4cb1fcb7d4dba4a39b73559aff3732193692d94df36eab864a8e593be8": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "8月27日の豪雨災害による市内公共交通の運行状況について - city.himi.toyama.jp",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EcE1CTHd5R0lVSlV3b2lUbzdVVzgxUDlzRHJUZ0RNM3VxNkUyR3B0TTRLZW5kb2I1MmxERGNYZW96WmxUQTB0S3RLNzRBTzdpWnBrN1pNcUFkbFZYTldZMHctVzlzWktuN0xkQW9ZVVN3NlNn?oc=5"
     },
     "7ca205a6730c098ba4463e9685c4c413ee8d7f06ab744e0c7209f42cb35b0674": {
       "category": "world",
@@ -12205,6 +12807,13 @@
       "source": "Googleニュース 歴史・考古",
       "title": "旧三上家住宅歴史講座「旅の風景－宮津と天橋立－」を開催しました（４） - city.miyazu.kyoto.jp",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xb2w0VnF3VmRNS1BvdUNMQ29nYm9DVFVpSmNqTUlNNlpNUWpGVWZEc2xwMWFOaHUzcDhjb3JuNUpWbzVLeWlxdENqOU5sR0hfLWhBcFd3OEtSZHFSRW9raDd2Tkt6b2tfVjROd0FR?oc=5"
+    },
+    "7d4ff21d1b571e9659b7205f5bb99cf1fbc807ca0f2b933b8af988361997b877": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "企画展「いきもの★パレード」＜令和8年6月27日～9月6日＞ - city.sakai.lg.jp",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHJ1bDhBaHllSU1YRm84QjA2NDZPaktaRm5nWU8tWVVtcDFOanhDTlN2TVduRE5zWE92QXFRZVRBYTVwRGtfZnd1SzVqZms1a1YyR29wTUFXblZiS2RqOWFXY2Y3TXJ3SEJmNGkwQzNvUklfOWNreV9QVVFlYXYxUmx4Yy1rYXpMXzJYU1V1c0haMTV5Mnd4aDV3?oc=5"
     },
     "7d52cb166f0a88f5e263df81c32aec5201efc527cf92f6c6468f97d871736c6b": {
       "first_seen": "2026-07-08",
@@ -12600,6 +13209,13 @@
       "title": "TOTO 2027 - ウドー音楽事務所",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4aVI1YldSRlp1WUYtSy16TXVHM2JDNVpScTVKdUNnOVpjeW1XQl90ZEdRVnNCQ01aSzdCVVViMTBvSmY2MkE?oc=5"
     },
+    "8120382ade4c55c7f53f131506d50ede370ca8ba3754f82bc8c2f3c7632e8e09": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "サッカー部の石渡栞君の来季FCティアモ枚方への加入が内定しました - 新潟産業大学",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aS25RTHFQRDJDTlZlckJRaUx6b1hMSDRaaUZscy1pVVdveGJyel8yanVGbDFPdHd2c21PTWF3cVQwZw?oc=5"
+    },
     "8125f4dc0cf68c97d6fa162b6a289d3fe9ad00d6bff08c714b70da7eda59a8ae": {
       "first_seen": "2026-07-12",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -12618,6 +13234,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "米軍 イランの港の監視塔を破壊",
       "url": "https://news.yahoo.co.jp/pickup/6588350?source=rss"
+    },
+    "816d7eb9d33e349a336ced5d8e6af03edaa1cafbda83ec12e8cddca567acf86c": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "同志社国際高校 沖縄・辺野古沖の転覆事故で研修旅行に関わった教師が死亡 - 朝日放送",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WVUdKZlhxRWdGMU9lTl83U2h1N2FaTTlQRDNFYVZDZ1ZlMmVKZjA3SkJsR293MktaRjVITUdQMm9Rc0VlRTVta1R4ZXFtSWhZSTJNSFVoTHd2bmpMWnltdVhB?oc=5"
     },
     "818856154237f6600311b99f1c7a40c7d76877f8b3181dec9c1a5b253a337876": {
       "category": "society",
@@ -12718,6 +13341,13 @@
       "title": "異文化交流による地域創生教育プロジェクト - city.kadoma.osaka.jp",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xVTg0Q1E1SnpNTk8xbUFiT25HY3JhVGhwLThHLVItbE5HU3d1VFlCcFAtUDMzNkR3di00LUQzWHk5Tzhta3pwU2lVTF93NXd1ZkdjWWpSaHBneUtyU3VHVVlweXBYYTgyRGNNS1hBSHA2Zw?oc=5"
     },
+    "823d997fd61761bf2498bde14243f80851b103d98e5037e43c0de8c6012e8743": {
+      "category": "general",
+      "first_seen": "2026-09-01",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "堂安のサウジ移籍が破談に 独報道",
+      "url": "https://news.yahoo.co.jp/pickup/6593811?source=rss"
+    },
     "8254640fef543a9f3ff0259490bacb498dca1ca1d1bc75ca962616dc736028ce": {
       "category": "anime",
       "first_seen": "2026-08-25",
@@ -12738,6 +13368,13 @@
       "source": "Googleニュース 文化・芸術",
       "title": "ONE PIECE 新作映画2本制作決定 - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUXctTnJXNS1jWmx1QlozenFJQ21saFBhejlOOVJUYWl0Z1FHNHZHNDFHXzd2ZUVOcVJoU2h5cXBRN3ZTZjlQenJ4a0RJd3hq?oc=5"
+    },
+    "826d4f633120fa3b43a465b57b4340d390998c3bf1e2875cb78f29eb64883d67": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "【20万人】特別展「いきもの超ワールド展」国立科学博物館で10月12日まで - 美術展ナビ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YWjllLXpwMDRlXzJ1TWdhVVVBZjBTU2ItM0JpZUVUTTFsSVI4cVJtUVFybzNQeHFRaXJaRWdTQzkydmIycTJHZVA2S0JieFNhbktPbHFFSXNVb0ZfX1Q2R0I1a3VkNlVZ?oc=5"
     },
     "826d5d7d45d41b12dbf0facba67ea0d9d04522e6b299230e8c284d89707ac517": {
       "category": "science",
@@ -12830,6 +13467,13 @@
       "title": "湖池屋のCM曲に「高気圧ガール」",
       "url": "https://news.yahoo.co.jp/pickup/6592826?source=rss"
     },
+    "83b3efb1aef1ed6bbfadb50bf95b7c5e8e50f25481f3dadc16442053c352d2b9": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "【全文】女性アニメ声優が退所＆廃業を発表「この決断に至るまでたくさん悩み、考え抜き…」 - 日刊スポーツ",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYaE1yZmJaR3kxdzBzWVF3ZGk3ZjNwam1hUFlSX3V2S2cxdHZqQnZYd1ZWMnZCdmYtcnNFWmViWllnT0I0Q3hYWm5fRHF0WlJDVDFidWQwUXlwR0pjSE5qUTVwY1pEY0t1bDlHLWI3QUNfNjFXbm5BWVRodDHSAX9BVV95cUxPMllOMmtaTDFtdU5UNUhQcjNrOGdMdnJFelJtQklZV2ZJTnR5aEx6SjhiektYN3IwRGo0XzIzNlZwSTdJdVZwYTNTaDJ0N1g4YkUxYldfWFRHVV9tcXpKLXJSZzF6Z2g2NUdELVM3UzVnVi1NZXA4Ul92b2dPWE5N?oc=5"
+    },
     "83bd8ff9d5806194220bb9da5f72e3f830da2ca21e6890cb24f54902df7fdcac": {
       "first_seen": "2026-08-09",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -12895,6 +13539,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "危険な雨 土砂災害など終日警戒",
       "url": "https://news.yahoo.co.jp/pickup/6591649?source=rss"
+    },
+    "84c3cd7dbda1bf9ebf2d94368ef663ee1ff0cad21fc2be2478b1e7e6b8c25de2": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "令和8年度 ひろさき歴史体感ツアー 参加者募集 - city.hirosaki.aomori.jp",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXQ0RTMwSWxGZS1fTjRrSjlTYl80b3N5Tkw2WlhhZ2tULU4tMnBKbUY1OGNJeGtxTHROU0Q5T28tTnFDcnlnT3hycXRnX1hjdTQ5LWVuNURveFB5NzB4NGZIblJYTk9GT0psTk0xTmcwcGpTMHIwUTFCY2hvOFZCNEJZa3U?oc=5"
     },
     "84cb531a5dab88483a22182205b510f9282fbeab4c1191a08fdff914f9c69421": {
       "first_seen": "2026-08-12",
@@ -13005,6 +13656,13 @@
       "source": "Googleニュース 社会・事件",
       "title": "踏切殺人未遂事件で送検の男はJAF職員 後続車を踏切内に“閉じ込め”列車と衝突させようとしたか「注意するために車を止めた」 - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpQThyS3VpbkR0YmZmUFA1S1BRYnFmeG9wTVBLdWpqM0s4bXVGZ0ZYSVQ5TVluSzNXeUdSbHJ4Ym9UbnRBSXJCRmdFQTRmdFRENzAtZVhLbVE5cGlLWktXYWJqTnI5MThXMXpUQTF4dVVjRkpuWmpoMWZERlJQRFE?oc=5"
+    },
+    "85998589cb74e30fdb621bd1afdc161bf34487cbb63bf5b952c5137f2dc2192d": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "サッカー＝鈴木彩艶プレミアデビュー、アストンビラはアーセナルに敗戦 - jp.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qU0x4UkYwblVBREhZVGRmbzB4dkRtRUJJZUhkWGFobDI2NXdFNEtxSDZWbVp1X3VTSkxuUGRZZVpxbEU2eXRYRFpNZFJuOUN2TnB4STZxMzE4b3B3bnJzV1M3aWlmaDMxckprVTlmMWxTeWkyZTQxT0NxVFBkQQ?oc=5"
     },
     "85b01cb060c9388dca36a3808776c59d098dcdf9d3dc5f136d002c894a47135d": {
       "first_seen": "2026-08-14",
@@ -13186,6 +13844,13 @@
       "title": "英国の城の下にネアンデルタール人？「大きな可能性秘めた遺跡」の発掘が始まる（ナショナル ジオグラフィック日本版） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVE5TcnRPOXFXWU9hNGt0Y0sxMmZkVlVkRmtGdVFCMjZ5VUZ6M3pBOTNmZHl5bnRySFIxZmRyLWRfLXpZbXJYcncyY29KNGpheWNoM01FM0dvODA0M21LZm5nR2l5MGlGeW5SaDIycmZYTUFTMTBKNklKRWpBS1U?oc=5"
     },
+    "871652f11b1499385f1ba767e5bc7b0f292678ffa6d294bb27a4f8b43624bfba": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "防衛省が描く「AI活用」、指揮統制部門の支援まで広げる方針 海外では多くの命が「誤判断」に奪われる中で - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPR0ZhT2pFRGZOdTM3WnlBQjg3NElmc0Z2NFdMc2tmelpjN1lka0dfVjMzNkd4S2xyX2h6WjlRM0pnSy1hblcwMl9ZOGhISmJ4VEhV?oc=5"
+    },
     "872888ab3b10db645785ab6bc59b861b4c5a4c3d59ba62ab0b8e22bc44a72da6": {
       "category": "health",
       "first_seen": "2026-08-24",
@@ -13245,12 +13910,26 @@
       "title": "肘をぶつけると電気が走る理由、進化が放置した人体の設計ミス(Forbes JAPAN)",
       "url": "https://news.yahoo.co.jp/articles/4dcea0439b8866cf13a28bdf0bff28a1a94def58?source=rss"
     },
+    "882c0757f98c1a87426d81d7fb0c14e08619aae8a5f38e074b946922094ebf0d": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "拡大するサイバー攻撃 26 年度末にはセキュリティ対策評価制度が開始 - 繊研新聞",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oMEJOQWd0LWd6eVllOWY2Vm1kX1dPeVJVX0daTy1FcWpVeVAtdy1NWi1QUG9GLVNxNVJnbUcyWVdLRUhWeW1QWlBiWS0tVlRrRnNNbTRYbUI?oc=5"
+    },
     "8838fb2638350625622a93b7743dcbfe768b2ba5c897d5129fafc9b659dc007c": {
       "category": "business",
       "first_seen": "2026-08-25",
       "source": "Googleニュース 経済・ビジネス",
       "title": "米、対イラン二次制裁を拡大 財務長官「経済的生命線断つ」 - ロイター",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xRHJNQ3kxckwxRjRmUU5QTnFuZnJnUVpYcXl0aWdEbGpod01nbVR0QUpYdjN1TXR3UEZ2emxXdWJSVXZwdllaS0h5Z1hfb2RPUHdhWnVwRDMtX1g1dHZFaVJrZm82TzhsWVVsY2REaVlGSXFfWkcxWGlR?oc=5"
+    },
+    "883c2946ffd4886492d15f3ec0ddbd7ff405be26377278d27bf12d444fa602c2": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "第10回福島第一廃炉国際フォーラムにおいて東京電力福島第一原子力発電所の廃炉と未来について地元の皆様と語り合いました（METI - meti.go.jp",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMzRwd1J2SmVVNUM0bGVobmhwcklZMWdpQ1UxRlk5NnpBVzVYZE9yLU5GdzVtcG9IVTRHYl9sWVdjdkVHUkVUM0ZGWUZNVVUzc1E1WnJMdjhaOVVqNDVfTXZXNA?oc=5"
     },
     "8853aafb04f5c55e8b826de3dc9a7515a5783fdd4b8946fb93bcbdfa73782d38": {
       "category": "technology",
@@ -13393,6 +14072,13 @@
       "source": "Googleニュース 国際・外交",
       "title": "「みやざきの神楽」海外公演について - pref.miyazaki.lg.jp",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVS14eXN2X20yZEhTUVhiNmxOQzNZdU83WDc3bHlrdTIzSVppYU9tQjNISHMtOS1fbjdJaUMweFptU1pFdFJVaHUzNVlmcE5DRDZQWjVieXp0NzhUMjVYbmR3bzlqYXAybFRIeEVyYXRhdnh4bEd5TGtRS01FTHlFeGF0VXIyaUxWVE1nV1BQbw?oc=5"
+    },
+    "89ca067b07c184702866189694848df9b22ee5290db6df669fd02675f2dba61f": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "【開催案内】「I Dig Edu」2周年記念セミナーを開催します！｜スライド・ピックアップ・NEWS｜https://www.u-gakugei.ac.jp/ - u-gakugei.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BS3pGY2FlZlg5UEt3VmlVZzAtMWpRMU9nOU5ZUWJxdFFSMHZPejNYQUszbC1KaXlPdVhkN3IxLXZQUXhBemswTk1GRW8zclRSV3I1VzdCVU1vY0E3UlVpaU9SOWlDY2NibFR4aC1yQVo?oc=5"
     },
     "89cd937d93c6fa2a46014e642d32d8dea1ea47d1de93bdca6f91f0cdf9c44b21": {
       "first_seen": "2026-08-03",
@@ -13755,12 +14441,26 @@
       "title": "医師の偏在や高齢化…「解決に貢献したい」医学生26人が中山間地域での実習へ【高知】 « 高知のニュース - 高知さんさんテレビ",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVjluQmFMVjhWZVRyd1RHYlBFUUw4T1ZBNXBwS1ZZUGdrYTRXX09LZHJMM3ljUDNZY1ZrOWx2aHlyZGxPc0V6c002dmwyNXBqYUlNU3Y0OC1zUEk?oc=5"
     },
+    "8dadb14f0feb84b089a696f8c0a2f30b2e75317398216097191d3903f6c932ec": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "実在する脆弱性をかたるフィッシングが筆者に届いた 「詳しい人」ほど危ないのはなぜ？（ITmedia エンタープライズ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUZnWXJGV2V2dDRoUjVjd1FYeDZfWGYwY0pTNUIzWW9ReDJMVHZRTUZnNjVyQkR3dUpVMG9Ka3lGazVLUUQ0bXdYOFdCd0FKWUtYQ2FROTNZUVliSXFLM1VKYW1SaTVWekVVNDRLZTNETFNHSy00N1VYbmt1TDR5akk2X0VIZVBQaVRGWWxR?oc=5"
+    },
     "8db156e520a7f01acf84224bf4622f0a9d8449c917b47882206f101b6ff64a10": {
       "category": "education",
       "first_seen": "2026-08-29",
       "source": "Googleニュース 教育",
       "title": "【関西在住者に聞いた】私立大学だと思っていた「国立大学」ランキング！ 2位は「豊橋技術科学大学」、1位は？（ねとらぼ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldkx0YkRkU2dueXF5YVFOeDBYdkhVb3dtZ2hUUVNKcUhlUTdkSFEzWHR6VFVOdUVnRlpES0pEcjA2OGJwSThMcGxsM0xoSnNpZ3dGWm9QSVdRSW1JdDI4YzBpNTlSeXpfRENIcnV1VXVqMW5hdDBnZDhlVjNGa0U?oc=5"
+    },
+    "8dc97474bce245a8febac98a137cc43e0ba0001b470932c635066d471745538e": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "全日本高校・大学ダンスフェスティバル（神戸）に出場しました - 埼玉栄中学・高等学校",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Wnh3Qk40Vm9aelhSZUtvSmR6azZaMTZmcHF4cXE4T09NaGJVRk1KQ21BbXM3VjA0aGlUblJIZHpFQ1lFLVBob3VTWHJtd3NZdGMwb0ozcDgzYVREcmlwcjc4ZkozWDRx?oc=5"
     },
     "8de5d458239701be69e789b3457a2b03e33d0349f94ee0ddbe9f50df665b92cd": {
       "first_seen": "2026-08-16",
@@ -13872,6 +14572,13 @@
       "title": "その名は「NINJA」 すばる望遠鏡の新しい観測装置が2026年夏から始動へ(sorae 宇宙へのポータルサイト)",
       "url": "https://news.yahoo.co.jp/articles/887082c7221a9c7ed5f70dcaa684db37854ea26b?source=rss"
     },
+    "8ea16164e6e2bdf8d3bdda02efc1cd729bf70f8c4d9db9f7f8e09ccfb4b596e6": {
+      "category": "general",
+      "first_seen": "2026-09-01",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "長期金利一時2.955% 30年ぶり水準",
+      "url": "https://news.yahoo.co.jp/pickup/6593818?source=rss"
+    },
     "8ea43c774730a66e003e425bb5be206a5c06c5f3b03721906f130a4903bac639": {
       "first_seen": "2026-07-22",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -13916,6 +14623,13 @@
       "source": "Googleニュース 経済・ビジネス",
       "title": "28年ぶりの円買い協調介入、円安の主因はマクロ経済政策、問われる政府・日銀の転換 - ダイヤモンド・オンライン",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9za0tvWlVoM05ZQm56VEZMYS1kYkhVZVMzTDZjd0dBbGo1YTBlblV3QTA2d29VcW5qbFp5Nm9qVExsVmpORk5lRW9XRlPSAU9BVV95cUxNX0pfRmdDTXdQQWQyeHpEZ2tGWUJRWFJiV2RSTWNtWFZxbkZ1R0YteklaUERqWElEUHFhaXhTUXhlbzJ4eDNBbmRMY2dBNHpV?oc=5"
+    },
+    "8fee37c0f913cd5c97629aea752619d125e84287efb5aa39df6b49e599af2eb8": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "【全文】女性アニメ声優が退所＆廃業を発表「この決断に至るまでたくさん悩み、考え抜き…」（日刊スポーツ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcTljYkVzTXJXcVRWd1ZCLXFHTjJPU2U3OUl3alluZ0NlTUc5LVRCZ1lhTmtOa1NlUGVKVDJQVkZZek9NaXhmei1rUHRvMkFMdTc1d2YzZTBISlhlQU9vaWtJSEtxd1RBS0lvNDdCRElYT3UwTnNDeHpBT0ktTTA?oc=5"
     },
     "8ff0c1c284c8273ab3b00ecf34310fc16eccecbf375ac549023311d8cce3d405": {
       "first_seen": "2026-07-20",
@@ -14200,6 +14914,13 @@
       "title": "昆虫食で炎上し倒産 再起目指す訳",
       "url": "https://news.yahoo.co.jp/pickup/6590450?source=rss"
     },
+    "92c7869a8c80029c752c25046e825c2d5ad181d6cc9736bd227d4c90832491cc": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "期会・リユニオンをお考えの方へ - ICU同窓会",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84WXdwbzJveTJUSk8tM3FqLU5XUUxwM1Rtc2xqWjdFU042NVpSNFZXdVc0Mi1nUWQzYVA5S1FUcW5kdG1tTWdnRTk3ODd3YUFWUi1MZVBqTQ?oc=5"
+    },
     "92d0b35451508d4b5b6f6d39d393259af309cc53c40e8fc93a8980834b60e3b1": {
       "first_seen": "2026-08-05",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -14295,6 +15016,13 @@
       "title": "同志社国際高校、今年度の沖縄研修旅行を中止 保護者説明会で説明 [京都府] [辺野古沖転覆事故] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GV3JfMHN4eEtnTTlEWFJyZEpVcTRwVGRwSDcwWUJvanhCZ05DSGtBVGdlUnVuTHI5SmxjdnBUTWVpdl9zOFBHZXpWLU5hRjRpajZYVFZqTlVrX1lxa0hKc0lwOXRYY3M?oc=5"
     },
+    "93d485cc9e23b3072d54628d078805e18c82699add84dfc67de7f293544e29ed": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "「第23回坂戸市芸術文化祭」&「第4回多文化交流フェスティバルinさかど」を開催 - city.sakado.lg.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DTVpPVzJHYkREMWpwT3NFMHVSVWUyd3ROUzlRb1d4SVhzbldkYko1YWxETng4eG40RGRVU3p2TUJvM05iaG82dDE0U0hyemkxNEJ3RVhVSVpkSzRxNFh4VQ?oc=5"
+    },
     "93d570d798fdba253580b6569a5b8c11983c3b193ae4a98e90e9a978ebee3099": {
       "category": "technology",
       "first_seen": "2026-08-25",
@@ -14308,6 +15036,13 @@
       "source": "Googleニュース 医療・健康",
       "title": "高規格救急車導入目指す 南部医療センターCF開始 - okinawatimes.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02UFpQYVB4RHVFamZDMnRfa3N2MU14TlRQeTJJcUdQZThILVc1ZGwtdURkdS1fUXFocWh6VzAyS29qNFdVdlU0dk9KZGVWNFUtVkRxYWtMa3BkOG1UTXc?oc=5"
+    },
+    "93e82f13adb5006e59c90477c4b0f78820f79b790bb27461d2d231a1e5a6eb9f": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "【ギャグ漫画】「制服デカくない？」親の期待は大きかった…母の読みが外れた3年後の卒業式に爆笑【作者に聞く】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZm9ucFZ6a0xGZWNSeUJ0TlVmVFotb3hYUnF6X0VseUVpaWpNYVlGbFh6WmdPMXRpNWZyMFZiT2hIWWZYeWpCMzh1SlZaQWktY0hhUU9GUnVKdVFFUVduQkVwVVlramFYSHhwb0dmZU5PQmxnenFzQXRmNFRLQUE?oc=5"
     },
     "93ee32c45ca7eead0878cce585897af7e41948ea08973021dfc409a580bdc4e6": {
       "category": "society",
@@ -14334,6 +15069,13 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "折りたたみスマホ、約半数は明確に「買いたくない」回答…「メリットわからない」「高すぎる」理由に定着道半ば(オタク総研)",
       "url": "https://news.yahoo.co.jp/articles/f1206e294431ca9e3711659ac7c4a6dfd8c81ece?source=rss"
+    },
+    "942e1f5479ad138c2a6ef2faa16227acf3e50437b4109c0f0dcdb7042aa3c13f": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "「やっぱり…」VIVANTのワンシーンに野球ファン騒然 「なんか見覚えある」“答え合わせ”報告も（THE ANSWER） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TeHdYT0xMMklJNW93dmFtdmpDUDZoQkNYM0Z1elVrQ1N0ZDRHZUpjcGg3VERvTGxkRVFhRVBoYlZlaXFjcXFRb3BzM2JET2dKWlJzVWJxeTRELWFKNkNWTEkzcHJIeXdYdjJYejh0MGZ2TGI1RWlQRTFkbHdfOUk?oc=5"
     },
     "942f47244e9af8126d93f7bd2bb551acf044665532640652634add5e44afd5d8": {
       "category": "history",
@@ -14485,17 +15227,38 @@
       "title": "理化学研究所・国立がん研究センター・LINK-J 創薬共創シンポジウムを開催 - ncc.go.jp",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UUUpVWHo2WkMtLXI3S3FhVVJRVGIzcVgyZF9XSkYwWEZDYTdCR0loSlZlc19rVUpjQVdEOE11WkdkaVdMMm9WSWJRVGpOOEtGTmMtUFNkRk1GUDB0ZUEzWmFB?oc=5"
     },
+    "95863c1fee9fe49939f89a32ca63775003850cf65b8aaa3ca11fc2565ea2e43e": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "日本プロ野球 ABS「ロボット審判」導入準備 28年ロス五輪を視野 MLBでは今季から導入（スポニチアネックス） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSW1vNXhESGZJYkEyT1VJYU4zWEY5eV92Ul9QTGVZS2J2cllqMy14SGFlVmYwTDhIY053ckNHdldCQmR3YW5EemRxSHdfWVQwQnpwOThjcHB1Y0FSQlFRWlpCazRQd0w0WDl3RzRNVTViRE5Cd2FpZ0oyMFhhVDA?oc=5"
+    },
     "958b3dd9be4f1999ec7924a8f660b8f22b6f15b8a54247bb72fbd27fb2182fdc": {
       "first_seen": "2026-07-30",
       "source": "Zenn",
       "title": "【Claude Code】planモードはもう使っていない",
       "url": "https://zenn.dev/notahotel/articles/0c28638945aa32"
     },
+    "959250ccc4d68363b8476cb2ab61c67716c8bd2e30655d1c8d2605923c44629b": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "地域づくりへ方策探る 一関・骨寺村荘園遺跡 ９００年記念で講演会 - iwanichi.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQ1I0cW1COXJKcmtRLVdIZzdJekVfNXo1M3hZRFFGSl85QUxzaXZ3Ql9mVGxYOFJseHRzdl9QQ0tyQWRoQjlYYXRmRkpjemZicUJGV3pYSU9rNFk?oc=5"
+    },
     "9595180d1ce2d45095373137a38b6fd84db12716734667e6c2ce94c409112d71": {
       "first_seen": "2026-08-05",
       "source": "Yahoo!ニュース ピックアップ",
       "title": "熊本地震1週間 避難所に7500人超",
       "url": "https://news.yahoo.co.jp/pickup/6590548?source=rss"
+    },
+    "959519c3159a45341216619688fb8d6d35c2e31fa3f8d9161ae9c8eb6faefaf2": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "京都府亀岡市と京都光華大学・同短期大学部が包括連携協定を締結！「子どもファースト」と健康づくりで市民のウェル・ビーイング向上へ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydmNIMk5kZm5MZXBRZWJ2OTBnbEhmcGkteC1vbnF6WlhvVkNjdWU1RkFxUHJGZUJlVXM4QUpCejg1REtrbVdkc1ZKWDZMYXYxaTBZVVBTa0dWdGNpTFg3ZWRWT3pOaTBaWkE?oc=5"
     },
     "95af58c0310dd60b0278194e3632e67eda6e25b1140e161b98e1c88fde780884": {
       "category": "general",
@@ -14602,6 +15365,13 @@
       "title": "OpenSSL に脆弱性（ScanNetSecurity） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yQzBuLWwtRGhFQnpyS0VxbEdjckxGTDJkaDJ4OElYREhFV00yS1d0UW9Vd05scEtYeWROWG5xU2g4X3pubWNRdDV2d1hXbWdoaDJ3bDRDUTNWdmU1OGZqTHJfVUJIUmVVbXoxZkN2RDlsQl8yaXBPSnU5S2JKRkk?oc=5"
     },
+    "96f6b235c88b8e80aa496575d34eca7efaf0dac6e7d4beff7c913febb93f43d4": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "ベッセント米財務長官、日銀の利上げを示唆か…「円高につながる措置を取るだろう」「市場は既に織り込んでいる」 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuVm9vRVJEb3RFSnVjYU1iUmVNYzZJYWZ1WEhpaHUyd2l3dHRrc3QzY2otNlB6N01ZUmdOTVFlYXYzaUhTbFZ5OEpiS19mdUpZMWhwTHJMcmpCQ3g3VUFOclJwWTZoRFR2UEtPejRfMGQ4X3hTM2gtSjlQay0zMHM?oc=5"
+    },
     "97009a4e289f2420d112c606685e94815a906478ebb9478320548f1818a34b5d": {
       "first_seen": "2026-07-30",
       "source": "Yahoo!ニュース ピックアップ",
@@ -14621,6 +15391,13 @@
       "source": "Googleニュース アニメ・漫画",
       "title": "アニメ『BLEACH 千年血戦篇-禍進譚-』45話“DEFEND YOU”。半虚化し猛攻を仕掛ける一護だが、ユーハバッハは怯まず一護を押し潰すし、“護る力”の弱さを突きつける - 電撃オンライン",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUanNEZ3c3S05OYl9ZLXJjX2JFSGRNRVlCakNFeUVxcVY5M21XQW1ZcUtFTk12YldhMHJTSU5XSG0tVThpRVp3TTRIWEVJSUMxSmVCb1NGeFNUdw?oc=5"
+    },
+    "973859079882a6b616ecd3f10cf8e5c4fc841dbfcc1db6fa3b2629396cb1cf1f": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "「化学物質による健康障害防止のための濃度の基準の適用等に関する技術上の指針」について（公示） - mhlw.go.jp",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXdSMjRyd1dyamhyWVYxbTFYOGxlcUE0dEp0ZWRfYjhzdnFMYzZFYS1GY2Z6Z01KUnh2em1qbnhZdURhTWNxTVhnbC02ZWJDWGpySHBzZlAzbW5vLUFVMFZ5TkpRQXB4d0tTcmtfb3JWRUlIbjdDX210OWpaeXc2SEtlcWxOX0NmOWdfMFN0WmZnUmxxZXM4V2I0NHFKcGM?oc=5"
     },
     "975b918727d267a2e521f30ceb100593555b401ac348f58716d9562cfe808068": {
       "category": "business",
@@ -14726,6 +15503,13 @@
       "source": "Qiita 人気記事",
       "title": "【Windows標準OCR】窓キー + Shift + T キー押してますか？",
       "url": "https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "97d7067436fe48b61c9dcdc339528e4a5f5d4b22625e64dd731efc8c9e79f937": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "AIであなただけの「きょうのわんこ」を作ろう！『めざましテレビ』の人気コーナー「きょうのわんこ」風動画を自分の愛犬で作れるサービスを開始 - mezamashi.media",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pRUxtQWpVWkZ3azgxdnpvNUtGdTZuMmxISnNDNWQtNzBYeV9kbnpWb01JSUhGOHdkdjJKeElza3g3Z2MyazNWWFFHc0FFQ2hkbVVF?oc=5"
     },
     "97dde0f754bf6a56204725336783b30ce9d8d765cf6ad9944c46629a06373e6e": {
       "first_seen": "2026-07-11",
@@ -14930,6 +15714,13 @@
       "title": "裁判官3人で審理の事件 1人で審理のミス さいたま地裁熊谷支部 - NHKニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPVVZNbnFIaGc4V29tNG55azVvY0taSEFwaUZpRGthNjc4aWhKczF3SXotTFpUTjdXQm0td1FHSHVWYndOOVU4eC1iZFFtOUZtX2lMaXV6d0RCeHNHdTFZ?oc=5"
     },
+    "99a2b969323dd22684f49327774cccf26d1c1017cc396f67c8514c8fa0bc8308": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "《企画展》源氏と狭衣 ―物語の書写と伝流―（9/18-11/8） - waseda.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xNWR4RUMtNFhiZ1A1QXYtcEZ3cXV4bm5OellnemVGVzlyRnpqUFBTaVVOMVRXc3ltSFY4Q2Z3T3BBbjVCX2g3cFZVVFRVNUdoOTJTTlNYRnJFY2thU3h3V3BR?oc=5"
+    },
     "99ae7865051ad5b230fc4ee529624054ad94305ede98548ddd9520a5683d13c2": {
       "category": "sports",
       "first_seen": "2026-08-23",
@@ -14968,6 +15759,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "夏だ！川遊びで防災！ 楽しい川のレジャーも不注意で、大変な結果に【暮らしの防災】(メ〜テレ（名古屋テレビ）)",
       "url": "https://news.yahoo.co.jp/articles/bb0980c73614bc213373aa8bbc38a13c993f3ff1?source=rss"
+    },
+    "9a0593672fc3a998089b909189fe7128b80572d01cd8095cc20b11cc69bc6b1a": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "コマ数、学校裁量で調整 ＡＩ活用、情報教育拡充 次の学習指導要領、改訂方針 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Tb0I1MjFqVy1RdmFGUlpDQ1JzSFdTZUptTTBBWkx1VmtpOFBOOEVubFJ2UFh0QVBUX3RYOWpiWDhFT2FsSUZDbFhRLURJSDlOV25JWFhLT0tNSC1U?oc=5"
     },
     "9a0605d475dfc68c139298fc21a2cdcc97678b8ba7865b9d94c1bc8b0af53aa1": {
       "category": "politics",
@@ -15120,11 +15918,25 @@
       "title": "ラヴ上等とタイアップ中止 法務省",
       "url": "https://news.yahoo.co.jp/pickup/6592559?source=rss"
     },
+    "9b5a91f22885169dbf9bf8bf742bfaf6cbde28b3da3c0df54801547146f73636": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "政権の対抗軸、ついえた「中道」 選挙や政策の壁、阻んだ合流 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PTk11bUlLa1RHR2xfNXFqendXNmtyR3Z4RzJMdVV3YThnbzVTVnpuM1F4c0xTVjJVazJyV2d1WjdmalhWRHN3WVZLX1duSWlaMFlnUFd2akozbHFj?oc=5"
+    },
     "9b65572437b5772e13ce25c26a12c25061edde2786570e9331e889b24bf1e4d6": {
       "first_seen": "2026-07-09",
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "Etymotic／Westone Audioの親会社がFidelity Collectiveへ変更。国内販売は完実電気で変わらず(PHILE WEB)",
       "url": "https://news.yahoo.co.jp/articles/cab90ad072416bb11a6b6bafd48f867ec867a5c7?source=rss"
+    },
+    "9b77848633919e7fad8ddf2ec42a40c129fb0add2900b274d76b528e4f580395": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "政策減税の要望相次ぐ、個人向け国債や賃上げ 遠のく財源捻出 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NaDhaeWlONlB4Y3BYUEVHNERFaVdEUnprTGM2LS1kcmo5Mk1RMWlreE9kN0EyZVFERGYyM2w4YWpjMlpDb0s5WEl4M3cya0lqQmJndENsdTRoaGUxNUswQzZhQzRhcjBlT2ZiRw?oc=5"
     },
     "9b9d5f66b74ca6bcbaefea25f0b90b9cece69ed18a4c37c3674f9e107c1cf6a6": {
       "first_seen": "2026-07-08",
@@ -15350,6 +16162,13 @@
       "title": "円安でもタイは安かった！ バンコクを賢く楽しむ最新ガイド(アスキー)",
       "url": "https://news.yahoo.co.jp/articles/afc7cf9e0e05fda84e4ad495a9918ed2b18fb4ce?source=rss"
     },
+    "9d97ad7279eaeae34425efbbcc97fed071c1d45d52c517ab46fe528411104a63": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "公立校どう変える？ 子どもの権利は？ 教育長も交え、川崎で集まり [神奈川県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NT2lTN01udURwNWVWTDFKWHJOZThXdTZHQ0RWMnpzZ2twdFNTNTFhUEVBUm9CelRpVGhCRndZdlY5bDhKcEZ6bUhqdk1OenVtcXVtVUxYNkhMWnFRVEVrel9pM1U4RWc?oc=5"
+    },
     "9d9a78c38adf482abeaff11ab5b1a8cd58da4fdd50365005942dd7b282a087a0": {
       "category": "education",
       "first_seen": "2026-08-27",
@@ -15396,6 +16215,13 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "ヤコブセン幻の椅子 日本限定復刻(FINDERS)",
       "url": "https://news.yahoo.co.jp/articles/fa6b65e52f65b134b5d4554ce4dafac7f3c4ff96?source=rss"
+    },
+    "9e1b67d7eea5746a2224d0e91edab0c6236f073f96c536c62ab1b17097d38965": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "アイドル事務所VOISINGが利用するBIツールから個人情報流出、5万件公開か - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4WXpOUmxFeURDQ3RUYVIwclFuNjNzbGhBcmFraXROajVURXNzSWMwT3VWLTl5LTZna21yNjNMUnZ5UloxdmxPWl9OUlNTbFJZTHVvQWh6bGNLNDFYbjVOZ2Y5WHE2Z1F5SHc3eg?oc=5"
     },
     "9e3f0256fc9b98f0daa7beae85ab8ef0362f14715ba52a329228e9928389cc29": {
       "first_seen": "2026-07-17",
@@ -15497,6 +16323,13 @@
       "source": "Googleニュース スポーツ",
       "title": "中京が茗渓学園を破り、史上初の５連覇 全国高校軟式野球 - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fUXdJai1IN01rZG0wR2hGSWNzaGlvcGtoZFJSNmp5WWdGZ04xT0t1OHdCZHdOX1otUkN4N2VDZmtIaEdIZl9tbXNWLVNOQTZaTVdaQXlSTGRVV2dYMEZiS3NqV2tqbnM?oc=5"
+    },
+    "9fbcaa9b846e306134a9f3c7584b8b9ced9028d658aa7358a53449c36e430eaa": {
+      "category": "education",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 教育",
+      "title": "【大学受験2027】東大、価値創造学部を新設…国立大入学定員9万6,356人（リセマム） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Dd1JacURfWU5lMmhKWnpScVVWeEJDREQzNWROcVIzOV9yekZXaXhLMXZkU0hzOUE1ZU1UQ2t4elpUTDVKYVE5MDAyTHBsNFJKVUJIQUowaWU1cWJKMWpqWDJUTFF3OS1JOS1EY2dkSVVjMjVWQjdiZlJJN0RxaXM?oc=5"
     },
     "9fcbe7ecb4fd230896bc1d1e8c0ba87c287478b4a588dfefb91a58364187e752": {
       "first_seen": "2026-08-17",
@@ -15647,6 +16480,13 @@
       "title": "猛暑日予想 週明け熊本は40℃恐れ",
       "url": "https://news.yahoo.co.jp/pickup/6590190?source=rss"
     },
+    "a0cc2a0ef4fc2c417018ed2a99febc41d9c71c128fd171cb2882aaf231706da2": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "30年の歴史に幕 巨大気温グラフ 愛知・一宮 9月13日まで公開 - nagoyatv.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5palpJUHlIZVlKYW55OEpRbk1rMXJZSmYzS3lQay1UeHN3VzFSQkJhSVhxTDZyajdkZ1E3a1d1WUkxNm5fd3dwTnl1NjVlMlRjbWfSAWRBVV95cUxNZ3RIVlRLZExHX2JKeXhsQzd0RW00V0UwTFhjencyNkpIakpOejNtMU81Z0RHbVEtWDJlTU1TVkJuMkVYVWRZVVBZbHNNZ0l3MVZXR2E5TEpFNHhEcHFaX3NZdTNX?oc=5"
+    },
     "a0dce99d0152cf343cba559444a0ac6f5bf780b93e3c4366f64fe9fef27d160d": {
       "category": "politics",
       "first_seen": "2026-08-20",
@@ -15709,6 +16549,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "大坂なおみ「私の本業は母親」",
       "url": "https://news.yahoo.co.jp/pickup/6593594?source=rss"
+    },
+    "a19b76ac5a053f158ff5ceafa47d109298a7224d3c77595d4804e62075de43a6": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "【漫画】「痛っ！」スリッパの中に猫の爪… 容疑者の愛猫4匹を“取り調べ”した結末に「笑った」【作者取材】（オトナンサー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2ZFFNQ1BMVWRsVUtfcUcxYTQ1eVN0QnNUWlkzc2Z3N3UwVWtCN1M1QWxaam1wMlVFTHkxazVlYkdreGxZWEVnZVlvbGJLMkRyVi0teHlNOGc0eXhZY0pLVVRfMzdBdlhqTnR2NWJoeWVCQTVHQ3I3N0RMZVFFV3M?oc=5"
     },
     "a1c226a4655f4c2b8a5e0637abb3e6fde059bebfcfe53999c2c1e673dd1f3438": {
       "category": "world",
@@ -16212,6 +17059,13 @@
       "title": "中国の対日政策不変発言、官房長官「コメント控える」意思疎通を継続 - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwek54Z3dRaWFvU2ZwekxtamJ6MEo4ams5RzY1RjZYVGpvVDNDek03TUI3UGctTTlMZWxaa3EyVXZpZTE5c3AwQzVrUkxESnE3aDE4Q0hJZXAwOVlMclRGenlCRzkxZUI5M0t3eQ?oc=5"
     },
+    "a765835dd80679cc8177c5153a9074b9aab1ee94b890332e0a9962a1c69bfc7b": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "「がん撲滅キャンペーン2026」に本巣市も参加しています！ - city.motosu.lg.jp",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JQmNKakZoWFZrem04WDBKT1hySFRmdXNvZ1dZWmREVXVpME00T3haaDVRN0RjQk9nM3JNdnFwMnQtM2N6ellPeGRlWWR3VUpMOUEwTnNLVzM?oc=5"
+    },
     "a768c4fdc2a2b6ff271c43b9935bc385fa4429354312670561d1c1c956e3905e": {
       "category": "politics",
       "first_seen": "2026-08-23",
@@ -16284,6 +17138,13 @@
       "title": "今年の日食見逃した？、来年は「現地で必見」の天体ショーに 専門家が助言(CNN.co.jp)",
       "url": "https://news.yahoo.co.jp/articles/9e506045cbd379115abe8d32f095e82dd191c145?source=rss"
     },
+    "a80ffeedb91e4a9a987636b4515f867d076974674a1f3814ef4c722160d7d533": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "令和8年度比企地区在宅医療・介護連携推進講演会アーカイブ配信のお知らせ - town.hatoyama.saitama.jp",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmFNVGx2eDhjQjcxVUtFenNzdWN1RDRHNDY3UVQ3RlBIUnpfSFUxZHI4YnJOU0xvRUlHUmRzR0JmdlJSVW5aUUhxNUlLTXNrQTVuWGt1V3JWMS1GQjk4c2wtT2pzdDVuLTJMaGpaUlNHLVpOLUcxYzhOc2FCWkFFeVg0WlQ2d0NU?oc=5"
+    },
     "a817daa742b771a789b6db3f525b2c4e7f7898e2260e4e4d64ce82b41326e23a": {
       "first_seen": "2026-07-23",
       "source": "Yahoo!ニュース カテゴリ 科学",
@@ -16344,6 +17205,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "京大、金属有機構造体デザインのクリアファイルを発売 北川進特別教授がノーベル賞受賞(産経新聞)",
       "url": "https://news.yahoo.co.jp/articles/457140140a672b27ee6d01f543b92e52475562f2?source=rss"
+    },
+    "a8f887e77afe1ca1aa380ee0487aefa2f74b7ca810882b8eb16f2364b3350523": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "美と健康のショッピング - tv-tokyo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNzgzcGxqNF9Tem8xbS1UM1FmUmpPR2JjeGNCaS12LVAyZHRMc2NSR0QyWE4weGpFRktIWl9HV0szYkUwdXhjbmd6ZTczZW85YjlnMGNLU2JuVGp1YTRyeko1Q2w2bXRFUXU2T3Y5UTZBd1MxazR6M0dmb3FFd05kanBicHRvelY3YmpkWTVraUdHQQ?oc=5"
     },
     "a900176fcdc843cf407611ce40bea362d960e27734f20411b9a8bb1fd6ecceb0": {
       "category": "world",
@@ -16549,6 +17417,13 @@
       "title": "「日本一高い」福岡県議会の海外視察1泊17万円 他県は「廃止」も [福岡県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSX2tmSDZtYldlZmMtcVNldU9HcmVTNU1sTWZnLW9yU3U2c29jMjlNd2gtNFNxdUtaR0l4VHoxRTJkR1JzOWlfQ1BLbHU0R0NSQlhVSmlkRDJobTZOOHVaa1hDWmFwaG8?oc=5"
     },
+    "ab2091f0991e7ba0d19c197db9dffbceb37971d97dec894a4708c043e3b6cd99": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "交野市長選挙は維新新人・美好かほる氏と無所属現職・山本景氏の一騎打ちに…投開票は９月６日 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5objFGNFhURmd5VV81cE45bmNrcmtPNURLUnVndlYzb1lXZ1dsVElIb0Y3ZFYwZDNJaEhXTjFYOUJMOF9HN3Z4TERUQm8xOGRnRjN1QkQwby1qZ205VUNEOHRVZDhmUE94bzFJa3NkdURJdw?oc=5"
+    },
     "ab3531acfb5286f84a69e30579d693faf39dd5cc91b0fad54bf3fd36c82ef379": {
       "category": "anime",
       "first_seen": "2026-08-28",
@@ -16712,6 +17587,13 @@
       "source": "Yahoo!ニュース トピックス IT",
       "title": "Meta 新たな画像生成AIを発表",
       "url": "https://news.yahoo.co.jp/pickup/6587149?source=rss"
+    },
+    "acb8be4acc98566a7c215ee033c7e749a51b4f3907ac35365a5e77c156e4d930": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "国所有の重要文化財「木造阿弥陀如来坐像」、修理中に右腕が破損…京都国立博物館内で作業 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSWmtHbVI4Yi1iOEhYM3Nid0tKekppbnRQakp6RlBiNjR5ZDh3OXlEdFRHSDUxZ2RMcTdZZkRfVW56Rnotb290eFd1Mm9UcTRhVzhwdGV4Y2hIclR0bzB6Q1JlaGprWmd4ZElzMHYwQUp1QQ?oc=5"
     },
     "acc75adbe9487b47de570bc30870fc9992144aec8957e41441aeb7a4c4775a8d": {
       "category": "education",
@@ -16950,6 +17832,13 @@
       "title": "長すぎる日本国憲法前文の功罪、改憲に向け安全保障環境の現実をどう議論していくか - JBpress",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Yb2xBZHRWUW1zWnVSaXY2UFgxMGVROXdMM29rNU9kNzBRZHlaMF9PcWJmaWNBekxSTXhmaV9vYkNCYVlNaHJmT0xjRTREaUZqOVM5Nmtn?oc=5"
     },
+    "af837755c24f08d02213deffbc16b7867d15d548b55ba468957e12f274b5b8db": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "JFAユニクロサッカーキッズ in 鳥取 2026年11月14日(土)開催決定！ 9月4日(金)から参加者募集開始 - JFA",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kQl82YzJOSHNLMmRqT0xfLWZiMC1hMGJhQXRVWms2UU1VLTZ5R19PazJERXplYV9JR3lMZHZ3ak9qenlvWHMw?oc=5"
+    },
     "afa0fb428892f62674f185977976c2267a45001bdc81e0751184837cefa36a8c": {
       "first_seen": "2026-07-16",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -17092,6 +17981,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "狩人と思われていた「ホビット」、実はコモドオオトカゲの食べ残しで生き延びた？(CNN.co.jp)",
       "url": "https://news.yahoo.co.jp/articles/9c962517f37c82750eec2021b852949a737adc60?source=rss"
+    },
+    "b0e2ec385c3dbd9311ba67d289193f4263732f45cd29f4292cca681ef51b48ac": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "花王や森永「AIに選ばれるサイト」に チャット経由の買い物増に対応 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GM1ZCTEtiT01uMXhkWHBpSkxYenpDeGY1VGVRZ1FpdGZUTFNFd0I3M1RlZUd4dUdkSzk4SUZmcXl3cmpfSUpPemJPaEhUQ1ItRGVFYVFHSDRGSk4zOGFSZGtQaG5Tdzc1dk8zQg?oc=5"
     },
     "b10607e6a82bff0b3b3a86d275fba089036404156fbf4dba7b2c151a3a9a344e": {
       "first_seen": "2026-07-30",
@@ -17334,6 +18230,13 @@
       "title": "熊本地震で断層帯30キロ動くも活動は依然活発 まだ「割れ残り」に厳重警戒を(Science Portal)",
       "url": "https://news.yahoo.co.jp/articles/4a9e6d77cf029ee61d5bde13e969793820ffad12?source=rss"
     },
+    "b3295ebaa89a4fe3e98585ea1580e669be8d9234e701dcec7859a2f5327d0995": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "国光外務副大臣とカロワ仏欧州・外務大臣付仏語圏・国際連携・在外仏人担当大臣の会談 - mofa.go.jp",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpdjFKMGhYVmtIXy13SW1DSUR2cFBjbDk3ZzVpMlY2ZkR1QllXRlQzYmVYMXh5MjU0MkVfOFdMN0hwX3R0ZEhKelp5VDhhNVRVSldTZmtGUDNaTDRsbDhtdTZnWVlDWVVOSkhER2wzc0loT29w?oc=5"
+    },
     "b34b61c9657f40a8496fb295fb78847a70d8a260bcdad1b2c15bc6f0c14414d1": {
       "first_seen": "2026-07-08",
       "source": "Cybozu Frontend Zenn",
@@ -17380,6 +18283,13 @@
       "title": "PaperCut、印刷管理ソフトのゼロデイ脆弱性が活発に攻撃されていると警告 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DRmhkd0J4cUZhTFlaSEc2US1NVEFYbk1CUTBkT25QVmZjN2N2NXVVenlnSGg5MXhucXhmdUJELXByc2Q4NjNnb0xya2tfME9kM0Rtc0o5VF9uYWoxeVhDSGIybzVVSnI4YzdIWFZjY0lJNnRH?oc=5"
     },
+    "b435728d28da1e8918056f6e493df7460c71ac447f8c35a8aa7a3ee695c06e49": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "台湾総統選挙を占う統一地方選挙 立候補受け付け始まる - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PY2oyNlVnZV9IamFzQ2RlSlBnZ3ZDMlJZb2xGVmRrSzYwdjhVU1g5cUdqbUNvbk9VRDhMdmZQdUtlaGNrWGhZazNfdzczdTVQdUJ5VkV2VE9TaUJOMHZJ?oc=5"
+    },
     "b4400079965504fe8f2f5fc65722afcaef916ab3071a8aaf038774337f2b59ad": {
       "category": "culture",
       "first_seen": "2026-08-30",
@@ -17400,6 +18310,13 @@
       "title": "汚れない未来の素材が見えた…ヒントは田んぼに(ギズモード・ジャパン)",
       "url": "https://news.yahoo.co.jp/articles/6f4b4b23d1ed6a57a95d8de90e9c6ccaad6f4891?source=rss"
     },
+    "b481862e4e7a73c51d5361e22607c1b4e8d32212f48d58675810ec8935618519": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "TVアニメ『しろたん』10月3日（土）より放送開始！ 「メインビジュアル」解禁＆ファン参加型の“TVアニメ化記念メッセージボード”企画を実施 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yUm9YaklTMWVpVHhkWTNqV2tQMVhjdUVEcGxaeW5SU2FEcUc3QURkZW04T05TRzdXY3k5MXVKUW1NNDRQY0cza213dllxeGhrV0xzaTRsZklpRk9vSmZsZXVqYUhRXzVISHc?oc=5"
+    },
     "b48df69ce32e191a72c2331cc23856953c4e432bdc1be22db60083f73768a3ed": {
       "first_seen": "2026-07-26",
       "source": "Zenn",
@@ -17419,6 +18336,13 @@
       "source": "Googleニュース スポーツ",
       "title": "都市対抗野球、注目選手紹介：社会人野球で輝く元プロ野球選手たち（J SPORTS） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03YUdFTUlQWXZNdWJVUDltRUpSSU8ydVZETXNoRktydDMyLVU4TVpFUkhac19CTVpIbFdlN2pYTlJtRTNEeU1UaTZGU1pvMk5RRTRhWVhlYzcwbHE4b28xUE1HMC01TGU4QUZyd1ltTldaVTY2cUdhNVNzME1KYWc?oc=5"
+    },
+    "b4a7c01aa4da1edaf18dd866a5bfc90cf4d132d96955f8f1ad40f17be67fff0f": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "4〜6月法人企業、設備投資1.6%増 6四半期連続プラス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtb0tUOFE3R25tc0ZoMHFWYUlYMERwbXdxYmxDZDBlUnNDNzNVNzZQYUdZWmJjUThIcFpDY1BvN0l0ZHJzeHJjb29qaExGVkNGRDlpWjl5UFp6NFFxNERLcnBhVUlUWFRpbENiRw?oc=5"
     },
     "b4a7f8cdd515c10e4a5406b5afaf2e8b074711442cd3761c7a88c9e4edb9ed70": {
       "first_seen": "2026-08-18",
@@ -17493,6 +18417,13 @@
       "source": "Googleニュース アニメ・漫画",
       "title": "マンガ・アニメ・ゲームイベント『京まふ』応援プロジェクト2026 - クラウドファンディング - READYFOR",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EWXJaMzBMXzRieTdMN2ZMSGhfcnBUWXZWbExLTkdlanpBdENHdEVaQlNrLWZsZzlHQzFVTFFiUUNuSE82VVhkUFNaOEx4eUVE?oc=5"
+    },
+    "b5da0adc2fa996cadf834f2e1b2445cf8bb7755da58a78231482a0d993b91a56": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "3日～5日 警報級の大雨の恐れ 被災地は土砂災害警戒 西日本は久々のまとまった雨(気象予報士 小野 聡子 2026年08月31日) - tenki.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zV0Z3VjBzVnA5c2J5N1dhY05PMTd0ZlNlR1BkQ09mM1VzTmttUkFPYnVqdGhMUUtjckZKRlF4bERVYk1CNElxRWpwaEh6NUh4VVRMV2lrSzBjM0RSSjdtNm9CRE9GZ9IBa0FVX3lxTE4zZkpnakJFZ2F2UXk1U3dFWXl6VTBSel9CVkg1MWdaSlVfTmZEVDhNX00yUUd5czFiaEllQ09ibEFiRmVERWU1MmZsaW5UMjBYUW9QQkx3Z3VYQS1sdERRVEljamxabm9vZnpr?oc=5"
     },
     "b5ed4386ce7c508a8e58c61bc9d78767d6264ef021ed03ecb7ea4bd6bd5123db": {
       "category": "culture",
@@ -17708,6 +18639,13 @@
       "source": "Googleニュース 国際・外交",
       "title": "第33回SUMS国際シンポジウム「MUCM-SUMS International Symposium」を開催しました。 - shiga-med.ac.jp",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFYmpXdnlOekxKODlvVE4xUHptQ3R2bUREVHA0QXU4UEVHSlpZQjVOdmVTVV9UeFFHaXQwNVdrR1ZpNnlrM2wyY3VwVWc3eXhS?oc=5"
+    },
+    "b8a65b21b767bbdfdded56616c7849ad83c817079270703e9dc3c9f27e5bfb07": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "救急の日及び救急医療週間 - city.ikoma.lg.jp",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FV0NnYW9pY2psQTBvQTVTSXd0MGQzN0JidTMwN2xtSzU4cmNqSWNnQktNcFd0Tl9oUmxmTGFnbVRaVEluRjREOGxPNlZzbldqSEtiSDBuSQ?oc=5"
     },
     "b8ba585a569820095f19b89a08f6d89614f0ae6cca289ebe0a0583e173dc25d8": {
       "category": "society",
@@ -18117,6 +19055,13 @@
       "title": "り災証明の申請 片付け前に撮影を",
       "url": "https://news.yahoo.co.jp/pickup/6590195?source=rss"
     },
+    "be2a09cbe268ec7bfe4af9793484a1620bcc87bb064f01a29fca0a851cc7a936": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "「超知能」AIに潜む三つのリスク 理論物理研究者が示す選択 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCZUFwSndHajlsMTVvNWpXZDE3aF9HMlZvN0YxOXpyYVNYZVU2c3EyV3RPSjJkUHJrbnc0dG9WaGkyNWFwclVzNDc4TTNkVWpMRjg1dnVsNWJvQVVEQ1FvcFhFWnFuT3F6?oc=5"
+    },
     "be3214c1cf63f155cd2dca17b5662e170128afff29bea5cda0c551956bad7b85": {
       "first_seen": "2026-08-12",
       "source": "Yahoo!ニュース ピックアップ",
@@ -18253,6 +19198,13 @@
       "source": "Googleニュース IT・AI",
       "title": "日立製作所の社内AI推進コミュニティ「AIカフェ」第10回を開催清水建設・古川氏が「建設現場に生成AIを根付かせる仕組みづくり」を講演 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81dnJSN1ZUZ0ZiVTIySEpmMHpEVm9Fbl9JbldzWGhFSG9WbUdVVTdxRUYzSWFlQlBYcmJZTTBGRDVlRVdCX3JIMHBnNUpPeUNJa3psMThFX0Z4UjFnQnNicWVrek1HcEIwU1E?oc=5"
+    },
+    "c00652701fe414bfac07f9adacb37e1170b277aadc93fb1c6e07945118ca0729": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "政策抜きの“合流”破綻/中道・立民・公明巡り小池氏 | しんぶん赤旗 - jcp.or.jp",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fVEtXX09qR1dZa19tR2xxRHRPUElLbkJzVE1HVmpRWTBrQzJmZW1UNmNLLUx4Q09DQURnM2d4RGt5TlRpV1F1ak9FTVRoYU5odlRPbXlValVyVDBHVGsyOWNSZUZfNnJmNWl4QmV1ZnRGVENq?oc=5"
     },
     "c011e16e11c6f9bdf3fb2b0e5164814886c6243361ac3cba79575dac7a693996": {
       "first_seen": "2026-07-25",
@@ -18508,6 +19460,13 @@
       "source": "Qiita 人気記事",
       "title": "AI-BPRで業務そのものを再設計する",
       "url": "https://qiita.com/licux/items/25e87077b6ef29162a93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items"
+    },
+    "c308b4da3ca1d241ed857c589723c3dbc84e674a7ff44e97de60eb410061e74f": {
+      "category": "cybersecurity",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース サイバーセキュリティ",
+      "title": "｢サイバー攻撃は自社だけの問題ではない｣リコージャパン・シスコ両社長対談で見えた､企業価値を高める防衛策 - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfTjNIRU9ic2xYdnFQM0JSYzM3VjRPbzZMUm51c0Q4SmhsQTRkOGVLRHNLcjhIWkRCcGpHWktxcG85RWEwWjIyOC1yWVRuSlhBUmc?oc=5"
     },
     "c30ec155dbfc388e9540b0fad24497d66de0a719a59a193c9ef1d8cb06c4444f": {
       "category": "world",
@@ -19069,6 +20028,13 @@
       "title": "産業発展に伴う土地開発で発見された遺跡を紹介 富士 - NHKニュース",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96MzA4ZUxUdlRJVFdyNjNZMFNGQXBIVUowVnhvNGVIYzZoODhVMlhnY0FpUlF2TXhHcF94OFU4Z3V1TU50Wk91M1pZVUliWmwtZUZlZHBWd1c?oc=5"
     },
+    "c91a7f5652edad11801a91ef0b3f6c3d4421cb9d211eae188b7c2aa8aed1b660": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "鈴木彩艶がプレミアデビュー 日本人ＧＫ初―イングランド・サッカー - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vNU1oQWdNcURCTjJzQ0xxNVRqSkc3WTBXdktEZkpTUk54VmphcVM0Z1VLX0lOQXBUc3REM2x5V1B5ZTVCZzJnbldLaVZ6emsxNFBLbFNWOV9iQktZSkdSTkpOYw?oc=5"
+    },
     "c91ab6f6947e4496ea0ea09b29cc0b36670d2a320683a3d3d3f2c54866bfd78c": {
       "category": "culture",
       "first_seen": "2026-08-29",
@@ -19223,6 +20189,13 @@
       "title": "乳児の言語学習、アイコンタクトが重要な手がかりに｜CareNet.com - CareNet.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TNEFIZDJLRHZHUUE0WUJFclJHSlZ5SDhsQ01pcmFpNEF1bEl2dnY5YXAyb2VfMnlqOEEyR0hHa0lrejNQanR6dm5Nb0dfYXRXeURnaWlFbXR3QQ?oc=5"
     },
+    "caa39d62364b90fca57ec0ddf54ac56c427aaf0b3ba2a689f8ac58753fd4afcd": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "AI専門家が言うAI開発に必要な4つのスキルと、指摘された追加すべきスキル - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TQmJnNVlyVmEyNnpicENxY0lYdUZoZWFocGEwN2djRnM1bFJva0FEcmtlVndTRmtHOU5fRGwxWFlGMUdDRFM0X0dDcEMtdVBBaW84?oc=5"
+    },
     "caa50dbacee2a4d5cc32cdd14d7c97694a0199fe9b0d06a660466f545ef3ba73": {
       "first_seen": "2026-07-08",
       "source": "Zenn",
@@ -19358,6 +20331,13 @@
       "source": "Googleニュース アニメ・漫画",
       "title": "［福岡県］特集「どうぶつがいっぱい」 漫画に描かれる動物の世界 - 西日本新聞me",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LcFozd1drblpnMkFHZ29vR0VBc0RvaWlZVmZ0bnJLT21Sak5UQUxUMjEwWkpuZ3hZcTk0aEoxZnVqamZKTFdZdk1SSDdXY3VybWp1VlBn?oc=5"
+    },
+    "cc0839329546a987b7c7fb21d822e4b2c3e7716f7e6dcef981c0b81b875dc26e": {
+      "category": "general",
+      "first_seen": "2026-09-01",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "9月も厳しい残暑 熱中症に警戒",
+      "url": "https://news.yahoo.co.jp/pickup/6593807?source=rss"
     },
     "cc14ab4da92b894dd1cbee7df92dbeafc592d4d05a4ea0e29b415f181d1a4252": {
       "category": "history",
@@ -19653,6 +20633,13 @@
       "title": "国産CNAPP「Cloudbase」、設定ミスと脆弱性を一画面で把握できるダッシュボードへ刷新 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mNmFBOHE1YWs0LVZyM2VydTZOdncwa255bWh1ZFpMV1hsY2Z2cmxwY0g3WVFRT1l4WlRnS3Q1Z1lEWGpjNGZPcTA0MzBtYmtCUDFiR1pMOXRjZkdtRG9LRW40TlZsNGFZV2c?oc=5"
     },
+    "ceb1481814d4d72c1b1ec4fb50d9cc841bee3a52745b1d958d8b56201fa53717": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "法人企業統計、4―6月期設備投資は前年比1.6％増 - jp.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGRmb255SHZhTzNKM0xzVE9hNm1kMktvZ1NqTTU1R29hbGZJLS1sWHBWcHQxNXh5RWZBU3VfR001YUxwYmJxVEpWNjJ3bXFZcDRva0RXRzNlVzB1MS15clpCQUduN3NHdGI2ZWhTQ2NkS0E3N18zbEJUZnJZajFHbA?oc=5"
+    },
     "ceb361ff32ea25bb439c7f22aae805c2cf84d49affb8041e9fcd99157b2daf54": {
       "first_seen": "2026-08-08",
       "source": "Yahoo!ニュース ピックアップ",
@@ -19896,6 +20883,13 @@
       "title": "道路交通強靭化のための土砂災害対策能力強化プロジェクト - jica.go.jp",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcmxOSGJoODBnekpRY0t3VU5aeXJtU0FxSXJ4WDFDRVhqSnh1YmlTWE42Z2VTcEJ2ZnBlMWJDRmlPdnlBbzN3bE9YVXBBdWMycldMQk9sdEo4Q2VHYk15eEluVmMwdw?oc=5"
     },
+    "d0e9e098839eb4c2bb7f2934f92d72a6ba6607b64a997589bea81e44355eba24": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "重要文化財の阿弥陀如来坐像、修理中に腕部分が割れる 文化庁が発表 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vcEJQb09IZ3F2Z0RsUXJESTB2NVNzOWEtRWpMRm9ad3hUamVTUUdIRElYa1RRX3ExQ1FyTHphN1hOZ2NkVjVVZ01rNUlNblA1SXdjMWhwdElKNU0xaGVHd2otaDRhd2s?oc=5"
+    },
     "d104236d0b9732a0760323f557564e901f68283f350ff9596c9de83378efa030": {
       "category": "technology",
       "first_seen": "2026-08-28",
@@ -19950,6 +20944,13 @@
       "source": "Googleニュース サイバーセキュリティ",
       "title": "AI、暴走よりも怖いリスク（上）サイバー攻撃に高い能力 - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5VTBMUzVGbURqUDdvbklLX1hibnYyakh0bU1PVzhFVkpUS2czRVpfSE1KWVRVSm9rZmlQU0wza1I0NFI1RFR2R0RzdlNqbG5NY0FVaTNSX1V6N1pXMTZJV01pMGpmYkZyeVpTMDF1ZWluUzUwLXpV?oc=5"
+    },
+    "d1aee2654e6263c4b4bf31b4ecca287f5c1a51ed837d5838bb829423bc1fdac2": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "物流施設開発に6000億円ファンド 日本最大、GLPが海外マネー活用 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pa09yOC1zOElkTUJBQWQ4R2hodF8zbXFyTXJDR09fTzR2QmplRXc5Q2V1QlZKcTA3cGN2TFp6ZnZZTDY1VzMtdWgtWFFYNHZOckUwRll4X1hFTHM4WkgtU2xBLW1uQ1lGbkpUSg?oc=5"
     },
     "d1b4dbf7ec5914462534909515e6cc54ca9862ad28dbf468ca711fa09e38b54b": {
       "category": "sports",
@@ -20008,6 +21009,13 @@
       "source": "Googleニュース 経済・ビジネス",
       "title": "イラン外相 トランプ大統領による経済制裁強化を「経済テロ」と強く非難「国民の敵意強めるだけ」 - TBS NEWS DIG",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5LUY0Wi12TGpUSUN0Mm9rOXhVbk9YTnl2M2NRa1c1LXJUanhHZ1pnRE02cTMxRjdQTzdLZXZHUEM2MFRVU3k1U3pPSEhTLS1qcHVRMVp6aw?oc=5"
+    },
+    "d275ce003b7a63bdc844125f74d19e61af57c20a259a94714ac78b56a9831b7a": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "西部ガスグループ後援 親子向けコンサート「ようこそ絵本の音楽会へ in FUKUOKA」開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNVE1d1VFSk1Qa1RIQXJIdHNNR0pkOFMwZ1ZjWnppZWgwd1RoM0VsQy00QVczY2pETnhBajdDNGpGd2RXcl82dzllR3hvRV9QNWljSml4cDV2WnhmeC1hTkl3UDRLcDJfV1E?oc=5"
     },
     "d27e83d2284e92d5d47d2b91a17f1b50a4cb4b5ca9218a29a31a251d70f97d63": {
       "category": "technology",
@@ -20129,6 +21137,13 @@
       "title": "非同期パーソナルエージェントのススメ",
       "url": "https://zenn.dev/mkj/articles/7a8f55591e6baf"
     },
+    "d3d1d3b90fac6e989100c00da22f971d3f4c6c0b94f4945e6cec58437195d311": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "金融市場の投機的動き、片山財務相「G20として注視すべきだ」 | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfdWFydHhOSHNPWGg3LV8xV1JLY2dBTzJId25wbmROTFNHcVU0c196UUJTWlFEcmRncmFlaWxicjdIMGJLOUFXREJrWEFxU3ZadlZPeE5BWDdvMHBjeExjeHZKeEYzd28?oc=5"
+    },
     "d3d33c7f98b3b3faf16ec17ab58a869f4b478bf8756071447cfbd19ddbac66ec": {
       "first_seen": "2026-07-26",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -20238,6 +21253,13 @@
       "title": "TVアニメ『落第賢者の学院無双』第9話のあらすじ公開！ アナスタシアはついに、自らの抱えていたある秘密を打ち明ける決心をする - eeo",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JWWNtbHZRYnJDTjZibU9zTFZzYlZUWk9rb0gyeDFOb0tNSDZhQ05xa05ObjhDTWJMWGhvSnBOeVBvNURCYXBVNlg5d05BX0w5dFNJMg?oc=5"
     },
+    "d4d6bd5bb7e00520f60554a5181ae6403ff4fbc04fc00567dbbd759363cbe614": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "同志社国際高校の説明は「グダグダ」「誠意がない」保護者ら憤り \"沖縄での修学旅行中止”発表 教員の事故死も明らかに【辺野古沖転覆死亡事故】 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13SFpYQlZ1eldkbEZSR1VFcmhBUi1nRDZqZ01MdThEM2JDZFE4ZGJYVmpGc1IzNkZwaktpRlJRbFdpUWgxN2dlb3V6dTdEODBMdlU5cTNPaw?oc=5"
+    },
     "d4d6c327f5a183d2e4dde84f25ebf3b46d6ff98469d1353b29876a73bc10c000": {
       "category": "business",
       "first_seen": "2026-08-26",
@@ -20284,6 +21306,13 @@
       "title": "リアル会議でも「Google Meet」の［Gemini を使用したメモの作成］機能を利用可能に(窓の杜)",
       "url": "https://news.yahoo.co.jp/articles/857ba1f90965be0a2ce8ea8ade15a0837082322a?source=rss"
     },
+    "d55c4a84ddfd5cd85c5315d8785408d796df7f34f1e3f2378707b0f31b7998ae": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "＜お知らせ＞最先端の科学と出会うニュートンフェス - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44eC1ybGJmZ3J6SFcwNHUxRDVCcXU3bUVTaG9rV203VXd4bDNWRmI1eGFUQ1NLcDhhQVNVVHI3czRGMTZNa2ZOUkM2T2xUNzhHeFM1WlpFSEhuWTZi?oc=5"
+    },
     "d560eabdba268c05dfb51c4ef7f9a4652fc347b00ad6fa983d051806ff38d343": {
       "first_seen": "2026-08-19",
       "source": "Yahoo!ニュース ピックアップ",
@@ -20322,6 +21351,13 @@
       "title": "大谷 日本選手初のMLB通算300号",
       "url": "https://news.yahoo.co.jp/pickup/6587140?source=rss"
     },
+    "d5c877d26cde8336ad7079afbc077b8f69069db6c234ae3fc17df3827e6d374e": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "研究者からキャリアチェンジ アウトリーチに全力投球 - riken.jp",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XTVRKenRPTVVBR1djV3g0MjhpS1MxbWdMaUpCNHQxN29BdHBFUEVNMDRMbmtVNEdMam1sMWpwcm9yd2tHY2NYSGJENDA0UTRQNmNfQVdDLVVVd2ZQTzVBeHRaVVNjbm5tbmc?oc=5"
+    },
     "d5f99624a741ea61d50b24991199ebe381d6eb7cb975fa07ac580647a95dced1": {
       "first_seen": "2026-07-24",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -20346,6 +21382,13 @@
       "source": "Cybozu Frontend Zenn",
       "title": "Node.jsの脆弱性対応など: Cybozu Frontend Weekly (2025-12-16号)",
       "url": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20251216"
+    },
+    "d63e3cf11c783a3db9420563d63f9efdf12e1e22a88413f91053fb51a93b03e6": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "あふれるデータＡＩ×報道のあり方は 有識者5人が議論 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZdVM4YVlnRmN2SURRdlJZTDlTWUlrbzY1Z24tTmRFTTZ4a29CbXN5UHRzVnVBOFo5OGx0ZHM2VTdjdW8xa1lnQm5JYmplSlFaWmlwUjJVRGRjWk5FTmxLTnJDbVVfQTA?oc=5"
     },
     "d63e8d3b40ef320e6207960e185822849d07ae2f6f94c05a92e06bd8e7dc5842": {
       "category": "politics",
@@ -20465,6 +21508,13 @@
       "source": "Googleニュース アニメ・漫画",
       "title": "TVアニメ『なのはEXGV』 第8話あらすじ&サブタイトル、先行カット公開 - KING RECORDS TODAY",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TcUVSWjZ5WTNqMDhjUlVBVTYyZS15TzE0MGx4dW5mUHlXdFRLV0FqVVhnWHpOZC10UjkxUER4X0lnWXlyeVhFeUNaZFFGLVVzZ2ZWUnJjMnc?oc=5"
+    },
+    "d7a7055e2c2d9d1153c62ee7a0a1056c850982f739817597e570bf4e9e676728": {
+      "category": "general",
+      "first_seen": "2026-09-01",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "車2台が正面衝突し1人死亡 男逮捕",
+      "url": "https://news.yahoo.co.jp/pickup/6593801?source=rss"
     },
     "d7ab9805b313ac22eb13538908d3ab812ff4bb3337896610cbe5c2a165a52faf": {
       "category": "science",
@@ -20617,11 +21667,32 @@
       "title": "韓国 14歳未満のSNS制限を検討",
       "url": "https://news.yahoo.co.jp/pickup/6588172?source=rss"
     },
+    "d8f23758bfcc87e5f2add48d5b5b352337c92d07d57944afdffec6ab784c9e4b": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "金沢文庫芸術祭 9/21 - 横浜金沢観光協会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiLVUwbl9jYUQyc2FnUGVmdUpjaFNaNVE1U2FLQTNGckRGcU85eHBUMXJ0M1hSMXVYeVpQV2JJdzhXUVFrUlhQWWtvN24wM0l6UDJ2bWxvRmxDUnM3YjJnNXA4MEktQzNDWFo3bU93?oc=5"
+    },
+    "d8fdc3230e11f748c66fbcad2d44d8e105c4f0679cf30987c63d5259b57fc965": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "新任教員（総・環・政メ）着任のおしらせ（2026年9月1日付） - sfc.keio.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0OHlPTFM4dGR4aVhDTVE4Q1p3eEJETWgyTlMtWnRjYW9aVG9ZdFA4TkxrWXM4VkNKc2kxYlRva204WVpMWFNsX3JhMnI0eTVReDlEaUtYTUxWWU8zTW9lT00zT1A?oc=5"
+    },
     "d930ca1aa3a34207e1581a447b63e464e517d51d6a1d120fb5d16b200e4633dd": {
       "first_seen": "2026-07-15",
       "source": "Zenn",
       "title": "Agent-as-a-Judgeは本当に必要なのか — 評価にエージェントを使う意味を考える",
       "url": "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity"
+    },
+    "d971f770cdea4230dd1586ae6e46de0ed680cea466d05454b78cd0e3acbb9efe": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "少数与党国会、組む相手変える野党との妥協がためた自民党内の不満 [石破政権][高市早苗首相 自民党総裁] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TOGpXR0lRNjBrWmd5LWdkd3FzV1lJZkEzUjI2MzA0LUNxay1tUnpuVlBMblk0NHE2em1lczBBMjd6SnpDN25GT2lfTjBBU1lYUXZSa1dtQlM5WGQtaF9OaGRyY0FlYmc?oc=5"
     },
     "d9768acc3589388b8c516328aa456bd45a7b11f3262e3b91b893e2a1cfd9f5f3": {
       "category": "culture",
@@ -20697,6 +21768,13 @@
       "source": "Googleニュース 歴史・考古",
       "title": "130人が歴史ロマンにどっぷり！板倉区針「天源寺遺跡」現地見学会 - 上越妙高タウン情報",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NYUwtVy1uTkw3VWJMajdaaHpWRXZjZXowYW9JZmpnZkJhRG9mb0R5RFdEZUZWRk9uVnRsTVVEeC00Um1PQXFlczFuRHhfZ1NmS2tyM0JR?oc=5"
+    },
+    "da133d95a243df2505cac9a4a8a039601da63028ca4dab054f7394b751477c27": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "標高2450メートルの「ホテル立山」が54年の歴史に幕 「他にはこういうホテルがない」 “日本最高所のリゾートホテル”が営業終了 惜しむ声が相次ぐ（FNNプライムオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VUFd6MjNPclFZOGpJTl9ZNGJZVHJnd1RfNzhqZGtMNFRTZ2JqNGx6TUF2Y1I4cDBwVWJ0M243cjZPOENkT1dSRU5Fd080ZnZKZTdWZmJLaXpkZS1Fd2xBMHJ5dWFqZnJQOTZIYVk1MWFiUXFVZ2p5bnhYR0ZTVFk?oc=5"
     },
     "da3345b2a183f4c71956a9a323650fda8c0d78884e6a1529ffb5795a08a822bb": {
       "first_seen": "2026-07-08",
@@ -21078,6 +22156,13 @@
       "title": "住宅全焼し4人遺体 千葉・八街市",
       "url": "https://news.yahoo.co.jp/pickup/6588840?source=rss"
     },
+    "ddbc511b4c0009e93e4a577e4e869cfaa45bae89a66e2d8b78a05fbb1fa265ed": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "AIであなただけの「きょうのわんこ」を作ろう！人気コーナー「きょうのわんこ」風動画を 自分の愛犬で作れるサービスを開始！ - fujitv.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LdTJMcmxQMHVadXVDc1lHcnY1eTFjSDNrY0RjOF9rcURTOGJYa01xanBOX25vRTdXWGI3U0U5cV9JaGpNSzV3Tnh1UkZUR01mTHpiTzJJTkpVOXUzTkU0?oc=5"
+    },
     "dddd528df7ca69eec0e5e1b93fc3d14a99bb20855221cbef119b6ec54bb9d193": {
       "category": "education",
       "first_seen": "2026-08-27",
@@ -21110,6 +22195,13 @@
       "source": "Yahoo!ニュース カテゴリ IT",
       "title": "Microsoft Copilot「一律導入」はNG？ 費用対効果バツグンの「ライセンス使い分け術」(ビジネス＋IT)",
       "url": "https://news.yahoo.co.jp/articles/209498d8af38930ddaa58f04be32f6a09803fd66?source=rss"
+    },
+    "de124c900a82dbde92f1d6eebd468f96c5b334b406b44e2a594c6ec169387d3c": {
+      "category": "science",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 科学・宇宙",
+      "title": "水圏環境科学の最前線を共有：「第3回水圏環境科学セミナー」を開催 - okayama-u.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LdlVZT1I3MEV1MGJma00tQkxTai1RQ1pHeXJGdWEwU0xtSTAtMEhJUDRpQ1ltS205b00xc2F4dWxhMWNtY01iSEFOVVh4bkY0d1ZORkJzc2p6eWxqcVZiTnFyZw?oc=5"
     },
     "de150f5fac83a5fc5ce1336e0128b94d7f231efa003869da8cc8f5d6b04b090c": {
       "first_seen": "2026-08-19",
@@ -21229,6 +22321,13 @@
       "title": "子のSNS利用に年齢制限 議論へ",
       "url": "https://news.yahoo.co.jp/pickup/6589626?source=rss"
     },
+    "def96d04c2624244c7b573b12e936ce874e304d1b0b00dd21012b10505fdada0": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "【速報】４～６月期の法人企業統計の設備投資は１．６％増加した：時事ドットコム - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4UDZmRkw0c2VvZjE1dXFWUndjUm9pMkNBSjd5XzdNMTBEMHpKR1VBSzBwOTBJQXJ1d3o0X3VVVUhpU0c0dzBIUW8yN3FHbzF2cEpRclBDTkctc2lnSTUxckZmQm5HUQ?oc=5"
+    },
     "df029f31cf9ab8347a69891d3d821690cca410a8cc2fd2489cca5c456e220ac4": {
       "category": "education",
       "first_seen": "2026-08-25",
@@ -21276,6 +22375,13 @@
       "source": "Googleニュース 教育",
       "title": "全国学力・学習状況調査結果 中３の数学・英語は全国平均以下 県内６５０校で実施 鹿児島（KKB鹿児島放送） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMOTlmaENFRGpveVRDak1WZk9EcHpsUWlST2RMcDhwdDk2dnBlNndqVVZoZFpxYVdyMFdaeGJwaXZpZlFtelV4Q2FqSlB1T1p2cFZmcEVBOWZXZjZhbmVsLXp1Q3AySzdCdEZ2U1p0XzE5cW13TGpMekR3YlBJUVU?oc=5"
+    },
+    "df714cacfca7c8308245e8a6e5529aae874af118a74f73b35fd1ce775204c7f1": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "声優・葉山翔太 所属事務所退所を発表「ヒプノシスマイク」波羅夷空却役、「東リベ」山岸一司役など（スポニチアネックス） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vTEZ6SGgxMWR5Y0Z6QkpwZVZzQkdEZ3haZmxOVnhnYk8tTy1HZUdqMHROTDI2UzhCU25peUhjcTNVbnExQ25pTFlLazVOWTVaemQ1YW5oNkRtZVlOVlNzTUdtd3NPLUVZNUl4WHE1Wm16RXNqdXduLWsxYmtIcHc?oc=5"
     },
     "df73b0895adbcaba97b1d29734dd5b6702ef282152b4a04af95cb26297b64ea0": {
       "category": "sports",
@@ -21357,6 +22463,13 @@
       "source": "Googleニュース サイバーセキュリティ",
       "title": "フランス納税者の情報がサイバー攻撃で大量漏洩。 - ovninavi.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JSC1ZN3RZc1Y5ZTF5R3JFN1o5TnRxODJfU2xnNm9iSkxGZHB2LURheHhDMzlXVGlxQVFCQXBnR3JZZVBnOUp3UGF4aw?oc=5"
+    },
+    "e052193eae95785e5cfa9dd03e5afd52f2fcad254d8b37f625437ee9f2cd873f": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "第11期「奈良政経アカデミー」第2回講座開催 - jimin.jp",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yS1Z6VXZPVDU5NTNGN3l1T202MzhpbzRwQjdJT1lYOV91cjNIbTBiVmc0R05ndmNvYkZ0R1VVWDJ0REI0MHpSM2V6VTNxcThCQWNPNGMwT3hwanBKQmVWSzdPTXRHaHp3RnVoMm5UUQ?oc=5"
     },
     "e0628fa815d2e87f4f962aa0f85a6c1226bd04f514c9391f2fcc91bf919ba218": {
       "first_seen": "2026-08-12",
@@ -21690,6 +22803,13 @@
       "title": "蚊をたたくときは「上下」で!「左右からパチン」は逃げられやすい 血を吸うのはメス 見分け方は?【害虫駆除の専門家が伝授】(RSK山陽放送)",
       "url": "https://news.yahoo.co.jp/articles/d04db87804196d3d5cb7d94dcb46c17defd5738d?source=rss"
     },
+    "e30650f3357bdaf7baba120a411652273b56527d8670990492974c833b60761b": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "災害時「避難しない」4人に1人 20〜30代で特に高く - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BT0M3TDFBZWJoVkREcUJGcVZJbk5vcGFEQ2Rmd2IyS0NjdVlZMFpiVFJpdnJ6Vjlkb0hCb1lNaW55d090Q2xUWXlvd2NDblJXOEtKb2xZQ0xsTDM4OUpfenQtNVJILWM0TU1QZA?oc=5"
+    },
     "e32357fca8c6ec882bb9b2b9ee902ea9438fd2e056661f10eae397e99f591f62": {
       "first_seen": "2026-07-27",
       "source": "Yahoo!ニュース ピックアップ",
@@ -21811,6 +22931,13 @@
       "source": "Googleニュース 文化・芸術",
       "title": "「久しぶりにＢ級映画を見たなという印象でした」プリミティヴ・ウォー 恐竜戦争 はりー・ばーんずさんの映画レビュー（感想・評価） - 映画.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1aWRFVl9qaHVlZGpWeWx5V0dXSzlpYmNiUXo2ZElFaGRXc215T0pGM1lTVFdRLTAtT18tbGF5cnR2bEc0c1RDY19sNWNwV0hPZzJYbjgycnF1UQ?oc=5"
+    },
+    "e4b2b3976085c2299a4b0b3787f6ab4ef4593187c6361051649e2415cd3753d5": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "TVアニメ『しろたん』10月3日(土）放送スタート！メインビジュアルを解禁【テレビ朝日】 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90MFNmeWc2dkduWGRJYVNtdkpDT0tKUlQteW5EelBwRHdhUmx6N29XaHNFVElUTGVNam1sQ1dNUUlib0pyX3Y4VnpfNC1mYjV5RGVRbzVKMVVYd3BzT3prdGJqSTJ4WlNEbkE?oc=5"
     },
     "e4c1987c105fdfc19e5d794f72b1e00a67dc854c8ac916e4dbf4d7cbf515a964": {
       "first_seen": "2026-08-08",
@@ -22036,6 +23163,13 @@
       "title": "270年前に史上初のマクロ経済分析『経済表』を作成、重商主義を批判したケネーの「農業・自然が支配する経済システム」構想とは？ - ダイヤモンド・オンライン",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sYWZfX1NoalIxOF82dW56SWkyYkU3MlllUFJ0Y2hSOS1tQjBONHBCaFBLdmFseURLekVUNDRJQk5SVDhhcnd0TlZ6dWvSAU9BVV95cUxOMmFPYkpUSlZYM3VjYkpldlJDdWp2OVJVRG9DUzkzLXp1cjRsNk1WVDZjMVlHQ3l2aFJpaTlSMG1jRkNvcW1hczB4MEFaMnNj?oc=5"
     },
+    "e7b5f2147d6ad7aac38f2116d4e4a40d7d4e8fd51cd77d7e7ee33fd87832b38b": {
+      "category": "society",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 社会・事件",
+      "title": "老舗和菓子店の店主殺害か 妻も頭殴られ骨折 100人態勢…殺人事件も視野に捜査 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TamYtMnY3WF9VZ3A2OWtDdXNoU0dGejItQ2xqRll3UFJ3Y0docy1ZNWhUb1lLUjlZSDY4a0hXLXIwVXN0b2prX1ktbjVPdXVETmN2RmxVcldMYWRCckNoYkYyTXQ1a0IwbzcwMHFIVnFIZEw1LUZVS2w2ZUM?oc=5"
+    },
     "e7e6eec80aa5cfaedbe2a810f9e690c58977225b24f06eb554b229846c9e9001": {
       "first_seen": "2026-07-31",
       "source": "Yahoo!ニュース ピックアップ",
@@ -22048,6 +23182,13 @@
       "source": "Googleニュース 国際・外交",
       "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える - テレ朝NEWS",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5"
+    },
+    "e8003fe1ad6e2d5be11a5df29bdf36147bea823a4633d22eaec637ba397ad909": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "中間選挙に向けトランプ大統領に焦り？ - ピクテ・ジャパン",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0VWV3g4NnBOVlo0MmlHc3VVcjNsSDlkbUgwem9GaXZiam5Fa1h3WVRPYmVIZEhaTE1vR0tqQmc3WUtBSUxPcU1DcTJfWVFfWDFXTkl0MVp3eGJtWVRxWVl1SjhNLURQS2JBWmNiWkdvZ0lPZTNzVTRWUGxFQnlfc1Qzd29GWXpS?oc=5"
     },
     "e80734b56ee7dcf228c2bcbc8b39e9ed465e3e6484eb77445ae371f7c7f9c24c": {
       "first_seen": "2026-08-09",
@@ -22533,6 +23674,13 @@
       "title": "タイトル：片桐企業グループ様 主催 沖縄カルチャーフェス「OKINAWA FES Milafete HOKKAIDO」開催のご案内 - consadole-sapporo.jp",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KUXNKUmdpN0lRc1VuY2M3SHMtdXR3Q2dKMHB5T1EwdnhRTGNlZ3R4blZEX0FpNm5jVTE0WERoN21VbjgyOTVscHVQVl8zVEFYdDF2VnlaWVhqMHhjMTVYdEtnS1VqNUtHS2VhcjdvRQ?oc=5"
     },
+    "ecbef0f814a7cdc31963e094a7d95cf3776b09583cfb34b1e3b5c03fe9262873": {
+      "category": "technology",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース IT・AI",
+      "title": "高市首相、「AI家庭教師」チームみらいの安野党首から指導受ける 物価高対策の効果試算 - JAPAN Forward",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSTRkZDFLbzRzUGhVc3RlRl9HMkctcm4yV0NGOWhaay1MZV9ldlIwby1DQTFfMnJMWkM0WjZ5QUdwRzB4V2dDQXhoZ2xLbUhEbFU4cnBBVkJJQnpLMzZ3QzVla1BzYTZ5UHBDQ25pREZYbUUxYl8waG5hM0VYWWFGdHNyaGFhRUtVN3Fj?oc=5"
+    },
     "ecbfbe048e07c4997a140030779329565baa3b671c687d1e4cad701263f4c7f8": {
       "first_seen": "2026-07-12",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -22642,6 +23790,13 @@
       "source": "Yahoo!ニュース カテゴリ 科学",
       "title": "JAXA イプシロンSロケットの燃焼実験に成功 今年度中に打ち上げ成功を目指す(テレビ朝日系（ANN）)",
       "url": "https://news.yahoo.co.jp/articles/be57b430f7f6bf4780396651f5c50fd48ce0898a?source=rss"
+    },
+    "ed83704a1afae177b521a790d2fc64786d9585be67cb91caa19e82724066fc25": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "電機大手 データセンター関連企業の買収相次ぐ AI拡大で - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JenM2bEdSSEdxenBMVjhXZVpNQU9lOTctZVNXaU1LSjVyM1dva2cxNTl3a3p2R3E4RGpHbG4wRjlOeVAzTTd4MUlaUmlKVUxXZnpaaXRnS1N1UUxsLUxV?oc=5"
     },
     "ed8b9c53c1c83f46594fa04fda54ecaab974e5223828d9f5e877c751cd2c554c": {
       "first_seen": "2026-08-13",
@@ -22830,6 +23985,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "FIFAランキング W杯終え大幅変更",
       "url": "https://news.yahoo.co.jp/pickup/6588692?source=rss"
+    },
+    "eefdb021fdb92ac4f3fd111adc50b425ae7736edc540990f4c6f97f3cd305fb5": {
+      "category": "history",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 歴史・考古",
+      "title": "（取材考記）歴史的に価値 兵士の思い伝える軍事郵便 大野さえ子 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yNkw1MGxQc2VJSzBHZWlhTFJ4TklrSnc3cW5Ub1JfSFdVem5SSTQxOVpCdndLRGhYSHhuR0c2TVAyVXBqS0RmY01FOVVEYktja3l1UjhyWUNyRnls?oc=5"
     },
     "ef0a010fe6723921f779417b8f6bf30860d4b9f9378ca4271043868d8ae21227": {
       "first_seen": "2026-07-08",
@@ -23095,6 +24257,13 @@
       "title": "令和8年度後期滋賀県立大学公開講義のご案内 - 滋賀県立大学",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3b2pMYUxxNDJPN0dPbVQ5MWtObjdWTGZKZkhjNUszMlpYMGZxNVFmLUFXcVA3S2xvWm5jcG1ZZU96eHFKX2lUcHZGVFBnajF3alZkdFE2OVAtQQ?oc=5"
     },
+    "f1493ff8f2ca7825db7b4da348d05febb4cc1c687b8e3df9d53455eca5d017c9": {
+      "category": "general",
+      "first_seen": "2026-09-01",
+      "source": "Yahoo!ニュース ピックアップ",
+      "title": "ポケカがアニメ映画の題材に なぜ",
+      "url": "https://news.yahoo.co.jp/pickup/6593820?source=rss"
+    },
     "f15a0b9514a304334e270dedf99a6692f0b325e2e3b2f648b4082bb9fc75d9ef": {
       "category": "technology",
       "first_seen": "2026-08-21",
@@ -23331,6 +24500,13 @@
       "title": "TVアニメ『地雷なんですか？地原さん』 地原 舞音楽プロジェクト第二弾 2nd Digital Single『いーあるふぁんくらぶ』リリース&MV公開 - KING RECORDS TODAY",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsdnc0cFFqOHhFUFZ1ZEJrWUhsaFREYS1LSXcxQXBJdFRjZTc1WWFUbTRnamplMC1lOHZ0MVBMREtsQ1dOb2ZLRGd4cnFKUWtZQ1FnSVBONEw?oc=5"
     },
+    "f332c39b7acf4ccad21a9a634376d71092887a534e189f408af49c78a2e44eca": {
+      "category": "politics",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 政治",
+      "title": "【申込受付中】第6回HGPIサロン2025-2026：日本の社会保障の未来を見据えて「世界の安全保障からみた日本の保健医療政策 」（2026年10月13日） - 日本医療政策機構",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5YmtTQkVtTjZIdV9GVFl6R3dwd2RRUmwxaUZkUWtITzNaSzZISi1QMmRDcEZ3NGtJS3d4d09OamhqSzR6STEtVjBVeEV1REZQUjhDMlpn?oc=5"
+    },
     "f379333c3ce03b43de0c3579c121da934e31d6ed01e2ba96d69c3fdc162de6d3": {
       "first_seen": "2026-08-09",
       "source": "Yahoo!ニュース カテゴリ IT",
@@ -23479,6 +24655,13 @@
       "source": "Zenn",
       "title": "生成AIの品質保証をどう設計する？ ― 「全部QAで見る」をやめて、機械とAIと人に分けた話",
       "url": "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f"
+    },
+    "f45df855e6edb402bba4c14b268894782db766dbddd053aed1b8b4eaabaee26d": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "一人ひとりの健康が、企業を強くする。健康経営🄬にかける想い - パソナグループ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52ZmZoWlh6dWRWa2JNcVEzZnB6cHI0VldKTWNya0RDX1dCOHBJdXo0MWFjQWIxWEtKSUM4UVZPMFpsR3VzdkNNbWtnVnV1Wk05MWNFOENZNTVRTGVXMHFKMG5UUDh4MHNVMWoyTXNpczdvUnZQXzhfX0c5YnB6UQ?oc=5"
     },
     "f462c2f510bde1cb7ae903e9d5f54fa09fea2a300880efe9377d471c99033840": {
       "first_seen": "2026-07-08",
@@ -23777,6 +24960,13 @@
       "source": "Yahoo!ニュース ピックアップ",
       "title": "坂本勇人 球宴で「選手兼指揮官」",
       "url": "https://news.yahoo.co.jp/pickup/6589568?source=rss"
+    },
+    "f6ba3f398fe7f1863753e335f9d18e974bbfae64f2de56f79bf7e28332301db3": {
+      "category": "sports",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース スポーツ",
+      "title": "サッカー＝「あなたは伝説」、メッシ代表引退に各界から惜別の声 - jp.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81bEJEVkZlZEVfb2NoeFpXdUJ2dUNFQkJiQnpKTTF3bFJHLUptV0tKdEhKa2tjR3N0X2V3NEdDVU1NQlFWSnd3cE5OdzhKZ3F5cWJ3VmJLcjZKRGlFbDFyQVJpcGsxWm9Ob3lETlJzdGZhX0QzQURRc0Z3c1ZhUQ?oc=5"
     },
     "f6ca151c5e7784d8aa492f14120cedb825306c3366f9e1c865d0de5641d46417": {
       "first_seen": "2026-08-09",
@@ -24273,6 +25463,13 @@
       "title": "無印良品が本気で作った〝暮らしに、いい音〟とは？ナチュラルな音質と手頃な価格を追求したオーディオデバイス5選(＠ＤＩＭＥ)",
       "url": "https://news.yahoo.co.jp/articles/fc4c4f14fe8ccd9cac54e01537e5ab59c7fb70e4?source=rss"
     },
+    "fb9e2320323e888713c3a0806037a1ee785c436c6d719e268b8754a83fff24b7": {
+      "category": "world",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 国際・外交",
+      "title": "外交部の林佳龍部長、パラオで開催の「エキスポ」開幕式出席 - roc-taiwan.org",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BNVFQdjRkMWc1MFNLdHYwUmtraW5WUTlheWY0TnQ1Rm41S0RpVTB3TDJYeHcwS3lzSU10Qy1ReGRNSlpaVkloQTk4dWc3blZBbXlQZGc4bUlOLWdLZ3c?oc=5"
+    },
     "fbb23c65fb8e7b759830fee0a4ffb530f44c71b098b492d046cc779a8afb448c": {
       "category": "science",
       "first_seen": "2026-08-20",
@@ -24331,6 +25528,13 @@
       "source": "Googleニュース IT・AI",
       "title": "AI検索時代のSEO、カギは第三者評価 Google公式ガイドでは触れず - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11cW9UcXpLcTdPanZveGNQMEdKOTMyaU90YnhtYlFNd2dVN1dadmZ0SDFSXzkzdVlqXzlYTVBlRTB5SmRzb3d3em8wOGJYX1drX3dRelUtY0x3cTJVWUFUU1dNem5CbWJ2NVk1SQ?oc=5"
+    },
+    "fc3c483a89642b590a8b673eacf34654d241cfd8c42fd3ff345885c0f810641b": {
+      "category": "business",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 経済・ビジネス",
+      "title": "信組不祥事 金融庁が検査拡充へ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5dUYyNjVVWjl2enlMelhoQnNsU1ViSEF3Y2pMVFAwTXlscVEybDRuN1Z4d2lFWktTczlpYURfaGduYUQyVDg3NXhSYWpTNXZm?oc=5"
     },
     "fc7865b6ceb789e4caf4dea59b0c0bb63253ff45c2ff8fcdeb770cf5ff451a7e": {
       "first_seen": "2026-07-27",
@@ -24561,6 +25765,13 @@
       "title": "地球の歩き方 歴史時代シリーズ「平成」2026年9月17日発売 - タワーレコード オンライン",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZdVlSLVk2SjhGcWpyendHTE1aUVUyQnc1SzhmOXQ5SEhJcXUzSzAtTDA3X3I5aTNfZ0tJWnFNanR5d3R1eDF6bzdfbFhKcjBqT3J3RzMyaHI1a3FLenl5ZG1obw?oc=5"
     },
+    "fe30ced8b248adcecf42c9fbbec063b536196bd36ff9fddcf10433c7ef792084": {
+      "category": "health",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 医療・健康",
+      "title": "医療機関労組口座から370万円横領疑い、元事務員を逮捕 会津若松署 - 福島民友新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52NXpSVnR1RGlNZXRBSjU5VGlCWEJTX3ZKam5UQ09fMWN3bDBFdC1FQ0lsSFNGcWdhWFJZcVFHcHFob0FrVC14YlZNeTBfbndsMGRaOFdkTDgxU3EwUS1FaS0wN2FydHBB?oc=5"
+    },
     "fe368bca1fa9727534dce2786978bc583e3374c8a8fba4c08f6e46f6ab123cb5": {
       "category": "cybersecurity",
       "first_seen": "2026-08-29",
@@ -24603,12 +25814,26 @@
       "title": "TVアニメ『きみ愛』第9話のあらすじ公開！ ヤルモは伯父に引き取られてから必死に努力を重ねたが… - eeo",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXOTR4Vkk3RmU5SzFfRjRvWDdsZUd1bC1yZUpySk15aE1kaE9yRW92d2VCdTYySjFyRXdyek1fVjYxbzg5blFJY0QxSFlHdE51SGVMUQ?oc=5"
     },
+    "fe7398af55bcdb82be2ad277aac94751100cddb3c8cc9706da5c580c212df42e": {
+      "category": "anime",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース アニメ・漫画",
+      "title": "TVアニメ『LIAR GAME』Blu-ray BOXの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XYmhGMFF1VTRMcHhVNk1Xcl91Z3VrSlZmQjVLOUlzb3F1RDUxQVZfMzI4RDRtS205Y203TmFqSGQ3ZXBCTFJnbGc4RnhtdjhIeEV3a0UwcVJoNFlrYmtOeVZBb3c2Q25pRVE?oc=5"
+    },
     "fe78a294cc81c0963a35ada694f1adf84687afbb8e786c88ec39a49ece2a0975": {
       "category": "business",
       "first_seen": "2026-08-31",
       "source": "Googleニュース 経済・ビジネス",
       "title": "止まらない円安、金利・物価高：政権は市場の声を聞け――明暗を分けた公的介入の歴史に学ぶ 長谷川克之 - 週刊エコノミスト Online",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpQ1pLWmNtcmlXMVI3dHQwbk1obVIyMWUwTnpYRUYzbXdRaDVXSXpKdVBNeTJvMnVlSERnZ0o3UFRiU1FFZEY1cFZvZVR4NzU5UzRLSWdaOUY5dmczclhsMjdtczRRbzlOOV9QaDJfal9lOGhQQVdwNEx3QmpUU0U?oc=5"
+    },
+    "fe89070ac7104c51d4fea9f1153bd23c66648d92d8352d3eabcc6a39f7c2af53": {
+      "category": "culture",
+      "first_seen": "2026-09-01",
+      "source": "Googleニュース 文化・芸術",
+      "title": "映画『オアシス：ドント・ルック・バック・イン・アンガー』特別先行応援上映が決定！｜映画｜ディズニー公式 - Disney.jp",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yNnRzOXZNdTFOUnRlRVJRNlhkUktONTZTSXUwZzZORlY1VkJUYXhxQjl3Zm5JZlpoRU93eDJfcXZ3T3lydzZRQ0JtV19SZFlDd1lzZXh1Y1RWOWxQVXJST2lLSQ?oc=5"
     },
     "febb84481ed60c7775a836fb6133ac72b3fb5254052c92ce853223b25e742065": {
       "category": "business",
