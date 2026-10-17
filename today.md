@@ -1,413 +1,384 @@
 # 今日の記事サマリー
 
-- 取得日時: 2026-10-17 09:12:59 JST
+- 取得日時: 2026-10-18 08:52:05 JST
 - 対象期間: 昨日と今日に公開された記事のみ
-- 全取得記事数: 194
-- 対象期間内の記事数: 183
-- 新規記事数: 179
-- 選定方式: Gemini + ジャンル分散
+- 全取得記事数: 195
+- 対象期間内の記事数: 159
+- 新規記事数: 150
+- 選定方式: ジャンル分散フォールバック
 
 ## 今日見る候補
 
-### 1. 横浜市長選挙18日投開票 選挙戦終盤、子育て支援など訴え - 日本経済新聞
+### 1. 『我々は宇宙人』シッチェス映画祭で最優秀長編アニメーション映画賞 30歳・門脇康平監督、日本人最年少受賞（オリコン） - Yahoo!ニュース
+
+- ジャンル: 文化・芸術
+- 出典: Googleニュース 文化・芸術
+- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE8zcktoLVo0bUR4ZDFQal9hc01lM0QxLWlHclRySFhqYmgwTFRNVl9mWks3TFJNTW9maC1hTUljOTA5eHgtSE1BcFRXQlhJUEs5WU5SOHRKNmFUOVdsblVickNZaHRWYTRRbkptMGM4eDdzMmI3REhhQklJQkczbXM?oc=5
+- 公開日時: 2026-10-18 02:10:50 JST
+- 理由: 興味キーワードに一致: 宇宙, アニメ, 文化, 芸術, 映画
+- 関連キーワード: 宇宙, アニメ, 文化, 芸術, 映画
+
+### 2. ブラジル大統領選挙、世界の食料安保や資源政策左右 25日に決選投票 - 日本経済新聞
 
 - ジャンル: 政治
 - 出典: Googleニュース 政治
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFAtRzM0UE5oelN4TFg0NUd1ZW5yaUh5SmJ5bUYwZ244cjZXU2hkYWZwUm5xbjB5THcza1d4VXNTR1lKYkI0a1lpZjhhNTZZZ1o1N29BLUdiRGxMbGxpTUsxaFk0U0ZsVXY4SkJSUg?oc=5
-- 公開日時: 2026-10-17 01:49:00 JST
-- 理由: 注目を集める主要自治体の首長選挙の主要争点や選挙戦終盤の動向を伝える重要な政治ニュースです。
-- 関連キーワード: 横浜市長選, 子育て支援, 選挙, 地方自治
+- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE54bmxXUEZKVERnOFVjNjBSRWgtMjVWenFSUjVCYWVKSFVWeWRyUnBwY2FtVHFMbUpUdWpUVVVHOWE3QmQzcWpEZGFmVG9GWVhVLVpVOTJNdXB1MC1yckFQQTRVSUxVQUVOX2dIbw?oc=5
+- 公開日時: 2026-10-18 02:00:00 JST
+- 理由: 興味キーワードに一致: 政治, 選挙, 政策, 経済
+- 関連キーワード: 政治, 選挙, 政策, 経済
 
-### 2. （インタビュー）温暖化５０℃になったら パリ市気候安全保障担当官、アレクサンドル・フロランタンさん - 朝日新聞
+### 3. EU-GCC：エネルギー安全保障と資源の多様化は経済の安定と持続可能な発展の要 - アラブニュース
 
 - ジャンル: 国際・外交
 - 出典: Googleニュース 国際・外交
-- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLQ3RkQXAtTW1Yb1NMeXUtU1gxZV9NWG9fZ0xWbDJ2NG1Cdkl0Unh6VW5zVVFLQXVYZUpNLUxGWG81UUxXek85a2FpblV0eDJVb1VkVlU2cWhOcG5C?oc=5
-- 公開日時: 2026-10-17 05:00:00 JST
-- 理由: 気候変動がもたらす極端な気温上昇に対する都市の安全保障と対策について、海外専門家の知見を提示する読み応えのある内容です。
-- 関連キーワード: 地球温暖化, パリ, 気候安全保障, 環境都市
+- URL: https://news.google.com/rss/articles/CBMi3wNBVV95cUxQLXVjNl85MUtUMTk0TjkxdnZ4dDFGSUZmRGFkNzkwdmhhOWRxTFp5MXRQbnp2eFpScEtUWmRtSWhCT0xaSUg0VU1XdU11bnlGNHh6bjRWRjZHZWg4ZE5Mc0UwRllQUzlNR2hELW1tRy1ZdHFGTUktV1FQTEgyNVZmblotN1o2NXRIOFdyejBTQUhYVWh0ejVGMF9MUm5RRmJpVkpZYS1fUzdaUlVRSWZsbkJNWWNHLWRoQmQzQ2YwYTNEd3Nwd09pMWZzdF9SR1ZlYnZxWUp1QkhZUFdKclhpZHRZUFFYbkh6emd1bzNFSFNsc3Q3Y0JWTlplMEtBdWxVRWdSZEdHclhPR0ViZzhCMWhnVElUZFBzWkF1ZHM4RzJVRkJSNFhjdWxvSmtSMGxzaUtyM1gxLVZBcWY0MGE2a1FHUFNUd3F0MTlPMThHRW1XNUpfVXJxcW90bFFKU2tMRFB1XzBnemdkcGxfT3N5VnZaZjhWQ3A0dkdfZHp0ckdBcF9rQlZmVlh5bTR6NEJpMmZTdE1iVG1iYWlDeHdoZXZuc0dTLXZlVlA2WTVrNWlHdUFPX2dhSnFUSkJTUER2OEpoeTVwSjlzbk1BcUNJZElGUW1qbldiUHFmRlFPcw?oc=5
+- 公開日時: 2026-10-18 02:49:16 JST
+- 理由: 興味キーワードに一致: 外交, 国際, 安全保障, 経済
+- 関連キーワード: 外交, 国際, 安全保障, 経済
 
-### 3. 中国人民銀総裁、金融市場開放加速と人民元国際化推進表明 - Reuters
+### 4. 韓国大手金融機関を襲った中国AIツールが世界に拡散、世界規模のパンデミック攻撃も（ビジネス＋IT） - Yahoo!ニュース
 
 - ジャンル: 経済・ビジネス
 - 出典: Googleニュース 経済・ビジネス
-- URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFY3V0ZoM2lGa3ItSXUzdUxnRXk2VU1jaUlRY25PdkRCSmZLejd5cVVtOXVtWEd6R0ZaNXp0S05ybDlZaHhnZzRhOUZpMkE3ZkNiZWlxbC1kUGpDcWdma2dzVExOUW1ZUEZmMlpWNERDTy1ZYkRJaFBvaFBPeTlwM2lHMnpGdw?oc=5
-- 公開日時: 2026-10-16 18:40:51 JST
-- 理由: 世界経済に大きな影響を及ぼす中国の金融政策方針と人民元の国際化展開に関する重要ニュースです。
-- 関連キーワード: 中国人民銀行, 金融市場, 人民元, 国際金融
+- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWXlxNzRjNFlQVHlXWHltdEFCZ0NIUDZ0QncxaFBCUjEzV1YxY0ZPb243em1ZeFJ3cTNLY1VKN2t0eWhRSnZYTWYyeF9UR1dNcmxxanVpYWE1bmwzZXpLUVBTclFlQjVZQ3V4eDRpc2hVZFB2MmlEQmdNdWJpS3M?oc=5
+- 公開日時: 2026-10-17 12:55:06 JST
+- 理由: 興味キーワードに一致: 経済, 金融, AI, IT
+- 関連キーワード: 経済, 金融, AI, IT
 
-### 4. サイバー攻撃検知、平均1日1165万件 26年7〜9月に発信元が急増 - 日本経済新聞
-
-- ジャンル: サイバーセキュリティ
-- 出典: Googleニュース サイバーセキュリティ
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWWY0NlFKcGp3NVVFSVZpRm9WTUp3WTRiUkN0bEtOU0dmaFJFZmtSNzNrbXp1eVU1cGhEQXJXbHFycEkxMldxSU1MV1BjekZWa3JXdDNxTm40RkVnbkNnR3dJNkFqNk9WZldxSw?oc=5
-- 公開日時: 2026-10-16 21:02:16 JST
-- 理由: 国内におけるサイバー攻撃の急増を示す最新データを伝えており、情報セキュリティ上の脅威の高まりを示しています。
-- 関連キーワード: サイバー攻撃, セキュリティ, 検知数, 情報保護
-
-### 5. AI時代に見直される「哲学科」の学び 論理学・倫理学を学んだ哲学専攻はアメリカのIT企業で「重宝される」（AERA DIGITAL） - Yahoo!ニュース
+### 5. AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート - Yahoo!ニュース
 
 - ジャンル: IT・AI
 - 出典: Googleニュース IT・AI
-- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1YOHRNUkV5ZnlfbXItaWVMMnRGNzhKUmp0blBHVEFZZ2g1ZExJYWFreVVnYi1aZHNvajRQdndjQndFZ1gtNUdPZy1SSllaa2htRmUxQnhOTUdPRk5wZGpBdHJwTzg0a1NZWGRrUlVCQ0FJSDFuUVBwckN2dmVvQk0?oc=5
-- 公開日時: 2026-10-17 07:33:32 JST
-- 理由: 生成AIの進展に伴い、倫理や論理的思考を養う人文系の知性がIT業界で再評価されている背景をわかりやすく論じています。
-- 関連キーワード: AI倫理, 哲学科, IT企業, キャリア
+- URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1hMLXpLMF93YTBtY25ZUnprd29CeXNZZG1wcGtpdFFLckpyWHp3bjcta1RCdnZSLVNwZzhVOU9iYlJ6aFlFYVVxUHN4UjUwMVIxWWc1c1pQVjlRN0hrT1FDT25zX2RXb1hKVTQ3X1hiQXI3R0R1emFMc1ZVS1p1WW1RbmNYOUlS?oc=5
+- 公開日時: 2026-10-18 06:01:32 JST
+- 理由: 興味キーワードに一致: AI, IT, 科学, 研究
+- 関連キーワード: AI, IT, 科学, 研究
 
-### 6. 極限宇宙の探究、新時代へラ・パルマ島で大口径ガンマ線望遠鏡アレイが完成 - 茨城大学
+### 6. 『我々は宇宙人』シッチェス映画祭で最優秀長編アニメーション映画賞 30歳・門脇康平監督、日本人最年少受賞 - オリコンニュース
 
 - ジャンル: 科学・宇宙
 - 出典: Googleニュース 科学・宇宙
-- URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqdnozY21tS3dWZ24zNWJoZ0F0NnIxMVdGZzRPRnpwV2JDOEZGUXNlWlN4QVVuYzZKcDFodXRlaTFCWFkwTzRXMXFpWUd1YkVEUHJSdUhjQjlWZEZnMG5SU2d6dFg?oc=5
-- 公開日時: 2026-10-16 15:20:17 JST
-- 理由: 宇宙物理学のフロンティアを切り拓く大型国際観測装置の完成を伝える、科学的価値の高い話題です。
-- 関連キーワード: 宇宙観測, ガンマ線望遠鏡, 天文学, 基礎科学
+- URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XdDJ5enFRRHpKbkZFYUhTc3hBRnA1dDNheEZFWE1PSGMyUFlNVEl3RU9pMzh2dHNZd3ZiUV9hX0xGS1plOFluQ1VmaWI2VjFVWm55amE5TEgydDZIb3dYNWtnMFc?oc=5
+- 公開日時: 2026-10-18 02:13:12 JST
+- 理由: 興味キーワードに一致: 科学, 宇宙, アニメ, 映画
+- 関連キーワード: 科学, 宇宙, アニメ, 映画
 
-### 7. 破産者も生むアメリカの医療費 救急外来1回19万円「幸せを制限」 [アメリカ中間選挙] - 朝日新聞
+### 7. 屋上緑化の保水機能、都市型水害を防ぐ一手となるか 三重大と企業が共同で実証研究開始 - 中日新聞Web
 
-- ジャンル: 医療・健康
-- 出典: Googleニュース 医療・健康
-- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tNVB6NmJzZXdMZDRPNE5aZXFQSkxyOEJoamVJZFpHOHVIWF9TSUZSN1JMdTBGeGJrYUJaMkdla2M4dmtqV3FUeVBnTmQ2MDExcG5ieG4ycTlSMUFfR2tsd20xRWQzZ00?oc=5
-- 公開日時: 2026-10-17 06:00:00 JST
-- 理由: 米国の高額な医療費問題と市民生活への打撃を具体例から紐解き、社会保障制度の課題を提示する深掘り記事です。
-- 関連キーワード: アメリカ医療費, 医療破産, 社会保障, 救急外来
+- ジャンル: 科学・宇宙
+- 出典: Googleニュース 科学・宇宙
+- URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFekhaV0RFVXdNRUpjdXlueUx0Zm45LUJqSm9veDd4eUpteUtQamRBN2xGeWE4c3VyMWxOZ1pQRDJ0bi1FR2hMSzB5bndaRVBjVlp6cw?oc=5
+- 公開日時: 2026-10-18 05:10:00 JST
+- 理由: 興味キーワードに一致: 企業, 科学, 宇宙, 研究
+- 関連キーワード: 企業, 科学, 宇宙, 研究
 
-### 8. 〈本当に強い大学ランキング〉26年版･公立大学編､対象73校のトップは国際教養大､2位はデザイン系の単科大学 - 東洋経済オンライン
-
-- ジャンル: 教育
-- 出典: Googleニュース 教育
-- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE41UmlTRVZMeTFjSWhCVGljOWxoSGhDdS1BZlQydzRJQlFBdUFTVVN2Zll6NkhRMVZCX3h6V0JrblNjbFJDeDJ6QVhsZmN1aExPZ2xualE5UU1LSmoySkdZ?oc=5
-- 公開日時: 2026-10-17 06:00:00 JST
-- 理由: 公立大学の特色や評価指標を比較した分析記事であり、高等教育の動向に関心のある読者にとって有用です。
-- 関連キーワード: 大学ランキング, 公立大学, 高等教育, 国際教養大学
-
-### 9. 餃子の王将社長射殺事件、被告に無罪判決 犯人性に「合理的疑い」 - 日本経済新聞
+### 8. 「耐水害住宅」とは?台風19号災害をきっかけに研究開発 7年前に千曲川の堤防が決壊…自宅が浸水被害 3メートルの浸水から住宅を守る仕掛けとは?（ＳＢＣ信越放送） - Yahoo!ニュース
 
 - ジャンル: 社会・事件
 - 出典: Googleニュース 社会・事件
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9Hb2dVbG9oVUpNTjBjQy1WYjhyZlE3YXotcktwSXh5c2NjY3RRZ0Zqd19TNkpnQWdZeFJyWkpEN0gyemVuVDhyLXZGbEJ5TU0xZTBlWmt0SmdoR1YtOFpiM282aDlrMm1WR0ZqMQ?oc=5
-- 公開日時: 2026-10-16 13:32:40 JST
-- 理由: 世間の関心が高かった未解決重大事件の裁判結果であり、刑事司法の厳格な判断基準を示す極めて重要なニュースです。
-- 関連キーワード: 裁判, 無罪判決, 餃子の王将事件, 刑事司法
+- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZzFVNzdVdF9oaC1TaU9Ic0JJZ2xtbmN3ejg4T2pDMGMxbEh6UWhnbGVTM0pMTDRLVHFuVG03ZE8ycW5QSlpsOThSSTRPOXRPXzFURGViNVQyaHBSblRfVEZpbVR4eml3MG0xMEczcUhtWWFReHFfdEY3R0tLUEU?oc=5
+- 公開日時: 2026-10-18 06:12:30 JST
+- 理由: 興味キーワードに一致: 研究, 社会, 事件, 災害
+- 関連キーワード: 研究, 社会, 事件, 災害
 
-### 10. 米映画スタジオが初の最高AI責任者 ハリウッド、AI敵視から共存へ - 日本経済新聞
-
-- ジャンル: 文化・芸術
-- 出典: Googleニュース 文化・芸術
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9rR21GM0tXNUhNdmhlUlNva2Jya0M3VWllY3J5UVJVUHlFTXhvR19VMzNoNWhuSU9qZDF5WVgzdzVtaHZIcUEzR1Z0Sk9oZ0N0amVkS1dSWmxid054dUQ3eWdHQ21uVG9XQ0lrVw?oc=5
-- 公開日時: 2026-10-17 03:58:11 JST
-- 理由: エンタメ業界とAI技術の対立から共存・活用への構造的シフトを象徴する動きとして興味深い記事です。
-- 関連キーワード: ハリウッド, 映画, 最高AI責任者, エンタメAI
-
-### 11. 綾瀬市の神崎遺跡で井上研究室がプロジェクションマッピングを上映しました - 湘南工科大学
-
-- ジャンル: 歴史・考古
-- 出典: Googleニュース 歴史・考古
-- URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE42RTh1V3RmbG5SbGhVY0drQ2FOaUQ4TXhKUWR4ZkZ6SmpsY2NfeEE2SF85M3BZOFFVd2lLY2VSVlEwWHp5dDBkcWR0aUk4d2xwNmN2UXNTREZjd0E?oc=5
-- 公開日時: 2026-10-16 13:56:02 JST
-- 理由: 歴史遺産の保存・活用に最新映像技術を掛け合わせた地域と大学のユニークな取り組みを伝えています。
-- 関連キーワード: 考古学, 遺跡, プロジェクションマッピング, 地域連携
-
-### 12. ニュース :: 東京都立大学 水素エネルギー社会構築推進研究センターが、 国際水素・燃料電池研究機構（GIHF）に参画しました。 ―水素・燃料電池分野における国際的な研究交流・次世代人材育成を推進― - 東京都立大学
-
-- ジャンル: 科学・宇宙
-- 出典: Googleニュース 科学・宇宙
-- URL: https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2b0dEdXNtMGF3em5EWURMa0V5ZEpxVC1NbXJkelNVcHh3dG16T2tuVjM2WXhXRTRkMzNDSjlBYlpvMmtfV1VfUjZuemFwY25YWWI1aUpXQQ?oc=5
-- 公開日時: 2026-10-16 15:15:00 JST
-- 理由: 興味キーワードに一致: 国際, 科学, 宇宙, 研究, 大学
-- 関連キーワード: 国際, 科学, 宇宙, 研究, 大学, 社会
-
-### 13. 「映画愛」をコンセプトにしたキャラクタープロジェクト『A Cinematic Girl』において、新たに対話型AIエージェントを開発 第39回東京国際映画祭のコンシェルジュとして展開｜ニュースリリース｜博報堂 Hakuhodo Inc. - 博報堂
+### 9. 家を丸ごと音響設備に オーディオマニアの営み、音楽の新たな表情探る - 日本経済新聞
 
 - ジャンル: 文化・芸術
 - 出典: Googleニュース 文化・芸術
-- URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yLXBXRERfZ1luSGRkc0cwZ0ZsT2c1YWRvd1JQaXZwMkVPbGh3a04yd3hNdk9pRDNCemxnbzEyN0R1dVpTbFE5TzczMExySzZSLVRUal9ZbU5FcVBJRWFhZg?oc=5
-- 公開日時: 2026-10-16 15:01:42 JST
-- 理由: 興味キーワードに一致: 国際, AI, 文化, 芸術, 映画
-- 関連キーワード: 国際, AI, 文化, 芸術, 映画
+- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBDRmtlVUVUb1JpdWZxUkhsMmsyZFhXc1NpYVBtQ3BsX3lyak04LWhiellQNm1TV1daZUFmeHdZUmNCWldrUHU2MXlwRkZORGdVSFAwV3NwX0dlTUVrdFFEQjRhMEk3bDRPV1FrTw?oc=5
+- 公開日時: 2026-10-18 05:00:00 JST
+- 理由: 興味キーワードに一致: 経済, 文化, 芸術, 音楽
+- 関連キーワード: 経済, 文化, 芸術, 音楽
 
-### 14. 米国株式市場は反落、AI債務不安が再燃／海外市場動向(フィスコ) - Yahoo!ファイナンス
+### 10. 覆面の入植者らが欧州の外交団を襲撃か 相次ぐ西岸での暴力事件 [イスラエル・パレスチナ問題] - 朝日新聞
 
 - ジャンル: 国際・外交
 - 出典: Googleニュース 国際・外交
-- URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2c1SmdXNWNVQUNHSS1KNy1iMlpYSDM3NjRfNFhabDVaSkZpVW5pVHZJc05QenQ4STFkT0czcnVKbkd2WjVBbi1oVWF0YVZZeUdxam9EWkVmVkxOMlpEUGlNU2htMHhoaUVFaV9MRmdWem1lcEh5SnlWZVFRUGhpWmFBSUdJTTQ?oc=5
-- 公開日時: 2026-10-17 07:55:22 JST
-- 理由: 興味キーワードに一致: 外交, 国際, 市場, AI
-- 関連キーワード: 外交, 国際, 市場, AI
+- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UVjJ6UlhJX29Td1R2bG1JUGwzZ052U055TzNCVFh3dHlQZHlGY2ZCM3B1NFFJcm93RjZEdkdfRGFmWFpqQU9YcnRJRnZTQ210UGdGQmpBZUN2ak10dGtpdDM3WlZLWnM?oc=5
+- 公開日時: 2026-10-18 05:41:21 JST
+- 理由: 興味キーワードに一致: 外交, 国際, 事件
+- 関連キーワード: 外交, 国際, 事件
 
-### 15. 「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞
-
-- ジャンル: サイバーセキュリティ
-- 出典: Googleニュース サイバーセキュリティ
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQ09qa2NvSDAyUmpSVVhNSjB4RmI4Q1lEcFRIRWJ6WUstRUNnaDEyOXBvRjBFanBaVHYybWVZaHZLTnM4TUMxOGt5dzVVSHBESXVjU2ZiVERzRHYwZmd1SkhZVzJrVTVtdFN2SQ?oc=5
-- 公開日時: 2026-10-17 05:00:00 JST
-- 理由: 興味キーワードに一致: 経済, サイバーセキュリティ, サイバー攻撃, AI
-- 関連キーワード: 経済, サイバーセキュリティ, サイバー攻撃, AI
-
-### 16. 「AIラリー再開」7割 第二幕は中間選挙後に プロ71人調査① - 日本経済新聞
-
-- ジャンル: IT・AI
-- 出典: Googleニュース IT・AI
-- URL: https://news.google.com/rss/articles/CBMifkFVX3lxTFA2b0JrQUVGeV9HbE9tcElGYzNMRUpsN21jU1NzX3dUQy1yOGFwMUVrb1ZhcTJUZjFQWU1CMmhiMmZFczdhM2NCMENQSWtTVnc4enpVLXhrQUdlQW83ZHlGdlR6VHFudm04SUpJMVVDcnVsUlBBZkRMU1Z0ZWxldw?oc=5
-- 公開日時: 2026-10-17 05:00:00 JST
-- 理由: 興味キーワードに一致: 選挙, 経済, AI, IT
-- 関連キーワード: 選挙, 経済, AI, IT
-
-### 17. 亡くなった声優の声、AIでの再現は原則禁止 日俳連が新指針 - CNET Japan
-
-- ジャンル: アニメ・漫画
-- 出典: Googleニュース アニメ・漫画
-- URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE81VHd6MzNpT0lDdV9Jc215aFZra2RnVjhUT1F5VUJMLWxyS1JPTm1FZ0pnNFhrekdxMGx4U01yWXZxOFB0Wkt1Yy1NamhBelB0Tmc?oc=5
-- 公開日時: 2026-10-17 07:25:00 JST
-- 理由: 興味キーワードに一致: AI, アニメ, 漫画, 声優
-- 関連キーワード: AI, アニメ, 漫画, 声優
-
-### 18. 平成国際大学 vs. 常磐大学 - 関甲新学生野球1部 - ライブ配信 - スポーツナビ
-
-- ジャンル: 教育
-- 出典: Googleニュース 教育
-- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1wcXBLR2NVVHlIMzFRWHFFMTl3djhxYVpUbFZnbzFVREdfZVEzQWtSek8zMDVaN1laSFktN1ZSVzl3dzlvWXJybWFIZFhTWUJZaEdXQzZvZ3JyZzBsS0R3R1pqTFc1VXVqazg3ZFg1eDVGcTlZ?oc=5
-- 公開日時: 2026-10-17 07:54:30 JST
-- 理由: 興味キーワードに一致: 国際, 教育, 大学, スポーツ
-- 関連キーワード: 国際, 教育, 大学, スポーツ
-
-### 19. 【横浜市長選ルポ】リードする「原沢氏」はあえて“パワハラ追及”控える戦略、「山中氏」は“ステルス選挙”を変更、「中谷氏」は”トゥクトゥク“で対抗（AERA DIGITAL） - Yahoo!ニュース
-
-- ジャンル: 政治
-- 出典: Googleニュース 政治
-- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdjNHSDFHSWUzODhRWndibTFEYXdRMGF4bm9OcGJIdm5nYUxtYjBMRmpqdGpLcU9nMTdrTXNjMjljNG1JTUNsYm1vQTBPakxoMjhQUGhON2xLYmZNSHpMb0FnSHZWT0l0UnotNFpfc3VfZzgyTHZuU2NWTG5BX2c?oc=5
-- 公開日時: 2026-10-17 07:30:38 JST
-- 理由: 興味キーワードに一致: 政治, 選挙, IT
-- 関連キーワード: 政治, 選挙, IT
-
-### 20. 安全かつスマートに市場を利用する方法 ai - Universidad de Córdoba (UCO)
+### 11. サウジアラビアのサイバーセキュリティ市場、デジタル経済の拡大に伴い10.7％増の43.5億ドルに成長 - アラブニュース
 
 - ジャンル: 経済・ビジネス
 - 出典: Googleニュース 経済・ビジネス
-- URL: https://news.google.com/rss/articles/CBMi2gJBVV95cUxOMjN4VlZrX0o4Xy1nZ0JWUnN4MVEyZmFLSVUyaGJWdWlQRWFkMkdZZ2FvcHNGMFc5SlpOd1FQa19HRzZkUlNsQmNEWHpJNHVOWGREbXZXd2dReUNRWkhrYl9UM20zZDk3TGF0d2x2MnNpc1VRMVk5M3pJcE9ZVnF5Y0d5MDdTOVkydTJrQjNZelgwakNTaldwcFB2X25jYU5mQVhlNDRkalhrRzBLaGd4S25TeHdMTVVJTjNKd2VFRWxmaVltRnN6QVozUlVvX1V0SzJkM3Fyc0Y1OEFCWmdldU81WjJnbGNRNEpWdFBBaG9hWHh2R2diaVl0M3RqUDF6akdyb1VXX1dZeldXT054aVYwWi0tM0h5UnFVTHNpQzBsRUlpRnczWjVJZVU5QXNvV1JWMG9rZGNiRU9ISHlrNnVrS3h6cHZ1bWVSb2ZaYjFsclFEZmVUZ1V3?oc=5
-- 公開日時: 2026-10-17 01:35:32 JST
-- 理由: 興味キーワードに一致: 経済, 市場, AI
-- 関連キーワード: 経済, 市場, AI
+- URL: https://news.google.com/rss/articles/CBMiuwRBVV95cUxObldjVjRYTzRPSlMtMU8xaVA1cmhEYW9VS3dLT0hteC16SkVtYjFIYUhkQ3BYS0FuYXJrOU03V3hsQ292bzcwWnBTb2tfNzNfOTVKOWVKZHMzS0xUNXNuLXRCc2g4UV9OWG9RdWNJM01zQUl5QkxmZlZIMUhFd0xkSDNKLWdndkZ1VjdkNjB4SG1fWjZOYksyWTlaWndoTFR3Wk91ci1WRXFJNFZZblVHNVFJWld2ZTVOaU9IblMwbTVGWUU4UUxvM3hjR1BFR0lQYXJUTllpTnFJNFp5THJQSHFiZ1JzSGp2QkFnZ1Z5QTZwNUppU1ZocVE4WFo4TC1VbjYwNGloZjA2X1JMYk82Rm5wMUlBUUhfLUNEVkVHSHdPaWYtc0JpcHYybFNUeFdxVFp3eWh6UjJJWXZhbjgtUXlaRDNFMy1RVHlQd3RGZk1KNk9vc2w0WnJwek1kVWVfdnEtWE14RzNjSHZRUGZZOXloTF9zUEdiZVNYeFBsby1FUHZjMXNIZXk3UHFuSnVYS3lhaG5TOWdHRDJEQW5CbmlCWm5HNmZ1eUh4SHdVdjJLd3J0RzdiOW9oMnd1SVp4djFkU2NYQUZ6VW5MUno0cnJwdXFwMVhoQXNMMnZyX25ObFRCdnE5SmRQRFpuM0lBTEN0Tnduc2NGOEIwSXZydWdRYkM2V1JZaUxmOHFvYktYeU9IeExQQlJ1M1pZLXNVaXdicWVlTVBndU01ZGRKYXp1Y09TVTE3ZHIw?oc=5
+- 公開日時: 2026-10-18 02:53:02 JST
+- 理由: 興味キーワードに一致: 経済, 市場, サイバーセキュリティ
+- 関連キーワード: 経済, 市場, サイバーセキュリティ
+
+### 12. 京王電鉄グループへのランサムウェア攻撃、ロシア系「Qilin」が犯行声明 グループの内部資料とされる画像を公開 - ビジネス+IT
+
+- ジャンル: サイバーセキュリティ
+- 出典: Googleニュース サイバーセキュリティ
+- URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NFNXNHJzTXVrODdyemdvekhBRUV5US1lZVVzMVppcFFWNGx6b2RqMTlJQWQ4S3c1QWEybWhyeFctOV83LXhyX2I2R3dWbG5Eakdv?oc=5
+- 公開日時: 2026-10-18 05:36:46 JST
+- 理由: 興味キーワードに一致: サイバーセキュリティ, ランサムウェア, IT
+- 関連キーワード: サイバーセキュリティ, ランサムウェア, IT
+
+### 13. システム脆弱性 発見急増 25年 AI普及で4万件超 攻撃リスク高まる - 沖縄タイムス社
+
+- ジャンル: サイバーセキュリティ
+- 出典: Googleニュース サイバーセキュリティ
+- URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE9obVZpdlpRU3phaXhEbnVQR09qdGZacVVFeHo0dFZBa05CRUg4c3F2T19ZR1dtZEw1cmRNNGFXMnNHUnhKMG1ybERUVmVLZGJJSE91UndCOFdnU1lSYlE?oc=5
+- 公開日時: 2026-10-18 04:00:00 JST
+- 理由: 興味キーワードに一致: サイバーセキュリティ, 脆弱性, AI
+- 関連キーワード: サイバーセキュリティ, 脆弱性, AI
+
+### 14. 「AI」の文言、トランプ政権の意向受け使わず IMF会合の議長声明 - 日本経済新聞
+
+- ジャンル: IT・AI
+- 出典: Googleニュース IT・AI
+- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBjUHBhSjVWbU5oN2JxTmRiOW9pZkxVNm1TTXQycXlSM3JOSHdQYVFRNEhzWGJkTk83RlVsSGVvYUZ5YmpRS0RlcDNxUmlHMHdVbi1vZUg3ZVhhUzZTZVhxT3plaVc2M19hYWhQRA?oc=5
+- 公開日時: 2026-10-18 08:00:07 JST
+- 理由: 興味キーワードに一致: 経済, AI, IT
+- 関連キーワード: 経済, AI, IT
+
+### 15. 【医師に聞く】避難生活で生じる“誤えん性肺炎”や“血栓症”…健康被害防止へ何が必要？医師に聞く災害への備え「きょうから準備を」 - Yahoo!ニュース
+
+- ジャンル: 医療・健康
+- 出典: Googleニュース 医療・健康
+- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE0xVXdFUFF0UlJhdHNhN0g2c3lDaVdySF94UG0zc214b0R6ZDRWQWpQaTA3T0RVQVpHcnZkUkxOWUxGSHJ1SmJwVDBrLWg1OUJCXy1sZGhMNzNsMlZqMHBsZTBSREJjQjV5cjFKRGRRaF9rcmNvQ3lhTFVpdVY1SXM?oc=5
+- 公開日時: 2026-10-18 07:00:01 JST
+- 理由: 興味キーワードに一致: 医療, 健康, 災害
+- 関連キーワード: 医療, 健康, 災害
+
+### 16. 無料で普通の動画を一瞬でアニメ動画にできる動画生成AI - Universidad de Córdoba (UCO)
+
+- ジャンル: アニメ・漫画
+- 出典: Googleニュース アニメ・漫画
+- URL: https://news.google.com/rss/articles/CBMinwJBVV95cUxObEJFcWZjejlPQnBSdnZUN3JCNDV1TDF1d3U4QlhCYXd1N0hmcHR6enByZ1pWaTgyTzVoWUp1MVRidTNLRHR0dExOSmV4TVF2cm5JUkp3UHNaZ09adjZ1bnZ4ME4zZ2I5WGg2Sno2UTZ2eTh0djgzSGY5WXpjeE5UOU9DUzhPcG5uZnp1eWhlYjRQRmVXMUtuQkd3cW83b3liZ1A4SmNMdWowbE53Q0Zxb0tXek02V3lqbUZvUXp4a0t3dXZzRTBpWUFCUUtiSmptRV9xMVN6WXgtQjlyczdCZTZDRGVCWlVVdzF6SG1sR3ozTmhVZUhGcmNsS29IbGVEczNkcFZYSmhnZU1UZHh1Xy11d3ZPeVF4d1RGX2hiNA?oc=5
+- 公開日時: 2026-10-18 02:53:25 JST
+- 理由: 興味キーワードに一致: AI, アニメ, 漫画
+- 関連キーワード: AI, アニメ, 漫画
+
+### 17. AIアニメ画像ジェネレーターのレビュー＆比較サイト - Universidad de Córdoba (UCO)
+
+- ジャンル: アニメ・漫画
+- 出典: Googleニュース アニメ・漫画
+- URL: https://news.google.com/rss/articles/CBMilwJBVV95cUxQVDk4SlB4cVJOZ3BzSVRFbGVJWHJvUzlUNEhlTFd3NS14SUZYbnNHSnJDeXptZFNDWnhibEN6a0IxLXJlTGtWZFM4NTUycWR5RXpFbGdFTk1FWXhDTy0yQWxSdlBLWkV1WVlWTGk0ZmRQM1M3LUYtNkJQUmFBUUZUVnNQYUlDeHphWTB0MkY0TjFQNlpWQTNpdGtCVWQ3MDl1czVZQXZjMERJNVp3c29zeTVLZXhpYXFGT3d3STNFb1Z2OTMtQzgxS01ocXpCZ2VQRnJuRk40XzNObExPSzRKcTZYZEl1Y1hyUW9jMEZOb3pYaWFiV2Y3bEdSQzhTTFo1TmRUYnV1ZUl4TDcyRmpTSGxrQnYzY28?oc=5
+- 公開日時: 2026-10-17 18:11:57 JST
+- 理由: 興味キーワードに一致: AI, アニメ, 漫画
+- 関連キーワード: AI, アニメ, 漫画
+
+### 18. 作新学院大学 vs. 松本大学 - 関甲新学生野球1部 - ライブ配信 - スポーツナビ
+
+- ジャンル: 教育
+- 出典: Googleニュース 教育
+- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE9iZWEtNVNURXZieEhtV05qS05wSHd0dU50ZGJYUV9OT0dhX2dnYlJqTnpVS1RpYUx6YjVvNk5vU0JhMXY2Tk5LSXVaaS1GeVFRVWV1Q21lT2ZqYjdLVWlnNGtEY0hLcmtJUGotdHZhZVBvZjZB?oc=5
+- 公開日時: 2026-10-18 05:59:35 JST
+- 理由: 興味キーワードに一致: 教育, 大学, スポーツ
+- 関連キーワード: 教育, 大学, スポーツ
+
+### 19. ｢卒業生の年収｣が高いアメリカの大学と学科が明らかに…デューク大学 数学専攻は卒業4年で年収4700万円､2位は？ - 東洋経済オンライン
+
+- ジャンル: 教育
+- 出典: Googleニュース 教育
+- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odXkyWmppWDFONzE4Sno0S1p3SXFJZm13RTU2czNaXzVRLUhVbHpvZUQ2bHpOcTlZc0pqV2RSeklOVjQwVi1aREp6dmNCVFpITU80NXlJQWlKVXFWOTg4?oc=5
+- 公開日時: 2026-10-18 06:00:00 JST
+- 理由: 興味キーワードに一致: 経済, 教育, 大学
+- 関連キーワード: 経済, 教育, 大学
+
+### 20. 川を守り森と生きる日光 土砂災害防ぎ、地元電力に活力 ツキノワグマとの距離感変化 - 下野新聞社
+
+- ジャンル: 社会・事件
+- 出典: Googleニュース 社会・事件
+- URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZ2pfbWgya1liV0RSNHVEa2g1anY3NGxpZV9VbjNidjJmMm9pS0NndWs5djVmRXBObWtiTkx2X3RfX1ZnWVNJR0JSa0dRVkdOalF1TUFOVExsazQ?oc=5
+- 公開日時: 2026-10-18 05:03:31 JST
+- 理由: 興味キーワードに一致: 社会, 事件, 災害
+- 関連キーワード: 社会, 事件, 災害
 
 ## 新規記事一覧
 
 ### 総合 (8件)
 
-- [地震速報 データの使用時に誤動作](https://news.yahoo.co.jp/pickup/6599068?source=rss) - Yahoo!ニュース ピックアップ
-- [福岡県 AM4時に百条委設置案可決](https://news.yahoo.co.jp/pickup/6599057?source=rss) - Yahoo!ニュース ピックアップ
-- [米大統領報道官 わずか5日で解任](https://news.yahoo.co.jp/pickup/6599054?source=rss) - Yahoo!ニュース ピックアップ
-- [荷物用エレベーターに挟まれ死亡](https://news.yahoo.co.jp/pickup/6599053?source=rss) - Yahoo!ニュース ピックアップ
-- [県議「ばか」発言巡り朝まで審議](https://news.yahoo.co.jp/pickup/6599067?source=rss) - Yahoo!ニュース ピックアップ
-- [「警察車両が幅寄せ」拡散 調査へ](https://news.yahoo.co.jp/pickup/6599055?source=rss) - Yahoo!ニュース ピックアップ
-- [「足の握力」低下 世代問わず深刻](https://news.yahoo.co.jp/pickup/6599071?source=rss) - Yahoo!ニュース ピックアップ
-- [西岡剛氏 日ハムコーチに就任へ](https://news.yahoo.co.jp/pickup/6599070?source=rss) - Yahoo!ニュース ピックアップ
+- [閣僚更迭「高市1強」の弱点露呈](https://news.yahoo.co.jp/pickup/6599190?source=rss) - Yahoo!ニュース ピックアップ
+- [新たな教科書は「紙中心」素案](https://news.yahoo.co.jp/pickup/6599189?source=rss) - Yahoo!ニュース ピックアップ
+- [死亡事故 無車検の車運転疑い逮捕](https://news.yahoo.co.jp/pickup/6599192?source=rss) - Yahoo!ニュース ピックアップ
+- [シカ衝突し停車 追突され女性死亡](https://news.yahoo.co.jp/pickup/6599195?source=rss) - Yahoo!ニュース ピックアップ
+- [祭りで副市長が死亡 市長「痛恨」](https://news.yahoo.co.jp/pickup/6599188?source=rss) - Yahoo!ニュース ピックアップ
+- [佐藤輝明のメジャー移籍 容認へ](https://news.yahoo.co.jp/pickup/6599184?source=rss) - Yahoo!ニュース ピックアップ
+- [亀田和毅の世界戦 試合当日に中止](https://news.yahoo.co.jp/pickup/6599182?source=rss) - Yahoo!ニュース ピックアップ
+- [ネルソンズ1点 KOC芸人審査物議](https://news.yahoo.co.jp/pickup/6599193?source=rss) - Yahoo!ニュース ピックアップ
 
-### 政治 (14件)
+### 政治 (10件)
 
-- [令和8年新潟市長選挙及び新潟市議会議員中央区選挙区補欠選挙の投・開票速報について - 新潟市](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lIMkZNZFcxVVNuNkowN1hFMWhFcjRxQVhOLV94QmY5LTlrakc2SnZUT1RDRFN5RGNfRzRod2RoNUZjdzJOelV1NXpGNE92YllQbHR5ZUEwcWNqOWlxUlY0TVFFYVd0Z3NOWW9FODlzU09TeFFkazRLMTI3ZklCME5KZy1vd2R0?oc=5) - Googleニュース 政治
-- [どうなる横浜市長選 熱を帯びる最終盤の舌戦、前新7候補が支持訴え - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mczFIUHFKUlAyNjN0ejhuVGpSRnBmUzFubTN4a0h4aUc1bkVDMmJULWZFNEVKRzlhRVg0ZjZrMjd5YTB1aTRIdmxGS1cxamFfd3Y3QzZQSnlBUFVBMXlQcUI4Mm1iSUE?oc=5) - Googleニュース 政治
-- [『芸人総選挙 お笑いの日ver.』 - TBSテレビ](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ORmlEUXk5Y3dmNUNIZVJTSTlCRURGNFlJZ3d5YlVXcGFQR3hzZzI3dEtuU3MxS09XelU3enBvN1lTdXdnOW9TZHE4VlRNeVl3V2IyX3pydw?oc=5) - Googleニュース 政治
-- [横浜市長選、１８日投開票 ７人出馬で異例の混戦、市政どう立て直す 横浜市長選挙 - カナロコ](https://news.google.com/rss/articles/CBMifkFVX3lxTE9BWGVuOXhzWVJQSmIyTnVSenU0M1hqd2l1OVpzUWZMXzA4dzkya2VMTml5eEplbzBwRU1ZcEVYaVIyWFp2MUNEcHdmWlV3UkZHZE1JZDJ3Tnhqei1vU1BURnJneDluNGdJcU00OHgwT01sME5SS0g1d215bHhFdw?oc=5) - Googleニュース 政治
-- [大山崎町長選挙のお知らせ（令和8年10月16日更新） - 大山崎町](https://news.google.com/rss/articles/CBMijwFBVV95cUxPN2hrdHk3U3VDLThoQUZfOVRDZ1R2ODI2SWVHbjNrRVM5TXFmaGtzMEdBc1dSekd4aTNzYWN5WHFpaEFzZ3R6OGdHckdQR1kwLWxOdldnTFNESnlsVkltNXdpNXdna29qeGxINV9uTTZ4M3laRXo1c0o2V1A0V1RfMk5IQjk2eTU4c3ZhMXF3VQ?oc=5) - Googleニュース 政治
-- [【横浜市長選ルポ】リードする「原沢氏」はあえて“パワハラ追及”控える戦略、「山中氏」は“ステルス選挙”を変更、「中谷氏」は”トゥクトゥク“で対抗（AERA DIGITAL） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdjNHSDFHSWUzODhRWndibTFEYXdRMGF4bm9OcGJIdm5nYUxtYjBMRmpqdGpLcU9nMTdrTXNjMjljNG1JTUNsYm1vQTBPakxoMjhQUGhON2xLYmZNSHpMb0FnSHZWT0l0UnotNFpfc3VfZzgyTHZuU2NWTG5BX2c?oc=5) - Googleニュース 政治
-- [ニッポンエール全国ご当地グミ総選挙2026開催！ ～ブランドアンバサダーＡＫＢ４８と『産地を応援、みんなで応援』 - 全農](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EUnVHVXR2UlB3NUs3S3RLaGNDeUlNU1NpRkNiTTlFS0FnLVNjYmYyVlhZQkdMUFRCWkI1RVEyTERiZF91cVNGSG1udTR1SlowUUY5eTFsU1FIX1ZKa0EwT1Y1Ynppdw?oc=5) - Googleニュース 政治
-- [横浜市長選挙18日投開票 選挙戦終盤、子育て支援など訴え - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFAtRzM0UE5oelN4TFg0NUd1ZW5yaUh5SmJ5bUYwZ244cjZXU2hkYWZwUm5xbjB5THcza1d4VXNTR1lKYkI0a1lpZjhhNTZZZ1o1N29BLUdiRGxMbGxpTUsxaFk0U0ZsVXY4SkJSUg?oc=5) - Googleニュース 政治
-- [横浜市長選挙、原沢敦美さんの経歴と主張…福祉や災害対策に注力 - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfYnVVd0tsakxfLUZUOFI2S2NxOUlHZU82dmgzT05VYkFXQ3o5Z0R4bkZ2bXc5c2dsNnVnMGJBVnB5cnJtUUJ6UlJIOHRyV0FPRUVUTUlHZWE4LUFyYnpwNk9OTDBldw?oc=5) - Googleニュース 政治
-- [【新潟市議会議員中央区補欠選挙2026】欠員2に3人が届け出、選挙戦に（午後5時現在） - 新潟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkNHczUUlWaGRaV2pkWUx0NHBqa1dLQkw4MFk1UDAyb2NHeC12Y1FEblp4RndpMlI5M3RNdXdBUFNQbE1UOXBzX0NhZWxRWFltNUdGeTlMalF6TE9aclE?oc=5) - Googleニュース 政治
-- [「話がうまい政治家」と「票を集める政治家」の決定的な違い…ナポレオン三世が示した「選挙の鉄則」 - ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIdTRtYUp2dHRDZllNSWJkbC1XcFY3NFZyTHBhNm9BZU8tUVVoWHhMRldNWl81bzh4RTEtQmZVbzNFX0RjdWpCWkNmM1HSAU9BVV95cUxNdmtFQW5fS2QxRzdxSEhwT0t0SmdKN200bE9lUWNCazhET2Jkb1dMaFhXZlhLN0p5enlFYl9qVTRWR25vXzBtLUhfTW5CUHQ0?oc=5) - Googleニュース 政治
-- [日本株の転換点は10月末から11月上旬か ハイテク決算・日米MPM・米中間選挙がカタリスト 野村證券ストラテジストが解説 - 野村證券](https://news.google.com/rss/articles/CBMiX0FVX3lxTE83LTJRUHM1TzAzT3VVNEp0MGFwRV9oTVR0bkpyV2RUNHBJMGJoMmcxRDdjNGxGOVlKaDJqRFVwVHV2R1JQS3c2RWNNMTdNamhKYzVXTmhjTzNiZkN4MXlF?oc=5) - Googleニュース 政治
-- [＜速報＞福島県議補選告示 郡山市選挙区に新人４人立候補 午前９時現在 - 福島民報デジタル](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iSEdQcm96QmNvUTMtME41VVBpSXA1eDV3Sk1kclVJT1JOV0N6WUNPb2VRSVlrSTRSTW5hLWI2ekMyaVFsdUpMR1RUenZTRlU?oc=5) - Googleニュース 政治
-- [「海洋政策のさらなる発展とわが国の成長を」海洋開発特別委員会が政府からヒアリング | お知らせ | ニュース - 自由民主党](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zRC12SFBzTFdfYWR3eUk0UnJvMVQxT2FkSUstNzJVSGFOXzdzejBaa3dzcnMyNHpmcTdMZWFTd1NHaVhBOUswMlZwX2pKQThOaHd0UFRrNW4tYlllbVE?oc=5) - Googleニュース 政治
+- [世襲政治家は増え続けているのか（清水唯一朗） - エキスパート - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDVSZjBTbGZVM1NNWV9HZkRVZTdwdEthYm12c1ZzVXlMMGRHZmduR3ZqR2FSN2dMOVRrZDdUUmw2YWhWSUF6Y1AzNFB4dHFMWmN5SnQ4ZnlmWTduNkMxNmRGa0QtNmVFWVZzb3hmdHRtRkZtN2U3YV9LeU0xRWRhMFplaS0xNW4y?oc=5) - Googleニュース 政治
+- [＜やさしく解説＞そもそも中間選挙って何? トランプ政権の行方 - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HOXpxLXFMR2F1YkhlcDJKdVJ0RE1yQ1drVUFVZU1jZ0ZHVTdlUllqX01KSFNJUEh3VDVNXy0ycjlMcUpYNFEzQno1OE1CNlJmYTluMDRjdDVWLVV6UHhUUlBIRTRQSFN1?oc=5) - Googleニュース 政治
+- [女性の政治参画テーマに学生団体 自分たちにできることは？ 国会議員に取材「若い世代に発信したい」 - 東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VMHI3UFhkS00tS184ZDlVampNZGtCLXpqU2tTaUhXdnlDU1NoTnlpUGVTNEpPeS1Lb0h5RUI3Qzh2YVpfclFlbVI5WFdUMFFPRWRF?oc=5) - Googleニュース 政治
+- [市長辞職に伴う横浜市長選挙 きょう投票 - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UeFd2WkJYQmY1aW95V2U2bEtwYUlZaGdTeTkxRlk1Yjl6QV9HZ3FMUy0wTU90Z3k2R080UU93QnV1MWdVWkdSN2gwWTJFclkyRHpOcnl4ZEdmazFkeWRN?oc=5) - Googleニュース 政治
+- [全米50州で「NO KINGS」デモ 中間選挙への投票呼びかけ 「民主主義を守れ」 - テレ朝NEWS](https://news.google.com/rss/articles/CBMiekFVX3lxTE5HbHkyTEVSNkZ2MEMtdFNBN1RNclB5blYyUHMwaXpaTWRCbmlqQ1NvUDg4bnJlREl3VlR6LWZCRURrakJ0aVZONkstdjBWU3JXcFJ2X0dsVzlFYWdkRVdsLVdzalpWYnJ1WU05NUxoWk1JbHRncEhUTll3?oc=5) - Googleニュース 政治
+- [あす投開票の横浜市長選挙、候補者７人が「最後の訴え」へ…市政「継続」か「刷新」か - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tcElFRlpDdTROb2RsZTFWNlIxU1o2WmwwWXJLSmdranlDVVZJZ19QYUNmemlrNHdFZmlCOUJQT0hLa292RThGYUpxb21sVDVxMVpHZkpJNWVHT1k2aHNxcXQ4dFJ3UQ?oc=5) - Googleニュース 政治
+- [ブラジル大統領選挙、世界の食料安保や資源政策左右 25日に決選投票 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE54bmxXUEZKVERnOFVjNjBSRWgtMjVWenFSUjVCYWVKSFVWeWRyUnBwY2FtVHFMbUpUdWpUVVVHOWE3QmQzcWpEZGFmVG9GWVhVLVpVOTJNdXB1MC1yckFQQTRVSUxVQUVOX2dIbw?oc=5) - Googleニュース 政治
+- [横浜市長選が１８日投開票 異例の短期決戦に７人出馬、市政の継続か刷新か - カナロコ](https://news.google.com/rss/articles/CBMifkFVX3lxTE9tcXluQTJTRm5PS00wVzZLSFI5WWFnRXplT2QwZHJ5bi1sOGtEQ0JBX0tUQWF2NnRNWC1qU2pTRlEtWExvb2pfRXUzQjRjelZDTk1kQ1ZwMll1dU5IZzN2TXVUZ1FUeF8xdW9VWnZ2czBLTTFFVkg0QkhhdWlmdw?oc=5) - Googleニュース 政治
+- [【動画】高市改造内閣、刷新より忠臣？ 政治記者が全閣僚を解説した - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hcmxCS091MmgzNC1acEJpZXpaTFZpT25XRDR6SE40aVZCMV84Q0Zmd2hPdzZKUF9rWThaNEVDN0VXTjlESWwyQnE4NEt3U05HWm5SOGFsU3VmajJWd0RwS1laQkV0LTg?oc=5) - Googleニュース 政治
+- [トランプ大統領が中間選挙前に連日各地で演説 - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4bndYekFfRFhKamljdjVScDlNQ185QVp1WXE0alprMnFFMndLWlMzaDVzS2lSN3VMTVNMZUhxSFBVRzZaaW9RNmlWVklOWXZqaXFHN0FrVlpLWUZqaUE4?oc=5) - Googleニュース 政治
 
 ### 国際・外交 (12件)
 
-- [「遠い選択肢」だった海外へ - 早稲田大学](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vZXY0a0JHXzJrNFZaN045RGdOb0R1M1VENFRSVTF2Y3R1cHY1Nzl4TUhic3FMNmZXXzNiQU1UQ2lFRTBvZ29WcXZCQjdsUQ?oc=5) - Googleニュース 国際・外交
-- [【お知らせ】小泉防衛大臣のインドネシア国際緊急援助活動に係る帰国行事への参加の予定について - 防衛省](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zazVobGdQRXk0dnJya3BYcll3SndoZnNfNmc5dXdtRnpWaDZZMDNCWDMyM1c3TWtVVjFTWnpfUmRBU1hGc09MdzQtMWJSSWVwZVdiVDVGeEVmLWIwbS1aQw?oc=5) - Googleニュース 国際・外交
-- [海外勢の米国債保有、8月は9.33兆ドルに増加 英加がけん引 - Reuters](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJOWGVSN2hMZjliZmhpNWVweS1BSjRaOVM4NmprNElVek01eEtaTmZzd2EtMGh5Si1VUHNPejcxdFlhT3VIUnB4UGJJdXpmdGE1Y2lRa3draVJ0cDV4c185TTMyWDk0RWNTMkpWdHVpMC1ieHhpcHpoRkJIX0FwTEZEUjlVZw?oc=5) - Googleニュース 国際・外交
-- [2027年2月の海外公演情報 - ぶらあぼONLINE | クラシック音楽情報ポータル](https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5NkVLdklySlBzbS1KSDBBd1FjTXZOWmd0TncxeHljVmFhVmdfWE5mMldZc000RUJrRUtFVmFZUkZEUjNNSTlSZw?oc=5) - Googleニュース 国際・外交
-- [（インタビュー）温暖化５０℃になったら パリ市気候安全保障担当官、アレクサンドル・フロランタンさん - 朝日新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLQ3RkQXAtTW1Yb1NMeXUtU1gxZV9NWG9fZ0xWbDJ2NG1Cdkl0Unh6VW5zVVFLQXVYZUpNLUxGWG81UUxXek85a2FpblV0eDJVb1VkVlU2cWhOcG5C?oc=5) - Googleニュース 国際・外交
-- [米国株式市場は反落、AI債務不安が再燃／海外市場動向(フィスコ) - Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2c1SmdXNWNVQUNHSS1KNy1iMlpYSDM3NjRfNFhabDVaSkZpVW5pVHZJc05QenQ4STFkT0czcnVKbkd2WjVBbi1oVWF0YVZZeUdxam9EWkVmVkxOMlpEUGlNU2htMHhoaUVFaV9MRmdWem1lcEh5SnlWZVFRUGhpWmFBSUdJTTQ?oc=5) - Googleニュース 国際・外交
-- [キングス・カレッジ・ロンドン国際連携アンバサダーが本学を訪問しました - Tohoku University](https://news.google.com/rss/articles/CBMicEFVX3lxTE1CbVFveGJuVlZ1S0JvdTBRSXZxVUoyNk5KZ09sdjBvRkx3VlBfbzJfdzZ0VjZSaXd1VTBtcFpJUDUzdXBfaGxOX3I1Y3A2Z2VDaVlRbHBLdzRBX0lEN1ZvZ1BHTDF4SjJ2MnhCUVN5eUs?oc=5) - Googleニュース 国際・外交
-- [アブダビで食料安全保障・食品産業関連見本市「Global Food Week 2026」が開催(アラブ首長国連邦) | ビジネス短信 - ジェトロ（日本貿易振興機構）](https://news.google.com/rss/articles/CBMibkFVX3lxTFBKTzNLRmlLZWVXel9GTlJFLUN2aFZxSWEyTnZMWDdpMm81VnBjcHBSWUZHUWZjcmtOdkVKUTh3R3VuVl85Y3dLOS1ubkFDN0lNTWw2Ykp5YXp5Sl9OdzBGSU0tZGtOdWZoand6ZGl3?oc=5) - Googleニュース 国際・外交
-- [福岡県議会、金銭授受疑惑で百条委設置へ 「高額」海外視察も - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwSk40enNtVElTVlZBZGFZeGRTQmNUYlUxS2N0Y0ZpNXVkSEE1Z3F0VTdaOHM0X3FOX250WkxMM1JPMUtTX2RPVWZxYl83ck9MbWNabzU4OFd3ZVpWbDdDdzJEdkZja3Nr?oc=5) - Googleニュース 国際・外交
-- [サウジとシリアの外相が関係と地域の安全保障について協議 - アラブニュース](https://news.google.com/rss/articles/CBMinANBVV95cUxPMklOczhwdUVoYzdKcGt4QTFRNXFJYkVHeVYxVlBDUEt0b0xKMEFJUGNOd3ZKekh1YVZfUnBFcS1pQWtiOGZ3dTBQNjhtUWRzQl9YTk1Kb0lxZUJXQTdlcVpYeVFaWGVrQ2g0TjhzLXdyTUczdXhBZ3FNUEFKeHc5V3NBZXBNMXhGYmduVkxGNXJQQ29ZeWRaVVhJWWE0NUtHRUktNHlIbVd6UmdPRW5PcUZvbGZEN2VMRFJRcGJwZG5HY3FmVnFhQ1hlZ0xDVm1FcTE5MXJ6MFZ3akU5ZHBQdmVuQ19JZXlNTW9TcTMyaXZXOVN3UjJqVkdHZ3RZbE1rZGxlYVVJdGRwM3BYVW1KYTF4QVY3d2ltX25ockd0bUxTQ1E2U1NWNGJqTkU5M21xb1ptLXgzMHBOMGJ1b2FJUjlkVmtlV2F6TXlKblpRUGhabGFLWTFpdmwzQjh3d2ZhWXNaQlpLYV9ZeUFNNGFyVWdHdk5zR2V2Y2tHQXpVTkxPeldBcmZSNk85czljQzB5bTFYOEJaaWl3djhi?oc=5) - Googleニュース 国際・外交
-- [【募集！】2027台南古都国際ハーフマラソン大会の参加者募集について - 土浦市](https://news.google.com/rss/articles/CBMifEFVX3lxTE5EZ2JNVVA1SUZrWW5YY0RHVURtSHp0eS1oOGMybkdROHQzSmMtOGczSWplUGllQk9zOHl4OW1OdEthY1dTU0dUdDZ3U0JKLUpUbm5pRDVydUVzNlFlNlNwalFTUnNwNkx3NFlKR1dHRGI4cDJzVFk0TWlUV2s?oc=5) - Googleニュース 国際・外交
-- [ジェトロが気仙沼に海外展開サポート窓口 - 株式会社 三陸新報社](https://news.google.com/rss/articles/CBMiWEFVX3lxTE81d2tYUTg2b3A3dFZLS08wSVJ6NlEtNkdBMnJ3ZjFwOVRWazdDMkdQQ3VlTE5pQm5fdUN6M1ljMU1wM2x2OVdqM1dwUTEySUFtY0NqUWJXT3Y?oc=5) - Googleニュース 国際・外交
+- [覆面の入植者らが欧州の外交団を襲撃か 相次ぐ西岸での暴力事件 [イスラエル・パレスチナ問題] - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UVjJ6UlhJX29Td1R2bG1JUGwzZ052U055TzNCVFh3dHlQZHlGY2ZCM3B1NFFJcm93RjZEdkdfRGFmWFpqQU9YcnRJRnZTQ210UGdGQmpBZUN2ak10dGtpdDM3WlZLWnM?oc=5) - Googleニュース 国際・外交
+- [パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道 - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kTE1CSm15MHY0UVE1NmoxTmRhVmQzNFlfVW1NU21JUnVzYXpvbW1wd0JFNHZSdjhkZU5TUDdmblJMWTRHdFZwYk43NHdNYVh3TDlRRXVfZTgxYktpYUlj?oc=5) - Googleニュース 国際・外交
+- [ユダヤ人入植者、欧州外交官らを襲撃 ヨルダン川西岸で暴徒化 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBqX1ktVnBJa3VtRWNtZE9TWVJDWTJuNTRXbks0U2xldFBTeWFkcWpzYWlXMjhjV292dGFZamV1RGtnOWk2bXViZEVvRXdLMDBRXzlMb1M0cjh5aGIwUUNSOXNxc0hLcEJrQ0gwcg?oc=5) - Googleニュース 国際・外交
+- [EU-GCC：エネルギー安全保障と資源の多様化は経済の安定と持続可能な発展の要 - アラブニュース](https://news.google.com/rss/articles/CBMi3wNBVV95cUxQLXVjNl85MUtUMTk0TjkxdnZ4dDFGSUZmRGFkNzkwdmhhOWRxTFp5MXRQbnp2eFpScEtUWmRtSWhCT0xaSUg0VU1XdU11bnlGNHh6bjRWRjZHZWg4ZE5Mc0UwRllQUzlNR2hELW1tRy1ZdHFGTUktV1FQTEgyNVZmblotN1o2NXRIOFdyejBTQUhYVWh0ejVGMF9MUm5RRmJpVkpZYS1fUzdaUlVRSWZsbkJNWWNHLWRoQmQzQ2YwYTNEd3Nwd09pMWZzdF9SR1ZlYnZxWUp1QkhZUFdKclhpZHRZUFFYbkh6emd1bzNFSFNsc3Q3Y0JWTlplMEtBdWxVRWdSZEdHclhPR0ViZzhCMWhnVElUZFBzWkF1ZHM4RzJVRkJSNFhjdWxvSmtSMGxzaUtyM1gxLVZBcWY0MGE2a1FHUFNUd3F0MTlPMThHRW1XNUpfVXJxcW90bFFKU2tMRFB1XzBnemdkcGxfT3N5VnZaZjhWQ3A0dkdfZHp0ckdBcF9rQlZmVlh5bTR6NEJpMmZTdE1iVG1iYWlDeHdoZXZuc0dTLXZlVlA2WTVrNWlHdUFPX2dhSnFUSkJTUER2OEpoeTVwSjlzbk1BcUNJZElGUW1qbldiUHFmRlFPcw?oc=5) - Googleニュース 国際・外交
+- [中国、AIの海外普及は推進・核心技術の流出は制限 輸出規制で新戦略 - 株式会社エクサウィザーズ](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xTUtsQjQxNFo3MGlWNkxSVU9jSVZmblZxR0NDRFRLY0hOcGEtaWNhS3kwdFRZdDV6enowbllhcjY4NkdkMWF2WmxfdHNTOWxIZGw1MTNKczZiNmNTRUFTNFJRNHFxZw?oc=5) - Googleニュース 国際・外交
+- [憧れの海外リゾートで「激アツ」な展開…のはずが、「日本に帰らせて！」と絶叫の結末。何が起こった？警視庁が注意喚起 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBUdjJOR0tCeXMwakJJSmlaWXVLN2F4eDZTaE5OODFib2E1Qk5XREhQXzRGMF8wbWF4SlhERUFZWnJ5TWdQS1BDSFVmMUFrTzVSYUN5WFVDSU1LV3lNRGo3bDlrNDVSay1qYnY5cENFVndNSDZQcHhCd05ncElLQkU?oc=5) - Googleニュース 国際・外交
+- [「命のビザ」つないだ外交官 宮崎出身 根井三郎 偉業を紹介 解説パネルや年譜、地図 ふるさとで常設展示 ／宮崎 - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jZHZKN3BweGJ0cU5OQzdaWlNFQ0J5MlF1cWVGX0ZLOURxekV2RnFOU1RYaXZTdHZlWmVNRHdycEViZGNUOXRIdldZUUo0blEtLVJOYmdFUy11TTJ6NzF0YzNnWWpxZXlw?oc=5) - Googleニュース 国際・外交
+- [国際開発金融機関代表者ら、マニラでの会合において、更なる資金動員と開発効果の拡大に向け連携を強化 - Asian Development Bank](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVBMb2I0dUluRm5OSnV6WUlxd0xpSlB2LUIySW45UnBXcm9FT0IwM3ZCRTB5UUhXMi1tdHdvNDlJY2VZQ3FMTmdDSkpzRVZ4NDFud0JoTlFCOEdyR29tOUNfb19TVjhhOFI2N19TalI0bFVjdWZnaG1qMEZvQTlIa085YlVDeTdBZDlxakcwNTlycF9aT2trekxodlUzMjFka0Q5eXk5T0p0Tlp0ck1z?oc=5) - Googleニュース 国際・外交
+- [日本の海外向け化石燃料支援はG20最大: 世界のクリーンエネ重視に逆行 - オルタナ](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pRWZPT0NhSENVM29LUXh5SHZfVDE4dlV1a21JZkNmdXkyejU1d05jUFNFUGRteUI5UzdRdlhiMkVQUXo0WFhUcQ?oc=5) - Googleニュース 国際・外交
+- [平和賞の数時間後に制裁 ICC元裁判官が語る「もっと怖い」ことは - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yVkJzWHoxNkExQkl2VERhdjVhU0N4bVpzR0xsTWp1eXdZQmI3dE81b2RWRzdGdzh4c3RKY3NZV3RLUzFHRjVBd3UtR1FKbFljZVZUcGRtREo4TzJSVzR6TzhBX0xpd0U?oc=5) - Googleニュース 国際・外交
+- [米中露、どことも付き合う 「友人1000人」外交の落とし穴 - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wTGs0VjFoWDE3X3Zkd1pJeGJqVE5JNGJRRGVxNXRUdFZFTjFadWlVbm1qTnladTZIVFZiVFAtbm1VNldIZWY3Z2swZEJHMUVHZ19VbDVzdXY1MUptU0d1bnJwMWRfajFR?oc=5) - Googleニュース 国際・外交
+- [進む物価高と円安 海外進学の今 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YU1BpczVKcGtCQ09yM25uQ0F0bVlCMnYxOGtnRmxERHhDSU83ZUoyMnhOdTM0b0QtbzZPQ2FnbkVTMmNPN3pIQ3pIU1djNHFK?oc=5) - Googleニュース 国際・外交
 
-### 経済・ビジネス (14件)
+### 経済・ビジネス (8件)
 
-- [ＮＹ外為市場＝ドル軟調、ＦＲＢ金利据え置き観測強まる ＡＩ株安も重し - Reuters](https://news.google.com/rss/articles/CBMifkFVX3lxTFAyRkNCSURoeWtaVlJNZUxXXzg2NnNtaDNOSE8yNm9qamxnOFNUQjVDdC1UUzRpRXhWWTRhZjBZRUhxQTNQTDJFN3ZTc2ZUN1F3YjVwZ3Vha19BMW9aa0VDVENneFlKSjVPV0hiSEh4QWxfTmdEbV9MTmFuTTRVZw?oc=5) - Googleニュース 経済・ビジネス
-- [髙木経済産業副大臣がスリランカ民主社会主義共和国のハンドゥンネッティ産業大臣との会談を行いました - 経済産業省](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zbV9GenpJSXZWVUtKcnpvdmw2cmZiaEdNZFdZaU5YNUUzSld5d1d5bTJNNEVkekFTS0dzNkMyQXVud2JjejlhdDcyaVRQeUp2Z0E2eVZoUkM0bXppUktMMGx1NA?oc=5) - Googleニュース 経済・ビジネス
-- [【内部留保を溜め込む日本企業】「もっと賃上げや設備投資に回せ」という批判が“的外れ”である理由 - ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBETXdyVUw3ZEk5UFBMbVhNYjJ1RTVocmtvb2hQVmZOQ1VpeUYwZzJpUVBOZzRuY0lmUHU1azBQQ0l0NkJmTTVjWUYzcXnSAU9BVV95cUxNYXF4NEl6Nl9tbC1VWU5KQ2ktZXowX1haUXdzLUh4ZVZ5dXhCTWY1Y1QwLVRMclJGOEREbTJQSjFORjlFLUhya0N0VHUxbmxz?oc=5) - Googleニュース 経済・ビジネス
-- [日経、個人情報183万件漏洩 不正アクセスで - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBmeGtIUU1LUWpYMkRkbDVtRmc4cl8tUXZGZ05ZZy12dGpoZnNrMUQ4a2Ixdmx3MWlna1k1ZzZrbFpfNTRWOGxiUVhXeHlxTXRicE9IWG85TXA2dzc4MDJTQjIxb3JqdzdmSlJxWA?oc=5) - Googleニュース 経済・ビジネス
-- [安全かつスマートに市場を利用する方法 ai - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOMjN4VlZrX0o4Xy1nZ0JWUnN4MVEyZmFLSVUyaGJWdWlQRWFkMkdZZ2FvcHNGMFc5SlpOd1FQa19HRzZkUlNsQmNEWHpJNHVOWGREbXZXd2dReUNRWkhrYl9UM20zZDk3TGF0d2x2MnNpc1VRMVk5M3pJcE9ZVnF5Y0d5MDdTOVkydTJrQjNZelgwakNTaldwcFB2X25jYU5mQVhlNDRkalhrRzBLaGd4S25TeHdMTVVJTjNKd2VFRWxmaVltRnN6QVozUlVvX1V0SzJkM3Fyc0Y1OEFCWmdldU81WjJnbGNRNEpWdFBBaG9hWHh2R2diaVl0M3RqUDF6akdyb1VXX1dZeldXT054aVYwWi0tM0h5UnFVTHNpQzBsRUlpRnczWjVJZVU5QXNvV1JWMG9rZGNiRU9ISHlrNnVrS3h6cHZ1bWVSb2ZaYjFsclFEZmVUZ1V3?oc=5) - Googleニュース 経済・ビジネス
-- [投資信託資産市場、2035年に1兆3,224.8億米ドルへ拡大、資産運用ニーズの高まりが市場成長を後押し - アットプレス](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuYjhHallUTnpIQ28tSEJnbldoc0FRWlR4UGV6eldla3FuRkt3dG5ENllEZFhRRW1rSUpRbXR4ZXI4aGpENGZZYi1XZnRFYU0?oc=5) - Googleニュース 経済・ビジネス
-- [中国人民銀総裁、金融市場開放加速と人民元国際化推進表明 - Reuters](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFY3V0ZoM2lGa3ItSXUzdUxnRXk2VU1jaUlRY25PdkRCSmZLejd5cVVtOXVtWEd6R0ZaNXp0S05ybDlZaHhnZzRhOUZpMkE3ZkNiZWlxbC1kUGpDcWdma2dzVExOUW1ZUEZmMlpWNERDTy1ZYkRJaFBvaFBPeTlwM2lHMnpGdw?oc=5) - Googleニュース 経済・ビジネス
-- [高齢者の医療費負担、金融所得反映でNISAは対象外に 厚労省案 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE8zSFhLNkYwaGsyUjY0bEtwZjhYVWFPOF90bWZ1STluS0tZU1BEbzJNazNGQ29BbG9EUGxQYnB1akJnOGZGWjBSTG54Wm5mLVMwM2VneVlFVFlRalNYb3lvSVVJVXFucTNLOHhlRg?oc=5) - Googleニュース 経済・ビジネス
-- [第二回「強靱な銅サプライチェーンに向けた官民合同対話」を実施しました - 経済産業省](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQczFUZ1pPT3Q0V0RoN3l2SG9QZW10UUFqSTFiMTQtLVVjQkdBOUtQRU9kZVBNalRDQkhQb2M1MWtVMkI5ZUNnSXRJNmFrVkdOSTN4QVltSkhrRkx4Q3g2TU56QQ?oc=5) - Googleニュース 経済・ビジネス
-- [GDP6位転落は序の口。高市首相は、中国、韓国、台湾より貧しく、巨額の債務を抱える現実を直視すべき！ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemtPa2FxOFNZX3RPb3pFUjlNVnh5N015YlpVY0FRek85YXVMeHlDQk9Tc1FoU21INFFpZ09nTEJiYlhMcmpjc3VMSnIwYlBqUnBmenNDeWdTUlhyUS02U0JGbHd4eU9xZEotRWtic21kUkVpT0h6dHVvMjNjb1ZWLThPOE52Q3hM?oc=5) - Googleニュース 経済・ビジネス
-- [米国株式市場＝反落、ＡＩ関連株の売り継続 コアウィーブ12％安 - Reuters](https://news.google.com/rss/articles/CBMihgFBVV95cUxONnZ5MEtBTVR2LUtUbWdqWDdneEF6b0EtMzhWQjlPd3JJaTMtRjRQUzR1QzdNNE5QNllwdENsdWdMaVZERnpsVnpxSVJiVTdoVG9kVTE1dFdsSGRvaHNVSVZPcFRNQlZmRDFRaWlUMVVkMERmNmpfdTlnUUNnOGw3QllEYzFOQQ?oc=5) - Googleニュース 経済・ビジネス
-- [MSCI、インドネシア株を「独立市場」に格下げ検討 株価は急落 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBXT213RGxablYzbUdJSUNBYW5zdUR1U0NObWlGNmtlamRxZElmT3hSSVU1S3VHbXNTNzhEcS16ckgxQnNMaEdiMWc4M2hYT1ZFSWN6UnZYZjdSdXNzMzZ5blNkR2NvdkxocEpScw?oc=5) - Googleニュース 経済・ビジネス
-- [NY為替：10月連邦公開市場委員会（FOMC）での追加利上げ確率が低下(フィスコ) - Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQk12cHF6ck9Xc2gwbDlBQ3BkemRQUEN6ZHZYQ3l1eWZVWGFpOGpxVGYtY2dYVFFsTjVNZGIzdm5tOTYxYldjZ1YxQ0lDOW9yRXNQMUN3TmpiWGd1Um95NVRwUUt3aDBFNmxocWZOUGdkNEY3NmN5RFFJWU55cy1WdGczaWx0YTg?oc=5) - Googleニュース 経済・ビジネス
-- [【企業一覧】個人情報の漏洩・恐れを公表した企業など 随時更新 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBjRVNHWTlyLWs4ZnM5WkpPTEI5RFJCSDREcmdiVWhvUDRBYlpXVHZ2cmlLZk5nRXBGWkpzLWg4eGdHNEd5SlRhdnpzRjdjNGFudlRRS1RSMXU1NDQ4Vk5aTlptVWhFVUozV0YtNw?oc=5) - Googleニュース 経済・ビジネス
+- [韓国大手金融機関を襲った中国AIツールが世界に拡散、世界規模のパンデミック攻撃も（ビジネス＋IT） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWXlxNzRjNFlQVHlXWHltdEFCZ0NIUDZ0QncxaFBCUjEzV1YxY0ZPb243em1ZeFJ3cTNLY1VKN2t0eWhRSnZYTWYyeF9UR1dNcmxxanVpYWE1bmwzZXpLUVBTclFlQjVZQ3V4eDRpc2hVZFB2MmlEQmdNdWJpS3M?oc=5) - Googleニュース 経済・ビジネス
+- [世界経済見通し：日本のGDP 6位転落か 鈍い経済成長 英、印に抜かれ IMF見通し - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YVHJfN2Q2UVpLN01OejUzaXRaRDZNMzJDS3FVQUJFRnljcHY2elFLTC1ra1AyV2xLSHdUZTdFVWVicVBRaFhacGp3OTlwQjBWb05fZUR2UHJIUmcwR1JkMEJaUVVJbmFJ?oc=5) - Googleニュース 経済・ビジネス
+- [社説：米ＡＩ自主規制 企業任せでは安全を守れない - 読売新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRm1TRHViQjZPQVlXLUFPN2dPTERvMUwwSEw5eVJfb0xqNU90d0d1ZXlkUUtXRFlFbTg4RjEwYWVYMVZaUGM3bDdSdGxJS2hEYjdkX24xQjFETWRTVFBSc2RZdzJrc0k?oc=5) - Googleニュース 経済・ビジネス
+- [シアトルの企業で働く日本人が、午後6時にかけられた一言とは？ - ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwLXVRNXZ1b1lBZmNPcFFiWjJTLWJ3S3Mtb3BjN09yRmw0Q1FMcDM2Y0VmUTEtaEhtYW5Ybkx5bUtFNkt1dVNYVkpHM23SAU9BVV95cUxNeklobFM2ZDZpd3J2VnZKdmN3Z2xEUW5XaV81dV9CUmxSZzhLaWV1cUlRMG9Vem5DU3MwNnlEU2NvV1JNbmg1dHJCQUxpNElJ?oc=5) - Googleニュース 経済・ビジネス
+- [来週のドル円相場はどうなる？10/19週のイベント予定 2026年10月18日 - 外為どっとコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CVDhtalNJcEhPc1V2XzYzQ2pVYmF1b3hzWjFoYzBxQ3Y4TlVPeXQ2bzlndWFlejMwakNCMFRRVkh1TGZ0RjZNQ3E3QU1YRHpwNGtGb1ZfbHJHcWF1WlhvcWRsZw?oc=5) - Googleニュース 経済・ビジネス
+- [サウジアラビアのサイバーセキュリティ市場、デジタル経済の拡大に伴い10.7％増の43.5億ドルに成長 - アラブニュース](https://news.google.com/rss/articles/CBMiuwRBVV95cUxObldjVjRYTzRPSlMtMU8xaVA1cmhEYW9VS3dLT0hteC16SkVtYjFIYUhkQ3BYS0FuYXJrOU03V3hsQ292bzcwWnBTb2tfNzNfOTVKOWVKZHMzS0xUNXNuLXRCc2g4UV9OWG9RdWNJM01zQUl5QkxmZlZIMUhFd0xkSDNKLWdndkZ1VjdkNjB4SG1fWjZOYksyWTlaWndoTFR3Wk91ci1WRXFJNFZZblVHNVFJWld2ZTVOaU9IblMwbTVGWUU4UUxvM3hjR1BFR0lQYXJUTllpTnFJNFp5THJQSHFiZ1JzSGp2QkFnZ1Z5QTZwNUppU1ZocVE4WFo4TC1VbjYwNGloZjA2X1JMYk82Rm5wMUlBUUhfLUNEVkVHSHdPaWYtc0JpcHYybFNUeFdxVFp3eWh6UjJJWXZhbjgtUXlaRDNFMy1RVHlQd3RGZk1KNk9vc2w0WnJwek1kVWVfdnEtWE14RzNjSHZRUGZZOXloTF9zUEdiZVNYeFBsby1FUHZjMXNIZXk3UHFuSnVYS3lhaG5TOWdHRDJEQW5CbmlCWm5HNmZ1eUh4SHdVdjJLd3J0RzdiOW9oMnd1SVp4djFkU2NYQUZ6VW5MUno0cnJwdXFwMVhoQXNMMnZyX25ObFRCdnE5SmRQRFpuM0lBTEN0Tnduc2NGOEIwSXZydWdRYkM2V1JZaUxmOHFvYktYeU9IeExQQlJ1M1pZLXNVaXdicWVlTVBndU01ZGRKYXp1Y09TVTE3ZHIw?oc=5) - Googleニュース 経済・ビジネス
+- [米国株式市場見通し：メタの決算がAI過剰投資への懸念を払拭できるかに関心(フィスコ) - Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHlDVEVVb2ttQy1VV3RrNXhIRXljN2E2eGxxUmNZalZvcFRvRncyVkN1NkZ3OEhtVlh0Nms3TzRWRkVSaWFWdWt2VXNkZXFkVlJpTXVDc1dBOUhZS3hJQWpRNDFyTTVzOHFFM3JHZGFkeWIwcktrUlR3V1FnSG42aEtQWnQ1THc?oc=5) - Googleニュース 経済・ビジネス
+- [Breakingviews - COMMENTARY: コラム：返済期間「車の寿命越え」も、1.7兆ドルの米自動車ローン市場に破綻のリスク - Reuters](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXdSOFRWQzR0M3YwY0o0dlhmeUJOZnlNUl9pSVhpY1U1QkV2WXFlbjhMaEY4WXlKQmRkV1ZVbEtqazlheWVPbkxKMUExVmZIdG4tS3JqT2dtN2FQMmtKeUdRWjIydEZLQTdnZ0NpcjkwU2RVeV9TQmVQUktrdFBQYUtodTRQb2lyQWpFMFJLOGw?oc=5) - Googleニュース 経済・ビジネス
 
-### サイバーセキュリティ (15件)
+### サイバーセキュリティ (9件)
 
-- [【速報】気象庁によると、サイバー攻撃は受けていない：時事ドットコム - 時事ドットコム](https://news.google.com/rss/articles/CBMiZkFVX3lxTE50NWVZNHBoamhzeFVvNTN5Zy0tWXc4ZUxxbVRXZE1ncExzeHM3SnpXOVVTaGx6a0pYWVUxZ2RXOHE3NmUwbUxrSEwwT2R1bHoxTUx5NmNxLWpreWVtV3BhZjBwYmpDZw?oc=5) - Googleニュース サイバーセキュリティ
-- [「ランサムウェア攻撃を失敗させる」VPN、PC、Active Directoryなどの設定チェックシート - ITmedia](https://news.google.com/rss/articles/CBMickFVX3lxTE9GZ2p6c1lsYkJ2YnBoZ2xodVhRZnVQc19lRmI1Y3FDMmN0NURRVERfeWdZenMzUHEwemVmU2VzQWxnSFZOM0ZnZ09sOExEbi1HNWJCZFN6d1JDcWNjM2V2am5Ybl9zR0tXaUp1ZFNGM1VBdw?oc=5) - Googleニュース サイバーセキュリティ
-- [「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQ09qa2NvSDAyUmpSVVhNSjB4RmI4Q1lEcFRIRWJ6WUstRUNnaDEyOXBvRjBFanBaVHYybWVZaHZLTnM4TUMxOGt5dzVVSHBESXVjU2ZiVERzRHYwZmd1SkhZVzJrVTVtdFN2SQ?oc=5) - Googleニュース サイバーセキュリティ
-- [北塩原3校も情報漏えいか アルカディア不正アクセス:福島ニュース - 福島民友新聞社](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lV3dpVkt4NEZZX0R3SHVVNWxSb2lXMW8yYk9KZ214N250N2hhc0ZMU2Rfb3g5MWZ0U0FGOFVkQTJfaHRJTXJRRVNRLWFHbG1WQ1NSTzU5NTR4VE4yYV9RXzlaSkRxc0s5?oc=5) - Googleニュース サイバーセキュリティ
-- [相次ぐサイバー攻撃に政府の対応は 情報収集に力を入れるも… [不正アクセス][個人情報流出] - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9waWV2YnM1a2p6ZmFOY3hScmM1dUVPY1BaRU5CTGdhU1pBOHRCWFhlaG4xelFQdkhZOVF3dG1TQ2x4ejZEclN5azZsazEzM3hkbEoxdGVMdE44SGlOZjUxSUJOcXp0RWs?oc=5) - Googleニュース サイバーセキュリティ
-- [気象庁 「サイバー攻撃を受けた可能性はない」緊急地震速報を取り消し マグニチュードの過大評価と説明 原因調査中 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1odU5Jd0dYZm82NHBsMlJlZm9YQUlsWFdQbDJXSktvbmhidzE1YmR1OUxBazBDRUNGemhrMTRaa0FaMVMyR0ttcFhjVUt3Y21zSGpoUGxLcUlZQWE3dmpnQjNlR1JLWl9veFNZeFZnQW1oazVFRDVTTFJXXzhaYmc?oc=5) - Googleニュース サイバーセキュリティ
-- [サイバー攻撃による情報流出事案 9月までに454件…去年の1.5倍に 民間調査会社が発表 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tNlBsZ2dUWW1nb1pESGF2M0VmMFN6WUY2VnRqSjhxUS04Y1lTcjVXUWJvaExWSmlocFVfM242cWM1MzZtM2ZuY1NCYXdTdXpJTzhmSFZsRQ?oc=5) - Googleニュース サイバーセキュリティ
-- [不正アクセスの多発受け、通信事業者にサイバー攻撃対策の強化義務…総務省が２２日に有識者会議 - 読売新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rSVNOdC1lSVROR3k5V3h0UHhBWnpLdnhhNXU5eW1ZZ0w3Q0U3dWlta1JjdVFja0gzYjJ2SmZZdjlLLWZicGkwTXJBMFZvMkFZeXRFZkl4TkFPbGk1clAyeUcwYXA?oc=5) - Googleニュース サイバーセキュリティ
-- [気象庁サイバー攻撃否定 SNS上に誤った情報拡散 緊急地震速報取り消し - テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTE05aXBSQmxGMFZWcjNsUDF4OHkyZlZscWpZZ3B5WG9HT0dIN2c5cWp0NXNFb1R5VnZfeTcwWGtBR09vZjhiY0paTWY4WExWd3V3N2hpSER5Q1JfbWdHaXV3ejlFYTNUN29PVGxKc0l0WW5IQQ?oc=5) - Googleニュース サイバーセキュリティ
-- [生成ＡＩ悪用でサイバー攻撃巧妙化 被害防ぐための対策は - khb東日本放送](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWcXozTEM2NlN2VkV2ODE1X3B4N2NxY2w3X04zd2xMdUdDMEpBblNDSThvMG54MnQ3QVM4ZG96WTNhRnU3RzY3M05Nb0RoWjA?oc=5) - Googleニュース サイバーセキュリティ
-- [サイバー攻撃検知、平均1日1165万件 26年7〜9月に発信元が急増 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWWY0NlFKcGp3NVVFSVZpRm9WTUp3WTRiUkN0bEtOU0dmaFJFZmtSNzNrbXp1eVU1cGhEQXJXbHFycEkxMldxSU1MV1BjekZWa3JXdDNxTm40RkVnbkNnR3dJNkFqNk9WZldxSw?oc=5) - Googleニュース サイバーセキュリティ
-- [『緊急地震速報』は”誤報”に日本中が大混乱「サイバー攻撃？」「取り消しで同じ音はビビる」ネット環境もアクセス集中でつながりづらい状況に（中日スポーツ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFB6dldyMGlaeFI4STE1dmlWVHZ0RUUwbXR2b24tQzZPeE9VeGhHODU1OG96LVZsNUdEV29pRjA0alRaeXVhbm94djl0NUdVMXZJaXhQRkdFeWJBSm9OMlk3OEV6Uk5RbkdDOThFamtKYy1GaFE2ZEdIa3RCV0hNWk0?oc=5) - Googleニュース サイバーセキュリティ
-- [不正アクセスによる情報流出「実態解明と注意喚起進める」警察庁長官 - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hek9obEt6SV9uUWNCdzhDNmdNWm5ZTTFJbWlpLWZ0WjdCRFJ0d0NhaFlzalFrSGtfeGd5c0x6VFJZNjk0V0d6cXRBT2QwUjF3X1hRLU1MU19sN1oxV0dHSFFRN0ljdnM?oc=5) - Googleニュース サイバーセキュリティ
-- [気象庁、緊急地震速報の取り消しで「サイバー攻撃」を否定 原因は調査中 - ITmedia](https://news.google.com/rss/articles/CBMiakFVX3lxTFBqOVRPMWpWLUVfV2NfTEN4Z3labm11RDdka1M5Q1k0RnkzVXBVU2RDUVR0dEphYmtaYzdGbFFuX1QzZWxVZjdDWU1UTGdxdXhWUTlqektDdVBLOVh6QmxUWEVsRHc4dTVqX0E?oc=5) - Googleニュース サイバーセキュリティ
-- [京王電鉄Gへのランサムウェア攻撃でハッカー集団「Qilin」が声明 内部資料とされる画像も掲載 京王電鉄は「事実確認中」 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pckxjMG1nbndJSzlZRnk2SFhRQVFNeWFidHVQYUZydnhOTklHRENkQmp1NVFSRTZZRUlqTWFvZGhZVWYtVzBhTTJ1RE9sMVhVbDI4WVZ4aw?oc=5) - Googleニュース サイバーセキュリティ
+- [京王電鉄グループへのランサムウェア攻撃、ロシア系「Qilin」が犯行声明 グループの内部資料とされる画像を公開 - ビジネス+IT](https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NFNXNHJzTXVrODdyemdvekhBRUV5US1lZVVzMVppcFFWNGx6b2RqMTlJQWQ4S3c1QWEybWhyeFctOV83LXhyX2I2R3dWbG5Eakdv?oc=5) - Googleニュース サイバーセキュリティ
+- [システム脆弱性 発見急増 25年 AI普及で4万件超 攻撃リスク高まる - 沖縄タイムス社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9obVZpdlpRU3phaXhEbnVQR09qdGZacVVFeHo0dFZBa05CRUg4c3F2T19ZR1dtZEw1cmRNNGFXMnNHUnhKMG1ybERUVmVLZGJJSE91UndCOFdnU1lSYlE?oc=5) - Googleニュース サイバーセキュリティ
+- [米紙が報じる「日本がサイバー攻撃の格好の標的になる理由」 - クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pdEh5UmJPNklZVUFlVFJncHRoUUluMXF4ZVp5UVByR21kSlU0Qk9BcTJvTFRKQ3V2QnBvSDBOa2tJdTMzcWo5NWdVOU9TQ0RKQnRB?oc=5) - Googleニュース サイバーセキュリティ
+- [Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性 - Publickey](https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2VZb3FLdTVPdnphY3E2XzU5MnpNYzMyVVUySkNwTENlcWZ5Qk5BR3RZNDFoV1psQTBpeVp1TGxYWG51U004dWVJZzBLeXVfVVFSWUoxa3J0eDVCWVhqeEZYOGhvOF9za3VTTlROTWprcUxwODdpX2V3Q2MyQ3g5eQ?oc=5) - Googleニュース サイバーセキュリティ
+- [『VIVANT』銃撃戦、ハッキング…シーズン2で指摘される作りの“粗さ”中国敵視あおる“拷問演出”には批判も（SmartFLASH） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xbmZ2amVJamVRN1NvQ1Y0akQyMmxDbEhfVEtEbGdkdko3OW8xY3lYMHF4eERveEdFQ1g0S2NuWXBJR2NHMWFJOTYyYzU4YWVIQXMtOV8zRmVMX1BvYTRxMlRNYV9sMmdvVGFnMGZETFNQcW1VQUxFb01jUDlLUm8?oc=5) - Googleニュース サイバーセキュリティ
+- [パスワード使い回しが招く「連鎖被害」 情報漏えい時代に個人ができる対策は？ - 西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKU1VHRmJZbUhKWXFDLThHNVRKUTA1NmFSWVo4eFJKWjl3Rk9BcDBFWEhPQnRvSlJFSlVZV0tadl9scTVKNzlfOWF1dkZsYWw5eTE2aWpR?oc=5) - Googleニュース サイバーセキュリティ
+- [【速報】東北電子会社で個人情報漏えいか - 47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRVhwUXV3QjlqQU5LVE5IOTlEbWtvenNXRmJhbTdIb2xTN2ZEbG9MTnJVS1pEekF1QnlqUHZYYlYzSm82MDd5czlDcw?oc=5) - Googleニュース サイバーセキュリティ
+- [AIリスク議論 サイバー攻撃 システムぜい弱性検出後数秒で悪用 - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlZUkxTUdGamZIb0R1VS00Y2QzRTJWSEJBVmlJamE4OS0xUy1KTXYyYlA1VExYNzNWOW1QSGlyLXVnQmxrY0t1Z2JLM0ZQQUNZRTVVaUFlMmZxZjBHVXZz?oc=5) - Googleニュース サイバーセキュリティ
+- [秋田県里親支援センター、１９人の個人情報漏えいか ウェブ事業者へ不正アクセス - 秋田魁新報電子版](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMURSd2QyemJmNjR3VC1qX1RRR1BoekczSURMa0tfNGdOTGJBMUNGdjFHNFJ6a0Zianh1dW5WNXFRYVAxNTJrNFhPZ1c1V002S2x4NU05TDJnd1paTWp5bWJ3?oc=5) - Googleニュース サイバーセキュリティ
 
 ### IT・AI (12件)
 
-- [TDCソフト、組織のAIネイティブ化を「現在地可視化」から「アクション策定」まで一貫支援へ - EnterpriseZine](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MOXZ4dkZNUDJxNlJ1QWx4UDNmSTRuSmZQMF95NEswYmRkUldVWUI2VlA2emxPNmJQNUxkVk5xSG10M0x6OGllS1M5SVZ6VDZpNlMyWDdWU2w1dw?oc=5) - Googleニュース IT・AI
-- [AIアニメ生成 - 無料でAIがアニメーションを生成 ai - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNdnpaRE11RlU1NjktbG4xQTFfZ0VCdVNGZnp4ejZYUUdUMmtGXzhUOHJvZkh2YVlhOHhFNEx3ZWl5RUJ1TkhxeklXc0FZblJnMmtQMHZyUS1mOVhuX2FoMjNpNFFqMlNzcXFzTmlYVUhCb0t0U2llTlJKLXhqbFhWZlJWNzdrUlc3SXJzUUI2Wk5yYlNrUTJxdWpxZjd4RUNhNks1a25jYXZQVXQ4S1pLMTM3N1F5RkV5c2I2SVhVYW0zUFpJaXZMYUEyNm53UW9OSlgwYnlkSi1ZN1UxdVpEbVZsbUR2dXNHOENLUXJWQnJZcE9aQU1ZN2hxaE5FR2F0eHBqSGV3SWVkeU95b1RIc1hBdTJQNHNKSTZYQXZVOVptWWQ2amtVYUR6Rm1jT1NfVVZ2Nk9TVGs4LVdJREVyZi1IT2NUR1lSdXFiZExWV1poYU4xSHoxMktOb3RaSUJqNXhCbQ?oc=5) - Googleニュース IT・AI
-- [(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LNUpnN0duS1V0QldLYnBYLUU0VjBNclVfUjBYeFc0VjhQalpBb3RHdnR1WkZmUE9DTkJUMS1jV2sxQldQeVJQanRFRXFkMlE5WWc?oc=5) - Googleニュース IT・AI
-- [喜多方市の児童ポスター入賞作品に生成AI？指摘相次ぐ 市、誹謗中傷で掲載中止（J-CASTニュース） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFB3WEJBYTY5T0paYjU1VXoycVVCTU41YUI3QjFnVkg2UW4xQ2JBMmZaNHB4WlZLRjgzU3pudTU5RWo4VGU1S2pxbVdNTDJEeHNCNVB2bTNfLUYxTVVJVWtZTVBvUE42dG1lU1gxZkg0TmFDUHhTMHgwaUNXV0lyYWc?oc=5) - Googleニュース IT・AI
-- [「AIラリー再開」7割 第二幕は中間選挙後に プロ71人調査① - 日本経済新聞](https://news.google.com/rss/articles/CBMifkFVX3lxTFA2b0JrQUVGeV9HbE9tcElGYzNMRUpsN21jU1NzX3dUQy1yOGFwMUVrb1ZhcTJUZjFQWU1CMmhiMmZFczdhM2NCMENQSWtTVnc4enpVLXhrQUdlQW83ZHlGdlR6VHFudm04SUpJMVVDcnVsUlBBZkRMU1Z0ZWxldw?oc=5) - Googleニュース IT・AI
-- [米コアウィーブ株12%安、売りやまず 財務体質でAI銘柄の選別色鮮明 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1qMHRNXy0weWY5TFFURGN3QVRxa19kTGNUUFpqbUpJVGpIZnVXUWVXWEhmemROQVIzSFpvcnJWZFdiWHVtZ3RYcUtkUFp4cUxVZnVld1RrUXp1dUpvc0hOWDBNNUhNSl9Lc003aQ?oc=5) - Googleニュース IT・AI
-- [AI時代に見直される「哲学科」の学び 論理学・倫理学を学んだ哲学専攻はアメリカのIT企業で「重宝される」（AERA DIGITAL） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1YOHRNUkV5ZnlfbXItaWVMMnRGNzhKUmp0blBHVEFZZ2g1ZExJYWFreVVnYi1aZHNvajRQdndjQndFZ1gtNUdPZy1SSllaa2htRmUxQnhOTUdPRk5wZGpBdHJwTzg0a1NZWGRrUlVCQ0FJSDFuUVBwckN2dmVvQk0?oc=5) - Googleニュース IT・AI
-- [【今週読まれた記事】AIバブル崩壊と絶大な“実需” 天秤はどちらに傾くか - 株探](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VN2Y3R1E2Y1JVYmROWGdOX1dWa3JPeGY4ZnVFZFFQdURPMmp6NkN0MnlHcXhvdmpnME9TSWZoUS0tYlJSbXRDNzRoYXJ1Q3dEaURLejBfREJBTi0zb1FKaA?oc=5) - Googleニュース IT・AI
-- [AI「ミューズ」が侵食する旅行サイト ブッキングなど株価軒並み下落 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE45ek5xNVYtME9hVktWdzllSXBtSmJYMk5GVF9jQkloY3RPMFBsZ3RqUWlLWHlKS2d3WXBWWmJfLUVzRjd1Y0NFNjZ0amRTb3BobmVsUWp3blJwNkV4cjhlbDFaNnBVMjl3YWxBLQ?oc=5) - Googleニュース IT・AI
-- [北朝鮮、新型ＡＩ誘導魚雷を水中実験 技術改良を検証＝ＫＣＮＡ | ロイター - Reuters](https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTI4TlRVb3RYU00tcHRfSGZaN1ZuRG1taWFDUi1lVXNBdXV5NGVXM0NQN3kza3FKU3VubXJ0bGZTenNzeEQxUjROSUxYRzc5ck9jNnhuT2FvRWplRHp0S2YxN193ZGRFQVVyV2d6Wkh6NkVSVnJtVHNjZ3YyaUJZUmZ3dGE1V2s?oc=5) - Googleニュース IT・AI
-- [米リフレクションAI、「Beam」の重みを公開 Apache 2.0でAWSなど40社超が提供開始 - ビジネス+IT](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jN2lsVzUzZ0ViRE1OU1ZDdzdqOWhPZ3hnQ0I2Nm91dnVjM2lKT0Z4MVNsRWlSQ3NCOHNfWnpCMjF3MXBmQllmeTBPaDZWNXdoVjZZ?oc=5) - Googleニュース IT・AI
-- [SBG、米警備大手買収か AIロボ導入見据え（共同通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE42dkxxVUtRN0tLZWFDN3pfWE5tSG1pTkFadXBuTTZ3VmlnVl9jSUR5SmRpX0ZtT3o0d2RNVEw5UHRfWnNKaGxVdjkwNzhOSjlQTUZQTmdPTnVld29ITWprZElkQ2RsbUQ1d1lTWS1MemRKV3lHbzhjVW1NSU5zLUE?oc=5) - Googleニュース IT・AI
+- [［新機能追加］LINEで簡単、画像でごみ分別検索！ - 東広島市](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUxVNU56QmVTbHVpMUZ6ektaT014dlpkaXVSN09yN1gzbTdoa0NnR1F6a2pqVm80MVhZaVd3X0xsNmtCMUJTaWJpWFRoVlh6VkZueEV6a3RJRy1JbUE1aktFWVBOeXlKQmFjb0pTOV9Gak5xZWFFOGliN0lFMTNZYnpyblRhMkFtWmhJSUFR?oc=5) - Googleニュース IT・AI
+- [「AI」の文言、トランプ政権の意向受け使わず IMF会合の議長声明 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBjUHBhSjVWbU5oN2JxTmRiOW9pZkxVNm1TTXQycXlSM3JOSHdQYVFRNEhzWGJkTk83RlVsSGVvYUZ5YmpRS0RlcDNxUmlHMHdVbi1vZUg3ZVhhUzZTZVhxT3plaVc2M19hYWhQRA?oc=5) - Googleニュース IT・AI
+- [北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IVzFXeDU3cTBBQ1FTLVhXaHlhMGVGZ1AwVl82NzRsM25xaV91MHRBQnhMc2RLUFczdXQwb2dka0MxM1RnbVBZOE5aelJtRXFYbjFhLXl1OA?oc=5) - Googleニュース IT・AI
+- [ITシステムの弱点、発見が急増 全世界、AI普及で2.4倍に - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HQ0RrN1oyS2VKdkh6MTdZWkF3VE05d292eFNYZTZFQngtUGpNWTMta3ZKV1pPYzlrR0xrbTlqQkc2M29QZ1RfOWhyamR0YllE?oc=5) - Googleニュース IT・AI
+- [AIの台頭でウエブサイトのアクセス向上策はSEOからGEOにシフト 対応急務に - 産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnNQMU0xelYxUGRzQjBDNTZNVUpTZ1R5aExiRFJjYjYzbkFfNG13UGNHU2l3Y1gtTEZTZVJ6RXFNbVl1dkZ3SWYxTThJM0xfMW1Fdkw4OVA2bWFfMTFTOWVPVW8xTmZuTnZjTVh6NE5lRmJnbWc?oc=5) - Googleニュース IT・AI
+- [【秋華賞】AI予想 モンローウォーク 能力に疑いの余地なし - スポニチ Sponichi Annex](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZE44VzdSTG8tZzFzNFBMdGhpb0JOMUE5M1hIbk1wTTZqOUs5UWRfcnM1VGctdzdkOHBDbVJlYlVFblR3S1BVWlVSbktzUV9fbmV1SHVzVEhkdi16UHZReDlWSkgxaVB1cHVCVUpDRS1NNWJsWkJaYVh6cTV1OVFmLUYyX0pxTmdGTTJNcg?oc=5) - Googleニュース IT・AI
+- [「完全なアラインメント」は永遠の課題 NVIDIA CEO、AI安全論争に異論 - 株式会社エクサウィザーズ](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCM29XVnR6M3d4WDNYYU1XdHlnM0pYcDcxNDNIOHNncG5kaUptLVAyRHlHOEFGNktSZkVULXJ2Sm4xTkY2OXFqckdCbzM4VTMteXFGb3p3Ui12T09pejJMZkx4N2dRdw?oc=5) - Googleニュース IT・AI
+- [AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1hMLXpLMF93YTBtY25ZUnprd29CeXNZZG1wcGtpdFFLckpyWHp3bjcta1RCdnZSLVNwZzhVOU9iYlJ6aFlFYVVxUHN4UjUwMVIxWWc1c1pQVjlRN0hrT1FDT25zX2RXb1hKVTQ3X1hiQXI3R0R1emFMc1ZVS1p1WW1RbmNYOUlS?oc=5) - Googleニュース IT・AI
+- [トランプ氏がＳＩへの変更指示したＡＩ「人工知能」…ＩＭＦ諮問機関はＡＩ「先進的知能」と表記 - 読売新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CME05bnk3azJUMHU3bXMtZ1J6WF8wMk4wd3NEQ2dPMDRNcHIxMF9EOVJTbjBLTm1XV2lWb1JybllmWHhuTHpnb2tqM2pBWHdPcnJOY0loRnJUZURFcTBPaV9NOVM?oc=5) - Googleニュース IT・AI
+- [「採用面接のAI選考は公平」若手の4割に 人間の評価よりフェア？ - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5OdktqZjJSYkowY201aWItR3hSelNENXdhZVd3RUhaM1BYUUtKMzJMa041RFhNWW5VOHc0czAxS3NoYkRheXlLS0ZRRWxqa2pXUmIzeVpCR3RKWVZUaE02TzRsZkRVODY5ZXVmUw?oc=5) - Googleニュース IT・AI
+- [AIは「異質な知性」 哲学や心理学が理解の突破口に - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1FX1h5MmxoTmpoZW01bXg4RF93QXFrLUxuckFxV19jaTF3QW13b2RDa1AyaW1MUmNQemw1THZlTjFEMFI3RXQwSjQ3U3U1bzRoYTRobW4xUFI1SGstS1FzM1NDVmJWVE1hZEd3Mg?oc=5) - Googleニュース IT・AI
+- [ITシステムの弱点、発見が急増 全世界、AI普及で2.4倍に（共同通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBWWUJEN25QVzcxNUpjQXdyZFRCemRZdmlrak41MVR5bmhBY2RxRnRJV1N1cEgtVVBiRjRCT1RyaldnYW92d3Z4anFXWTZTclUxU1lFWGZxOUthdnJVN1UzMmdmQ25VMUp4RGNrd2w4OTVXZGNNRFNfTzhKWU40QWc?oc=5) - Googleニュース IT・AI
 
-### 科学・宇宙 (13件)
+### 科学・宇宙 (9件)
 
-- [国際映画祭で日本のアニメ作品『我々は宇宙人』が大冠…実写とアニメの溝を壊す、新鋭監督の挑戦（ニューズウィーク日本版） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE14ZXpGd0FxREJVZUgwdmM0UW1QMVJFNWpBQnRKelBfOWZTeHBFOFI4cnd0SlNWR0J4a3dBcU1NZnpXc21jbTVrVTVhYVBCVmdqaXhGUTlxVmlRREk3VkN1QUZFSmFZZGxUVWh4MUVTa1lKeGd0X1VHVkZMN3YxMVk?oc=5) - Googleニュース 科学・宇宙
-- [17日明け方 国際宇宙ステーション(ISS)きぼう 広範囲で観測のチャンス(気象予報士 小野 聡子 2026年10月16日) - tenki.jp](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPVzJfSTAtM1lRUG4tS2VCNXpvRi1UajZfY1U5MWxLbkFsc2drMmpFeDVJNVczSThuTUZWcmY4RDB1Q090N0s4bTRjMUE2cFRwemg4N3cyN3YyMmxJNkx1dktqcTJDZw?oc=5) - Googleニュース 科学・宇宙
-- [オーストラリアの首席科学官が本学を訪問しました - Tohoku University](https://news.google.com/rss/articles/CBMib0FVX3lxTE85Y2kyRng0aHlzRWdxbGVzeXNBQVozSWZqdVVDeUlaa3JjVy1oMDJ3NUoxMHhJUUgwNEVYY1Y4UDlobDZDMDN2M3pvYW1QcHh3bnVHVDNZTEUxbGFjWDdFVmJyNC1ZT1dTV0ZxeVR3bw?oc=5) - Googleニュース 科学・宇宙
-- [極限宇宙の探究、新時代へラ・パルマ島で大口径ガンマ線望遠鏡アレイが完成 - 茨城大学](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqdnozY21tS3dWZ24zNWJoZ0F0NnIxMVdGZzRPRnpwV2JDOEZGUXNlWlN4QVVuYzZKcDFodXRlaTFCWFkwTzRXMXFpWUd1YkVEUHJSdUhjQjlWZEZnMG5SU2d6dFg?oc=5) - Googleニュース 科学・宇宙
-- [関芳弘文部科学大臣記者会見録（令和8年10月16日） - 文部科学省](https://news.google.com/rss/articles/CBMia0FVX3lxTE5qanpTVlMyamJkTlZ6WWdrWUFxdWVKZVMyVWktSDRvcTE5Q0U5OXJ0aGVfOWRINy01MnVqd2FOeDNUbXdESkI2SXhVTlRjeHlOTmJENFNuckNUNUVGczdiZnFybUQxcmN4MkRB?oc=5) - Googleニュース 科学・宇宙
-- [ほっとニュース北海道 【北海道から宇宙へ×ほっとBiz & World】「北海道宇宙サミット」 宇宙港の可能性は NHK ONE 配信中 10/23まで - NHK](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QQVlJRWdYeEd1WWFTc2VLb0JPak9KeTQ4dXBTSHB2UWJLUGJxLTI2S1plQ1BzY3VFQzU3Sjk4bi1nLTBYNFhLM3YzdGVOc1BjbGRGTFRIb2NPazVPUDd1eldqYi1QLTQ?oc=5) - Googleニュース 科学・宇宙
-- [「学んだら、だまされなくなる」 新聞少年だった中東研究者の原点 [東京都] - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HY3NGcGNINVNHSFNwakV1elYtS2dPcElnSHdpTk5FNlpVeHhaWHZySkQzSjZxbjRHZWxpS21yVmp0VGtvNndoQTdYZkN5ang5cWhfYWJZTnZkZjQxZ1JYUHJkT3daXzA?oc=5) - Googleニュース 科学・宇宙
-- [富士フイルムの40代前半、技術・研究開発職の年収は？【1万件の口コミ情報データ】 - ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wMHBGdjduUzdZaEFJZFlnNVd1aTI2Uk1DV1N3SlZ5SXRUaWo1R3BydlBlLUN6WXFhdmthWUtfS0Q5WWZWa2dyOTVDazDSAU9BVV95cUxQWFJBdXJyd3l0ZGxvWm40c1gtRk1GUzh6SHdWVDFKRGtFdFZ5emZveDZXMmMxUTlMWXlldndKM21jeERGSFBoUHRzc09mM3dN?oc=5) - Googleニュース 科学・宇宙
-- [Press Releases - 東京大学 大学院理学系研究科・理学部 - 東京大学](https://news.google.com/rss/articles/CBMiaEFVX3lxTE95eV9WMXFSVHNLZUFrRmFaZ3E0TlJjRFRrX2tjUkhMM2h4MFFldWxpU3ZzVldPT19wSFUtVmJwN0plQ2hkOXlHWExjSFh4NWoxQ2hFTi1ZaHRrUW9qRjlVQ0FPWTBiU181?oc=5) - Googleニュース 科学・宇宙
-- [ＪＡＸＡが民間ロケットの開発を支援 角田宇宙センターに新施設が完成 宮城・角田市 - khb東日本放送](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1keTlOY0xpRjNzTjVRTXJmaEdab09FeXpHcEUybUtCTnNUWnJNYjIxS0htTXNmYkhONmRZbEtjYnNKOHRGTUg2WUN6U3RJb28?oc=5) - Googleニュース 科学・宇宙
-- [自動ドッキング技術実証 JDOCX - JAXA 有人宇宙技術部門](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBONElzU0dUd1VkQ2Rua1NsWGQwY2h6MzVBQllaei1aNWpGeTZfZnZvTFowNzZjcDFyOUVhZktfR1ZwWGowNVNDSzAxWGVsZ052eko3OVFJSnBBRTRXZnpV?oc=5) - Googleニュース 科学・宇宙
-- [宇宙の謎解く望遠鏡完成 北大西洋に、日本が開発主導 - 聖教新聞](https://news.google.com/rss/articles/CBMieEFVX3lxTE5ySXpyZlQ5eDgzY0dGZWpZMGtFY0l5QXREaVUzTnFXXzVxSUhiMmlaRmI1WnVmM2l6bWhvSW5sYlZWbXB1aVBoUzdSR2hwcXQzVmU2dmhxU09seS1TWVBPOG9ETWh5VmZkZWxyX3UwanN6LXk1UjVheg?oc=5) - Googleニュース 科学・宇宙
-- [ニュース :: 東京都立大学 水素エネルギー社会構築推進研究センターが、 国際水素・燃料電池研究機構（GIHF）に参画しました。 ―水素・燃料電池分野における国際的な研究交流・次世代人材育成を推進― - 東京都立大学](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2b0dEdXNtMGF3em5EWURMa0V5ZEpxVC1NbXJkelNVcHh3dG16T2tuVjM2WXhXRTRkMzNDSjlBYlpvMmtfV1VfUjZuemFwY25YWWI1aUpXQQ?oc=5) - Googleニュース 科学・宇宙
+- [「緑に見える星」初めて発見 研究 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Wazl2THRNM1h1ZGdwM2hhSEt1ZXdVcTlTZHhXNG1QVWdUcS0tRnJab2JYNUY0Um84LWhWM1gwb21VYmVMNW1weGFxeFBfb1N5?oc=5) - Googleニュース 科学・宇宙
+- [『我々は宇宙人』シッチェス映画祭で最優秀長編アニメーション映画賞 30歳・門脇康平監督、日本人最年少受賞 - オリコンニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XdDJ5enFRRHpKbkZFYUhTc3hBRnA1dDNheEZFWE1PSGMyUFlNVEl3RU9pMzh2dHNZd3ZiUV9hX0xGS1plOFluQ1VmaWI2VjFVWm55amE5TEgydDZIb3dYNWtnMFc?oc=5) - Googleニュース 科学・宇宙
+- [TVアニメ「Dr.STONE」展 科学王国ミュージアム | 株式会社小学館集英社プロダクションのプレスリリース - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1FVWlmNTVHQU14cm5Bb3hwcmZNVlRhcXhqdURFalRXNGZRWnBjbTFPTWNHSEVDOWpuUHhRRUQ1UVJvaEtuNWYzRTBuZHlNU0JkQjV1aGV2ZmdCMWw1Wk1WeGk4T1Q1Mm1mQlE?oc=5) - Googleニュース 科学・宇宙
+- [防衛省、衛星を迅速に打ち上げるための調査研究を開始｜民間ロケット活用も視野 - SPACE CONNECT](https://news.google.com/rss/articles/CBMiTEFVX3lxTE14UnpZVGZpNEpMb2tJdWVYbDNncHdDRjRiejgxMEZQOGh4U0Q0QXZfWjU1U2JzRUVza2lETFdWbm1DQXRxaG9hMklxVGw?oc=5) - Googleニュース 科学・宇宙
+- [社説：米国産ジャガイモの輸入 拙速避け科学的な判断を - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pOUNGb19IdThMcFAwVGtRY2pFRmI5Z3p6QndtVl9XQ1M3RVBxcGV3bE9vY3B0ei1OejBfWGg0NWFMeHJsNWViLTgybFhZMEUzRWNyNzNMOEhVMVdKcnhjZU1yUXd5SXdN?oc=5) - Googleニュース 科学・宇宙
+- [韓国の超小型衛星、宇宙から競技場の白線まで撮影…重さ100キロ未満の観測技術 - AFPBB News](https://news.google.com/rss/articles/CBMickFVX3lxTE5GYUV4RDZ2UFliT3JXUTR5OFlyR3ppUTA4MTh4aGFPaG1LZFNoVllyVjBqb25iNlJJYmxjYmRGemd4aVU5UHVPYVAtcWduZUpweThoTzNrYkt1c3Z6WTdJRTNZR0x2YmpkaE42U1ZMa0FRd9IBVEFVX3lxTE0wcm55Rnk0SFY5dW45ak12NkpNcjY1OHV4aURtajFpcmN3LW5tNklyQ1F5OEtsa2lZa08tdkhmRkd6eFpnOUVSeGZlUlV6WWlmRDJfaQ?oc=5) - Googleニュース 科学・宇宙
+- [スペースX、アメリカ宇宙軍の「USSF-481」を実施 「Starshield」を利用した複数の衛星か - sorae 宇宙へのポータルサイト](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xMnBER1Q2clJQcklfWExpVnBSMHYtZ01FN2phUlhVV29MX3JuZ1k1am9hYUdnYlVLZTd4QlNONnVZQk1KSFNkaWM2MXpGdFZFWDZvU2hkVHE?oc=5) - Googleニュース 科学・宇宙
+- [屋上緑化の保水機能、都市型水害を防ぐ一手となるか 三重大と企業が共同で実証研究開始 - 中日新聞Web](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFekhaV0RFVXdNRUpjdXlueUx0Zm45LUJqSm9veDd4eUpteUtQamRBN2xGeWE4c3VyMWxOZ1pQRDJ0bi1FR2hMSzB5bndaRVBjVlp6cw?oc=5) - Googleニュース 科学・宇宙
+- [韓国の超小型衛星、宇宙から競技場の白線まで撮影…重さ100キロ未満の観測技術（KOREA WAVE） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBYUWg0VVpoMUNiZXJLdDdReVowZFIwejlLT3ptNE1kcUU4VFhyd05FMUJZa1Z1THZvQUdUbTV1ZFNNX0VsZGpXVEIxM0lVSUhMSW5JRWNZS2Y2aVJCUzZCRGJvSlFxV0RPRGktelB3RVNoUGtfTWE3aDZrN1ZvMGs?oc=5) - Googleニュース 科学・宇宙
 
-### 医療・健康 (13件)
+### 医療・健康 (8件)
 
-- [破産者も生むアメリカの医療費 救急外来1回19万円「幸せを制限」 [アメリカ中間選挙] - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tNVB6NmJzZXdMZDRPNE5aZXFQSkxyOEJoamVJZFpHOHVIWF9TSUZSN1JMdTBGeGJrYUJaMkdla2M4dmtqV3FUeVBnTmQ2MDExcG5ieG4ycTlSMUFfR2tsd20xRWQzZ00?oc=5) - Googleニュース 医療・健康
-- [高齢者搬送受け医療機関新設を 救急医療基本法で学会案まとめる（共同通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5iVnh1U1kwMF9XckhxdnBvMTZOYzZ4TDdTUlRZRVRQN1FpU1d5ZzJqYUpVY0Z6X2Q1X2ZWUXJzdHNqLXMtTm5BS0QyTjJzTlJqOU8xb25YSGlVaUlONzdXMUl1SWpLSGJnZlhydDg0R1NuVGdvS08wMmRZS3dTWGc?oc=5) - Googleニュース 医療・健康
-- [後期高齢者の金融所得を医療費負担に反映 29年夏開始へ 厚労省 - テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTE1BM0dwaVpVUklkSERaWl9BYm0xalA3d0ZzcTFpeHNDd0Y2eFJleVFMWU9ZcXJ6d0lQM05vNm5jbDk0Qm1nT25OWmpVWWc5WmZCNng2bE1qSVFYeDBBZHVzbXFUNmN5clkxRUM1YWN1ZVQydw?oc=5) - Googleニュース 医療・健康
-- [医療データ共有 新法人 藤田医科大など - 読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTFAtQmxrMGhKeG9OY0puUkh6WTdETThESVFfSmxuTFF2X01yMEt1eHVBbkpuazFtdERnRW1WY0J5WWx0VmthX3BNTWZPTmNxaEV6cTBGcElGakh6SENxY1NkbmZjTVdEY0VHZEdnMVJ3?oc=5) - Googleニュース 医療・健康
-- [「日頃の通院や健康管理でデジタルサービスは利用されていますか？」オンコロ・ワンクエスチョンvol.143 - がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOUTNBOWxldDFkSU9qb0dWZl93Ym9TZUVEa1Y1N0pZRlMtTUNrWjYzWFdOQnhyalg2TU9GdHZuXzZ6QnEyMW16NHFXYmlidGNzTTVLQ280NjdYSzBLa3c?oc=5) - Googleニュース 医療・健康
-- [避難民医療支援のミャンマー人医師が講演 人権尊重訴え - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RSWlIX3hST3JVRXpPcVAxcHNIX0RlclMxZ3hGUlM0Mmljb3pYQW83NVU2MFA1cDVfUmtvOFVXTGp3U3NjS3lkNl91cjh2OGE3ZnlvUnlyUEF2R2taQUhV?oc=5) - Googleニュース 医療・健康
-- [道北の医療を守る。新しい心臓エコー装置導入にご支援を - クラウドファンディング - READYFOR](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NZ3dyVmNzOWQ0emxwOXE2LWU0TG1XN2RBem93Mnd2THdpRUZaRVNJa3dzbUR6UjlfaEFhaGgwOUdLbUZnRkxKT1JVRVF2cldsNGUw?oc=5) - Googleニュース 医療・健康
-- [［山梨は塩分取り過ぎ］健康寿命延伸へ減塩意識を - sannichi.co.jp](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FYy1LVFFhSExLTl9oSXhHMFhPSUh3aEZGWHBzbTJhckl6WWtLbUFrUlV5QnRoY21OMjVXTWVfbXJyTHhXMzdkYUJLdVpvVkY5UGQtWHFKTk9jZDlGcm1QWFV4WEI?oc=5) - Googleニュース 医療・健康
-- [大きなバストの健康・痛み軽減・サポートガイド2026 ai - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQVTh1RWlZc0FZWkxWVDZ0anNqWjRxNl9DNHZMdnhwbUhHUmNUOVdUcjFYTmRMeTd2UVZkeWdxTUlhRmY1VGxIRWM0eFlyRXFkSlNXN2k5UzFtU3p0eWJsMWNwVDJCb29EYU1wc1lJalJOMDYyaEVWMHNUd05KemhLV3RJUHZRU2YzaC1VcmQtbTJKNUQ1UDBUQnR6Y1BtYTJVaW4tUkdsT2xvcXJ0RGl1S3FHLS1famNRV1ZqRVNndnRDWEI3c21UMW5ITnVGVU1PSVEwc0tLZzAyOEFtZDJKaWZuOTh6VWhwVDVaRXE0S2VzcjZrbFRydHhNV3hBdnk4TExBTzRyQVFGRmJsdUtEWDJUc3RPSFNCbkZxb1kzdS02dzQ3Xy1rblh6QTNGZm1GblNVNkk1RDRacEpPMGxjMTRWd2RqSnBRREc0UEdhM2kxd1VPa2hONjliTEZMZWM?oc=5) - Googleニュース 医療・健康
-- [医学部付属病院認知症疾患医療センターが認知症の日・世界アルツハイマーデーの関連企画として特別講演を実施しました - 東海大学](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMjRhSDFQNkIzXzhaUG5xTnZZUDZKNDU2SGxQYXZCUkpKaWNtdmxoODA5OGFYYkRYT2JOaTZUTkpUNnlFVkZUOUFSc3JlbEgtbDR6ZklCc0laQ1I3LWc?oc=5) - Googleニュース 医療・健康
-- [京都市立病院の「病床4割削減」「周産期医療廃止」打ち出す 審議会が答申、市が規模縮小案を策定へ - 京都新聞デジタル](https://news.google.com/rss/articles/CBMiWEFVX3lxTE14bW95RGVKRFlVLWU0U1EzTlRnRnYzOFFqQVVENnZjcHZiWjk0TVhMVWNLclljRVUwMjVwYTYzUk1VcUFOSnhSWk4xUjFENVhfbnRvWUJ0VzM?oc=5) - Googleニュース 医療・健康
-- [不正アクセスで最大787医療機関で情報漏えいか 病院の予約システムダウン、すべて電話対応に 医療現場にも影響 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTlREOW9FbmpsN2hXT08tTUNvT1llR09kZ3ItbGQyaEFnUjM2dkFPZUJMV081Ni1UU1VWeDhJQ3MxSmhpMTlpOXBOMWZMYmJuTWFZYWlEamRndUsxQ29VUjc0a05mVU9BRzlZMDhQYnUxdjBnVEZENFJjWkJabzA?oc=5) - Googleニュース 医療・健康
-- [「なんで僕だけ」小5息子に異変 はしか感染が変えた家族の日々 - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81d0t0Sk1nVHE2QS1iWGV3N0lRdlJ3QklWbWo4ZWxXd3FxRDQzZkR2eGQ4MHZCY3F6bmFxaHMxTHVweDBMN0MxQ20zMUtBa1FCSWtiMXFRejF3YjJnUUs2UUhtVm54MjA?oc=5) - Googleニュース 医療・健康
+- [~!@【無料生配信!】 南部町緑水湖健康マラソン 2026 地上波テレビ放送・中継・ネット配信｜実況・解説｜順位表 2026年10月18日 - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMizgJBVV95cUxOQ3dsVHNsd3BaNmdrRzhFanZCUWZsaEZHU184STR2bUI5TEdZcjlDTGx0SExkUk5hdkMtOEthU1JfQll6SW5sTkFJV0lNVjQtOWJyT1hUQW15UDh1WGVRMVdUQ0pLU2ZSU1ZObW50N0F0bzhuUzlpTnNkYXkwS1A5RlJIbGk0M3ZhTUYybVM0ZnFZc3VibGZQRm9PQ1pzTmE4c0drYXpYbGJCLVlDNlJIeG1aWHBhcllFampEMG1TOFh6T1B3UWxiNkxZcjR1YTZYSDhvbkFuUmdRbkpHRkRSa3Z2WmhneldNbElHM3VuUWFUelRySzZBTmJNUDhhaUk1alVZNllVRldkSXF3Y2x6RkxzelJ3TGUyel9yOGV4WDRxdTRucjNWRU5wWFFFelI2YXhIaGxvUkdOQzk3Wk9NYURMU0JiWUJkVWNQY1lR?oc=5) - Googleニュース 医療・健康
+- [1-9月「医療機関」倒産 過去最多の59件 身近なクリニック、歯科医院で苦境が鮮明（東京商工リサーチ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YajJqQUhOZnJaTHZkNFItZmQ0bTZWZG9LZUZhelVpQ3VGUHR6bFJVQlhCWlpMX2NPOWI4MDR4NFFjVy1CTnZJck5iT3ZyR0NxTnh5MEpxaThSb3NiNDFYTGYzY1BxYlVROE5FV2FBM0poVWNZZDBHbFh0dm1uZVk?oc=5) - Googleニュース 医療・健康
+- [はしか感染から16年、奪われた未来 高2娘が伝えた「ぜんぶいや」 - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YdV9GZGJZZm42aklIcnpPcnRfN25Jem9wTkdaMlRIZGJUWjlrZmJJV3FHYjVKS25oMjR0M1JZcEx4ajhnUjNlN1Nnb2dYVGYzbXFsY2NHMWQ4M1drbGpqYTNoYWVyVHc?oc=5) - Googleニュース 医療・健康
+- [［あすへの考］ＡＩで変わる医療の未来…編集委員室 猪熊律子 - 読売新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE85dlRUdExQRlluNlhYc0RFQkkyX1M2NWZrYk5iUVJCV1VmUFdKVFZ4c2hLaU56cnJna2RkWl9mdXBvaERFdDdrczZXdzdVQ0t1RWlKQjNESFN1c1Z2Z3g2bmVEN3k?oc=5) - Googleニュース 医療・健康
+- [高齢者搬送 受け皿確保を 救急医療基本法で学会案 - 聖教新聞](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zX3F2SEIxaDNKemdGeWZqdEtCR2ROWlZ6TUI5ZG94T2hyNlJQM3NFbm1ENE9BN2tBREp0NUZDNEZHSGZuOTd2anB5V1pza0FtNFF6QU5JZTFBVUUyQ1l4S29RREQtb0xKMzluNU1TMVpoNnotT2hlZA?oc=5) - Googleニュース 医療・健康
+- [医療相談会開催のご案内 - 移住連](https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2dTdHY2lLTndSSS1adkR4XzAwWjNwVEptT2c3ME1hdnMwNlJuTWpGWWtfTFVrNzZRdkFydEVWSkNTY0ZyVThmZDZlaDZkQTVTQ2YxejFLbXM?oc=5) - Googleニュース 医療・健康
+- [【医師に聞く】避難生活で生じる“誤えん性肺炎”や“血栓症”…健康被害防止へ何が必要？医師に聞く災害への備え「きょうから準備を」 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE0xVXdFUFF0UlJhdHNhN0g2c3lDaVdySF94UG0zc214b0R6ZDRWQWpQaTA3T0RVQVpHcnZkUkxOWUxGSHJ1SmJwVDBrLWg1OUJCXy1sZGhMNzNsMlZqMHBsZTBSREJjQjV5cjFKRGRRaF9rcmNvQ3lhTFVpdVY1SXM?oc=5) - Googleニュース 医療・健康
+- [~!@【地上波】 南部町緑水湖健康マラソン 2026 ライブ, テレビ放送 ライブ配信 2026年10月18日 - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMizgJBVV95cUxNSDFSZnd1Y2Z0NnV4dl8ydHAxR296RjFMZ3NoOWNGbUxCUjVTelFubk40LUFxQmc5RmdPMUVqUUtYSzRqMDVndEFUcVhWUTJkSEdRX0lUb1JkSDU2T2xCLWZINWhHNUtpcEYzS0d4OERtSlF1Z2poandOYmhIcGxqU1NrSHpPTzZ4ZlJzY1RjM09GYkh2eEJfY0dybGxzQ3JYcjRtcHZxWEpveW9FMV90eWZaWFJkQmxPTGRGd29kSXlJRFVnbVBNTS1uTlRSTkFrTUotT3JIclRDbUxDeFhreWo0WGhnWnU0QzhWaVEyNlRrU0I5VWtkNzR4RUxvTlZXbWp1eHNGbXQzcThpNVVBWkZHVWI4QzBhTG9rTmNXcjBxZVJyamt4c041REV0QV9xUW9kaGFyWlZvQWNhcDFGMzNFSExhTVRTSW1GZkVB?oc=5) - Googleニュース 医療・健康
 
-### アニメ・漫画 (13件)
+### アニメ・漫画 (12件)
 
-- [人気声優・遊佐浩二が29歳差婚！過去の31歳差に続く声優界の「年の差婚」に「夢あるな」ネット沸く（SmartFLASH） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE53akpsMkdxN05KYkJqcE4zQmhwQmx3MHBWSXd1SDNULWg2bU81dzRla0RwVlU1NkJXa2NQUVlEeHZBbmo0cDhfUEUzU0VQSjFDbHV6d2ViY3YzUndaemNBODBpSDBfOWNUZDVvZWhFWldzaEk3VGZPUzIzZzFBSjg?oc=5) - Googleニュース アニメ・漫画
-- [全ての学びを漫画で楽しく。そんなアプリを作りたい。 - クラウドファンディング - READYFOR](https://news.google.com/rss/articles/CBMiTEFVX3lxTE13YUVHOUlVOFFSYjJQOVhxZ3ZDME5aTXBCQUMxRV9EZWkwdzJSeWE0dGpEdjdFQl8xWmdzUzJXMGRIXzJ1QWxRa0VtS28?oc=5) - Googleニュース アニメ・漫画
-- [本日10月17日（土）放送開始の2026年秋アニメ - ナタリー](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4TVJBTnBfTDc1LTlOX29QUTFYMF9IbW5FS0lHcGVfZnBRci1RNFZlbm5GbTh1dzRoMFQ4MHVsa0xHamw3c2NUMnd0RE4?oc=5) - Googleニュース アニメ・漫画
-- [亡くなった声優の声、AIでの再現は原則禁止 日俳連が新指針 - CNET Japan](https://news.google.com/rss/articles/CBMiUkFVX3lxTE81VHd6MzNpT0lDdV9Jc215aFZra2RnVjhUT1F5VUJMLWxyS1JPTm1FZ0pnNFhrekdxMGx4U01yWXZxOFB0Wkt1Yy1NamhBelB0Tmc?oc=5) - Googleニュース アニメ・漫画
-- [『幸せカナコの殺し屋生活』アニメ化で来年4月放送 PV公開で出演は集貝はな、鈴木崚汰、諏訪部順一 - オリコンニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE54Njg5YnQ3b0xNVVByRkFCdzJ1LTdnRHkxSnYwcHMwS2tXNWZ2Zm9DNVdQcFJLWFl4ejJvY1lNYnpoNHk0WHV5eTlpakN5S2FtNDJ1clBn?oc=5) - Googleニュース アニメ・漫画
-- [＜BLEACH 千年血戦篇＞テレビアニメ完結まで“残り2話” 2週連続で月曜深夜放送 最後の戦いへ “THE LAST PV”公開 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBJWmlEclZaTDZOUmFNb0JzOWttTGUzMTNaX1JlUm1jcy1TRVBSM3hWQmRxN3NPdEFQbUJyQmtGRlhNQ0VSLUJoQUZCbWZlOGlZNGduODNfY1MtcVg3WVU5UTJ5T3hSU1J4a2N2WkVZUldmUVMyZjdHWmgwTVowaWc?oc=5) - Googleニュース アニメ・漫画
-- [本日10月17日（土）放送開始の2026年秋アニメ（コミックナタリー） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBHVERQSlZJNkIyc3dHVGRQZk5Udi1fbEQ1NVBadTZ4OUtsRXhVZkRKU2lMemhLbURTbFhkWjNZM09WZW1mVnpSYzJVWEhJa2RPby00bjJKSUc0YkdRQUxBOVlMTXNEM3k3OUxZamNkZjFFcFBoNzNaQXZZR1UyV3M?oc=5) - Googleニュース アニメ・漫画
-- [『結界師』アニメ放送開始から20年 原作者・田辺イエロウがSNSでコメント「やばー。滅！」（日テレNEWS NNN） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wWS1wRVh0bEp5cDdraVI2dHhROEJnMk56QVNhQzR2dGsyNXVGeUdwUmhKQjBuV0YxMWw4VktEanpLal9uQXNtdXJCcGVMVnZBYTduNWpiUjI2R08xdmdGMndibjdXT1R3cWdXei0yRGlpYWZFTkFXbGFpMDZwbG8?oc=5) - Googleニュース アニメ・漫画
-- [NSFW対応の画像生成AI｜アニメキャラ生成マニア {EFV014s} - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMi6wJBVV95cUxPNWhXYVdBby16ZFVuNHNyS1BNVGlWalBnZG9DcHV1Mm5ieVB0VDR4VXc0T25zT21PQnVtSzhtSVBZMW9McnNLVlhZSk1UeVRjYkVNZ1I3LWtnUEZreTZOV1FDV0hpN0hjV2E1R2pDZTdaX0ZIdXhtMGxzSi1ydWtRQlpfZjZYbE12YVMzU1ZEYUJMeFdZbHVvNDkzMDhOY1NIM0lMeFJ3eThPai1RcGVORThUQ3F2RWdZbHhvUENtMm1XRzFqd3l4X3F4NFFCZy1jSk5pdzBvRDhjVDJrS3NseHNoOWt3V2RxZ1A4aV9Jb1RFZjFHVTg3M3VsZmNJV3BnYzZDT0VHeVg0RDFBWTlLOGZFTXdSbFIzT09zS2VkMVpFMDRwdTRVUVlPd2lBV0l4Nnc4dFp0dEd1WjBFNkRVUVQxengyOEdjMHliYWpjUmtIMDdfOWpGTjV0bm5xTzBvSmR0TWlqTWxkdkU?oc=5) - Googleニュース アニメ・漫画
-- [細部から伝わる、くるみちゃんとの“格差”…アニメ『FX戦士くるみちゃん』クールなお姉さんキャラ・小金萌智子は最凶フレネミー!? - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE43YVM3V0tIYkR6ZGdfeWwyQUFEOGJuWjVQenhyVjEwSzk3c3VOd3ZBanZpSXp0aExyaDI1V1JtVzg3d0VxRkRBdm1mTHIyR0NkY0JaY0hhMm9WQ19fRElEc0N5RHRHSkNqM2tEUXZZeXh3cTFIcE5uNG5tZ2hkOWM?oc=5) - Googleニュース アニメ・漫画
-- [荒川弘版『アルスラーン戦記』25巻が初登場 アニメ1期の無料公開も 『ゆるキャン△』最新刊もランクイン［コミックスベストセラー］ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9HamVHWW80a0xXazVaM1VKNEVGTXRmbEViNnByOG81dVZIWGNmY3gzdVl4TGhJSC1QbDVTNU9NT19NWkpuWGpEbnIwVjhSMDlOQ2gxencxTGJ2YWE4OXJIZ2tmT2pHd0RWcEtOYzMtbDBGSEZsTnVMMmwtNTJoaVU?oc=5) - Googleニュース アニメ・漫画
-- [【ネコ漫画】リビングで気持ちよく寝る愛猫!?「猫あるあるすぎる…」などの共感コメント＆7万超えの大反響（ウォーカープラス） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBzSDJLd3NXNGNFYkNrVEozQmhYdmJMNHlQS1FzQS1fbFRVaDI1QWF0QS1wNHVtYXZXWjE1dWpLTjFLQ2hyelc3V1VEMjVSQ2g0YTJzTU5lZGN0OV9Bc0F2LWJJVENBRFczNlpkazIzYkFHR0xPWHhBSDhOQWs4ZW8?oc=5) - Googleニュース アニメ・漫画
-- [「週刊少年ジャンプ」漫画家と「メロン界のアイドル」が結婚 5年間「お互いのファン」だった2人、ファーストキスは結婚式【新婚さん】 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1lX3ZEaE9nY2pSRWNxeTM0eXdWb0R0ODZ4SmhaTG1qajVZczVSdl9jeVFHdEZJTGZvdkFRVWtCOFFqOHpZYnFwbzVMbDdtNF85dzZ5S0tHUWpUMFlHLUZUTV9CVHBaWlNmOE1TMmZSdlNTOGlZYU84NGtiUF9ENU0?oc=5) - Googleニュース アニメ・漫画
+- [マチアソビ×ニュータイプ ニュータイプアニメアワード発表イベント - ABEMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVlB3dHJvVWl3Q1NQN0lsY0NFdGQzVzBkb2JBYXRIUjBCWUdFZGRFdGMteC1xVlBaR0pHamRfQXJiaDNtekhON2t3ckRSWlNXb1UxYWMzWHBPbTMzYnJJZ0FvMFB6cDhU?oc=5) - Googleニュース アニメ・漫画
+- [無料で普通の動画を一瞬でアニメ動画にできる動画生成AI - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMinwJBVV95cUxObEJFcWZjejlPQnBSdnZUN3JCNDV1TDF1d3U4QlhCYXd1N0hmcHR6enByZ1pWaTgyTzVoWUp1MVRidTNLRHR0dExOSmV4TVF2cm5JUkp3UHNaZ09adjZ1bnZ4ME4zZ2I5WGg2Sno2UTZ2eTh0djgzSGY5WXpjeE5UOU9DUzhPcG5uZnp1eWhlYjRQRmVXMUtuQkd3cW83b3liZ1A4SmNMdWowbE53Q0Zxb0tXek02V3lqbUZvUXp4a0t3dXZzRTBpWUFCUUtiSmptRV9xMVN6WXgtQjlyczdCZTZDRGVCWlVVdzF6SG1sR3ozTmhVZUhGcmNsS29IbGVEczNkcFZYSmhnZU1UZHh1Xy11d3ZPeVF4d1RGX2hiNA?oc=5) - Googleニュース アニメ・漫画
+- [アメリカで日本の漫画が「禁書」に…規制は子どもを“守る”のか、“成長の機会を奪う”のか？ 大人の向き合い方を議論 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUzAtaFpVNGx4ODdoblRjV3FmY3NNS2VHcTBNOThvNGNaa2Q3VHF2em5uYmNuamc1ZUhSUmgxWEtnY1NfM2dIZC1DRkp4ODlCNGVkT1RkZldMOUdhNC1tTWEta0tmaC02ZzBudDhSdVlVMHp1eFhvZ1g3ZEdWWXM?oc=5) - Googleニュース アニメ・漫画
+- [アニメ「恐怖コレクター」ノンクレジット映像公開！ - NHK](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KbDBNM1JoM3pQU0dTRjRTVnRTZk9EVVhhdDQycXE5VVRTaGNHY3FvMXVHZ0xwbEZiRndHYkRyeEZEXzlvaUlXOHdxUTY?oc=5) - Googleニュース アニメ・漫画
+- [転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２９【アガルアニメ】 - TBSテレビ](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aNnNqWGZBN2pxbGJBXy1LcTNaUTlpdGtESFlQNG4xTHNkMmFHVU9BeEstYVA0ZGx4V0VSd3NqWGwzYWJueFRkVi1XQW9RMmdiOVJ6bXRn?oc=5) - Googleニュース アニメ・漫画
+- [80年代漫画をリマスター 心斎橋で奥平イラ個展（FINDERS） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE53Z21qbThmalV3SDBudW5KYXRnMm5HZU9ndDhpNDFobUNXLVBPS0xtSkpWWEY0V0t1X0tzaXlEaF9uZzRlTmdCemNFZGNGRFpjMm1pNl9yNGhmNDB4SVRyenBWVHB4V3FMSGg4N0JfVDZwQkFxTXFwa1pfalU0UWM?oc=5) - Googleニュース アニメ・漫画
+- [AIアニメ画像ジェネレーターのレビュー＆比較サイト - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMilwJBVV95cUxQVDk4SlB4cVJOZ3BzSVRFbGVJWHJvUzlUNEhlTFd3NS14SUZYbnNHSnJDeXptZFNDWnhibEN6a0IxLXJlTGtWZFM4NTUycWR5RXpFbGdFTk1FWXhDTy0yQWxSdlBLWkV1WVlWTGk0ZmRQM1M3LUYtNkJQUmFBUUZUVnNQYUlDeHphWTB0MkY0TjFQNlpWQTNpdGtCVWQ3MDl1czVZQXZjMERJNVp3c29zeTVLZXhpYXFGT3d3STNFb1Z2OTMtQzgxS01ocXpCZ2VQRnJuRk40XzNObExPSzRKcTZYZEl1Y1hyUW9jMEZOb3pYaWFiV2Y3bEdSQzhTTFo1TmRUYnV1ZUl4TDcyRmpTSGxrQnYzY28?oc=5) - Googleニュース アニメ・漫画
+- [【漫画】あまり仲よくない友人の結婚式を断った… アラサー女性の決断に1.5万いいね「行って後悔したことある」【作者取材】 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jSnV5V0JjSGN4YThnTnZBYzNKOHhsMEFhWFZrd1lWcngzVHZLeVlUS0ZGOTU4MTduSkljMGV0U2lfMmhWWEFMSVJSZGZIcEVSb1ppMlV0RFc2eW9sdnRVbHZiZHFvN01jdm54Z2hNOEpTWlZON2tMR0xpeFU0Y0U?oc=5) - Googleニュース アニメ・漫画
+- [2026年に使えるトップ10のNSFWアニメAIアートジェネレーター - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMisAJBVV95cUxOVXlrNUNrN21NMXg1UWl3YlptVWp6T0FMV1NwYWowVUw1eVM5aldBYjNlWlpVRlY1all1QWdyakJscjg2bDNOdDBHbjgyOHpOYXNWWGdUN0pwcFJzUmVaLUg3SldKVUpmLVlmcWVadlE2aE9McVB4ZXpJU2NPcndkaGNVYkEzTEI1RDBrY2cwWkhkT1NpdXptOFBtNnVfUnpCbC1oWlI2QWs2LTR4OXpiTzVDNUQzV182ZzR2eF9wZ1UzSVRyNGh3WHZGUkp5Z01PNHliOU8wdnRFOFZFT2dfNFF1YlU4SnI5TWxMMV9TREh1b3NkLWFYM2VrUmR2ZExXankwWDRQRnBuQ21VdDRiSXNFZG44YVc3dmNSUTJPQlBCdnNUaVR6cEozMXpNUVhY?oc=5) - Googleニュース アニメ・漫画
+- [ひろゆき氏が評価する人気漫画とは？「最後に壮大な伏線を回収…綺麗な終わり方。良き」（スポニチアネックス） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZRVgyaHBkQ3RENTBnOVJYaFpzTTZBNlBlek1Kczlna2pZMnVkZ1liN1dlemtDbl85ZHVZdzZnRGRvaGZkZHpkdTVPWjh4SW9vNjNGWnpuNUxQSkg4TmU0OXRjd1hBQU9KdHlRbF9BaHByaGFFMWZvU0FZNGtSYWs?oc=5) - Googleニュース アニメ・漫画
+- [不屈のアベンジヒーローとUWFもこなす声優が新王者決定トーナメント1回戦を突破！ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE54NVFKWHJSNmFwMkVIQWR6WnBNRXQwMlhHaWlILU9RanFBZW1qVFNVTVpvc1hMLV9Fb0EzQmRBa1JEMzZtM0FianVFMjJiejF0YV9vZ2loUEUwZnhsRjIzazREdFJNcFZMbFRjX1pKRjYtVjZZeDhDd3JHYmZUeUU?oc=5) - Googleニュース アニメ・漫画
+- [＜魔法騎士レイアース＞29年ぶり新作アニメ プレセア、モコナとの出会い 武器を手にした光たち 第3話「運命共同体」カット公開 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE41elN5NENWWktzUDR1M09yVE82OWJMZTlIX2pMQ1paaVZQeGZMX2swNTdjVU1naGN4MDk4SnViaWt2YS1SWUk0OEF2aDBjWlRiSWJSaHdGQTRMOWgwNmFSUlpGRWQtNXdlQVVjSUtlODVMSmlUa1NKblh6YVhtSmM?oc=5) - Googleニュース アニメ・漫画
 
-### 歴史・考古 (13件)
+### 歴史・考古 (12件)
 
-- [R8浦田遺跡現地説明会 - 燕市](https://news.google.com/rss/articles/CBMifEFVX3lxTE9nYXZncGVmaWpYLTlSRy15QlluZzkybHpZbHIwa3lyV1pZYWtNUEtyd001YlQ3b0dmZkhfY25tUGNkd0tTQ0pWNUF4dGozNU4yMFNNUjRRdGdWOWVRYnYyQ19mREFQcjdkcWcxRUl4TF9TNFBRUzlGdnZGWkM?oc=5) - Googleニュース 歴史・考古
-- [歴史認識「反省なんかしておりません」 過去の発言問われた首相は… - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yR19sRk9peFdaX0x3SGJodjZXVHNYT1dLS0FSVDZfaHBtNEJrazdpR2RBVXdNZHNacWdHVUFOQ2NVbkxFbFdBeEVrZll1bDd1dHk3YkFXcEVUUjhOUVkzTktPRjRVcDQ?oc=5) - Googleニュース 歴史・考古
-- [国史跡「フルスト原遺跡」・周辺施設 不法投棄、器物損壊相次ぐ - 八重山毎日新聞](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhTGV5Q0hIcFlyb05pSVljNlF1ckJrcWJROXg3QzBjajEzWUw0dy1HRzNiVXdfSzAtR25QZGhnWk9EVkNhNjdxX29EeWZ5aVVi?oc=5) - Googleニュース 歴史・考古
-- [秋月の乱150年 歴史迫る 福岡・朝倉市の秋月博物館で10月17日から特別展 初公開の遺品、資料など70点 - 西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oaDJzaU5KUVRyeUg4VHl2akRTOHFlTF9RejdPOGI0THRZZ2thNVBYTkJPaTctQ3FxaFZxQ0dMOEp4MEVaOXR5czVFaEJwSzlWYmpZY2l3?oc=5) - Googleニュース 歴史・考古
-- [「歴史は巻き戻せない」 シティの不正問題に元マンU指揮官ファン・ハールが当時の苦悩を激白「苦しみの決定的な要因に」 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5OU2c2ckRDZ3FEYWRBN0VSb2U0NlJkOFQ2blF5bWw3UTFwUzVrc193d2tGUUQ3VVJzRU5SVlJQLWFTTVBmNlp4UE4zanZWaHlSZHV3X1dsSmc2WVhZeVpPeW9BNTZNWEl6cFY3WVJQOG5aYzlzLUMwRk9QSmFkQ3c?oc=5) - Googleニュース 歴史・考古
-- [ニキータ・カダン公開講演会 戦争・歴史・美術・11/3（火・祝） - 早稲田大学](https://news.google.com/rss/articles/CBMiY0FVX3lxTE56MHVURE1RZVdjVFhPSHl5QTUzT1lSSzUzY0NlSnN1MlAwakVFOVRmWGh0X1dUQWRzT1BEV2VnQ2NXQmg4cmFHLTJDcVl1VDZfMkZGbExsQ0lWY0FRMjFlczJxZw?oc=5) - Googleニュース 歴史・考古
-- [元大統領の妻銃撃死映画で騒動 韓国「歴史歪曲」と保守派反発 - 47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lRG9nRUdfS1ZJWHZkekk2NFRkOVhWTHhjRmxNZkhHbVQtWnhtaXVjU18xcU1jVEVfdHVqVTljU2ZYQ3JtcFlaUnJfUQ?oc=5) - Googleニュース 歴史・考古
-- [スーパー戦隊好き必見！50年の歴史を振り返る「レジェンドヒストリー展」始まる 貴重な私物や初公開も…「横山隆一記念まんが館」で12月6日まで【よさこい高知文化祭2026】 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNHBVcUMyZUFCZk9mZDZjc0pCaUU1SjJ5QlJ6YWJ0dVhMcndtQnpiNF80VjdPSDVfUWNPWTdSRmlLOTYyM21JeEFyMTFnb3lDUThBU3BneWpYaXNjZWFIX3YwVWs?oc=5) - Googleニュース 歴史・考古
-- [やまなし遺跡再発見〈８〉かんかん塚古墳（甲府市、古墳時代中期）馬具と人骨 武人を想起〈動画〉 - sannichi.co.jp](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QbW9qM1hKeW5XVjFtc2tPNnJfempxcXRCSWZ3TU9PSmNkUC15ZGZZNExYb21wcnlMQjdNbkVhdkRKQjdoanNRb3dha0dyVWNTRE1wR0M5cUxvZUIxclJNdm1ZT00?oc=5) - Googleニュース 歴史・考古
-- [神奈川県立歴史博物館が再開館 改修工事で展示環境改善、１７日から特別展 - カナロコ](https://news.google.com/rss/articles/CBMicEFVX3lxTE42V01FMndpc0Q0QUx3ajIydFhMMzZRTFR3Q3d3MzlCVlNmRlRKdXNKdENCN1VCdUhLZXppUEdDZTg1cGhTYWVYTWxEUEFuQzg0S2cyc3hvV25IVVFkRExCMktEenV4cWxmdE1pSWtZOFo?oc=5) - Googleニュース 歴史・考古
-- [AI彼女 歴史 ai - Universidad de Córdoba (UCO)](https://news.google.com/rss/articles/CBMipwJBVV95cUxOLUg1NUEzMjduRlR3ZUlrTmpWb1N1eTF1Wk1vcmlrb25MTHhkcE1tOElfdTJFV1NjQkM3WFo5d1ZpZ0liUTB5V2N2aGlGLS0tZl91Z0JwMUVVSW1lTDZhSkxTVXEtX0lHUEhRcWZNVVlHNzRuanRxQ0FnNXN5MTBCLURFdGJhSzlaU3psQkR1TlpCSWpTMjNHazJ6QVZzcEJRZXQzMVphUm5sZnNneXZwQm9WekhMREcySjZiczRxMEM2N0lEQzQ0TlBOMU1yRnBkTnRQbjI5RzI1dmxyd3cyUDVoYXlmZzdTcENuVHR2NWtWNkN1SU5fZFJrRWJXTENjOGt5RjJsU3hPYzFoZEVYNGFVOFRhME41UmpGQkwzMl9YcnIyaXZz?oc=5) - Googleニュース 歴史・考古
-- [綾瀬市の神崎遺跡で井上研究室がプロジェクションマッピングを上映しました - 湘南工科大学](https://news.google.com/rss/articles/CBMiW0FVX3lxTE42RTh1V3RmbG5SbGhVY0drQ2FOaUQ4TXhKUWR4ZkZ6SmpsY2NfeEE2SF85M3BZOFFVd2lLY2VSVlEwWHp5dDBkcWR0aUk4d2xwNmN2UXNTREZjd0E?oc=5) - Googleニュース 歴史・考古
-- [奥州三古関サミット 歴史講話や自治体間の交流も 勿来二小が大正琴で花添える - いわき民報社](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3TzhwZFVpOWxYYXEwZ1BhVTlHX1BudHFQZElBSTdHLU9Vd1F2WDlJd3ltWjVjdE1tNlFxN0QxV1p2UnVjZmdIT28tMjFxMWhDMFphcnJuY2Zwdw?oc=5) - Googleニュース 歴史・考古
+- [「第25回大友氏遺跡フェスタ」を開催します - 大分市](https://news.google.com/rss/articles/CBMifkFVX3lxTE9FdnNBWnF6cGxXd1lRVTc3bFVvcHFrYkU2U0NJT1VRUlVRb3g0aURPazNjaUt4UkhPdmpfSlFFQ1c3ZFk1bnpwNlRtLVdKQWpDWkU1d3psOFVDMXlFXzdfaDd5YXBjWElrZVJDb1hKT0R6c3l1anZ4TDMwNjNsQQ?oc=5) - Googleニュース 歴史・考古
+- [「纒向遺跡のガイダンス施設整備に役立てて」明治安田生命が奈良・桜井市に91万円を寄付（産経新聞） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCTTNJYWxyeWpLLTBIZnM5TWxRbW1YUWZrUVhpR3BBRnVEM00tZ0p3MjJkbWl2Z1R4UnRyNnM0bGdNWmh6dEsybjM2Qlk2dERDcVB3Y2REMm5YT0RCWGNNajYwVkFYM0tIaFE0QVMyM0xXb3JMNS1LT0NidWxjWGc?oc=5) - Googleニュース 歴史・考古
+- [中南和の魅力 古都から発信 明日香で「おもしろ歴史フェス」開幕 - 奈良新聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TbW5HTXdCMjJNWFh2SWNDbm5WYXZ6Vml2OHJoTUhfOHBQVFpXeWFHQjAxRzdkck81Z3BNXzlGekQzX056ZVdRbU5hREE5VmFLbWhuLTdIVk1kNndsR044?oc=5) - Googleニュース 歴史・考古
+- [「逗子アートフェスティバル2026」会場レポート。築87年の歴史的建造物がアートの舞台に - 美術手帖](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1laWN5YmdHQVkwa2tZaGFkY0JOa0lRR2FhN0hMYTdPVEExSkJaUTJFOU1EcUUteWRzajk4THg4ZG5rSHE3Y2tXamxDTXNvaUE1OUVoQXBtV3c2eDBhbGNNNGVoelBiQQ?oc=5) - Googleニュース 歴史・考古
+- [【開幕】「入門！神奈川県立歴史博物館―県博の守り伝えていくコレクション―」神奈川県立歴史博物館（横浜）で12月13日まで 格段に向上した展示空間で充実のコレクションを披露 - 美術展ナビ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YMVV3Q1I5d0NubUMteGdWSjVydWZNU3g2OGZUN2N2RWRpZXZnV0YwS293bzNpM0c3YmtUNEw3ZmlLN0tFdHNKaVprLXlTMDRwRF95N0N2dHJLNGpON0FTQXVnUjh1TUc3?oc=5) - Googleニュース 歴史・考古
+- [足元に眠る古代遺跡 世界遺産トークショーでプロガイド2人が飛鳥の魅力を紹介 - おもしろ歴史フェスティバル～歴史を愉(たの)しむ～ - 47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vU0R0UFVIZEpXYTkyUTgyaEVpMldxX18wU1pTSnprTDVBa19YNFNmTm9tNk8tRmNkbmtqOERxVjQtMUJNdXBRdkprSQ?oc=5) - Googleニュース 歴史・考古
+- [発掘された明石の歴史展 『播磨国風土記』と明石 - アイエム［インターネットミュージアム］](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JVlczbXFfQTgzYzlld3c1TlBaR2g1V3h3Y2tUNmdaM25qdEZlYWMzaG9xeHlobUE4aDhEZTBjbGFqVmNONTdoSFY0aE50QQ?oc=5) - Googleニュース 歴史・考古
+- [佐賀市の東名遺跡 国史跡指定10周年記念しシンポジウム【佐賀県】｜佐賀のニュース - サガテレビ](https://news.google.com/rss/articles/CBMiYkFVX3lxTE54Sjdmckx2dnRsVVNDZ2I0UVAyd3RHaHU1WXgyZno4cEZiOFprZU9LaVRTMjN0YVlXNHNpVmlYc21qY1F4N084cV9UTGVTOE5rS3hIUDliSnNWbm9lM1VfYzN3?oc=5) - Googleニュース 歴史・考古
+- [新たな歴史刻む決意 郡山の明健中 創立２０周年記念式典 - 福島民報デジタル](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsNHNsX0FuVm5aSXpNTHhFWmZQT042UlhnYmNpU2ZVQkVDYmNYWmV2el9wVWpiTjFCdXlEcHBXRmFZb0JuS25KM01MaDhHUGc?oc=5) - Googleニュース 歴史・考古
+- [［福岡県］ふるさと歴史講座「新田開発村 大城・船端の成立と江戸時代」 - 西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DUl9JeG52WTl3YUlsSF9INzl1UXFjNEp1ZkZHOGltR1ZfNDUyTUhMRHJHS09ad2RXa09RZmh5WUdyOHhJTDU5OGFibjl2bENqd1ZCa3l3?oc=5) - Googleニュース 歴史・考古
+- [日光東照宮で千人武者行列 豪華絢爛な歴史絵巻、国内外の観光客を魅了 - 下野新聞社](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FRFNnRzd3ZkpBMy1FcVhfYzU4Y0FydmJ6LU55ckVhMWtZV01ZMTJ6ZlZXaWJMd3B3R2dwdzNxRWtmbm1INWJqZWRKcG5paTJhS2hKRUVmNnpWZ0E?oc=5) - Googleニュース 歴史・考古
+- [超低金利が続いた日本の課題とは？ 金利の歴史をひもとく本 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBOUTlhd3B2Nzl0UHF0ZHdpT1RLR1QtRkVYeE9hVGpXS2N1bDVvcXBBdDZTal9iVlg0MF9GdmZrRm9wM29yOERPbzcxT3pzYUpLWTl0bFIyb2c4ZmNsRnlYT00wNjN6bXBZS2RwMw?oc=5) - Googleニュース 歴史・考古
 
-### 教育 (13件)
+### 教育 (15件)
 
-- [東京大学の総長選考「藤垣氏は選考会議の最多の支持」 - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pcWMtTWM4MjRDMFFGYWRackE5X3ZQaUk1UW5ad0FUNzZwZVlzM2p6LWZlZEl4bUF6Ml9xRzNLclo2Z1prNnltTkRpTnlCMzhjYkFVcXR1QTZURlVNZk1F?oc=5) - Googleニュース 教育
-- [中学校および義務教育学校後期課程における民間屋内プール活用による水泳授業実施学年およびカリキュラムの変更について - 和泉市](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcE81Yml0QllMSk05aGdQUTVwekNybWV6VjF2eXFGYmQ2eHRYUFNBRDlvRkRSYnlOY2x4bTB2Z1dfSWdGQ0tEWHJacVhSZDJCLXp6WHZja20tMnpMRzEtRWtEc2swampINW9CVnROOEUxLXJNci1TRlRGR0JiZlc1MjB3U1BKWXV5R1BJ?oc=5) - Googleニュース 教育
-- [【発酵食品学科】第2回サイエンスカフェを開催～香りのマジック！味覚と嗅覚の不思議を学ぶ～ - 別府大学](https://news.google.com/rss/articles/CBMiREFVX3lxTE50T3pYbElrOThnTDZHX2dfZDlTNURySFVyUlRLLXpEQnFnQ2lCdEpTZjBCSWhzeWtMS0tQOVloZ2Q4bGZl?oc=5) - Googleニュース 教育
-- [平成国際大学 vs. 常磐大学 - 関甲新学生野球1部 - ライブ配信 - スポーツナビ](https://news.google.com/rss/articles/CBMidEFVX3lxTE1wcXBLR2NVVHlIMzFRWHFFMTl3djhxYVpUbFZnbzFVREdfZVEzQWtSek8zMDVaN1laSFktN1ZSVzl3dzlvWXJybWFIZFhTWUJZaEdXQzZvZ3JyZzBsS0R3R1pqTFc1VXVqazg3ZFg1eDVGcTlZ?oc=5) - Googleニュース 教育
-- [「英語教育に力」「外遊びを中心に」 特色ある民間学童、どう選ぶ [東京都] - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUUFlMcE03YUtoczdoSTg5YnJhZXU1NUNnc0NHSUZrVVRxNTZ5c0VXREprY2FCRGRJeGxCTVh2SS1ZLTJYbWJWSW94VVhJaEh3Rmh4NlFXend6T2s4LU5wNVlTRzlFVFU?oc=5) - Googleニュース 教育
-- [来年の箱根駅伝２０２７、シード校の１０校はどの大学？…前回大会の上位１０チーム一覧 - 読売新聞](https://news.google.com/rss/articles/CBMic0FVX3lxTE52d1p2M0MyWDM4YnJaRFVwdEJ0S0VFb0JSeHZRdUE4eUZZcEZUMnBfWjVoejBaMzlTMTFwdHliTWx4aVhwVGhCbllVNlNZUmI5V0xETGVFWjB5czl6cWozT1E0RUpvd3dmNFFkRUozalBmdmc?oc=5) - Googleニュース 教育
-- [日本語教員として新たなキャリアを切り拓く - 大学ジャーナルオンライン](https://news.google.com/rss/articles/CBMiVkFVX3lxTE10MEJwVEhkSUtKcjhBTXo1UzdlTEtQQmZqMW53c1Z2bE5hcW5GWm9KNGdCN0R4NktubS1xUlhVWEdYMFRSTWxETTZNV3B1OWVqcG9WNzBR?oc=5) - Googleニュース 教育
-- [〈本当に強い大学ランキング〉26年版･公立大学編､対象73校のトップは国際教養大､2位はデザイン系の単科大学 - 東洋経済オンライン](https://news.google.com/rss/articles/CBMiX0FVX3lxTE41UmlTRVZMeTFjSWhCVGljOWxoSGhDdS1BZlQydzRJQlFBdUFTVVN2Zll6NkhRMVZCX3h6V0JrblNjbFJDeDJ6QVhsZmN1aExPZ2xualE5UU1LSmoySkdZ?oc=5) - Googleニュース 教育
-- [『知が交わる ミライが動く』大阪大学共創DAY＠EXPOCITYを開催しました - 大阪大学](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yLXFRWFc1aHJVRU9oUG40SlJ6TDd5S0dMR1NfMW14ZWJpWWNzcTV6d3RDQ0FyRFROekNzVkwteUNNUHdIckFVcmsxeTJwWjhzMk5xUWFBTTNvaXg1Y1lvSE1GWXY?oc=5) - Googleニュース 教育
-- [アメリカの大学生が諸塚中学校を訪問 学校見学や給食を通じて交流｜ニュース - UMKテレビ宮崎](https://news.google.com/rss/articles/CBMiX0FVX3lxTE85SElaNHJzay02VFgwcUI5Q091UlNkYnZSczc2TklLTUJwYXhYOWp4NWtsb3E1VWU4b0tYbHFacmYwUHV5Z0hwUEM2NTJiM1VvUEQ3aU9UY3NWdF9lbF9V?oc=5) - Googleニュース 教育
-- [【2027年度】特別選抜の小論文試験問題・学校推薦型選抜の口頭試問について - www.siu.ac.jp](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFS09LbmYtZUt0blBKb2J3X2dKeDR2ak5OM3FXdVA1Z0Y4YUNOM01fdlBwQUw5SGpCa2ptUEVuaHo2TmZQdkV6cktBR3FNVTlEeGdpU1R1LXlCRW9O?oc=5) - Googleニュース 教育
-- [金沢大学Giving Campaign 2026【10/25（金）21：00まで】 - 金沢大学](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHV3ppb0V2Q2dxQmFkeTJBRl9fNUdHY0k0Qld5U0pLTmVEMmJPbk5pQUYyUklaa1c4WjRRMXNyV0Y0ZG4tcE1CZTJ6Q2plQU1qOVRGbw?oc=5) - Googleニュース 教育
-- [神奈川の太田さん、支援学校に１５年本贈り続ける - 株式会社 三陸新報社](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzdEdzdzZOMmk2Z0drM05xVGJneXNWVXRDVFY4M1JZOHlEMnNUM2pnd0hncnFibHZxZjF1T29WaEZSX1Z6emk2VVVuYmk1WmVveGxZQlRTWHQ?oc=5) - Googleニュース 教育
+- [10月17日(土)『タイチの学校プロレス2～いしかり観光大使就任記念・母校凱旋大会～』石狩市立花川南中学校体育館大会・試合速報中！ - 新日本プロレス](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5wNjRyenk3b3ZUNzZmQThKTDNud2tmdkNMeFBnZk8zdDZMR1ZoU3ZGSnJURUQyWHdObERrUlFtaGlFN1k?oc=5) - Googleニュース 教育
+- [作新学院大学 vs. 松本大学 - 関甲新学生野球1部 - ライブ配信 - スポーツナビ](https://news.google.com/rss/articles/CBMidEFVX3lxTE9iZWEtNVNURXZieEhtV05qS05wSHd0dU50ZGJYUV9OT0dhX2dnYlJqTnpVS1RpYUx6YjVvNk5vU0JhMXY2Tk5LSXVaaS1GeVFRVWV1Q21lT2ZqYjdLVWlnNGtEY0hLcmtJUGotdHZhZVBvZjZB?oc=5) - Googleニュース 教育
+- [（ニュース特集）教育資金の備え、こどもＮＩＳＡがいい？ - 朝日新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45R1JmVkxZVnd2M3E2VFRIYXBVM0YxTkhWMlh2TFR1aS1zaDNQUkU1ME5iVUl0OFQtNlpmYWxId2hkcjBlZEpNQWVyT2JuUVpkT1VlS2N2bklVdEkw?oc=5) - Googleニュース 教育
+- [箱根駅伝２０２７出場校一覧…シード校＆予選突破校 - 読売新聞](https://news.google.com/rss/articles/CBMic0FVX3lxTE81NHJ1VGVHU0tXSVc1RnJmbmtsZGJOeG93amxGVlc1LW1nX0VqdTNKd0NUX3U3MHZVXzVkcnJIVGxhc2lOSnNBX2xqSlVDNDJTN3RCbGpOckJLcFBiazRYb1JGb0ZoY0NBNWl1U2FCOTFsbkE?oc=5) - Googleニュース 教育
+- [東大・早慶…トップ11大学×27ファーム「コンサル就職者数」大公開！【2026年版】アクセンチュアは600人超、大手で採用復活!?《再配信》 - ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Yakx6LWEyaEEyUGRpLS1MZG11a3lzcGxJQllaZUxUMlJSOHo4OVJpUWUzOGdJWDlERFFUaEgxNVhqUUNkenZ0clJna2XSAU9BVV95cUxQVzlsRHhIUVNFWVVTNjlTNkpYdGRfSjltcXNDQk1SRWl2WXJsUC1lOHU3UFIwbWhtWU1JMkY0bTdkVVNqcHpZa21xUUNjTy1z?oc=5) - Googleニュース 教育
+- [【名城大学・女子駅伝部】開学100周年、3年ぶり〝V奪回へ〟 充実の布陣でスタートラインに！ - アットプレス](https://news.google.com/rss/articles/CBMiT0FVX3lxTE44Qm9mbzJ5QnZKUUhSazRNVVc2VkxyRjlwSnNUSUxOWU8xbTdHQmJMcUFVUUNOZVp0b3VPTFFCVGREamU2ajZITHNjUHdHblU?oc=5) - Googleニュース 教育
+- [トルコ大使が創価大学へ - 聖教新聞](https://news.google.com/rss/articles/CBMieEFVX3lxTE1naGxwNzROZUM4bUlfamxHUkU2VVptdUpEZ2NoT0xNQjlVUk80UVFFY1BBaVZ5akpfWks3SUR2YklUQ2toQVlLazdfVlh6Wm42aDZKWWVNaTRRRzNFT1ByaExLYlhNU0ZvaGpXbEMyN0oxOFVQSGw4Uw?oc=5) - Googleニュース 教育
+- [フランス全土でデモ パリなどで暴徒化 教育環境などの改善を求め - テレ朝NEWS](https://news.google.com/rss/articles/CBMiekFVX3lxTFByd3ZFSkkwRjBwS1lNeExPVm9yWFlZMGpITXlXZmRWNzQ3TG93Tl9YLV9FSF9NZi1ESnZicm5XTHAxWENlMFIwSVZLS2RkVGRiZERGTVM5TFhxcDhYRTRUc2tJZFFLX1pka1MydXNZV21iakhTbERoRmR3?oc=5) - Googleニュース 教育
+- [｢卒業生の年収｣が高いアメリカの大学と学科が明らかに…デューク大学 数学専攻は卒業4年で年収4700万円､2位は？ - 東洋経済オンライン](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odXkyWmppWDFONzE4Sno0S1p3SXFJZm13RTU2czNaXzVRLUhVbHpvZUQ2bHpOcTlZc0pqV2RSeklOVjQwVi1aREp6dmNCVFpITU80NXlJQWlKVXFWOTg4?oc=5) - Googleニュース 教育
+- [【箱根駅伝】法政大学が予選10位 2年ぶり本選返り咲きも…坪田監督「これだと勝負できません」（2026年10月16日掲載） - 日テレNEWS NNN](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ra0VCdzNaWDh0QXdMaWdIZ2lDc2xFb0JDNVVxd3pXTXJwX1RNd2g3cHJUSVZiOEFGaXZPVmJxZUV6MzJWSW5TazhVMWFCak9SQkRsYWJGVk9uV1h0bFJSTnNSbVVmODZZTDlmRjMwSEs3a2JUN2RfX3k1VQ?oc=5) - Googleニュース 教育
+- [【1部・第15節】首位・国士舘大学が3連勝で勝点差「10」の独走態勢へ！ 5発快勝の東洋大学が2位に急浮上、筑波大学は劇的逆転勝利で後半戦初白星 - スポーツナビ](https://news.google.com/rss/articles/CBMic0FVX3lxTE12YWFxeXpjZk1BVGFYRXhoSHlWajFHN1lzM2wtc0UwR3NOcXROVk9sT2RJUEpEcnZGZ2JCT3VzYThMLUlOaWIyVFRzZGpjRFNaUkxhZ0I3NGJaV1VpYXl6T1RnNFNLSWVwNDNIQi1LSVdYWWc?oc=5) - Googleニュース 教育
+- [アメリカ創価大学（SUA） 紙上キャンパスツアー - 聖教新聞](https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbXdFYXJxRVVZRVFaWEs4NzZncWFYU2JSUi1yV3ZIcnFMdjdvVmE5MlFWSmpSX2dxcnFWdUlIVHlCeG9VZDF0dTBkejZWWHdGTXltLThlMTZJN3VDaUEteWdRNWNRSmUxV05JZ1dEWWE3SU90V0poYg?oc=5) - Googleニュース 教育
+- [【箱根駅伝予選会】監督も「ヤバイ！うれしい！」 武蔵野学院大学が前回26位→12位の大躍進 本選切符はならずも歓喜 出場枠増える次回大会にも期待（2026年10月16日掲載） - 日テレNEWS NNN](https://news.google.com/rss/articles/CBMie0FVX3lxTE1PMUlqVjBmV2M0LWtUamdlQ2hMZW9CYVdyZDdkcU85RmZXejF6Z2pLYTA1LTFuX29Jb0cxNndicEVSMWgxLXd4TFFyejJxOE44U1h4ZW5CRjczOTdVSVVlWXYwbWduMTN1WDVCTWNOQ3ZKVk9xOVp5ejVRNA?oc=5) - Googleニュース 教育
+- [「就職に困るという話は聞いたことがありません」 就職・進学の評価が高い“首都圏私立大学”ランキング上位に「国公立蹴りで入る人も」「社会で活かせる幅広い学問」の声（ねとらぼ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1COW5jRndoZkVDYlh2MEN3WFI0dE1KcjRzejVWZFp1bVdaQXMxb1FlUi1EVTczM2hJNFVJd3NYckRnMTluOWY2MXJrM080dmNlcnNvMWZWakh3RjI3RzRjYTFueHAwcm5iVFV4ajgzckV2bWdpOUVYU19fcmNXOXM?oc=5) - Googleニュース 教育
+- [ゴルフ場は体験学習できる「生きた実験室」！ 全米50州を制覇した環境科学教育プログラム「ファースト・グリーン」の全貌 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE91R21qeVRDYVBpZ29rdVB5dkdZZVFGbzhoNUIxaHFjc0Q4RTlFYmFhVjFQX2szNzBNNzllNTB4UTlfa1V1RVlxaEItTms2WHFwcXNmRm56c1dCajZpd2NKb0NxUUFMN3pudFdMY0FiMWd2VFJmNXE2ZmNOMElpeUU?oc=5) - Googleニュース 教育
 
-### 社会・事件 (13件)
+### 社会・事件 (10件)
 
-- [王将社長射殺事件、組幹部に無罪判決 「合理的な疑い払拭できない」 - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iRDNpVk1RVXdqUXVWc2ZfbDJocHZ5c0JJVlRXNHlGM2M3Um4tWV95cEtiRFE3LXdiMFJyQ1pZOVA3STFnZEk3Yl9UYVBEMkt3UGhCU3dnQjJyVzUwY1JNS3hZRDhpNnc?oc=5) - Googleニュース 社会・事件
-- [“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyYWQ4Z0xiS2RUY0sxQTVVLTFKdFNIRU1vanBOSFZzRHo4RTBfQlJJcnlJdVZMTjV6NGtIbWFKSmZaRUVhSmxnVDY0RGJ6RXN1dVA4REdVRWl5ZEYzWndr?oc=5) - Googleニュース 社会・事件
-- [餃子の王将社長射殺事件、被告に無罪判決 犯人性に「合理的疑い」 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9Hb2dVbG9oVUpNTjBjQy1WYjhyZlE3YXotcktwSXh5c2NjY3RRZ0Zqd19TNkpnQWdZeFJyWkpEN0gyemVuVDhyLXZGbEJ5TU0xZTBlWmt0SmdoR1YtOFpiM282aDlrMm1WR0ZqMQ?oc=5) - Googleニュース 社会・事件
-- [逃走中の男は被害女性の知人 女性が事件直後に説明 沖縄・糸満の強盗致傷事件 - 沖縄タイムス社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ac05zNV9vU252Um10VlpheEVkSkFoeVRNdEdZOGo5VmxuR1FMM2ctWW5yM096R3VfV0VveGdkLTZmSWN1UUhIVnpCSF85R2trTC0zUjgyUURRcnRvSnc?oc=5) - Googleニュース 社会・事件
-- [【速報】「餃子の王将」社長射殺事件 殺人などの罪に問われた暴力団幹部の男に無罪判決 京都地裁 男は初公判で「私は決して犯人ではありません。決してがつきます」と無罪主張（MBSニュース） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISHUzNXRnbUZTRjc2WndrZWQycGkySFkyckRQQ01BSnlvWjZhc3hFVzAyT3F5akl5aVNRRi1yTlFjdmZHWXgyX3lwR3BTeENzcUlhNzQ1cVRZWm9ldm84VnhwbFZDLUQ2UWZZZHF6OUJMY1Y1a2hGdFVMeXNoc3M?oc=5) - Googleニュース 社会・事件
-- [日程・結果｜社会人野球日本選手権2026 - 毎日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BM3o2NElRT3FUdXpsSTYyQk9hdUNyTUVnTmFjcXlFellaZXhBclJoMV9XaHBNZzVxRU5XM1lUZTltUHptTm4zM3BCNW1malBvZW05QW1fbjFIZXR2NVliNU85Zjg4R0E?oc=5) - Googleニュース 社会・事件
-- [事務と現場「二刀流」集まれ 町田市が災害に備え新職種 - 東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xUEplM3dpUXBsbW5jeGVrbWlVTWtjWjVpWVczVktTeUNTZHBJZ2p1Q0FxUllaMjR6d0t1RUR1M3BlbFdLVFI0NFFLUG9kLWVvVm9r?oc=5) - Googleニュース 社会・事件
-- [韓国で8人負傷の切り付け事件 警察が容疑者の男（59）の名前と顔写真公開 - テレ朝NEWS](https://news.google.com/rss/articles/CBMiekFVX3lxTE9Bb3VNRWh6WFZkN0M5TTg5ZTluWnJPUWE2REtGOUN1alJlWk5YQVZzUHdxSlBkTGtSSGc3UEgtNmhJVG5zV1AwRXFjcFlqOVEtNVZVRXBMN2RBYVhoMW5SWWMzb2hPblRtdWsybE1qMloxTW9ZQllNalFn?oc=5) - Googleニュース 社会・事件
-- [王将社長射殺、組幹部に無罪 現場吸い殻「第三者遺留も」―京都地裁 - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0U2ZaT2ljaWkyaFpIUHU5QkFCZnRuNzh6Y3pkakdYSlNNWnFiVGdJc1NkX0RLZXVUY2tfcmFrV1RISUpvckM4bjBLb3lxbkxwWVVrV3hqd3hmZVV3bFdwanZScw?oc=5) - Googleニュース 社会・事件
-- [「餃子の王将」社長射殺事件、殺人罪などに問われた暴力団幹部に無罪判決…京都地裁 - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhQ3UwbUlzZFBXdzB4SXJmc3ZUbEE2V0ZDSnZUS3RLMzFJdTNEXzdsOG1vS3ZYam5xVnhSUmdSSE5yRzR2dE00c0sxWHphNDVldE1FaGtROGpBeEwzcURxR2NKbVNqZw?oc=5) - Googleニュース 社会・事件
-- [(公明党がめざす社会像)誰もが可能性を発揮 (ベーシック・サービス)福祉、社会保障を充実 党公式動画チャンネルで岡本代表が語る 2026.10.17付 - 公明新聞電子版プラス](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZEJTajAyU0p0YjJadlFheVY0NHkyQ1NYdnpIT3Z5T1dJZW1Db0NQcGRWTUZLeVJ2Y19XV2Y5QlUxWHpseTVUVV9BVXJVZmFmYVJlZ2k3WlU0Z2Jmei1ENS1XTnprU1d0ZmZuRWRR?oc=5) - Googleニュース 社会・事件
-- [神田ADB総裁、タイ首相と会談し、災害への強靱性強化と地域協力への支援を表明 - Asian Development Bank](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG8xd1VHUVV1X3RSMWdXTXRCazBCR2k2WlJRdkpkMjNIZURfcHJwTnN6bC16X3Q4aWNUbkd6LWFqSWo1RFhieWpoakIxbGFWOGRYcGJOelN0MVNDX0xKNGdhQk5MTDVSbzBobDJqS3ROdkZQMlBlZm9jTVlNOGkyeUV0cFZPd3ZKTHItZWgxXzBhTmdCNi1UaWVIdEZHMkV1U2hHd0ZpdkJkVlRPUXpJNU9B?oc=5) - Googleニュース 社会・事件
-- [【贈収賄事件】12万7000円余り“接待”か南魚沼市職員ら3人逮捕 「道の駅」再整備めぐり《新潟》（TeNYテレビ新潟） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE10U3NZUFRxZ3NrM3Q2bzhzOG14NjRfbEJqSGlrQU9ZejFqMU54VWFGVGdqXy1PQWVNYWRqSVBhU0JmYlNLaTR5VTJUNlEtZWIxM19lUjRSOXNzODFRMzhjcjRJWkpwOVJxTU5nY1FCTjhwc21IaFpSSnYxQzdvcHc?oc=5) - Googleニュース 社会・事件
+- [刃物で刺され男性死亡 知人とみられる男逃走、行方追う 東京・福生 [東京都] - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Eb2N5NFpMb3A2WWFWYWRuUnltdG5Fb2JsSHdYWTR1SFhnZ3FScW1qSVFUb1lfdHZyNGNVYXBiLTM3MnFaYUF2ZUwtQkFyUzBNX2JuYWlDS1paOElsQW54ckNDNHNwR0k?oc=5) - Googleニュース 社会・事件
+- [【速報】刃物のようなもので刺され男性死亡 殺人事件として捜査 「1人血だらけの男がいたが立ち去った」知人とみられる男の行方追う 直前には言い争う姿も 東京・福生市 - FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSbGx0T1lUVy1odXVibzJSYmgzNld1Y3RESmNHR2pSRjVDNnk1NnBRZno4dnV1aWc3bmppRVlfVnFheEFvMm5CX2RmOGVPQQ?oc=5) - Googleニュース 社会・事件
+- [「耐水害住宅」とは?台風19号災害をきっかけに研究開発 7年前に千曲川の堤防が決壊…自宅が浸水被害 3メートルの浸水から住宅を守る仕掛けとは?（ＳＢＣ信越放送） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZzFVNzdVdF9oaC1TaU9Ic0JJZ2xtbmN3ejg4T2pDMGMxbEh6UWhnbGVTM0pMTDRLVHFuVG03ZE8ycW5QSlpsOThSSTRPOXRPXzFURGViNVQyaHBSblRfVEZpbVR4eml3MG0xMEczcUhtWWFReHFfdEY3R0tLUEU?oc=5) - Googleニュース 社会・事件
+- [川を守り森と生きる日光 土砂災害防ぎ、地元電力に活力 ツキノワグマとの距離感変化 - 下野新聞社](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZ2pfbWgya1liV0RSNHVEa2g1anY3NGxpZV9VbjNidjJmMm9pS0NndWs5djVmRXBObWtiTkx2X3RfX1ZnWVNJR0JSa0dRVkdOalF1TUFOVExsazQ?oc=5) - Googleニュース 社会・事件
+- [災害時の避難 体感 リビングショウ きょうまで 仮想映像で理解深める - 沖縄タイムス社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTkFnazVlWjYwek94TUw1M2p0MzNtdWhWelczcUF0eDBKdHVWRHJlMHZJT2FQdTZRNHZyVUNRYmY5R0RmWnpoUmZxbUlVTUxUZGRSMXd4bE5nb3FtRWc?oc=5) - Googleニュース 社会・事件
+- [［論説］災害からの再起 農業継続へ実効策打て - 日本農業新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wRHpRQmxwTFVkQUFFY0ludmY1bm5WeGtxTXJYczlSZS1vZ1puZTZUWTZrSHUtQjlwNDN1aGl4UXVLemR1RWtCY21MQWRzY3BKQnlGNERoSXQ1TmM?oc=5) - Googleニュース 社会・事件
+- [どの州で司法試験に合格したか問われ、米大統領報道官「中国に移住したとき」…就任５日で退任へ - 読売新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GdVROU1A3R1VBUXpJdjcxLUFDUzVoT1p0WjQ2RkV4Y1gwRExYNjZfeXpNWmxGak4wZzV6ZGJsd0FaWXhNWEVVN2xiTDVGNWctNmJPaThFSVNENFpsS2oweUN3?oc=5) - Googleニュース 社会・事件
+- [【速報】東京・福生市 男性が胸を刃物で刺され死亡 刺した男は逃走中 警視庁が殺人事件として男の行方を追う - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLdzB5QW9zZlFkNG52czh1MWFNU1I5MVRpU2ZYYVd5NVo3N2M2ZzZoSUlPMEk1dTBTd3lWSzAtX2ZEbFZCSm1FS25nY1hmUVpnRmwzOW1TQQ?oc=5) - Googleニュース 社会・事件
+- [『感謝祭』で事件発生》ドラムが「名探偵津田」に参戦…『VIVANT』劇場版12・4公開報道にリアル感（ピンズバNEWS - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE83dVFlaXU3VVpHSlNqY0ZrWENUZHVidnVNTlJxUnFKRTRiWWtlcHhQVF82bUxGRkhCUFVoN0JBRW1zak5neU94ekZCWl9uWXRYcVJydWVET3hBems3V01iQ3ZqRzJaRldXOWk0WUFZWmttZlR0bG83NUpYSE1WNUk?oc=5) - Googleニュース 社会・事件
+- [今市事件、再審請求へ弁護団が進捗報告 勝又受刑者の支援団が宇都宮で総会 - 下野新聞社](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VVDQ2QlJJc0pZNTRLNnlQT3JKNTg3akhUdUdDc3JpT21ORV9KZkN5cjBNUXQtbWIyZmNGbWlMd1NZNlI4T0l0RF9EUU9TaFN2dURDUmNMUHpudmM?oc=5) - Googleニュース 社会・事件
 
-### スポーツ (13件)
+### スポーツ (14件)
 
-- [浮かない表情の藤川監督 プロ野球ＣＳ（時事通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdmRsdTlOZzJrUmt2V1R1OTczaExZd1VDZ0pyT0owVFpoQy1uTUEtTzIwQ2tiQXhPWFpIcG9BdDRGU2s0SkVhQ2NBRVJMWC11T2JCdFY4MnhRSHRPYjJvTWlNS25maGE2V3lPMnRCS2VUVUpGY2VPQ3NFWkZZNVU?oc=5) - Googleニュース スポーツ
-- [【高校サッカー】週末は秋田＆山形で準決勝 全国出場を懸けた10月＆11月の戦いへ 48チームに全国への切符 - 日テレNEWS NNN](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xRmlBaVBlU2oxWHJBVDRLVEF1WWZoN21xMnBrR3NfT1o4ZkNiR2k4TC0yX3hKZVlkTnExUjR5TGQtQkZoS3lyMDdKM3JJZmlfdHhLT2FGTTdfWGpPdmFMTkh3TVhGQzNpVE5Wb0ZQQ3FRMEpiTGRYanp2NA?oc=5) - Googleニュース スポーツ
-- [サッカー＝上田、ＡＦＣ最優秀国際選手の候補入り - Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxQYnpPOURmY1g4QUlnNmd4UzZzWEFHeWUwZGN5Z2drM2ZUVnZDc2NyS0RVbXU0b2VHS3dIczJyZVFWeHNjTUF6d1lEaUNwSDZVZkU5ZDQwdXZvbHRYV2dlZDR4dEdaTUhZWEpSM0pvZWNXSk5PRUdySVJwLVN0dTZ5TDZBMA?oc=5) - Googleニュース スポーツ
-- [野球 - 東北福祉大・金井翔陽 「挫折はない」自信を裏付ける“当て勘”は父から授かった武器 - 4years](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QRXI0TlFIX1p5dGFxbk9qUzk3TUd3UnJVcXVsTGNKemFDLTgyWWtxdGs0U08wb0tzZUZJNWU2TUlLZDBWcGlrQkVOcTB3SXRBMlRR?oc=5) - Googleニュース スポーツ
-- [秋の入会応援キャンペーン スポーツネットワークＳＡＭ - 市民タイムス](https://news.google.com/rss/articles/CBMiZEFVX3lxTE44VHZiQ2VmRC1yV2swdmpFazRQYVJTWmNLdktIcTJqc2hFdE1yY1liSUZoR2RCYTltbVh1cjJicGxUWkRSdUY4TVU5LXpoQktFSktHY1pGMEREbTdGNS0yZldaMTI?oc=5) - Googleニュース スポーツ
-- [堂安律はフル出場 ドイツ・サッカー：時事ドットコム - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDVi1JelUxVE9yRTVYRkNOMFh5MTFfaGVoZVNkSkotN0diQkF0Szh5OGszbmZnbFl4b0lnYWZiUTJ6QV8tUVRzSHpoQ2pkVnBsN1dwYXZmWC1kaG9ValJQVDlkQQ?oc=5) - Googleニュース スポーツ
-- [野球ガチャ 10/24・25「東海テレビ 1チャンまつり」内のドラゴンズブースにて販売が決定！！：ドラゴンズニュース - 中日ドラゴンズ オフィシャルウェブサイト](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAydVd5VVQyRmhVNGxoTkhrMlEwMGs4NEk2WVE1R3p5OENuWlFkc3M1SmhpcGkyMDFwczV0YXl3ZXhTak9pbFVILUl1aGgxdDNwTDVDZ2t3?oc=5) - Googleニュース スポーツ
-- [【高校野球秋季地区大会】東北・準々決勝（盛岡中央 vs 鶴岡東）ダイジェスト - スポーツナビ](https://news.google.com/rss/articles/CBMiXEFVX3lxTE11clVJRTJ0VXk4SElEU0xzb09QbXdzWTdpYUY2QjBUM3BRb3dzM2lScURDOFE5M2dRRnNfQThibU1mRVVaUXRycXpoay1jMzRqVEkyUUtYS1VJNEQ3?oc=5) - Googleニュース スポーツ
-- [みんなの高校野球：170年前も「7」か「9」の議論 歴史から考えるイニング制 - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZd0MzRGZZbVF0MXdlQXhMNGZreGJReHhRNEJOWmphQ0h5MVN2SjVmTlRWdzktSnhCZ2xiYkpyQ3VCa3hKdmZXNDYwUUQzQ29JTFJSaUhqOXcxNXFIWTNMUUZIQ0ZQeU5k?oc=5) - Googleニュース スポーツ
-- [【高校野球】３時間51分の激闘に須江監督「高校野球の指導者になって最も長い試合」仙台育英４強（日刊スポーツ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDS1dOMWlPT1RQTzk0bDNZZVdLM3p0UjhsTTBuTVBhT0wzZWhWcGgteGRSWkxRSUlVZlk0VDlLdEFJd1ZPSnpDVkU0aVdrdnBJS2YyQWlsOWtvSVZpM01ZNVZ6SU82SHprUU1YMm1ZT0lRQU1aQWNMcEVwODRQRlU?oc=5) - Googleニュース スポーツ
-- [【高校野球】仙台育英がタイブレークを制し東北４強 花巻東はセンバツ絶望的（日刊スポーツ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cWVvcllMRU9CM3BneEV5WEk5VTBRdEJ3RHRiWWhHSU9nTXNHM0s2NXhYQ1lzMmI3Szl1RUJ2UEtrWjRpMDNfRy1UQkpfc3VJNEUzTTFjWWdEc2hfbzc3bHJtWHE2emV6dlBFU2NBUjdLdDE1U0QtZ3ZMcWxOSnM?oc=5) - Googleニュース スポーツ
-- [【選手権千葉予選】千葉決勝トーナメントが今週末スタート（高校サッカードットコム） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1odHZqTlZlRkxBSEV6UFFEYUVMU1B6dXgwY3dIaXR4Ri1waWZIdVFFakk4SFJTczFyXzMwY0Z1ZHFPSDJCbnZ0Zk5XX2ZveW9kcmsxQVgyWld4TXV6d0h6c3QxdXRSSHhZM2VjRXFjZWo1elIxMUJRaXR1VkFaTlE?oc=5) - Googleニュース スポーツ
-- [MCは伊集院光＆中川安奈 “野球だけ”をテーマにした“野球試合形式”の新クイズ番組が誕生＜野Q王～球界最強頭脳決定戦～＞（WEBザテレビジョン） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBicFA0WDV5N2lDNjdYWTc2Vk81OHFzRXcya2U4TndYbWlIV2pBWGRMSWNrZkZtOHAzaGdYclkwVEs4TG1LZ25mSzBVYVlDNmVHVXZTUGwtRHBYZ2hIYjhrVlRCaHFMMDFTbjc5MF9JWXJNT2NfV3Z3S3hsQm5rZ0U?oc=5) - Googleニュース スポーツ
+- [【DeNA】プロ野球史上初のCSファーストステージから無傷６連勝で日本シリーズ進出（日刊スポーツ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE8tQzczRTZhbHpacEZIT21TMWxVNTVUdkltVTd0M0Iwa04wSnBSYnVWVU56dGdEOEZUVlZqLXp3ODRxZ3JiSTRlT1VWX1F6MnAwOURjeGs0STIyek8wMEFzZE5FQy11RVpvUDNUQUlrMm80MEVVLVRVS2RwM2s2WTA?oc=5) - Googleニュース スポーツ
+- [「自分たちの野球を」仲間を鼓舞し初戦突破 大垣日大・高田宗敬主将 - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DbTV1ZEI4VGdkUFZkbW1HWl9wcjlralNIcEo0dWs1QWVhdk5OSUtwckxqN0lhMEVzYnlOXzlfVkhQcHhDUTBCLXc2WE1IQUI0ejJNYVBSSzN4UmdDX0NwRVlESUlfZ1E?oc=5) - Googleニュース スポーツ
+- [福島ユナイテッド、岐阜に敗れる サッカーJ3:福島スポーツ - 福島民友新聞社](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NdlFpUnh4R1ROOXdaLWhpOGVQNEFtT0lZbDZwUm5qaDVhalBFZGIweWRFTk1kS2EyVm8yRlJjbHotS09mWF9xcExMWlVNUjJ4YVBfY3BCNzBrc0dvZjdSTTc5djZ1MjNH?oc=5) - Googleニュース スポーツ
+- [【秋の高校野球2026・北信越】代打の1年内山悠大「とにかく強く振ろう」と先制打、監督の期待に応える大仕事 - 新潟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SVF1ODZFSWJ5Q2RjM1F6VV9YaFBWQjRMMUhFOEtDQTN3Y0V4dnVRQy1tRFRtbHpsbmY5eThYR0ljU3NzTmlnNkFYdS1qdmkwTFdSeXlYX2p1QWRKT2c?oc=5) - Googleニュース スポーツ
+- [選抜出場かけ、秋季関東高校野球大会が開幕 群馬代表3校が意気込み - バーチャル高校野球](https://news.google.com/rss/articles/CBMidkFVX3lxTE5tQVBQQkdicWFyS2VFNHhWWGRzNmJSd3pBLW9VTmdfWHBzcHBEdVpWcnFpN2xQaFg0NzhLanpzMURza1J4QzRqVnMwazNoVFFCTVNZUGRuc2pyS1BaVTE3VlYxaVF2cDZ2M3dvS29FbnZCS3lVMEE?oc=5) - Googleニュース スポーツ
+- [近畿｜高校野球秋季大会2026 - 毎日新聞](https://news.google.com/rss/articles/CBMiV0FVX3lxTE40aGE1V2F4a3g0RVhFM2hTSF9acUhjX2RYTGlhWWtra3dMZXBET0lNOThuXzhlNTZ0cUl1NjR6enRnLTh4Z0RVNm1nYk1YTG9yQm5PaWRmbw?oc=5) - Googleニュース スポーツ
+- [秋季関東高校野球 第1日 霞ケ浦(茨城2位)がコールド勝ち 習志野に7-0 準々決勝に進出（茨城新聞クロスアイ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5PZFVpS19BRm1xN3FyMWFacDAwNjV6UlZFN0pOTDRHODVSRjdqU1Q4bENnMzJmMGZwbXZWS0plWWVIN3Ric0NTUWhZeEpWM3dVVnhmOGxrejRLWGExaVFaTmc0NzFKME04bWc1OEV1QzZDeTJmR0xrOU50UEpUYzA?oc=5) - Googleニュース スポーツ
+- [野球 - 東北福祉大・柴田由庵 元西武の父が与えてくれた夢と、教えてくれた「努力」の大切さ - 4years](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sVWwzVjRoUWVLY0xLLVBNVjVteVB5OWhOTkp5SnBqN0YtN3lMeTdtZk9FRElGR1BTMk02bUFXWFdMcG8zX0lycnZoZ2hlZXVyZTlz?oc=5) - Googleニュース スポーツ
+- [岡山県高校サッカー選手権4回戦 シード校4校が"初戦"を突破 17日（KSB瀬戸内海放送） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jYk5TdXhmSFZkZXR3cThHbzVSdGNEQjM5RUY2LURfMGZMMTN4NnhvQXE4a3pSdTFuU1JIREJXUDNKQVVVV1BfWVBzbFhNOXg4LTZZMVp1TmxQYXlFUEpCY01Jd2NwbGM3Y1ZNU2JUaEVMVVZPWkRKRC1BQ0VJeEk?oc=5) - Googleニュース スポーツ
+- [春のセンバツへ 秋季東海地区高等学校野球大会開幕 勝ち上がり表掲載 静岡県勢そろって2回戦へ 大垣日大と近大高専も1回戦突破（テレビ静岡NEWS） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV25ock1DNDZpQnN3LU91WWJpNVliU3drREw1MmZuclBCc2wwYTBpNVdQcG52d2VpMWlBU2YtMFpFbnFPWmZRd0gwVTY0aklBMmtabGlFMEV5Qlh4dFAtWWdUXzZIM2tFQlFfOHU1RFUwMHdNeWpuMmhyVnhiZ3M?oc=5) - Googleニュース スポーツ
+- [【高校野球秋季地区大会】東北・準決勝（八戸学院光星 vs 仙台育英）ダイジェスト - スポーツナビ](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93RUxzMWRjbVBqQS1YdEw2cWNCYVJINjFxRC0wWE41NHdFeHYzSndVQ2pVclpIeVlHTzVuM3hWTDJmWDZ5R0hmZUNPQm1iWFNyM0FYS0tSbEl6dDdU?oc=5) - Googleニュース スポーツ
+- [阪神 広島・床田＆楽天・太田を獲得調査へ 西勇以来の８年ぶりＦＡ補強（デイリースポーツ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE13UTd4QUtvUU9XbUcteWwyRDhBclR1aHowYlBlNlBFZHlUWTVkT2ZyWkwxT0s0NUdGdGZYeENCZnRZNzgwajE0bTR3ejhEb3p2c1gtSlBOcjJ5anVCOGEzRU9tcWROeXZqSER0NmM3NWJFVFRiU3JFNS0tUVpHRXM?oc=5) - Googleニュース スポーツ
+- [【高校野球秋季地区大会】北信越・準決勝（ 金沢 vs 敦賀気比 ）ダイジェスト - スポーツナビ](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SMzVkQkRFMkxIWmc4cDVQZVhBTlVIbFlLWTd0eVlIUjQzazVIUEJpbmNtTlpNTWFGWDVpT0s0UjJPaEl6UGpYZjAyNGwwUTFZT1VpQ1R0U0JCaFZI?oc=5) - Googleニュース スポーツ
+- [「左打ちなんですね⁉」平成の大横綱、20年ぶり野球で見せた“童心”…ファンほっこり「少年の様な瞳」「何とも言えない笑顔」「青春真っ盛り」（中日スポーツ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbm5hSEhlZzdZbTVPcDFYb2pGOVF1RVhkNENUbjZFNEdHa0pOSlBGdXV5VER2eHBfZ3ZTMkFXV1BJNkIxZ0o1bFNUOWRIcko5ZmVXUzBrTkpDaXJDZ0xBcEdocDg5YVFNTFd1cXlpZ2VvajlqSVpFRnphbFBDOUk?oc=5) - Googleニュース スポーツ
 
-### 文化・芸術 (13件)
+### 文化・芸術 (11件)
 
-- [【記者発表】特別展「国宝 三井寺のすべて」東京国立博物館で2027年4月20日～6月13日開催 智証大師諡号1100年記念 - 美術展ナビ](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwcGNmc0lCdkJRekRhN2hXb1NHZDRkVkktdkktSzFBUEVkOWRaekVGX1lDR2xweGlnTXhrQlNpbGY3bWdSWEdjbzNON0psS0FLUEtBVkpNR2JVU2Y3dHgzOGREcWR5RVhZ?oc=5) - Googleニュース 文化・芸術
-- [映画『完結編 最終章』2月5日(金)公開＆特報映像公開！「#ひろがるえいがさき」キャンペーン実施決定！ - https://www.lovelive-anime.jp/](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83cmh3WUtsb21zejBNMm9JR29yN0RqeVNGckR3MF9FX0F6cDI1Rm1IdDE5YmFRMmN2RjE5Y2xOVzdLZzNuRHN5Q3hmaTJDa1hpM0ZVVnBfLWl6clE?oc=5) - Googleニュース 文化・芸術
-- [生活文化分野で人間国宝 初認定へ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aYS1oeExISkUyYjJvdXBiMVY1V0VTX2hpTl9IWk9TVVpuYzN1WGNmRW5MZ1RYQnI1bU9vWTJ4Yzh6Nm53YkpZejJjWlJVRlhl?oc=5) - Googleニュース 文化・芸術
-- [豊橋市美術博物館で11月17日から「かがくいひろしの世界展」 - 東愛知新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vaTVNUlYxRktmaHp4TGZ0eXhyaWw1WU52akpSYmVLc1l4OU8yVmFJaEJrSHREUEF0dzlDZXFPcDRwdy1oNkgxUDEyMHlKXzBvMjJvSUxjWHRiZ00z?oc=5) - Googleニュース 文化・芸術
-- [｢芸術は大衆のもの…｣ 洋画家 北川民次が力を注いだ名古屋の壁画『芸術と平和』に新事実 見つかった“肉筆ノート”に綴られた想い - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NkkwLTdZTmk2NXpMYmNNQmx1aFJ6N0ZlcVhkendKN0tETDVXRUpQZUJJZ1k0VXFkYy12T2ZobUo2d1VrRUg3b0RpOTNPUEN0dnZ0RnllbHFBVTZFbXhr?oc=5) - Googleニュース 文化・芸術
-- [松本市立博物館に撮影ブース 周年記念 フラワーアーチで彩る - 市民タイムス](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kU2RtVnE2N2ZlLTBOTE5VeVNlVk4xWkpMWS0wRzhhbElZb1J4M0tfN28ydmk0VW9JZmliQ3luazAyR1BaRDhhMW1fX0N1SUZUWWNseHVrTGpMQmluc0k5d2I5S3U?oc=5) - Googleニュース 文化・芸術
-- [米映画スタジオが初の最高AI責任者 ハリウッド、AI敵視から共存へ - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9rR21GM0tXNUhNdmhlUlNva2Jya0M3VWllY3J5UVJVUHlFTXhvR19VMzNoNWhuSU9qZDF5WVgzdzVtaHZIcUEzR1Z0Sk9oZ0N0amVkS1dSWmxid054dUQ3eWdHQ21uVG9XQ0lrVw?oc=5) - Googleニュース 文化・芸術
-- [「映画愛」をコンセプトにしたキャラクタープロジェクト『A Cinematic Girl』において、新たに対話型AIエージェントを開発 第39回東京国際映画祭のコンシェルジュとして展開｜ニュースリリース｜博報堂 Hakuhodo Inc. - 博報堂](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yLXBXRERfZ1luSGRkc0cwZ0ZsT2c1YWRvd1JQaXZwMkVPbGh3a04yd3hNdk9pRDNCemxnbzEyN0R1dVpTbFE5TzczMExySzZSLVRUal9ZbU5FcVBJRWFhZg?oc=5) - Googleニュース 文化・芸術
-- [くるり「京都音博」が迎えた20回目の節目「胸がいっぱいになりました。支えてくれてありがとう」（ライブレポート / 写真82枚） - ナタリー](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjVVVudFBhRnBBbVpSUDZVU0t4WjB5enluQzlZNkk3MjZNREI0NmUtY3p6aWhYNzRocW5QamNJMDM1c2hGaXpPalRxMVU?oc=5) - Googleニュース 文化・芸術
-- [初メッセージ - 文化放送](https://news.google.com/rss/articles/CBMiYkFVX3lxTE10TUpfOUpoeE5LUnNxM25pZ2E4Q1J0bldZM3RhM3Zub0JMemZydlRsZ1JsVmN1UmVkX19nTzNjbi1LYTFFVG1SUk9ZOFZBUE5JY2dQNjlMcUVoR09CRTNKWWhn?oc=5) - Googleニュース 文化・芸術
-- [人間国宝に３人 「生活文化」から初認定 - 朝日新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTE11NFNYTEhXOFdiY1IyX3NFY0tUYlJDMmtOeGVyWnRHdlFNSHZzQndmTUc3UUhucTJQNFRqMFlrRzFHalBBUDJzS2s3WDVRY1pkaVdmOEtqTm5EUFl3?oc=5) - Googleニュース 文化・芸術
-- [【ハプスブルク家と音楽 ＃５】天正少年使節からカストラートまで〜スペイン、ハプスブルク家と音楽 - 美術展ナビ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TWWtvNG1MX19JQmJPNnFUN3N6Q09tdHk5YlpkbHVBZlVwM0lFb01hMHJHUEFBa19PdDd4WmxvbzBJSFYzV2lsSWlMaG1XQVI5UU9jZnJFVDA1c2I1U190dGFJQ2JGSjBT?oc=5) - Googleニュース 文化・芸術
-- [｢芸術は大衆のもの…｣ 洋画家 北川民次が力を注いだ名古屋の壁画『芸術と平和』に新事実 見つかった“肉筆ノート”に綴られた想い | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zUl9tR2pYQ2ZfaXFVU1NKMEFPWlBxUm05ZUdYM0lvSVV6MENZY2cyX1NHaUQycFNDSk9xTGhsMVpKQjg5Y3ljcWlKTm1md05Gb2d6NzRBTkczdw?oc=5) - Googleニュース 文化・芸術
+- [イベント参加者大募集！ 「みんなで挑戦！ ドラえもん謎解き大作戦in鉄道博物館」 - ドラえもん公式サイト｜ドラえもんチャンネル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sNmFYUUh0MmJvSVVUUDhTYjIzb1NCb21aLS0yMlNVQm96WU1LMmt4LVRhNEpZclFsVzNHakdCVUZLeUQwMzdyUmM5MWo?oc=5) - Googleニュース 文化・芸術
+- [パラがもたらす「心のバリアフリー」 映画「4アウト」原作者に聞く [愛知県] [アジア大会2026] - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5TjQ5cXlMMmFVWVg0dTdFb2xxOERqcEp2UHdra0gtRERPOUF2OWozSGR3VGhoeWxuUi1ZWUJsUURpVUVHWC1ncUZyOHVwMThIT24yaTNSelJrY19aeDNlRTE0WXV1dDA?oc=5) - Googleニュース 文化・芸術
+- [『MUSIC SPACE』 - BSフジ](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JMnRZRV8tbEk3TVJWSTI5dW1WajA0Tzl0UE9jUWdLek9sbFJ2Y24wMGN1VDlraFh6THpzWTV3NGEzSnl5YW5KQ3MxTWpseE1EQjhXUmRJNnM?oc=5) - Googleニュース 文化・芸術
+- [『我々は宇宙人』シッチェス映画祭で最優秀長編アニメーション映画賞 30歳・門脇康平監督、日本人最年少受賞（オリコン） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE8zcktoLVo0bUR4ZDFQal9hc01lM0QxLWlHclRySFhqYmgwTFRNVl9mWks3TFJNTW9maC1hTUljOTA5eHgtSE1BcFRXQlhJUEs5WU5SOHRKNmFUOVdsblVickNZaHRWYTRRbkptMGM4eDdzMmI3REhhQklJQkczbXM?oc=5) - Googleニュース 文化・芸術
+- [家を丸ごと音響設備に オーディオマニアの営み、音楽の新たな表情探る - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBDRmtlVUVUb1JpdWZxUkhsMmsyZFhXc1NpYVBtQ3BsX3lyak04LWhiellQNm1TV1daZUFmeHdZUmNCWldrUHU2MXlwRkZORGdVSFAwV3NwX0dlTUVrdFFEQjRhMEk3bDRPV1FrTw?oc=5) - Googleニュース 文化・芸術
+- [多彩な演目でにぎわう 市民文化祭、きょうまで 奄美市｜芸能・文化 - 南海日日新聞](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVWNSSVBFd2JYdG5nX01JMXE3NlY5ck03dzYtN3RZa1dtN1BiLXdXa0ZMcUtPUUZ4M2NlUzhvNG1PMnlLd2d4VUM4OE4zRVVBcVZobW55UGM3STRsLWF1bllfdDREd3pVSmtYUEFXQ05DSEpqNEYtWkNGTFVCMW1nbjBFR3BlUUpqNTRmdXRiV1RmdFRTOG1ma3BmMVJHRWJTaFZZdnpMMjUtcmh4Zm45Q3ZnRnZGdm1Eajh5eXpJcW1UeVo0SDh1M1cweXBFaXFWM1ppZWs2Wkp6QkhIRjlFc3R2bU5oZzIyNVgyUHRXZmNsLXRmT2tLN2NZcWJYV21ZbmFJUDhKbjhQdnNzbTAwN0ZURl94RnN1bGhfLVZuTzl3bEFUem5NZFdMTE9HbXR4cDBod0xtU1NudzJ3MWdOMGFiLXlOUHhobDdvMmo5VzZmcnY1eU1V?oc=5) - Googleニュース 文化・芸術
+- [「真髄」 オデュッセイア ひろみちゃんさんの映画レビュー（感想・評価） - 映画.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zMmphV2daVVJFNE9zTWdKQWdGeFhXRlBlM1V1VlVOYXBFRkVicW45NFRsWWFQbWRFV2tlTWYxb25zdVpVZE04Y1V2MHl6N1hLRTVQZUNQQnF2UQ?oc=5) - Googleニュース 文化・芸術
+- [オールアイカツ！公式ポータルサイト - www.aikatsu.net](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BYTVVYXdhaEUtNG1kaXlPdlVLbDFaT2lZanl1Q3YzSXpNVGY4QnZNajZmN2Jrd0RWZURBUjJ4RDFmSUdHUnk0Tzk1ZFNzMmlyeTRRSHdQSGNybmRoN0dUUjRXRkU1R1ZT?oc=5) - Googleニュース 文化・芸術
+- [〈四季の輝き――池田先生の心〉 文化は人間性の勝利を耕す力 - 聖教新聞](https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTNnaFZIOGNlMXRIbWN5WHc4Y3ZhbFRRUUpEMU5VNnp2U2dnLVh5OEktcTNJX09QS2RkMkluWjVUSnBwdVUybzhQMzJ6bm5HZ2dQaGtHQXpwR3FGLWhzSFd3Nl9UZF82d1JQdTNPalo1M1UyQWhyQ3V2T0JrV1ZFYkFfZlpDRm5jNWUyMkozMzE2bVFneFJTTXZHZ3JCNFdTeFdoTVEtZEJxUm83RUtoVnRxUXg0QQ?oc=5) - Googleニュース 文化・芸術
+- [千葉：ももクロ長生に活気と熱気 きょうまで音楽イベント ：地域ニュース - 読売新聞](https://news.google.com/rss/articles/CBMicEFVX3lxTE1IbXdReXRUN25tcjc2OGdwdjZTZTVtQkwzSDZFLXppeTZLT2dtd3c5S0pxNWZrUXlWTHhEYnY3azM1ajdxTkxiQjNmcms3aG85SDdvUVZQYXZsUHNoUFdteU1xSG1qRFA2SkNsUFdzazY?oc=5) - Googleニュース 文化・芸術
+- [【桜坂劇場・下地久美子の映画コレ見た？】『BEYOND THE BANK MOVIE～あなたの明日へ～』どこまでも誠実一直線 - 沖縄タイムス社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uY0VGQXJIRUt0UzdCQkF2NmVaSUh5ZV8tUmpnUTJHZFBPYzF2czR6SG5TSG83RldBQm1CMlBod1otQ2ZoS2NKbmxmVEV1NTJreE9FSWpQQU9NV19lekE?oc=5) - Googleニュース 文化・芸術
